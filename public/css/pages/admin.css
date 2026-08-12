@@ -1,0 +1,45 @@
+/* ── GM 管理面板 ── */
+.d2-admin-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--d2-stone-border);
+  overflow-x: auto;
+}
+.d2-admin-tab {
+  padding: 0.5rem 1rem;
+  font-family: var(--font-d2);
+  font-size: 0.85rem;
+  color: var(--d2-text-dim);
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  transition: all 0.2s;
+}
+.d2-admin-tab.active {
+  color: var(--d2-gold);
+  border-bottom: 2px solid var(--d2-gold);
+  margin-bottom: -2px;
+}
+
+.d2-admin-section {
+  display: none;
+}
+.d2-admin-section.active {
+  display: block;
+}
+
+.d2-admin-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.d2-search-bar {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}

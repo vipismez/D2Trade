@@ -1,0 +1,34 @@
+/* ── 市场页 ── */
+.d2-market-header {
+  margin-bottom: 1.5rem;
+}
+
+.d2-market-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.d2-item-card-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.75rem;
+}
+
+.d2-item-status {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* 我的发布 */
+.d2-mylistings-form {
+  margin-bottom: 2rem;
+}
+
+/* 交易记录 */
+.d2-tx-type {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}

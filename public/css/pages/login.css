@@ -1,0 +1,57 @@
+/* ── 登录页 ── */
+.d2-login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
+.d2-login-box {
+  width: 100%;
+  max-width: 400px;
+}
+
+.d2-login-box .d2-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.d2-login-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--d2-stone-border);
+}
+
+.d2-login-tab {
+  flex: 1;
+  padding: 0.6rem;
+  text-align: center;
+  font-family: var(--font-d2);
+  font-size: 0.9rem;
+  color: var(--d2-text-dim);
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: all 0.2s;
+}
+
+.d2-login-tab.active {
+  color: var(--d2-gold);
+  border-bottom: 2px solid var(--d2-gold);
+  margin-bottom: -2px;
+}
+
+.d2-login-error {
+  background: rgba(139, 0, 0, 0.2);
+  border: 1px solid var(--d2-red);
+  color: #ff8888;
+  padding: 0.5rem 0.8rem;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+  display: none;
+}
