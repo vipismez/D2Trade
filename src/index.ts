@@ -40,10 +40,11 @@ export default {
 export interface Env {
   // Cloudflare Bindings
   ASSETS: { fetch: (req: Request) => Promise<Response> }
+  DB: D1Database
   // MY_KV: KVNamespace
-  // DB: D1Database
   // MY_BUCKET: R2Bucket
 
   // 环境变量
+  JWT_SECRET: string
   ENVIRONMENT: string
 }

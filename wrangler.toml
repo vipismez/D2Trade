@@ -24,11 +24,11 @@ name = "d2trade-prod"
 # binding = "MY_KV"
 # id = "your-kv-id"
 
-# D1 数据库（需要时取消注释）
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "d2trade-db"
-# database_id = "your-db-id"
+# D1 数据库
+[[d1_databases]]
+binding = "DB"
+database_name = "d2trade-db"
+database_id = "d2trade-db"
 
 # R2 存储桶（需要时取消注释）
 # [[r2_buckets]]
@@ -39,3 +39,4 @@ name = "d2trade-prod"
 [pages]
 build_dir = "public"
 compatibility_date = "2025-08-12"
+compatibility_flags = ["nodejs_compat"]
