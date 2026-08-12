@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>D2Trade</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main>
+    <section class="hero">
+      <h1>🚀 D2Trade</h1>
+      <p class="subtitle">Cloudflare Pages + Workers 应用框架</p>
+      <div class="status" id="status">
+        <span class="dot"></span>
+        <span>检查 API 连接...</span>
+      </div>
+    </section>
+
+    <section class="cards">
+      <div class="card">
+        <h3>📦 Workers</h3>
+        <p>全球边缘节点运行，零冷启动</p>
+        <code>src/index.ts</code>
+      </div>
+      <div class="card">
+        <h3>⚡ Pages Functions</h3>
+        <p>在 Pages 中运行服务端逻辑</p>
+        <code>functions/</code>
+      </div>
+      <div class="card">
+        <h3>🗄️ D1 / KV / R2</h3>
+        <p>Cloudflare 全栈生态集成</p>
+        <code>wrangler.toml</code>
+      </div>
+    </section>
+
+    <footer>
+      <p>API Base: <code>/api/v1/</code> · 健康检查: <code>/api/v1/health</code></p>
+    </footer>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

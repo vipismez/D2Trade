@@ -1,0 +1,19 @@
+{
+  "name": "d2trade",
+  "version": "0.0.1",
+  "description": "D2Trade - Cloudflare Pages/Workers Application",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev ./public --live-reload",
+    "dev:worker": "wrangler dev",
+    "build": "wrangler deploy --dry-run",
+    "deploy": "wrangler deploy",
+    "deploy:pages": "wrangler pages deploy ./public",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250808.0",
+    "typescript": "^5.6.3",
+    "wrangler": "^3.107.3"
+  }
+}
