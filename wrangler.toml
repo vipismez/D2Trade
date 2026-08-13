@@ -28,7 +28,7 @@ name = "d2trade-prod"
 [[d1_databases]]
 binding = "DB"
 database_name = "d2trade-db"
-database_id = "d2trade-db"
+database_id = "da14f123-d4c9-4849-85b4-aebd6328c849"
 
 # R2 存储桶（需要时取消注释）
 # [[r2_buckets]]
