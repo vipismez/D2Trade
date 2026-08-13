@@ -16,6 +16,7 @@ interface EquipmentItem {
   type: string
   tier: string
   image: string | null
+  attributes: Record<string, string>
 }
 
 const EQUIPMENT = equipmentData as EquipmentItem[]

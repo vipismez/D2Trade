@@ -99,12 +99,13 @@ const MyListingsPage = {
     tierSel.onchange = () => this._renderEquipmentList()
     eqSearch.oninput = () => this._renderEquipmentList()
 
-    let imageBase64 = null
+    this._imageBase64 = null
+    this._equipmentImage = null
     const fileInput = $('#item-image')
     const preview = $('#image-preview')
     const previewImg = $('#image-preview-img')
 
-    // 图片选择预览
+    // 图片选择预览（手动上传截图）
     fileInput.onchange = (e) => {
       const file = e.target.files[0]
       if (!file) return
@@ -115,7 +116,8 @@ const MyListingsPage = {
       }
       const reader = new FileReader()
       reader.onload = () => {
-        imageBase64 = reader.result
+        this._imageBase64 = reader.result
+        this._equipmentImage = null
         previewImg.src = reader.result
         preview.style.display = ''
       }
@@ -124,7 +126,8 @@ const MyListingsPage = {
 
     // 移除图片
     $('#image-remove').onclick = () => {
-      imageBase64 = null
+      this._imageBase64 = null
+      this._equipmentImage = null
       fileInput.value = ''
       preview.style.display = 'none'
       previewImg.src = ''
@@ -136,12 +139,12 @@ const MyListingsPage = {
       const submitBtn = $('#submit-listing')
 
       let imageUrl = undefined
-      // 有图片则先上传
-      if (imageBase64) {
+      // 优先手动上传截图，其次装备库基础图标
+      if (this._imageBase64) {
         submitBtn.textContent = '上传图片中...'
         submitBtn.disabled = true
         const file = fileInput.files[0]
-        const upRes = await API.uploadImage(file?.name || 'image.jpg', imageBase64)
+        const upRes = await API.uploadImage(file?.name || 'image.jpg', this._imageBase64)
         if (!upRes.success) {
           toast(upRes.error, 'error')
           submitBtn.textContent = '发布装备'
@@ -156,7 +159,12 @@ const MyListingsPage = {
         item_attrs: fd.get('item_attrs') || '{}',
         price: parseInt(fd.get('price')),
       }
-      if (imageUrl) data.image_url = imageUrl
+      // 优先手动截图，其次装备库基础图标
+      if (imageUrl) {
+        data.image_url = imageUrl
+      } else if (this._equipmentImage) {
+        data.image_url = this._equipmentImage
+      }
 
       const res = await API.createListing(data)
       submitBtn.textContent = '发布装备'
@@ -165,7 +173,8 @@ const MyListingsPage = {
       if (res.success) {
         toast('发布成功！', 'success')
         e.target.reset()
-        imageBase64 = null
+        this._imageBase64 = null
+        this._equipmentImage = null
         preview.style.display = 'none'
         previewImg.src = ''
         this._load()
@@ -209,14 +218,15 @@ const MyListingsPage = {
     )
 
     if (items.length > 100) items = items.slice(0, 100)
+    this._filteredItems = items
 
     if (items.length === 0) {
       eqList.innerHTML = '<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">无匹配装备</div>'
       return
     }
 
-    eqList.innerHTML = items.map(e => `
-      <div class="d2-eq-item" onclick="MyListingsPage._selectEquipment('${esc(e.name)}')">
+    eqList.innerHTML = items.map((e, i) => `
+      <div class="d2-eq-item" onclick="MyListingsPage._selectEquipment(${i})">
         ${e.image ? `<img src="${esc(e.image)}" alt="${esc(e.name)}" loading="lazy" />` : ''}
         <div class="d2-eq-name">${esc(e.name)}</div>
         <div class="d2-eq-meta">${esc(e.tier)} · ${esc(e.type)}</div>
@@ -224,10 +234,36 @@ const MyListingsPage = {
     `).join('')
   },
 
-  _selectEquipment(name) {
-    $('#item-name').value = name
+  _selectEquipment(index) {
+    const item = this._filteredItems[index]
+    if (!item) return
+
+    // 填入名称
+    $('#item-name').value = item.name
+
+    // 填入详细属性描述
+    if (item.attributes && Object.keys(item.attributes).length > 0) {
+      const attrText = Object.entries(item.attributes)
+        .filter(([, v]) => v && v !== '-')
+        .map(([k, v]) => `${k}: ${v}`)
+        .join('\n')
+      const attrInput = document.querySelector('#new-listing-form textarea[name="item_attrs"]')
+      if (attrInput) attrInput.value = attrText
+    }
+
+    // 设置装备库基础图片
+    if (item.image) {
+      this._equipmentImage = item.image
+      this._imageBase64 = null
+      $('#item-image').value = ''
+      const preview = $('#image-preview')
+      const previewImg = $('#image-preview-img')
+      previewImg.src = item.image
+      preview.style.display = ''
+    }
+
     $('#equipment-modal').style.display = 'none'
-    toast(`已选择: ${name}`, 'success')
+    toast(`已选择: ${item.name}`, 'success')
   },
 
   async _load() {
