@@ -35,7 +35,7 @@ export class UserDB {
   /** 获取公开信息（不含 password_hash） */
   async getPublicById(id: number): Promise<UserPublic | null> {
     return this.db.first<UserPublic>(
-      'SELECT id, username, qq, role, status, points, created_at FROM users WHERE id = ?',
+      'SELECT id, username, qq, role, status, points, is_banned, created_at FROM users WHERE id = ?',
       id,
     )
   }
@@ -43,8 +43,16 @@ export class UserDB {
   /** 待审批用户列表 */
   async getPending(): Promise<UserPublic[]> {
     const { results } = await this.db.all<UserPublic>(
-      'SELECT id, username, qq, role, status, points, created_at FROM users WHERE status = ? ORDER BY created_at ASC',
+      'SELECT id, username, qq, role, status, points, is_banned, created_at FROM users WHERE status = ? ORDER BY created_at ASC',
       'pending',
+    )
+    return results
+  }
+
+  /** 全部用户列表（不含 password_hash） */
+  async getAll(): Promise<UserPublic[]> {
+    const { results } = await this.db.all<UserPublic>(
+      'SELECT id, username, qq, role, status, points, is_banned, created_at FROM users ORDER BY id ASC',
     )
     return results
   }
@@ -70,9 +78,74 @@ export class UserDB {
   /** 查询 GM 列表 */
   async getGMs(): Promise<UserPublic[]> {
     const { results } = await this.db.all<UserPublic>(
-      "SELECT id, username, qq, role, status, points, created_at FROM users WHERE role = 'gm' AND status = 'approved'",
+      "SELECT id, username, qq, role, status, points, is_banned, created_at FROM users WHERE role = 'gm' AND status = 'approved'",
     )
     return results
+  }
+
+  /** GM 创建用户（直接审批通过） */
+  async createByAdmin(
+    username: string,
+    passwordHash: string,
+    qq: string,
+    role: 'player' | 'gm',
+  ): Promise<User | null> {
+    const result = await this.db
+      .run(
+        "INSERT INTO users (username, password_hash, qq, role, status) VALUES (?, ?, ?, ?, 'approved')",
+        username,
+        passwordHash,
+        qq,
+        role,
+      )
+      .catch(() => null)
+    if (!result?.success) return null
+    return this.getById(result.meta.last_row_id as number)
+  }
+
+  /** GM 编辑用户资料（可改用户名/QQ/角色/状态/积分/密码/禁用） */
+  async updateProfile(
+    id: number,
+    fields: {
+      username?: string
+      qq?: string
+      role?: 'player' | 'gm'
+      status?: 'pending' | 'approved' | 'rejected'
+      points?: number
+      password_hash?: string
+      is_banned?: number
+    },
+  ): Promise<boolean> {
+    const updates: string[] = []
+    const params: unknown[] = []
+
+    if (fields.username !== undefined) { updates.push('username = ?'); params.push(fields.username) }
+    if (fields.qq !== undefined) { updates.push('qq = ?'); params.push(fields.qq) }
+    if (fields.role !== undefined) { updates.push('role = ?'); params.push(fields.role) }
+    if (fields.status !== undefined) { updates.push('status = ?'); params.push(fields.status) }
+    if (fields.points !== undefined) { updates.push('points = ?'); params.push(fields.points) }
+    if (fields.password_hash !== undefined) { updates.push('password_hash = ?'); params.push(fields.password_hash) }
+    if (fields.is_banned !== undefined) { updates.push('is_banned = ?'); params.push(fields.is_banned) }
+
+    if (updates.length === 0) return false
+    updates.push("updated_at = datetime('now')")
+    params.push(id)
+
+    const result = await this.db.run(
+      `UPDATE users SET ${updates.join(', ')} WHERE id = ?`,
+      ...params,
+    )
+    return result.success && (result.meta.changes ?? 0) > 0
+  }
+
+  /** 禁用/解禁用户（软删除） */
+  async setBanned(id: number, banned: boolean): Promise<boolean> {
+    const result = await this.db.run(
+      "UPDATE users SET is_banned = ?, updated_at = datetime('now') WHERE id = ?",
+      banned ? 1 : 0,
+      id,
+    )
+    return result.success && (result.meta.changes ?? 0) > 0
   }
 
   /** 增加积分（原子操作） */

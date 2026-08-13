@@ -10,6 +10,7 @@ CREATE TABLE IF NOT EXISTS users (
     role        TEXT    NOT NULL DEFAULT 'player' CHECK(role IN ('player', 'gm')),
     status      TEXT    NOT NULL DEFAULT 'pending' CHECK(status IN ('pending', 'approved', 'rejected')),
     points      INTEGER NOT NULL DEFAULT 0 CHECK(points >= 0),
+    is_banned   INTEGER NOT NULL DEFAULT 0,
     created_at  TEXT    NOT NULL DEFAULT (datetime('now')),
     updated_at  TEXT    NOT NULL DEFAULT (datetime('now'))
 );
@@ -25,6 +26,7 @@ CREATE TABLE IF NOT EXISTS listings (
     item_attrs  TEXT    NOT NULL DEFAULT '{}',  -- JSON: 装备属性描述
     image_url   TEXT,                            -- 装备图片 URL（可空）
     price       INTEGER NOT NULL CHECK(price > 0),
+    quantity    INTEGER NOT NULL DEFAULT 1 CHECK(quantity > 0),
     status      TEXT    NOT NULL DEFAULT 'active' CHECK(status IN ('active', 'sold', 'cancelled')),
     created_at  TEXT    NOT NULL DEFAULT (datetime('now')),
     updated_at  TEXT    NOT NULL DEFAULT (datetime('now'))
@@ -52,3 +54,21 @@ CREATE INDEX idx_transactions_buyer  ON transactions(buyer_id);
 CREATE INDEX idx_transactions_seller ON transactions(seller_id);
 CREATE INDEX idx_transactions_type   ON transactions(type);
 CREATE INDEX idx_transactions_created ON transactions(created_at);
+
+-- 装备回收申请（用户提交，GM 审批）
+CREATE TABLE IF NOT EXISTS buyback_requests (
+    id          INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id     INTEGER NOT NULL REFERENCES users(id),
+    item_name   TEXT    NOT NULL,
+    item_attrs  TEXT    NOT NULL DEFAULT '{}',  -- JSON: 装备属性描述
+    image_url   TEXT,                            -- 装备图片 URL（可空）
+    expected_points INTEGER NOT NULL DEFAULT 0,  -- 用户期望积分
+    status      TEXT    NOT NULL DEFAULT 'pending' CHECK(status IN ('pending', 'approved', 'rejected')),
+    gm_id       INTEGER REFERENCES users(id),    -- 处理该申请的 GM
+    gm_note     TEXT    NOT NULL DEFAULT '',     -- GM 备注
+    created_at  TEXT    NOT NULL DEFAULT (datetime('now')),
+    updated_at  TEXT    NOT NULL DEFAULT (datetime('now'))
+);
+
+CREATE INDEX idx_buyback_requests_user   ON buyback_requests(user_id);
+CREATE INDEX idx_buyback_requests_status ON buyback_requests(status);

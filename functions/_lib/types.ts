@@ -15,6 +15,7 @@ export interface User {
   role: UserRole
   status: UserStatus
   points: number
+  is_banned: number
   created_at: string
   updated_at: string
 }
@@ -26,6 +27,7 @@ export interface UserPublic {
   role: UserRole
   status: UserStatus
   points: number
+  is_banned: number
   created_at: string
 }
 
@@ -40,6 +42,7 @@ export interface Listing {
   item_attrs: string // JSON
   image_url: string | null
   price: number
+  quantity: number
   status: ListingStatus
   created_at: string
   updated_at: string
@@ -47,6 +50,7 @@ export interface Listing {
 
 export interface ListingWithSeller extends Listing {
   seller_name: string
+  seller_qq: string
 }
 
 export interface CreateListingInput {
@@ -54,6 +58,7 @@ export interface CreateListingInput {
   item_attrs?: string
   image_url?: string
   price: number
+  quantity?: number
 }
 
 // ── 交易 ──
@@ -79,6 +84,32 @@ export interface TransactionWithUsers extends Transaction {
   seller_name: string | null
   gm_name: string | null
   item_name: string | null
+  buyer_qq: string | null
+  seller_qq: string | null
+  gm_qq: string | null
+}
+
+// ── 装备回收申请 ──
+
+export type BuybackRequestStatus = 'pending' | 'approved' | 'rejected'
+
+export interface BuybackRequest {
+  id: number
+  user_id: number
+  item_name: string
+  item_attrs: string // JSON
+  image_url: string | null
+  expected_points: number
+  status: BuybackRequestStatus
+  gm_id: number | null
+  gm_note: string
+  created_at: string
+  updated_at: string
+}
+
+export interface BuybackRequestWithUser extends BuybackRequest {
+  username: string
+  qq: string
 }
 
 // ── JWT ──

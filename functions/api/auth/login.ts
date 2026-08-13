@@ -43,6 +43,12 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
       { status: 403 },
     )
   }
+  if (user.is_banned === 1) {
+    return Response.json(
+      { success: false, error: '账号已被禁用，请联系 GM' },
+      { status: 403 },
+    )
+  }
 
   const valid = await verifyPassword(body.password, user.password_hash)
   if (!valid) {

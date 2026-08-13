@@ -6,7 +6,7 @@ const MyListingsPage = {
   render() {
     return `
       <div class="d2-flex-between d2-mb-2">
-        <h2 class="d2-title" style="margin-bottom:0;text-align:left;">我的发布</h2>
+        <h2 class="d2-title" style="margin-bottom:0;text-align:left;">我的货物</h2>
         <button class="d2-btn" onclick="App.route('market')">← 返回市场</button>
       </div>
 
@@ -38,9 +38,15 @@ const MyListingsPage = {
               <button type="button" class="d2-btn d2-btn-sm d2-btn-danger" id="image-remove">移除</button>
             </div>
           </div>
-          <div class="d2-form-group">
-            <label class="d2-label">价格（积分）</label>
-            <input class="d2-input" name="price" type="number" min="1" placeholder="例：100" required />
+          <div class="d2-form-row">
+            <div class="d2-form-group" style="flex:2;">
+              <label class="d2-label">价格（积分，总价）</label>
+              <input class="d2-input" name="price" type="number" min="1" placeholder="例：100" required />
+            </div>
+            <div class="d2-form-group" style="flex:1;">
+              <label class="d2-label">数量</label>
+              <input class="d2-input" name="quantity" type="number" min="1" value="1" required />
+            </div>
           </div>
           <button type="submit" class="d2-btn" id="submit-listing">发布装备</button>
         </form>
@@ -63,6 +69,38 @@ const MyListingsPage = {
           <div class="d2-modal-grid" id="eq-list">
             <div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">加载中...</div>
           </div>
+        </div>
+      </div>
+
+      <!-- 编辑装备弹窗 -->
+      <div class="d2-modal" id="edit-modal" style="display:none;">
+        <div class="d2-modal-box">
+          <div class="d2-modal-header">
+            <span class="d2-title" style="margin:0;font-size:1.1rem;">✏️ 编辑装备</span>
+            <button type="button" class="d2-modal-close" id="edit-modal-close">✕</button>
+          </div>
+          <form id="edit-form">
+            <input type="hidden" id="edit-id" />
+            <div class="d2-form-group">
+              <label class="d2-label">装备名称</label>
+              <input class="d2-input" id="edit-name" required />
+            </div>
+            <div class="d2-form-group">
+              <label class="d2-label">装备属性（选填）</label>
+              <textarea class="d2-textarea" id="edit-attrs"></textarea>
+            </div>
+            <div class="d2-form-row">
+              <div class="d2-form-group" style="flex:2;">
+                <label class="d2-label">价格（积分，总价）</label>
+                <input class="d2-input" id="edit-price" type="number" min="1" required />
+              </div>
+              <div class="d2-form-group" style="flex:1;">
+                <label class="d2-label">数量</label>
+                <input class="d2-input" id="edit-quantity" type="number" min="1" required />
+              </div>
+            </div>
+            <button type="submit" class="d2-btn d2-btn-gold">保存修改</button>
+          </form>
         </div>
       </div>
 
@@ -182,6 +220,7 @@ const MyListingsPage = {
         item_name: fd.get('item_name'),
         item_attrs: fd.get('item_attrs') || '{}',
         price: parseInt(fd.get('price')),
+        quantity: parseInt(fd.get('quantity')) || 1,
       }
       // 优先手动截图，其次装备库基础图标
       if (imageUrl) {
@@ -207,14 +246,63 @@ const MyListingsPage = {
       }
     }
 
+    // ── 编辑弹窗 ──
+    const editModal = $('#edit-modal')
+    $('#edit-modal-close').onclick = () => { editModal.style.display = 'none' }
+    editModal.onclick = (e) => { if (e.target === editModal) editModal.style.display = 'none' }
+    $('#edit-form').onsubmit = async (e) => {
+      e.preventDefault()
+      const id = parseInt($('#edit-id').value)
+      const data = {
+        item_name: $('#edit-name').value.trim(),
+        item_attrs: $('#edit-attrs').value || '{}',
+        price: parseInt($('#edit-price').value),
+        quantity: parseInt($('#edit-quantity').value) || 1,
+      }
+      if (!data.item_name || !data.price) { toast('名称和价格为必填项', 'error'); return }
+
+      const res = await API.updateListing(id, data)
+      if (res.success) {
+        toast('已保存修改', 'success')
+        editModal.style.display = 'none'
+        this._load()
+      } else {
+        toast(res.error, 'error')
+      }
+    }
+
     await this._load()
   },
 
   _initEquipmentFilters() {
-    // 完整品质分类（含随机生成、无固定列表的品质）
-    const QUALITY_ORDER = ['破碎', '普通', '超强', '魔法', '套装', '稀有', '独有', '橙色', '符文', '符文之语', '宝石']
-    $('#eq-quality').innerHTML = '<option value="">全部品质</option>' +
-      QUALITY_ORDER.map(q => `<option value="${esc(q)}">${esc(q)}</option>`).join('')
+    // 完整品质分类（12 类，分组 + 颜色标注）
+    const QUALITY_GROUPS = [
+      { label: '白装底材', values: ['破碎', '普通', '超强'] },
+      { label: '魔法品质', values: ['魔法', '套装', '稀有', '独有', '橙色'] },
+      { label: '材料', values: ['符文', '符文之语', '宝石'] },
+    ]
+    const QUALITY_DISPLAY = {
+      '破碎': '破碎（白色）',
+      '普通': '普通（白色）',
+      '超强': '超强（白色）',
+      '魔法': '魔法（蓝色）',
+      '套装': '套装（绿色）',
+      '稀有': '稀有（黄色）',
+      '独有': '独有（暗金）',
+      '橙色': '合成装备（橙色）',
+      '符文': '符文',
+      '符文之语': '符文之语',
+      '宝石': '宝石',
+    }
+    let html = '<option value="">全部品质</option>'
+    for (const g of QUALITY_GROUPS) {
+      html += `<optgroup label="${esc(g.label)}">`
+      for (const q of g.values) {
+        html += `<option value="${esc(q)}">${esc(QUALITY_DISPLAY[q] || q)}</option>`
+      }
+      html += '</optgroup>'
+    }
+    $('#eq-quality').innerHTML = html
     const tiers = [...new Set(this._equipment.map(e => e.tier))]
     $('#eq-tier').innerHTML = '<option value="">全部等级</option>' +
       tiers.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')
@@ -222,15 +310,21 @@ const MyListingsPage = {
     this._updateTypeFilter()
   },
 
+  /** 破碎/超强是白装底材的品质变体，筛选时映射到"普通"底材 */
+  _qualityFilter() {
+    const q = $('#eq-quality').value
+    return (q === '破碎' || q === '超强') ? '普通' : q
+  },
+
   _updateCategoryFilter() {
-    const quality = $('#eq-quality').value
+    const quality = this._qualityFilter()
     const cats = [...new Set(this._equipment.filter(e => !quality || e.quality === quality).map(e => e.category))]
     $('#eq-category').innerHTML = '<option value="">全部分类</option>' +
       cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('')
   },
 
   _updateTypeFilter() {
-    const quality = $('#eq-quality').value
+    const quality = this._qualityFilter()
     const cat = $('#eq-category').value
     const types = [...new Set(this._equipment
       .filter(e => (!quality || e.quality === quality) && (!cat || e.category === cat))
@@ -241,7 +335,7 @@ const MyListingsPage = {
 
   _renderEquipmentList() {
     const eqList = $('#eq-list')
-    const quality = $('#eq-quality').value
+    const quality = this._qualityFilter()
     const cat = $('#eq-category').value
     const type = $('#eq-type').value
     const tier = $('#eq-tier').value
@@ -259,8 +353,8 @@ const MyListingsPage = {
     this._filteredItems = items
 
     if (items.length === 0) {
-      const RANDOM_QUALITY = ['破碎', '超强', '魔法', '稀有']
-      const msg = RANDOM_QUALITY.includes(quality)
+      const RANDOM_QUALITY = ['魔法', '稀有']
+      const msg = RANDOM_QUALITY.includes($('#eq-quality').value)
         ? '该品质装备为随机生成，无固定列表，请手动输入装备名称'
         : '无匹配装备'
       eqList.innerHTML = `<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">${esc(msg)}</div>`
@@ -281,9 +375,15 @@ const MyListingsPage = {
     const parts = []
     const ethereal = $('#item-ethereal')
     if (ethereal && ethereal.checked) parts.push('无形')
-    if (item.quality) parts.push(item.quality)
-    // 分类在等于品质或"其他"时跳过（冗余）
-    if (item.category && item.category !== item.quality && item.category !== '其他') parts.push(item.category)
+    // 品质优先用下拉选中值（破碎/超强/普通等），否则用 item.quality
+    const selQuality = $('#eq-quality')?.value
+    if (selQuality) {
+      parts.push(selQuality)
+    } else if (item.quality) {
+      parts.push(item.quality)
+    }
+    // 分类在等于品质、"其他"、"饰品"时跳过（冗余/归类前缀）
+    if (item.category && item.category !== item.quality && item.category !== '其他' && item.category !== '饰品') parts.push(item.category)
     // 类型在等于分类时跳过
     if (item.type && item.type !== item.category) parts.push(item.type)
     // 等级加"级"后缀，区分品质"普通"与底材等级"普通"
@@ -333,39 +433,59 @@ const MyListingsPage = {
     const res = await API.myListings()
     if (!res.success) { el.innerHTML = `<div class="text-red">${esc(res.error)}</div>`; return }
 
+    this._myItems = res.data
+
     if (res.data.length === 0) {
-      el.innerHTML = '<div class="text-dim" style="text-align:center;padding:2rem;">暂无发布</div>'
+      el.innerHTML = '<div class="text-dim" style="text-align:center;padding:2rem;">暂无货物</div>'
       return
     }
 
     el.innerHTML = `
       <table class="d2-table">
         <thead>
-          <tr><th>装备</th><th>属性</th><th>价格</th><th>状态</th><th>时间</th><th>操作</th></tr>
+          <tr><th>装备</th><th>属性</th><th>数量</th><th>价格</th><th>状态</th><th>时间</th><th>操作</th></tr>
         </thead>
         <tbody>
           ${res.data.map(item => `
             <tr>
               <td><span class="d2-item-name" style="font-size:0.9rem;">${esc(item.item_name)}</span></td>
-              <td style="font-size:0.8rem;color:var(--d2-blue);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${esc(item.item_attrs === '{}' ? '-' : item.item_attrs)}</td>
-              <td class="text-gold">${item.price}</td>
+              <td style="font-size:0.8rem;color:var(--d2-blue);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" title="${esc(item.item_attrs === '{}' ? '' : item.item_attrs)}">${esc(item.item_attrs === '{}' ? '-' : item.item_attrs)}</td>
+              <td style="text-align:center;">x${item.quantity ?? 1}</td>
+              <td class="text-gold">${item.price} 积分</td>
               <td>${item.status === 'active' ? '<span class="d2-badge d2-badge-green">在售</span>' :
                     item.status === 'sold' ? '<span class="d2-badge d2-badge-gold">已售</span>' :
                     '<span class="d2-badge d2-badge-red">已下架</span>'}</td>
               <td style="font-size:0.8rem;">${fmtTime(item.created_at)}</td>
-              <td>${item.status === 'active'
-                ? `<button class="d2-btn d2-btn-sm d2-btn-danger" onclick="MyListingsPage._cancel(${item.id})">下架</button>`
-                : '-'}</td>
+              <td style="white-space:nowrap;">
+                ${item.status === 'active'
+                  ? `<button class="d2-btn d2-btn-sm" onclick="MyListingsPage._edit(${item.id})">编辑</button>
+                     <button class="d2-btn d2-btn-sm d2-btn-danger" onclick="MyListingsPage._remove(${item.id})">删除</button>`
+                  : `<button class="d2-btn d2-btn-sm d2-btn-danger" onclick="MyListingsPage._remove(${item.id})">删除</button>`}
+              </td>
             </tr>
           `).join('')}
         </tbody>
       </table>`
   },
 
-  async _cancel(id) {
-    if (!confirm('确认下架该装备？')) return
-    const res = await API.cancelListing(id)
-    if (res.success) { toast('已下架', 'success'); this._load() }
-    else { toast(res.error, 'error') }
+  /** 打开编辑弹窗 */
+  _edit(id) {
+    const item = this._myItems?.find(i => i.id === id)
+    if (!item) return
+    $('#edit-id').value = item.id
+    $('#edit-name').value = item.item_name
+    $('#edit-attrs').value = item.item_attrs === '{}' ? '' : item.item_attrs
+    $('#edit-price').value = item.price
+    $('#edit-quantity').value = item.quantity ?? 1
+    $('#edit-modal').style.display = ''
+  },
+
+  /** 删除帖子 */
+  _remove(id) {
+    d2Confirm('确认删除该帖子？\n此操作不可恢复。', async () => {
+      const res = await API.cancelListing(id)
+      if (res.success) { toast('已删除', 'success'); this._load() }
+      else { toast(res.error, 'error') }
+    }, true)
   },
 }

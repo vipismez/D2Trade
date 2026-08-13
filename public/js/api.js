@@ -75,8 +75,25 @@ const API = {
     return this.get(`/api/transactions${this._qs(params)}`)
   },
 
+  // ── 装备回收申请 ──
+  submitBuybackRequest(data) { return this.post('/api/buyback', data) },
+  myBuybackRequests() { return this.get('/api/buyback') },
+
   // ── Admin ──
   pendingUsers() { return this.get('/api/admin/users/pending') },
+  allUsers() { return this.get('/api/admin/users') },
+  adminCreateUser(data) { return this.post('/api/admin/users', data) },
+  adminUpdateUser(id, data) { return this.put(`/api/admin/users/${id}`, data) },
+  adminDeleteUser(id) { return this.delete(`/api/admin/users/${id}`) },
+  adminBuybackRequests(status) {
+    const q = status ? `?status=${status}` : ''
+    return this.get(`/api/admin/buyback-requests${q}`)
+  },
+  adminProcessBuyback(id, data) { return this.post(`/api/admin/buyback-requests/${id}`, data) },
+  adminListings(params = {}) {
+    return this.get(`/api/admin/listings${this._qs(params)}`)
+  },
+  adminCancelListing(id) { return this.delete(`/api/admin/listings/${id}`) },
   approveUser(userId) { return this.put('/api/admin/users/approve', { user_id: userId }) },
   rejectUser(userId) { return this.put('/api/admin/users/reject', { user_id: userId }) },
   allTransactions(params = {}) {
@@ -87,8 +104,5 @@ const API = {
   },
   grantPoints(username, amount, note) {
     return this.post('/api/admin/grant', { username, amount, note })
-  },
-  buyback(username, itemName, amount, note) {
-    return this.post('/api/admin/buyback', { username, item_name: itemName, amount, note })
   },
 }

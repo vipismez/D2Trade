@@ -43,13 +43,18 @@ const TransactionsPage = {
         <tbody>
           ${res.data.map(tx => {
             const isBuyer = tx.buyer_id === Auth.user?.id
-            const otherName = isBuyer ? tx.seller_name : tx.buyer_name
+            let otherName = isBuyer ? tx.seller_name : tx.buyer_name
+            let otherQQ = isBuyer ? tx.seller_qq : tx.buyer_qq
+            if (!otherName) { otherName = tx.gm_name; otherQQ = tx.gm_qq }
             const amountSign = tx.type === 'grant' || tx.type === 'buyback' || (tx.type === 'trade' && !isBuyer) || (tx.type === 'rollback' && isBuyer) ? '+' : '-'
             return `
               <tr>
                 <td><span class="d2-badge d2-badge-${txTypeClass(tx.type)}">${txTypeLabel(tx.type)}</span></td>
                 <td>${esc(tx.item_name || '-')}</td>
-                <td>${esc(otherName || tx.gm_name || '-')}</td>
+                <td>
+                  <div>${esc(otherName || '-')}</div>
+                  ${otherQQ ? `<div class="d2-qq">QQ: ${esc(otherQQ)}</div>` : ''}
+                </td>
                 <td class="${amountSign === '+' ? 'text-green' : 'text-red'}">${amountSign}${tx.amount}</td>
                 <td>${tx.status === 'rolled_back' ? '<span class="d2-badge d2-badge-red">已回退</span>' : '<span class="d2-badge d2-badge-green">完成</span>'}</td>
                 <td style="font-size:0.8rem;">${fmtTime(tx.created_at)}</td>

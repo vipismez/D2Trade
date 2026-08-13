@@ -96,7 +96,7 @@ export class TradeService {
       buyerId,
       sellerId: seller.id,
       amount: listing.price,
-      note: `购买装备: ${listing.item_name}`,
+      note: `购买装备: ${listing.item_name} x${listing.quantity}`,
     })
 
     return {

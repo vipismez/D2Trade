@@ -42,9 +42,9 @@ export class TransactionDB {
   async getByIdWithUsers(id: number): Promise<TransactionWithUsers | null> {
     return this.db.first<TransactionWithUsers>(
       `SELECT t.*,
-              b.username as buyer_name,
-              s.username as seller_name,
-              g.username as gm_name,
+              b.username as buyer_name, b.qq as buyer_qq,
+              s.username as seller_name, s.qq as seller_qq,
+              g.username as gm_name, g.qq as gm_qq,
               l.item_name
        FROM transactions t
        LEFT JOIN users b ON t.buyer_id = b.id
@@ -73,9 +73,9 @@ export class TransactionDB {
     const offset = (page - 1) * pageSize
     const { results } = await this.db.all<TransactionWithUsers>(
       `SELECT t.*,
-              b.username as buyer_name,
-              s.username as seller_name,
-              g.username as gm_name,
+              b.username as buyer_name, b.qq as buyer_qq,
+              s.username as seller_name, s.qq as seller_qq,
+              g.username as gm_name, g.qq as gm_qq,
               l.item_name
        FROM transactions t
        LEFT JOIN users b ON t.buyer_id = b.id
@@ -117,9 +117,9 @@ export class TransactionDB {
     const offset = (page - 1) * pageSize
     const { results } = await this.db.all<TransactionWithUsers>(
       `SELECT t.*,
-              b.username as buyer_name,
-              s.username as seller_name,
-              g.username as gm_name,
+              b.username as buyer_name, b.qq as buyer_qq,
+              s.username as seller_name, s.qq as seller_qq,
+              g.username as gm_name, g.qq as gm_qq,
               l.item_name
        FROM transactions t
        LEFT JOIN users b ON t.buyer_id = b.id

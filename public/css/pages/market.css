@@ -209,3 +209,93 @@
   font-size: 0.7rem;
   color: var(--d2-text-dim);
 }
+
+/* ── 市场表格 ── */
+.d2-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--d2-stone-border);
+  border-radius: 3px;
+  background: rgba(0, 0, 0, 0.25);
+}
+.d2-market-table th { white-space: nowrap; }
+.d2-market-row { cursor: pointer; }
+.d2-market-row:hover td { background: rgba(199, 165, 82, 0.08); }
+.d2-cell-img {
+  width: 64px;
+  text-align: center;
+}
+.d2-cell-img img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  border: 1px solid var(--d2-stone-border);
+  border-radius: 2px;
+  background: rgba(0, 0, 0, 0.5);
+}
+.d2-cell-name { color: var(--d2-white); font-weight: 500; }
+.d2-cell-qty { text-align: center; color: var(--d2-blue); font-weight: bold; }
+.d2-qq {
+  color: var(--d2-text-dim);
+  font-size: 0.75rem;
+}
+
+/* ── 装备详情弹窗 ── */
+#detail-body {
+  padding: 1rem;
+  overflow-y: auto;
+}
+.d2-detail-image {
+  text-align: center;
+  margin-bottom: 0.75rem;
+  cursor: zoom-in;
+}
+.d2-detail-image img {
+  max-width: 120px;
+  max-height: 120px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  border: 1px solid var(--d2-stone-border);
+  border-radius: 2px;
+  background: rgba(0, 0, 0, 0.5);
+}
+.d2-detail-name {
+  color: var(--d2-gold);
+  font-size: 1.15rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  text-shadow: 0 0 8px rgba(199, 165, 82, 0.4);
+}
+.d2-detail-meta {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--d2-stone-border);
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+.d2-detail-actions {
+  margin-top: 1rem;
+  text-align: center;
+}
+.d2-detail-actions .d2-btn { min-width: 160px; }
+
+/* ── 表单并排 ── */
+.d2-form-row {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+.d2-form-row .d2-form-group { flex: 1; }
+
+/* ── 金色按钮 ── */
+.d2-btn-gold {
+  background: linear-gradient(180deg, #e0b96a 0%, #a87f2f 100%);
+  color: #1a1206;
+  font-weight: bold;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+.d2-btn-gold:hover {
+  filter: brightness(1.1);
+  box-shadow: var(--shadow-gold);
+}

@@ -35,7 +35,7 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
   const auth = await requireAuth(context.request, context.env)
   if (auth instanceof Response) return auth
 
-  const body: { item_name?: string; item_attrs?: string; image_url?: string; price?: number } = await context.request
+  const body: { item_name?: string; item_attrs?: string; image_url?: string; price?: number; quantity?: number } = await context.request
     .json()
     .catch(() => ({}))
 
@@ -51,6 +51,7 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
       { status: 400 },
     )
   }
+  const quantity = Math.max(1, parseInt(String(body.quantity ?? 1)) || 1)
 
   const db = createDB(context.env)
   const listingsDB = new ListingDB(db)
@@ -60,6 +61,7 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
     item_attrs: body.item_attrs ?? '{}',
     image_url: body.image_url ?? undefined,
     price: body.price,
+    quantity,
   })
 
   if (!listing) {

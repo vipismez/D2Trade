@@ -1,7 +1,7 @@
 /**
  * GET    /api/listings/:id — 查看装备详情
  * PUT    /api/listings/:id — 编辑装备（仅发布者）
- * DELETE /api/listings/:id — 下架装备（仅发布者）
+ * DELETE /api/listings/:id — 删除装备帖子（仅发布者）
  */
 
 import { requireAuth } from '../../_lib/auth-middleware'
@@ -34,9 +34,16 @@ export async function onRequestPut(context: EventContext<Env, 'id', unknown>): P
     return Response.json({ success: false, error: '无效的装备 ID' }, { status: 400 })
   }
 
-  const body: { item_name?: string; item_attrs?: string; price?: number } = await context.request
+  const body: { item_name?: string; item_attrs?: string; price?: number; quantity?: number } = await context.request
     .json()
     .catch(() => ({}))
+
+  if (body.price !== undefined && body.price <= 0) {
+    return Response.json({ success: false, error: '价格必须大于 0' }, { status: 400 })
+  }
+  if (body.quantity !== undefined && body.quantity <= 0) {
+    return Response.json({ success: false, error: '数量必须大于 0' }, { status: 400 })
+  }
 
   const db = createDB(context.env)
   const listingsDB = new ListingDB(db)
@@ -65,13 +72,13 @@ export async function onRequestDelete(context: EventContext<Env, 'id', unknown>)
   const db = createDB(context.env)
   const listingsDB = new ListingDB(db)
 
-  const ok = await listingsDB.cancel(id, auth.sub)
+  const ok = await listingsDB.remove(id, auth.sub)
   if (!ok) {
     return Response.json(
-      { success: false, error: '下架失败：装备不存在或已售出' },
+      { success: false, error: '删除失败：装备不存在' },
       { status: 400 },
     )
   }
 
-  return Response.json({ success: true, message: '已下架' })
+  return Response.json({ success: true, message: '已删除' })
 }

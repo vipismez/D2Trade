@@ -14,9 +14,10 @@ const App = {
       <nav class="d2-nav">
         <span class="d2-nav-brand">D2Trade</span>
         <div class="d2-nav-links">
-          <span class="d2-nav-points">⚡ ${Auth.user?.points ?? 0}</span>
+          <span class="d2-nav-points">当前积分：${Auth.user?.points ?? 0}</span>
           <span class="d2-nav-link" onclick="App.route('market')">市场</span>
-          <span class="d2-nav-link" onclick="App.route('mylistings')">我的发布</span>
+          <span class="d2-nav-link" onclick="App.route('mylistings')">我的货物</span>
+          <span class="d2-nav-link" onclick="App.route('buyback')">GM回收</span>
           <span class="d2-nav-link" onclick="App.route('transactions')">交易记录</span>
           ${Auth.isGM ? '<span class="d2-nav-link" onclick="App.route(\'admin\')">GM面板</span>' : ''}
           <span class="text-dim">|</span>
@@ -31,6 +32,7 @@ const App = {
     login:        { render: () => LoginPage.render(),        mount: () => LoginPage.mount() },
     market:       { render: () => MarketPage.render(),       mount: () => MarketPage.mount() },
     mylistings:   { render: () => MyListingsPage.render(),   mount: () => MyListingsPage.mount() },
+    buyback:      { render: () => BuybackPage.render(),      mount: () => BuybackPage.mount() },
     transactions: { render: () => TransactionsPage.render(), mount: () => TransactionsPage.mount() },
     admin:        { render: () => AdminPage.render(),        mount: () => AdminPage.mount() },
   },
@@ -49,7 +51,8 @@ const App = {
     $$('.d2-nav-link').forEach(l => {
       l.classList.remove('active')
       if (l.textContent.trim() === '市场' && name === 'market') l.classList.add('active')
-      if (l.textContent.trim() === '我的发布' && name === 'mylistings') l.classList.add('active')
+      if (l.textContent.trim() === '我的货物' && name === 'mylistings') l.classList.add('active')
+      if (l.textContent.trim() === 'GM回收' && name === 'buyback') l.classList.add('active')
       if (l.textContent.trim() === '交易记录' && name === 'transactions') l.classList.add('active')
       if (l.textContent.trim() === 'GM面板' && name === 'admin') l.classList.add('active')
     })

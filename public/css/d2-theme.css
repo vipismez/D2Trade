@@ -353,8 +353,14 @@ body {
   color: var(--d2-blue);
   font-size: 0.85rem;
   margin: 0.4rem 0;
-  line-height: 1.4;
+  line-height: 1.5;
+  white-space: pre-line; /* 保留 \n 换行，兼容直接输出的文本 */
+  word-break: break-word;
 }
+.d2-attr-line { color: var(--d2-blue); }
+.d2-attr-rune { color: var(--d2-orange); }
+.d2-attr-req { color: var(--d2-gold); }
+.d2-attr-space { height: 0.45rem; }
 
 /* ── 布局工具 ── */
 .d2-container {
