@@ -14,33 +14,44 @@
 ## 项目结构
 
 ```
-├── src/                    # 后端逻辑（共享模块）
-│   ├── types/index.ts      # 类型定义
-│   ├── utils/
-│   │   ├── jwt.ts          # JWT 编解码（Web Crypto）
-│   │   └── auth.ts         # PBKDF2 密码哈希
-│   ├── middleware/auth.ts  # requireAuth / requireGM
-│   ├── db/
-│   │   ├── client.ts       # D1 封装
-│   │   ├── users.ts        # 用户 CRUD
-│   │   ├── listings.ts     # 装备 CRUD
-│   │   └── transactions.ts # 交易 CRUD
-│   └── services/trade.ts   # 交易核心逻辑
-├── functions/              # Pages Functions API
+├── functions/              # Pages Functions（后端 + API）
 │   ├── _middleware.ts      # CORS + 安全头
-│   ├── api/auth/           # 注册/登录
-│   ├── api/listings/       # 装备市场
-│   ├── api/transactions/   # 交易
-│   └── api/admin/          # GM 管理
+│   ├── env.d.ts            # 全局 Env 类型
+│   ├── _lib/               # 共享后端逻辑
+│   │   ├── types.ts        # 类型定义
+│   │   ├── jwt.ts          # JWT 编解码（Web Crypto）
+│   │   ├── auth.ts         # PBKDF2 密码哈希
+│   │   ├── auth-middleware.ts # requireAuth / requireGM
+│   │   ├── db-client.ts    # D1 封装
+│   │   ├── db-users.ts     # 用户 CRUD
+│   │   ├── db-listings.ts  # 装备 CRUD
+│   │   ├── db-transactions.ts # 交易 CRUD
+│   │   └── trade.ts        # 交易核心逻辑
+│   └── api/
+│       ├── auth/           # 注册/登录/当前用户
+│       ├── listings/       # 装备市场
+│       ├── transactions/   # 交易
+│       └── admin/          # GM 管理
 ├── public/                 # 暗黑2风格前端 SPA
 │   ├── css/d2-theme.css
 │   └── js/
 │       ├── api.js / auth.js
 │       └── pages/ (login, market, mylistings, transactions, admin)
 ├── schema.sql              # 数据库建表
-├── seed.sql                # 种子数据
-└── scripts/setup.sh        # 一键部署脚本
+├── wrangler.toml           # Cloudflare 配置
+└── scripts/                # 辅助脚本
 ```
+
+## 部署信息
+
+- **站点地址**: https://d2trade.pages.dev
+- **数据库**: Cloudflare D1 `d2trade-db`
+- **部署命令**:
+  ```bash
+  export CLOUDFLARE_API_TOKEN="你的token"
+  export CLOUDFLARE_ACCOUNT_ID="你的账户ID"
+  npx wrangler pages deploy ./public --project-name d2trade --commit-dirty=true
+  ```
 
 ## 快速开始
 

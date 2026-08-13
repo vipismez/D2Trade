@@ -5,13 +5,6 @@
  * 认证在各 handler 中按需调用 requireAuth()
  */
 
-// 环境类型（Pages Functions 中 context.env 的类型）
-interface Env {
-  DB: D1Database
-  JWT_SECRET: string
-  ENVIRONMENT: string
-}
-
 export async function onRequest(context: EventContext<Env, string, unknown>): Promise<Response> {
   // CORS 预检
   if (context.request.method === 'OPTIONS') {

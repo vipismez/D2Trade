@@ -3,9 +3,9 @@
  * Body: { transaction_id: number, reason: string }
  */
 
-import { requireAuth, requireGM } from '../../../../src/middleware/auth'
-import { createDB } from '../../../../src/db/client'
-import { TradeService } from '../../../../src/services/trade'
+import { requireAuth, requireGM } from '../../../_lib/auth-middleware'
+import { createDB } from '../../../_lib/db-client'
+import { TradeService } from '../../../_lib/trade'
 
 export async function onRequestPost(context: EventContext<Env, string, unknown>): Promise<Response> {
   const auth = await requireAuth(context.request, context.env)

@@ -2,8 +2,8 @@
  * Transactions 表 CRUD 操作
  */
 
-import type { DBClient } from './client'
-import type { Transaction, TransactionWithUsers, TransactionType } from '../types'
+import type { DBClient } from './db-client'
+import type { Transaction, TransactionWithUsers, TransactionType } from './types'
 
 export class TransactionDB {
   constructor(private db: DBClient) {}

@@ -2,8 +2,8 @@
  * Users 表 CRUD 操作
  */
 
-import type { DBClient } from './client'
-import type { User, UserPublic } from '../types'
+import type { DBClient } from './db-client'
+import type { User, UserPublic } from './types'
 
 export class UserDB {
   constructor(private db: DBClient) {}

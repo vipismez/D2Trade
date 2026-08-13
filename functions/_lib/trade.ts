@@ -3,11 +3,11 @@
  * 所有积分变动操作在此集中管理，确保原子性
  */
 
-import type { DBClient } from '../db/client'
-import { UserDB } from '../db/users'
-import { ListingDB } from '../db/listings'
-import { TransactionDB } from '../db/transactions'
-import type { Transaction } from '../types'
+import type { DBClient } from './db-client'
+import { UserDB } from './db-users'
+import { ListingDB } from './db-listings'
+import { TransactionDB } from './db-transactions'
+import type { Transaction } from './types'
 
 export class TradeService {
   private users: UserDB

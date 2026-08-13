@@ -4,7 +4,7 @@
  * 参照 RFC 7519，使用 HMAC-SHA256 (HS256)
  */
 
-import type { JwtPayload } from '../types'
+import type { JwtPayload } from './types'
 
 const encoder = new TextEncoder()
 const decoder = new TextDecoder()

@@ -2,9 +2,9 @@
  * GET /api/auth/me — 获取当前登录用户信息
  */
 
-import { requireAuth } from '../../../src/middleware/auth'
-import { UserDB } from '../../../src/db/users'
-import { createDB } from '../../../src/db/client'
+import { requireAuth } from '../../_lib/auth-middleware'
+import { UserDB } from '../../_lib/db-users'
+import { createDB } from '../../_lib/db-client'
 
 export async function onRequestGet(context: EventContext<Env, string, unknown>): Promise<Response> {
   const auth = await requireAuth(context.request, context.env)

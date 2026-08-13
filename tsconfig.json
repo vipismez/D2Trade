@@ -11,12 +11,8 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "skipLibCheck": true,
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["src/*"]
-    }
+    "skipLibCheck": true
   },
-  "include": ["src/**/*.ts", "functions/**/*.ts"],
+  "include": ["functions/**/*.ts"],
   "exclude": ["node_modules", "dist", "public"]
 }

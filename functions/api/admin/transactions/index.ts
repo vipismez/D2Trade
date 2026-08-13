@@ -2,10 +2,10 @@
  * GET /api/admin/transactions — 全部交易记录（GM）
  */
 
-import { requireAuth, requireGM } from '../../../../src/middleware/auth'
-import { createDB } from '../../../../src/db/client'
-import { TransactionDB } from '../../../../src/db/transactions'
-import type { TransactionType } from '../../../../src/types'
+import { requireAuth, requireGM } from '../../../_lib/auth-middleware'
+import { createDB } from '../../../_lib/db-client'
+import { TransactionDB } from '../../../_lib/db-transactions'
+import type { TransactionType } from '../../../_lib/types'
 
 export async function onRequestGet(context: EventContext<Env, string, unknown>): Promise<Response> {
   const auth = await requireAuth(context.request, context.env)

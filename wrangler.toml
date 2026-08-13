@@ -1,28 +1,11 @@
 name = "d2trade"
-main = "src/index.ts"
+pages_build_output_dir = "public"
 compatibility_date = "2025-08-12"
 compatibility_flags = ["nodejs_compat"]
 
-# Workers 配置
-[observability]
-enabled = true
-
-# 环境变量（敏感信息请用 wrangler secret put）
+# 环境变量（敏感信息请用 wrangler secret put / Pages 密钥）
 [vars]
-ENVIRONMENT = "development"
-
-# 开发环境
-[env.dev]
-name = "d2trade-dev"
-
-# 生产环境
-[env.production]
-name = "d2trade-prod"
-
-# KV 命名空间（需要时取消注释）
-# [[kv_namespaces]]
-# binding = "MY_KV"
-# id = "your-kv-id"
+ENVIRONMENT = "production"
 
 # D1 数据库
 [[d1_databases]]
@@ -30,13 +13,12 @@ binding = "DB"
 database_name = "d2trade-db"
 database_id = "da14f123-d4c9-4849-85b4-aebd6328c849"
 
+# KV 命名空间（需要时取消注释）
+# [[kv_namespaces]]
+# binding = "MY_KV"
+# id = "your-kv-id"
+
 # R2 存储桶（需要时取消注释）
 # [[r2_buckets]]
 # binding = "MY_BUCKET"
 # bucket_name = "d2trade-bucket"
-
-# Pages 配置（用于 Cloudflare Pages + Functions）
-[pages]
-build_dir = "public"
-compatibility_date = "2025-08-12"
-compatibility_flags = ["nodejs_compat"]

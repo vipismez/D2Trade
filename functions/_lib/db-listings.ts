@@ -2,8 +2,8 @@
  * Listings 表 CRUD 操作
  */
 
-import type { DBClient } from './client'
-import type { Listing, ListingWithSeller, CreateListingInput } from '../types'
+import type { DBClient } from './db-client'
+import type { Listing, ListingWithSeller, CreateListingInput } from './types'
 
 export class ListingDB {
   constructor(private db: DBClient) {}

@@ -3,10 +3,10 @@
  * Body: { username, password }
  */
 
-import { verifyPassword } from '../../src/utils/auth'
-import { createAccessToken } from '../../src/utils/jwt'
-import { UserDB } from '../../src/db/users'
-import { createDB } from '../../src/db/client'
+import { verifyPassword } from '../../_lib/auth'
+import { createAccessToken } from '../../_lib/jwt'
+import { UserDB } from '../../_lib/db-users'
+import { createDB } from '../../_lib/db-client'
 
 export async function onRequestPost(context: EventContext<Env, string, unknown>): Promise<Response> {
   const body: { username?: string; password?: string } = await context.request

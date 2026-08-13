@@ -4,9 +4,9 @@
  * DELETE /api/listings/:id — 下架装备（仅发布者）
  */
 
-import { requireAuth } from '../../../src/middleware/auth'
-import { ListingDB } from '../../../src/db/listings'
-import { createDB } from '../../../src/db/client'
+import { requireAuth } from '../../_lib/auth-middleware'
+import { ListingDB } from '../../_lib/db-listings'
+import { createDB } from '../../_lib/db-client'
 
 export async function onRequestGet(context: EventContext<Env, 'id', unknown>): Promise<Response> {
   const id = parseInt(context.params.id)

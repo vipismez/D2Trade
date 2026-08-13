@@ -2,9 +2,9 @@
  * GET /api/admin/users/pending — 待审批用户列表（GM）
  */
 
-import { requireAuth, requireGM } from '../../../../src/middleware/auth'
-import { createDB } from '../../../../src/db/client'
-import { UserDB } from '../../../../src/db/users'
+import { requireAuth, requireGM } from '../../../_lib/auth-middleware'
+import { createDB } from '../../../_lib/db-client'
+import { UserDB } from '../../../_lib/db-users'
 
 export async function onRequestGet(context: EventContext<Env, string, unknown>): Promise<Response> {
   const auth = await requireAuth(context.request, context.env)

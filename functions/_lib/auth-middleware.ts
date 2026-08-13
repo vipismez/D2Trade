@@ -7,8 +7,8 @@
  *   await requireGM(user)
  */
 
-import { verifyToken } from '../utils/jwt'
-import type { JwtPayload } from '../types'
+import { verifyToken } from './jwt'
+import type { JwtPayload } from './types'
 
 /** 从请求中提取 Bearer Token */
 export function extractToken(request: Request): string | null {

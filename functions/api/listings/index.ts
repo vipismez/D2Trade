@@ -3,9 +3,9 @@
  * POST /api/listings — 发布装备
  */
 
-import { requireAuth } from '../../../src/middleware/auth'
-import { ListingDB } from '../../../src/db/listings'
-import { createDB } from '../../../src/db/client'
+import { requireAuth } from '../../_lib/auth-middleware'
+import { ListingDB } from '../../_lib/db-listings'
+import { createDB } from '../../_lib/db-client'
 
 /** 市场列表（公开，无需登录） */
 export async function onRequestGet(context: EventContext<Env, string, unknown>): Promise<Response> {

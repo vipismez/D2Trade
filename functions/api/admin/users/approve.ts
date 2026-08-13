@@ -3,9 +3,9 @@
  * Body: { user_id: number }
  */
 
-import { requireAuth, requireGM } from '../../../../src/middleware/auth'
-import { createDB } from '../../../../src/db/client'
-import { UserDB } from '../../../../src/db/users'
+import { requireAuth, requireGM } from '../../../_lib/auth-middleware'
+import { createDB } from '../../../_lib/db-client'
+import { UserDB } from '../../../_lib/db-users'
 
 export async function onRequestPut(context: EventContext<Env, string, unknown>): Promise<Response> {
   const auth = await requireAuth(context.request, context.env)
