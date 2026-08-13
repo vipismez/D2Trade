@@ -5,6 +5,9 @@
 const MarketPage = {
   _page: 1,
   _search: '',
+  _seller: '',
+  _sort: 'newest',
+  _pageSize: 20,
 
   render() {
     return `
@@ -13,9 +16,20 @@ const MarketPage = {
           <h2 class="d2-title" style="margin-bottom:0;text-align:left;">装备市场</h2>
           <button class="d2-btn" onclick="App.route('mylistings')">我的发布</button>
         </div>
-        <div class="d2-search">
+        <div class="d2-filter-bar">
           <input class="d2-input" id="market-search" placeholder="搜索装备名称..." value="${esc(this._search)}" />
-          <button class="d2-btn" id="market-search-btn">搜索</button>
+          <input class="d2-input" id="market-seller" placeholder="按发布者筛选..." value="${esc(this._seller)}" />
+          <select class="d2-input" id="market-sort">
+            <option value="newest" ${this._sort === 'newest' ? 'selected' : ''}>最新发布</option>
+            <option value="oldest" ${this._sort === 'oldest' ? 'selected' : ''}>最早发布</option>
+          </select>
+          <select class="d2-input" id="market-page-size">
+            <option value="20" ${this._pageSize === 20 ? 'selected' : ''}>每页 20 条</option>
+            <option value="40" ${this._pageSize === 40 ? 'selected' : ''}>每页 40 条</option>
+            <option value="60" ${this._pageSize === 60 ? 'selected' : ''}>每页 60 条</option>
+            <option value="100" ${this._pageSize === 100 ? 'selected' : ''}>每页 100 条</option>
+          </select>
+          <button class="d2-btn" id="market-search-btn">筛选</button>
         </div>
       </div>
       <div class="d2-market-grid" id="market-grid">
@@ -25,22 +39,38 @@ const MarketPage = {
   },
 
   async mount() {
-    $('#market-search-btn').onclick = () => {
-      this._search = $('#market-search').value.trim()
+    $('#market-search-btn').onclick = () => this._applyFilters()
+    ;['market-search', 'market-seller'].forEach(id => {
+      $('#' + id).onkeydown = (e) => { if (e.key === 'Enter') this._applyFilters() }
+    })
+    $('#market-sort').onchange = () => this._applyFilters()
+    $('#market-page-size').onchange = () => {
+      this._pageSize = parseInt($('#market-page-size').value)
       this._page = 1
       this._load()
     }
-    $('#market-search').onkeydown = (e) => {
-      if (e.key === 'Enter') $('#market-search-btn').click()
-    }
     await this._load()
+  },
+
+  _applyFilters() {
+    this._search = $('#market-search').value.trim()
+    this._seller = $('#market-seller').value.trim()
+    this._sort = $('#market-sort').value
+    this._page = 1
+    this._load()
   },
 
   async _load() {
     const grid = $('#market-grid')
     grid.innerHTML = '<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:3rem;">加载中...</div>'
 
-    const res = await API.listings({ page: this._page, pageSize: 20, search: this._search || undefined })
+    const res = await API.listings({
+      page: this._page,
+      pageSize: this._pageSize,
+      search: this._search || undefined,
+      seller: this._seller || undefined,
+      sort: this._sort,
+    })
     if (!res.success) {
       grid.innerHTML = `<div class="text-red" style="grid-column:1/-1;text-align:center;padding:3rem;">${esc(res.error)}</div>`
       return
@@ -74,7 +104,7 @@ const MarketPage = {
   },
 
   _renderPagination(total) {
-    const totalPages = Math.ceil(total / 20)
+    const totalPages = Math.ceil(total / this._pageSize)
     const pg = $('#market-pagination')
     if (totalPages <= 1) { pg.innerHTML = ''; return }
     let html = ''

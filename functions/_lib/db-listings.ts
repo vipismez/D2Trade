@@ -37,22 +37,34 @@ export class ListingDB {
     )
   }
 
-  /** 市场列表（仅 active，按时间倒序） */
+  /** 市场列表（仅 active，支持过滤和排序） */
   async getMarketList(
     page = 1,
     pageSize = 20,
-    search?: string,
+    options?: {
+      search?: string
+      seller?: string
+      sort?: 'newest' | 'oldest'
+    },
   ): Promise<{ items: ListingWithSeller[]; total: number }> {
     let whereClause = "WHERE l.status = 'active'"
     const params: unknown[] = []
 
-    if (search) {
+    if (options?.search) {
       whereClause += ' AND l.item_name LIKE ?'
-      params.push(`%${search}%`)
+      params.push(`%${options.search}%`)
+    }
+    if (options?.seller) {
+      whereClause += ' AND u.username LIKE ?'
+      params.push(`%${options.seller}%`)
     }
 
+    const orderBy = options?.sort === 'oldest'
+      ? 'l.created_at ASC'
+      : 'l.created_at DESC'
+
     const countResult = await this.db.first<{ cnt: number }>(
-      `SELECT COUNT(*) as cnt FROM listings l ${whereClause}`,
+      `SELECT COUNT(*) as cnt FROM listings l JOIN users u ON l.seller_id = u.id ${whereClause}`,
       ...params,
     )
     const total = countResult?.cnt ?? 0
@@ -62,7 +74,7 @@ export class ListingDB {
       `SELECT l.*, u.username as seller_name
        FROM listings l JOIN users u ON l.seller_id = u.id
        ${whereClause}
-       ORDER BY l.created_at DESC
+       ORDER BY ${orderBy}
        LIMIT ? OFFSET ?`,
       ...params,
       pageSize,

@@ -14,10 +14,12 @@ export async function onRequestGet(context: EventContext<Env, string, unknown>):
 
   const url = new URL(context.request.url)
   const page = Math.max(1, parseInt(url.searchParams.get('page') || '1'))
-  const pageSize = Math.min(50, Math.max(1, parseInt(url.searchParams.get('pageSize') || '20')))
+  const pageSize = Math.min(100, Math.max(1, parseInt(url.searchParams.get('pageSize') || '20')))
   const search = url.searchParams.get('search') || undefined
+  const seller = url.searchParams.get('seller') || undefined
+  const sort = url.searchParams.get('sort') === 'oldest' ? 'oldest' : 'newest'
 
-  const result = await listingsDB.getMarketList(page, pageSize, search)
+  const result = await listingsDB.getMarketList(page, pageSize, { search, seller, sort })
 
   return Response.json({
     success: true,
