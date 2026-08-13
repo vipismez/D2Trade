@@ -51,6 +51,11 @@ const API = {
     return this.post('/api/upload', { filename, data: base64 })
   },
 
+  // ── 装备库 ──
+  equipment(params = {}) {
+    return this.get(`/api/equipment${this._qs(params)}`)
+  },
+
   // ── Listings ──
   listings(params = {}) {
     return this.get(`/api/listings${this._qs(params)}`)

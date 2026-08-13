@@ -1,0 +1,4218 @@
+[
+{
+"name": "手斧",
+"name_en": "Hand Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/28efa812e1ed336c.gif"
+},
+{
+"name": "斧",
+"name_en": "Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/1ccaaeefc21e5803.gif"
+},
+{
+"name": "双刃斧",
+"name_en": "Double Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/ceda0d9dbee1b3c4.gif"
+},
+{
+"name": "军用锹",
+"name_en": "Military Pick",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/d6484e8dcc7a31ae.gif"
+},
+{
+"name": "巨战斧",
+"name_en": "War Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/c06a83576056c589.gif"
+},
+{
+"name": "巨斧",
+"name_en": "Large Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/1688209e3e806aef.gif"
+},
+{
+"name": "阔斧",
+"name_en": "Broad Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/d4cd13e5e7825a9b.gif"
+},
+{
+"name": "战斗斧",
+"name_en": "Battle Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/d08f8ab10885b235.gif"
+},
+{
+"name": "卓越之斧",
+"name_en": "Great Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/0d84596f5937f3d7.gif"
+},
+{
+"name": "大斧",
+"name_en": "Giant Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "普通",
+"image": "/api/image/5f7626a7c458935d.gif"
+},
+{
+"name": "小斧",
+"name_en": "Hatchet",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/28efa812e1ed336c.gif"
+},
+{
+"name": "切肉斧",
+"name_en": "Cleaver",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/1ccaaeefc21e5803.gif"
+},
+{
+"name": "强化双斧",
+"name_en": "Twin Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/ceda0d9dbee1b3c4.gif"
+},
+{
+"name": "喙钳",
+"name_en": "Crowbill",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/d6484e8dcc7a31ae.gif"
+},
+{
+"name": "纳卡",
+"name_en": "Naga",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/c06a83576056c589.gif"
+},
+{
+"name": "军斧",
+"name_en": "Military Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/1688209e3e806aef.gif"
+},
+{
+"name": "钩斧",
+"name_en": "Bearded Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/d4cd13e5e7825a9b.gif"
+},
+{
+"name": "战袍斧",
+"name_en": "Tabar",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/d08f8ab10885b235.gif"
+},
+{
+"name": "哥德之斧",
+"name_en": "Gothic Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/0d84596f5937f3d7.gif"
+},
+{
+"name": "古代之斧",
+"name_en": "Ancient Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "扩展",
+"image": "/api/image/5f7626a7c458935d.gif"
+},
+{
+"name": "战铖",
+"name_en": "Tomahawk",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/28efa812e1ed336c.gif"
+},
+{
+"name": "弯月斧",
+"name_en": "Small Crescent",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/1ccaaeefc21e5803.gif"
+},
+{
+"name": "双头斧",
+"name_en": "Ettin Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/ceda0d9dbee1b3c4.gif"
+},
+{
+"name": "战刺",
+"name_en": "War Spike",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/d6484e8dcc7a31ae.gif"
+},
+{
+"name": "狂战士斧",
+"name_en": "Berserker Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/c06a83576056c589.gif"
+},
+{
+"name": "猛禽斧",
+"name_en": "Feral Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/1688209e3e806aef.gif"
+},
+{
+"name": "银刃斧",
+"name_en": "Silver-Edged Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/d4cd13e5e7825a9b.gif"
+},
+{
+"name": "斩首斧",
+"name_en": "Decapitator",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/d08f8ab10885b235.gif"
+},
+{
+"name": "冠军斧",
+"name_en": "Champion Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/0d84596f5937f3d7.gif"
+},
+{
+"name": "光荣之斧",
+"name_en": "Glorious Axe",
+"category": "武器",
+"type": "斧头",
+"tier": "精华",
+"image": "/api/image/5f7626a7c458935d.gif"
+},
+{
+"name": "短剑",
+"name_en": "Short Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/777000ca70718458.gif"
+},
+{
+"name": "弯刀",
+"name_en": "Scimitar",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/f8828e19f06ef0ee.gif"
+},
+{
+"name": "军刀",
+"name_en": "Sabre",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/12937d813ff001b6.gif"
+},
+{
+"name": "弯形大刀",
+"name_en": "Falchion",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/77f64c6d29841123.gif"
+},
+{
+"name": "水晶剑",
+"name_en": "Crystal Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/7b1f422853e87449.gif"
+},
+{
+"name": "阔剑",
+"name_en": "Broad Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/b193c5f303da2ff8.gif"
+},
+{
+"name": "长剑",
+"name_en": "Long Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/dd868a16c6725653.gif"
+},
+{
+"name": "巨战之剑",
+"name_en": "War Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/cc6a9f28bb848960.gif"
+},
+{
+"name": "双手剑",
+"name_en": "Two-handed Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/7183607b0f8b3ccc.gif"
+},
+{
+"name": "双刃大刀",
+"name_en": "Claymore",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/84edbc3b3be89868.gif"
+},
+{
+"name": "大剑",
+"name_en": "Giant Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/4e1da676d12b2b55.gif"
+},
+{
+"name": "巨剑",
+"name_en": "Bastard Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/65e4fbe634e2f98d.gif"
+},
+{
+"name": "双手饰剑",
+"name_en": "Flamberge",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/2049a841ff311f1d.gif"
+},
+{
+"name": "卓越之剑",
+"name_en": "Great Sword",
+"category": "武器",
+"type": "剑",
+"tier": "普通",
+"image": "/api/image/e8be8e4858677463.gif"
+},
+{
+"name": "罗马短剑",
+"name_en": "Gladius",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/777000ca70718458.gif"
+},
+{
+"name": "微弯剑",
+"name_en": "Cutlass",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/f8828e19f06ef0ee.gif"
+},
+{
+"name": "虚伪之刃",
+"name_en": "Shamshir",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/12937d813ff001b6.gif"
+},
+{
+"name": "圆月弯刀",
+"name_en": "Tulwar",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/77f64c6d29841123.gif"
+},
+{
+"name": "空间之刃",
+"name_en": "Dimensional Blade",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/7b1f422853e87449.gif"
+},
+{
+"name": "战斗剑",
+"name_en": "Battle Sword",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/b193c5f303da2ff8.gif"
+},
+{
+"name": "符文剑",
+"name_en": "Rune Sword",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/dd868a16c6725653.gif"
+},
+{
+"name": "古代之剑",
+"name_en": "Ancient Sword",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/cc6a9f28bb848960.gif"
+},
+{
+"name": "斩铁剑",
+"name_en": "Espandon",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/7183607b0f8b3ccc.gif"
+},
+{
+"name": "双刃镰",
+"name_en": "Dacian Falx",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/84edbc3b3be89868.gif"
+},
+{
+"name": "长牙剑",
+"name_en": "Tusk Sword",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/4e1da676d12b2b55.gif"
+},
+{
+"name": "歌德剑",
+"name_en": "Gothic Sword",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/65e4fbe634e2f98d.gif"
+},
+{
+"name": "瑞韩德之剑",
+"name_en": "Zweihander",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/2049a841ff311f1d.gif"
+},
+{
+"name": "死刑之剑",
+"name_en": "Executioner Sword",
+"category": "武器",
+"type": "剑",
+"tier": "扩展",
+"image": "/api/image/e8be8e4858677463.gif"
+},
+{
+"name": "刃剑",
+"name_en": "Falcata",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/777000ca70718458.gif"
+},
+{
+"name": "土耳其剑",
+"name_en": "Ataghan",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/f8828e19f06ef0ee.gif"
+},
+{
+"name": "优雅之剑",
+"name_en": "Elegant Blade",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/12937d813ff001b6.gif"
+},
+{
+"name": "九头蛇刃",
+"name_en": "Hydra Edge",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/77f64c6d29841123.gif"
+},
+{
+"name": "幻化之刃",
+"name_en": "Phase Blade",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/7b1f422853e87449.gif"
+},
+{
+"name": "征服之剑",
+"name_en": "Conquest Sword",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/b193c5f303da2ff8.gif"
+},
+{
+"name": "神秘之剑",
+"name_en": "Cryptic Sword",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/dd868a16c6725653.gif"
+},
+{
+"name": "秘仪之剑",
+"name_en": "Mythical Sword",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/cc6a9f28bb848960.gif"
+},
+{
+"name": "传说之剑",
+"name_en": "Legend Sword",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/7183607b0f8b3ccc.gif"
+},
+{
+"name": "高地之剑",
+"name_en": "Highland Blade",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/84edbc3b3be89868.gif"
+},
+{
+"name": "炎魔之刃",
+"name_en": "Balrog Blade",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/4e1da676d12b2b55.gif"
+},
+{
+"name": "冠军之剑",
+"name_en": "Champion Sword",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/65e4fbe634e2f98d.gif"
+},
+{
+"name": "巨神之剑",
+"name_en": "Colossus Sword",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/2049a841ff311f1d.gif"
+},
+{
+"name": "巨神之刃",
+"name_en": "Colossus Blade",
+"category": "武器",
+"type": "剑",
+"tier": "精华",
+"image": "/api/image/e8be8e4858677463.gif"
+},
+{
+"name": "匕首",
+"name_en": "Dagger",
+"category": "武器",
+"type": "匕首",
+"tier": "普通",
+"image": "/api/image/70eb4a962e95430e.gif"
+},
+{
+"name": "长匕首",
+"name_en": "Dirk",
+"category": "武器",
+"type": "匕首",
+"tier": "普通",
+"image": "/api/image/1cf2946aa3ea2454.gif"
+},
+{
+"name": "波形刃",
+"name_en": "Kris",
+"category": "武器",
+"type": "匕首",
+"tier": "普通",
+"image": "/api/image/00ef32b2486d6c8e.jpg"
+},
+{
+"name": "短刀",
+"name_en": "Blade",
+"category": "武器",
+"type": "匕首",
+"tier": "普通",
+"image": "/api/image/5cef3fbbdf937c8b.gif"
+},
+{
+"name": "锐匕",
+"name_en": "Poignard",
+"category": "武器",
+"type": "匕首",
+"tier": "扩展",
+"image": "/api/image/70eb4a962e95430e.gif"
+},
+{
+"name": "诗歌匕首",
+"name_en": "Rondel",
+"category": "武器",
+"type": "匕首",
+"tier": "扩展",
+"image": "/api/image/1cf2946aa3ea2454.gif"
+},
+{
+"name": "强波刃",
+"name_en": "Cinquedeas",
+"category": "武器",
+"type": "匕首",
+"tier": "扩展",
+"image": "/api/image/00ef32b2486d6c8e.jpg"
+},
+{
+"name": "小剑",
+"name_en": "Stiletto",
+"category": "武器",
+"type": "匕首",
+"tier": "扩展",
+"image": "/api/image/5cef3fbbdf937c8b.gif"
+},
+{
+"name": "骸骨小刀",
+"name_en": "Bone Knife",
+"category": "武器",
+"type": "匕首",
+"tier": "精华",
+"image": "/api/image/70eb4a962e95430e.gif"
+},
+{
+"name": "秘银小刀",
+"name_en": "Mithril Point",
+"category": "武器",
+"type": "匕首",
+"tier": "精华",
+"image": "/api/image/1cf2946aa3ea2454.gif"
+},
+{
+"name": "齿缘小刀",
+"name_en": "Fanged Knife",
+"category": "武器",
+"type": "匕首",
+"tier": "精华",
+"image": "/api/image/00ef32b2486d6c8e.jpg"
+},
+{
+"name": "传说尖刺",
+"name_en": "Legend Spike",
+"category": "武器",
+"type": "匕首",
+"tier": "精华",
+"image": "/api/image/5cef3fbbdf937c8b.gif"
+},
+{
+"name": "木棒",
+"name_en": "Club",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/afb8d19cbd42dbcc.gif"
+},
+{
+"name": "狼牙棒",
+"name_en": "Spiked Club",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/a5d052fb92ca04ed.gif"
+},
+{
+"name": "钉头锤",
+"name_en": "Mace",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/fa2ad23c7defb4b7.gif"
+},
+{
+"name": "流星锤",
+"name_en": "Morning Star",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/1448043412ade0c6.gif"
+},
+{
+"name": "链枷",
+"name_en": "Flail",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/85fe5bb286c1019e.gif"
+},
+{
+"name": "巨战铁槌",
+"name_en": "War Hammer",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/2b4e1b1ee5053277.gif"
+},
+{
+"name": "大木棍",
+"name_en": "Maul",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/60f9068b60ba284c.gif"
+},
+{
+"name": "卓越巨棍",
+"name_en": "Great Maul",
+"category": "武器",
+"type": "钉头锤",
+"tier": "普通",
+"image": "/api/image/fa70574f56da6c24.gif"
+},
+{
+"name": "棍棒",
+"name_en": "Cudgel",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/afb8d19cbd42dbcc.gif"
+},
+{
+"name": "倒钩槌",
+"name_en": "Barbed Club",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/a5d052fb92ca04ed.gif"
+},
+{
+"name": "凸缘钉头锤",
+"name_en": "Flanged Mace",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/fa2ad23c7defb4b7.gif"
+},
+{
+"name": "锯齿流星锤",
+"name_en": "Jagged Star",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/1448043412ade0c6.gif"
+},
+{
+"name": "铁皮鞭",
+"name_en": "Knout",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/85fe5bb286c1019e.gif"
+},
+{
+"name": "战斗铁槌",
+"name_en": "Battle Hammer",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/2b4e1b1ee5053277.gif"
+},
+{
+"name": "巨战木棍",
+"name_en": "War Club",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/60f9068b60ba284c.gif"
+},
+{
+"name": "战槌",
+"name_en": "Martel de Fer",
+"category": "武器",
+"type": "钉头锤",
+"tier": "扩展",
+"image": "/api/image/797b9addf4f395f4.gif"
+},
+{
+"name": "战仪杖",
+"name_en": "Truncheon",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/afb8d19cbd42dbcc.gif"
+},
+{
+"name": "暴君之棒",
+"name_en": "Tyrant Club",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/a5d052fb92ca04ed.gif"
+},
+{
+"name": "强化钉头锤",
+"name_en": "Reinforced Mace",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/fa2ad23c7defb4b7.gif"
+},
+{
+"name": "恶魔流星锤",
+"name_en": "Devil Star",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/1448043412ade0c6.gif"
+},
+{
+"name": "天罚之锤",
+"name_en": "Scourge",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/85fe5bb286c1019e.gif"
+},
+{
+"name": "传说之锤",
+"name_en": "Legendary Mallet",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/2b4e1b1ee5053277.gif"
+},
+{
+"name": "食人魔之锤",
+"name_en": "Ogre Maul",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/60f9068b60ba284c.gif"
+},
+{
+"name": "雷锤",
+"name_en": "Thunder Maul",
+"category": "武器",
+"type": "钉头锤",
+"tier": "精华",
+"image": "/api/image/fa70574f56da6c24.gif"
+},
+{
+"name": "短弓",
+"name_en": "Short Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/81d0ce5b77aa9984.gif"
+},
+{
+"name": "猎弓",
+"name_en": "Hunter's Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/d741af04de952bfa.gif"
+},
+{
+"name": "长弓",
+"name_en": "Long Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/699998229546ffed.gif"
+},
+{
+"name": "组合弓",
+"name_en": "Composite Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/ca6112493a19685c.gif"
+},
+{
+"name": "短战斗弓",
+"name_en": "Short Battle Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/85aec98198b528cb.gif"
+},
+{
+"name": "长战斗弓",
+"name_en": "Long Battle Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/8850e31d2cb53297.gif"
+},
+{
+"name": "短巨战弓",
+"name_en": "Short War Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/af44c5acf87316f1.gif"
+},
+{
+"name": "长巨战弓",
+"name_en": "Long War Bow",
+"category": "武器",
+"type": "弓",
+"tier": "普通",
+"image": "/api/image/05ee9ec6133e7135.gif"
+},
+{
+"name": "锋锐之弓",
+"name_en": "Edge Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/81d0ce5b77aa9984.gif"
+},
+{
+"name": "剃刀之弓",
+"name_en": "Razor Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/d741af04de952bfa.gif"
+},
+{
+"name": "杉木弓",
+"name_en": "Cedar Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/699998229546ffed.gif"
+},
+{
+"name": "双弓",
+"name_en": "Double Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/ca6112493a19685c.gif"
+},
+{
+"name": "短攻城弓",
+"name_en": "Short Siege Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/85aec98198b528cb.gif"
+},
+{
+"name": "长攻城弓",
+"name_en": "Large Siege Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/8850e31d2cb53297.gif"
+},
+{
+"name": "符文之弓",
+"name_en": "Rune Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/af44c5acf87316f1.gif"
+},
+{
+"name": "歌德弓",
+"name_en": "Gothic Bow",
+"category": "武器",
+"type": "弓",
+"tier": "扩展",
+"image": "/api/image/05ee9ec6133e7135.gif"
+},
+{
+"name": "蜘蛛弓",
+"name_en": "Spider Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/81d0ce5b77aa9984.gif"
+},
+{
+"name": "刀锋弓",
+"name_en": "Blade Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/d741af04de952bfa.gif"
+},
+{
+"name": "阴影弓",
+"name_en": "Shadow Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/699998229546ffed.gif"
+},
+{
+"name": "巨弓",
+"name_en": "Great Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/ca6112493a19685c.gif"
+},
+{
+"name": "钻石弓",
+"name_en": "Diamond Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/85aec98198b528cb.gif"
+},
+{
+"name": "十字军之弓",
+"name_en": "Crusader Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/8850e31d2cb53297.gif"
+},
+{
+"name": "庇护之弓",
+"name_en": "Ward Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/af44c5acf87316f1.gif"
+},
+{
+"name": "九头蛇弓",
+"name_en": "Hydra Bow",
+"category": "武器",
+"type": "弓",
+"tier": "精华",
+"image": "/api/image/05ee9ec6133e7135.gif"
+},
+{
+"name": "轻十字弓",
+"name_en": "Light Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "普通",
+"image": "/api/image/2d594a5d0e100a76.gif"
+},
+{
+"name": "十字弓",
+"name_en": "Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "普通",
+"image": "/api/image/6b92fc6ce34a8c5e.gif"
+},
+{
+"name": "重十字弓",
+"name_en": "Heavy Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "普通",
+"image": "/api/image/4b5edad47a5fff8d.gif"
+},
+{
+"name": "连射十字弓",
+"name_en": "Repeating Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "普通",
+"image": "/api/image/f35009f813900dce.gif"
+},
+{
+"name": "石弓",
+"name_en": "Arbalest",
+"category": "武器",
+"type": "十字弓",
+"tier": "扩展",
+"image": "/api/image/2d594a5d0e100a76.gif"
+},
+{
+"name": "攻城十字弓",
+"name_en": "Siege Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "扩展",
+"image": "/api/image/6b92fc6ce34a8c5e.gif"
+},
+{
+"name": "弩弓",
+"name_en": "Ballista",
+"category": "武器",
+"type": "十字弓",
+"tier": "扩展",
+"image": "/api/image/4b5edad47a5fff8d.gif"
+},
+{
+"name": "巧工弩",
+"name_en": "Chu-Ko-Nu",
+"category": "武器",
+"type": "十字弓",
+"tier": "扩展",
+"image": "/api/image/f35009f813900dce.gif"
+},
+{
+"name": "弹丸弓",
+"name_en": "Pellet Bow",
+"category": "武器",
+"type": "十字弓",
+"tier": "精华",
+"image": "/api/image/2d594a5d0e100a76.gif"
+},
+{
+"name": "蛇魔女十字弓",
+"name_en": "Gorgon Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "精华",
+"image": "/api/image/6b92fc6ce34a8c5e.gif"
+},
+{
+"name": "巨神十字弓",
+"name_en": "Colossus Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "精华",
+"image": "/api/image/4b5edad47a5fff8d.gif"
+},
+{
+"name": "恶魔十字弓",
+"name_en": "Demon Crossbow",
+"category": "武器",
+"type": "十字弓",
+"tier": "精华",
+"image": "/api/image/f35009f813900dce.gif"
+},
+{
+"name": "标枪",
+"name_en": "Javelins",
+"category": "武器",
+"type": "标枪",
+"tier": "普通",
+"image": "/api/image/bf5b20e60df76d47.gif"
+},
+{
+"name": "短标枪",
+"name_en": "Pilum",
+"category": "武器",
+"type": "标枪",
+"tier": "普通",
+"image": "/api/image/8e3ae1d0d15c4653.gif"
+},
+{
+"name": "短矛",
+"name_en": "Short Spear",
+"category": "武器",
+"type": "标枪",
+"tier": "普通",
+"image": "/api/image/b290a9774c48f953.gif"
+},
+{
+"name": "大长刀",
+"name_en": "Glaive",
+"category": "武器",
+"type": "标枪",
+"tier": "普通",
+"image": "/api/image/e6ccda6afd4c1d54.gif"
+},
+{
+"name": "飞矛",
+"name_en": "Throwing Spear",
+"category": "武器",
+"type": "标枪",
+"tier": "普通",
+"image": "/api/image/a76faed754fdfa06.gif"
+},
+{
+"name": "巨战标枪",
+"name_en": "War Javelin",
+"category": "武器",
+"type": "标枪",
+"tier": "扩展",
+"image": "/api/image/bf5b20e60df76d47.gif"
+},
+{
+"name": "卓越标枪",
+"name_en": "Great Pilum",
+"category": "武器",
+"type": "标枪",
+"tier": "扩展",
+"image": "/api/image/8e3ae1d0d15c4653.gif"
+},
+{
+"name": "锐矛",
+"name_en": "Simbilan",
+"category": "武器",
+"type": "标枪",
+"tier": "扩展",
+"image": "/api/image/b290a9774c48f953.gif"
+},
+{
+"name": "阔针长矛",
+"name_en": "Spiculum",
+"category": "武器",
+"type": "标枪",
+"tier": "扩展",
+"image": "/api/image/e6ccda6afd4c1d54.gif"
+},
+{
+"name": "鱼叉",
+"name_en": "Harpoon",
+"category": "武器",
+"type": "标枪",
+"tier": "扩展",
+"image": "/api/image/a76faed754fdfa06.gif"
+},
+{
+"name": "亥伯龙之枪",
+"name_en": "Hyperion Javelin",
+"category": "武器",
+"type": "标枪",
+"tier": "精华",
+"image": "/api/image/bf5b20e60df76d47.gif"
+},
+{
+"name": "冥河标枪",
+"name_en": "Stygian Pilum",
+"category": "武器",
+"type": "标枪",
+"tier": "精华",
+"image": "/api/image/8e3ae1d0d15c4653.gif"
+},
+{
+"name": "炎魔长矛",
+"name_en": "Balrog Spear",
+"category": "武器",
+"type": "标枪",
+"tier": "精华",
+"image": "/api/image/b290a9774c48f953.gif"
+},
+{
+"name": "鬼魂尖枪",
+"name_en": "Ghost Glaive",
+"category": "武器",
+"type": "标枪",
+"tier": "精华",
+"image": "/api/image/e6ccda6afd4c1d54.gif"
+},
+{
+"name": "翼鱼叉",
+"name_en": "Winged Harpoon",
+"category": "武器",
+"type": "标枪",
+"tier": "精华",
+"image": "/api/image/a76faed754fdfa06.gif"
+},
+{
+"name": "权杖",
+"name_en": "Scepter",
+"category": "武器",
+"type": "权杖",
+"tier": "普通",
+"image": "/api/image/0a576f0aee86363b.gif"
+},
+{
+"name": "雄伟权杖",
+"name_en": "Grand Scepter",
+"category": "武器",
+"type": "权杖",
+"tier": "普通",
+"image": "/api/image/4dbcaf481470a029.gif"
+},
+{
+"name": "巨战权杖",
+"name_en": "War Scepter",
+"category": "武器",
+"type": "权杖",
+"tier": "普通",
+"image": "/api/image/d89bac1dce98528c.gif"
+},
+{
+"name": "符文权杖",
+"name_en": "Rune Scepter",
+"category": "武器",
+"type": "权杖",
+"tier": "扩展",
+"image": "/api/image/0a576f0aee86363b.gif"
+},
+{
+"name": "圣水喷杖",
+"name_en": "Holy Water Sprinkler",
+"category": "武器",
+"type": "权杖",
+"tier": "扩展",
+"image": "/api/image/4dbcaf481470a029.gif"
+},
+{
+"name": "神属权杖",
+"name_en": "Divine Scepter",
+"category": "武器",
+"type": "权杖",
+"tier": "扩展",
+"image": "/api/image/d89bac1dce98528c.gif"
+},
+{
+"name": "强威权杖",
+"name_en": "Mighty Scepter",
+"category": "武器",
+"type": "权杖",
+"tier": "精华",
+"image": "/api/image/0a576f0aee86363b.gif"
+},
+{
+"name": "炽天使法杖",
+"name_en": "Seraph Rod",
+"category": "武器",
+"type": "权杖",
+"tier": "精华",
+"image": "/api/image/4dbcaf481470a029.gif"
+},
+{
+"name": "神使之杖",
+"name_en": "Caduceus",
+"category": "武器",
+"type": "权杖",
+"tier": "精华",
+"image": "/api/image/d89bac1dce98528c.gif"
+},
+{
+"name": "短棍",
+"name_en": "Short Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "普通",
+"image": "/api/image/60bb69997937830a.jpg"
+},
+{
+"name": "长棍",
+"name_en": "Long Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "普通",
+"image": "/api/image/0fdb1a5d6511f628.gif"
+},
+{
+"name": "多节棍",
+"name_en": "Gnarled Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "普通",
+"image": "/api/image/2f3e1d5b0c7f6e0c.gif"
+},
+{
+"name": "战斗法杖",
+"name_en": "Battle Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "普通",
+"image": "/api/image/0d4bbe234c44b766.gif"
+},
+{
+"name": "巨战法杖",
+"name_en": "War Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "普通",
+"image": "/api/image/8d9a047cb71bc920.gif"
+},
+{
+"name": "乔木棒",
+"name_en": "Jo Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "扩展",
+"image": "/api/image/60bb69997937830a.jpg"
+},
+{
+"name": "六尺棍",
+"name_en": "Quaterstaff",
+"category": "武器",
+"type": "法杖",
+"tier": "扩展",
+"image": "/api/image/0fdb1a5d6511f628.gif"
+},
+{
+"name": "杉木之棍",
+"name_en": "Cedar Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "扩展",
+"image": "/api/image/2f3e1d5b0c7f6e0c.gif"
+},
+{
+"name": "哥德之棍",
+"name_en": "Gothic Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "扩展",
+"image": "/api/image/0d4bbe234c44b766.gif"
+},
+{
+"name": "符文之棍",
+"name_en": "Rune Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "扩展",
+"image": "/api/image/8d9a047cb71bc920.gif"
+},
+{
+"name": "手杖",
+"name_en": "Walking Stick",
+"category": "武器",
+"type": "法杖",
+"tier": "精华",
+"image": "/api/image/60bb69997937830a.jpg"
+},
+{
+"name": "钟乳石之杖",
+"name_en": "Stalagmite",
+"category": "武器",
+"type": "法杖",
+"tier": "精华",
+"image": "/api/image/0fdb1a5d6511f628.gif"
+},
+{
+"name": "多节棍",
+"name_en": "Elder Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "精华",
+"image": "/api/image/2f3e1d5b0c7f6e0c.gif"
+},
+{
+"name": "树皮之杖",
+"name_en": "Shillelagh",
+"category": "武器",
+"type": "法杖",
+"tier": "精华",
+"image": "/api/image/0d4bbe234c44b766.gif"
+},
+{
+"name": "执政官之杖",
+"name_en": "Archon Staff",
+"category": "武器",
+"type": "法杖",
+"tier": "精华",
+"image": "/api/image/8d9a047cb71bc920.gif"
+},
+{
+"name": "手杖",
+"name_en": "Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "普通",
+"image": "/api/image/dcf0211fa2c7e5c3.gif"
+},
+{
+"name": "紫杉之杖",
+"name_en": "Yew Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "普通",
+"image": "/api/image/deccf11efd80b908.gif"
+},
+{
+"name": "骨杖",
+"name_en": "Bone Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "普通",
+"image": "/api/image/489810dd9d69644f.gif"
+},
+{
+"name": "残酷之杖",
+"name_en": "Grim Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "普通",
+"image": "/api/image/0981dc25fd0253fe.gif"
+},
+{
+"name": "烧焦之杖",
+"name_en": "Burnt Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "扩展",
+"image": "/api/image/dcf0211fa2c7e5c3.gif"
+},
+{
+"name": "净化之杖",
+"name_en": "Petrified Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "扩展",
+"image": "/api/image/deccf11efd80b908.gif"
+},
+{
+"name": "古墓之杖",
+"name_en": "Tomb Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "扩展",
+"image": "/api/image/489810dd9d69644f.gif"
+},
+{
+"name": "洗练法杖",
+"name_en": "Polished Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "精华",
+"image": "/api/image/dcf0211fa2c7e5c3.gif"
+},
+{
+"name": "鬼魂之杖",
+"name_en": "Ghost Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "精华",
+"image": "/api/image/deccf11efd80b908.gif"
+},
+{
+"name": "巫妖法杖",
+"name_en": "Lich Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "精华",
+"image": "/api/image/489810dd9d69644f.gif"
+},
+{
+"name": "破隐法杖",
+"name_en": "Uneatthed Wand",
+"category": "武器",
+"type": "手杖",
+"tier": "精华",
+"image": "/api/image/0981dc25fd0253fe.gif"
+},
+{
+"name": "长矛",
+"name_en": "Spear",
+"category": "武器",
+"type": "长矛",
+"tier": "普通",
+"image": "/api/image/72cae0412a011814.gif"
+},
+{
+"name": "三叉戟",
+"name_en": "Trident",
+"category": "武器",
+"type": "长矛",
+"tier": "普通",
+"image": "/api/image/df175768c0e006b0.gif"
+},
+{
+"name": "叉",
+"name_en": "Brandistock",
+"category": "武器",
+"type": "长矛",
+"tier": "普通",
+"image": "/api/image/45205634dfcfb652.gif"
+},
+{
+"name": "大战戟",
+"name_en": "Spetum",
+"category": "武器",
+"type": "长矛",
+"tier": "普通",
+"image": "/api/image/45205634dfcfb652.gif"
+},
+{
+"name": "矛",
+"name_en": "Pike",
+"category": "武器",
+"type": "长矛",
+"tier": "普通",
+"image": "/api/image/572fc174f01dd993.gif"
+},
+{
+"name": "巨战长矛",
+"name_en": "War Spear",
+"category": "武器",
+"type": "长矛",
+"tier": "扩展",
+"image": "/api/image/72cae0412a011814.gif"
+},
+{
+"name": "魔鬼之叉",
+"name_en": "War Fork",
+"category": "武器",
+"type": "长矛",
+"tier": "扩展",
+"image": "/api/image/df175768c0e006b0.gif"
+},
+{
+"name": "巨战之叉",
+"name_en": "War Fork",
+"category": "武器",
+"type": "长矛",
+"tier": "扩展",
+"image": "/api/image/45205634dfcfb652.gif"
+},
+{
+"name": "三叉长枪",
+"name_en": "Yari",
+"category": "武器",
+"type": "长矛",
+"tier": "扩展",
+"image": "/api/image/45205634dfcfb652.gif"
+},
+{
+"name": "长枪",
+"name_en": "Lance",
+"category": "武器",
+"type": "长矛",
+"tier": "扩展",
+"image": "/api/image/572fc174f01dd993.gif"
+},
+{
+"name": "亥伯龙之矛",
+"name_en": "Hyperion Spear",
+"category": "武器",
+"type": "长矛",
+"tier": "精华",
+"image": "/api/image/72cae0412a011814.gif"
+},
+{
+"name": "冥河之枪",
+"name_en": "Stygian Pike",
+"category": "武器",
+"type": "长矛",
+"tier": "精华",
+"image": "/api/image/df175768c0e006b0.gif"
+},
+{
+"name": "刺人枪",
+"name_en": "Mancatcher",
+"category": "武器",
+"type": "长矛",
+"tier": "精华",
+"image": "/api/image/45205634dfcfb652.gif"
+},
+{
+"name": "鬼魂之矛",
+"name_en": "Ghost Spear",
+"category": "武器",
+"type": "长矛",
+"tier": "精华",
+"image": "/api/image/45205634dfcfb652.gif"
+},
+{
+"name": "战枪",
+"name_en": "War Pike",
+"category": "武器",
+"type": "长矛",
+"tier": "精华",
+"image": "/api/image/572fc174f01dd993.gif"
+},
+{
+"name": "大砍刀",
+"name_en": "Bardiche",
+"category": "武器",
+"type": "长柄武器",
+"tier": "普通",
+"image": "/api/image/d9d93f9428bfe51c.gif"
+},
+{
+"name": "钩镰枪",
+"name_en": "Voulge",
+"category": "武器",
+"type": "长柄武器",
+"tier": "普通",
+"image": "/api/image/a907e1285d7cb22d.gif"
+},
+{
+"name": "镰刀",
+"name_en": "Scythe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "普通",
+"image": "/api/image/c4043840db4a3a89.gif"
+},
+{
+"name": "长柄战斧",
+"name_en": "Poleaxe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "普通",
+"image": "/api/image/a6c8cd800ada1946.gif"
+},
+{
+"name": "长戟",
+"name_en": "Halberd",
+"category": "武器",
+"type": "长柄武器",
+"tier": "普通",
+"image": "/api/image/e76402b53bd7ee43.gif"
+},
+{
+"name": "巨战镰刀",
+"name_en": "War Scythe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "普通",
+"image": "/api/image/7ce0cac9ac8a136f.gif"
+},
+{
+"name": "罗佳伯斧",
+"name_en": "Lochaber Axe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "扩展",
+"image": "/api/image/d9d93f9428bfe51c.gif"
+},
+{
+"name": "比尔长刀",
+"name_en": "Bill",
+"category": "武器",
+"type": "长柄武器",
+"tier": "扩展",
+"image": "/api/image/a907e1285d7cb22d.gif"
+},
+{
+"name": "战斗镰刀",
+"name_en": "Battle Scythe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "扩展",
+"image": "/api/image/c4043840db4a3a89.gif"
+},
+{
+"name": "战戟",
+"name_en": "Partizan",
+"category": "武器",
+"type": "长柄武器",
+"tier": "扩展",
+"image": "/api/image/a6c8cd800ada1946.gif"
+},
+{
+"name": "双锋战戟",
+"name_en": "Bec-De-Corbin",
+"category": "武器",
+"type": "长柄武器",
+"tier": "扩展",
+"image": "/api/image/e76402b53bd7ee43.gif"
+},
+{
+"name": "残酷镰刀",
+"name_en": "Grim Scythe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "扩展",
+"image": "/api/image/7ce0cac9ac8a136f.gif"
+},
+{
+"name": "食人魔之斧",
+"name_en": "Ogre Axe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "精华",
+"image": "/api/image/d9d93f9428bfe51c.gif"
+},
+{
+"name": "巨神之斧",
+"name_en": "Colossus Voulge",
+"category": "武器",
+"type": "长柄武器",
+"tier": "精华",
+"image": "/api/image/a907e1285d7cb22d.gif"
+},
+{
+"name": "锐利之斧",
+"name_en": "Thresher",
+"category": "武器",
+"type": "长柄武器",
+"tier": "精华",
+"image": "/api/image/c4043840db4a3a89.gif"
+},
+{
+"name": "神秘之斧",
+"name_en": "Cryptic Axe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "精华",
+"image": "/api/image/a6c8cd800ada1946.gif"
+},
+{
+"name": "巨长斧",
+"name_en": "Great Poleaxe",
+"category": "武器",
+"type": "长柄武器",
+"tier": "精华",
+"image": "/api/image/e76402b53bd7ee43.gif"
+},
+{
+"name": "蛟尾巨斧",
+"name_en": "Giant Thresher",
+"category": "武器",
+"type": "长柄武器",
+"tier": "精华",
+"image": "/api/image/7ce0cac9ac8a136f.gif"
+},
+{
+"name": "飞刀",
+"name_en": "Throwing Knife",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "普通",
+"image": "/api/image/0efa00cf70e94ac8.gif"
+},
+{
+"name": "平衡小刀",
+"name_en": "Balanced Knife",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "普通",
+"image": "/api/image/1ea99e1e0761512c.gif"
+},
+{
+"name": "飞斧",
+"name_en": "Throwing Axe",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "普通",
+"image": "/api/image/de8d293d07df0845.gif"
+},
+{
+"name": "平衡斧",
+"name_en": "Balanced Axe",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "普通",
+"image": "/api/image/49737e72968d01fc.gif"
+},
+{
+"name": "战斗飞镖",
+"name_en": "Battle Dart",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "扩展",
+"image": "/api/image/0efa00cf70e94ac8.gif"
+},
+{
+"name": "巨战飞镖",
+"name_en": "War Dart",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "扩展",
+"image": "/api/image/1ea99e1e0761512c.gif"
+},
+{
+"name": "法兰飞斧",
+"name_en": "Francisca",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "扩展",
+"image": "/api/image/de8d293d07df0845.gif"
+},
+{
+"name": "短战戟",
+"name_en": "Hurbat",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "扩展",
+"image": "/api/image/49737e72968d01fc.gif"
+},
+{
+"name": "飞刀",
+"name_en": "Flying Knife",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "精华",
+"image": "/api/image/0efa00cf70e94ac8.gif"
+},
+{
+"name": "翼刀",
+"name_en": "Winged Knife",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "精华",
+"image": "/api/image/1ea99e1e0761512c.gif"
+},
+{
+"name": "飞斧",
+"name_en": "Flying Axe",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "精华",
+"image": "/api/image/de8d293d07df0845.gif"
+},
+{
+"name": "翼斧",
+"name_en": "Winged Axe",
+"category": "武器",
+"type": "投掷类武器",
+"tier": "精华",
+"image": "/api/image/49737e72968d01fc.gif"
+},
+{
+"name": "男性之弓",
+"name_en": "Stag Bow",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "普通",
+"image": "/api/image/cb2b7e8ed1f2269c.gif"
+},
+{
+"name": "反射之弓",
+"name_en": "Reflex Bow",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "普通",
+"image": "/api/image/7ad0105bab6c3b89.gif"
+},
+{
+"name": "女士之矛",
+"name_en": "Maiden Spear",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "普通",
+"image": "/api/image/9487613320e70507.gif"
+},
+{
+"name": "女士长矛",
+"name_en": "Maiden Pike",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "普通",
+"image": "/api/image/6eac96aca3a87c5d.gif"
+},
+{
+"name": "女士标枪",
+"name_en": "Maiden Javelin",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "普通",
+"image": "/api/image/6013b9d5af74151f.gif"
+},
+{
+"name": "灰木之弓",
+"name_en": "Ashwood Bow",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "扩展",
+"image": "/api/image/cb2b7e8ed1f2269c.gif"
+},
+{
+"name": "祭典之弓",
+"name_en": "Ceremonial Bow",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "扩展",
+"image": "/api/image/7ad0105bab6c3b89.gif"
+},
+{
+"name": "祭典之矛",
+"name_en": "Ceremonial Spear",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "扩展",
+"image": "/api/image/9487613320e70507.gif"
+},
+{
+"name": "祭典长矛",
+"name_en": "Ceremonial Pike",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "扩展",
+"image": "/api/image/6eac96aca3a87c5d.gif"
+},
+{
+"name": "祭典标枪",
+"name_en": "Ceremonial Javelin",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "扩展",
+"image": "/api/image/6013b9d5af74151f.gif"
+},
+{
+"name": "女族长之弓",
+"name_en": "Matriarchal Bow",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "精华",
+"image": "/api/image/cb2b7e8ed1f2269c.gif"
+},
+{
+"name": "大院长之弓",
+"name_en": "Grand Matron Bow",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "精华",
+"image": "/api/image/7ad0105bab6c3b89.gif"
+},
+{
+"name": "女族长之矛",
+"name_en": "Matriarchal Spear",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "精华",
+"image": "/api/image/9487613320e70507.gif"
+},
+{
+"name": "女族长之长矛",
+"name_en": "Matriarchal Pike",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "精华",
+"image": "/api/image/6eac96aca3a87c5d.gif"
+},
+{
+"name": "女族长之标枪",
+"name_en": "Matriarchal Javelin",
+"category": "职业专用武器",
+"type": "亚马逊专用武器",
+"tier": "精华",
+"image": "/api/image/6013b9d5af74151f.gif"
+},
+{
+"name": "拳剑",
+"name_en": "Katar",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/411f66aa313e6820.gif"
+},
+{
+"name": "腕刀",
+"name_en": "Wrist Blade",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/49f6a3f25b8a0207.gif"
+},
+{
+"name": "斧手",
+"name_en": "Hatchet Hands",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/fb817a74eaba7dc4.gif"
+},
+{
+"name": "腰刀",
+"name_en": "Cestus",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/3269eef82ed55d4a.gif"
+},
+{
+"name": "爪",
+"name_en": "Claws",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/4c7172a6c3bfc05c.gif"
+},
+{
+"name": "刃爪",
+"name_en": "Blade Talons",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/a92c7f84c43de92c.gif"
+},
+{
+"name": "剪咬刃",
+"name_en": "Scissor Katar",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "普通",
+"image": "/api/image/579b63360eb04937.gif"
+},
+{
+"name": "格斗刃",
+"name_en": "Quhab",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/411f66aa313e6820.gif"
+},
+{
+"name": "腕刺",
+"name_en": "Wrist Spike",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/49f6a3f25b8a0207.gif"
+},
+{
+"name": "格斗爪",
+"name_en": "Fascia",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/fb817a74eaba7dc4.gif"
+},
+{
+"name": "手镰",
+"name_en": "Hand Scythe",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/3269eef82ed55d4a.gif"
+},
+{
+"name": "巨爪",
+"name_en": "Greater Claws",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/4c7172a6c3bfc05c.gif"
+},
+{
+"name": "巨鹰爪",
+"name_en": "Greater Talons",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/a92c7f84c43de92c.gif"
+},
+{
+"name": "格斗剪",
+"name_en": "Scissors Quhab",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "扩展",
+"image": "/api/image/579b63360eb04937.gif"
+},
+{
+"name": "近身刃",
+"name_en": "Suwayyah",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/411f66aa313e6820.gif"
+},
+{
+"name": "腕剑",
+"name_en": "Wrist Sword",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/49f6a3f25b8a0207.gif"
+},
+{
+"name": "战拳",
+"name_en": "War Fist",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/fb817a74eaba7dc4.gif"
+},
+{
+"name": "斗腰刀",
+"name_en": "Battle Cestus",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/3269eef82ed55d4a.gif"
+},
+{
+"name": "猛禽爪",
+"name_en": "Freal Claws",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/4c7172a6c3bfc05c.gif"
+},
+{
+"name": "符文爪",
+"name_en": "Runic Talons",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/a92c7f84c43de92c.gif"
+},
+{
+"name": "近身剪",
+"name_en": "Scissor Suwayyah",
+"category": "职业专用武器",
+"type": "刺客爪",
+"tier": "精华",
+"image": "/api/image/579b63360eb04937.gif"
+},
+{
+"name": "鹰之法珠",
+"name_en": "Eagle Orb",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "普通",
+"image": "/api/image/6dd0d33591961d00.gif"
+},
+{
+"name": "神圣天球",
+"name_en": "Scared Globe",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "普通",
+"image": "/api/image/b5b962f4d1b909e1.gif"
+},
+{
+"name": "拢烟之球",
+"name_en": "Smoked Sphere",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "普通",
+"image": "/api/image/34caaa0a0bd875aa.gif"
+},
+{
+"name": "扣握法珠",
+"name_en": "Clasped Orb",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "普通",
+"image": "/api/image/283635d51340987a.gif"
+},
+{
+"name": "杰瑞德之石",
+"name_en": "Jared's Stone",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "普通",
+"image": "/api/image/5247b6370c61d089.gif"
+},
+{
+"name": "灵光法珠",
+"name_en": "Glowing Orb",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "扩展",
+"image": "/api/image/6dd0d33591961d00.gif"
+},
+{
+"name": "水晶天球",
+"name_en": "Crystalline Globe",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "扩展",
+"image": "/api/image/b5b962f4d1b909e1.gif"
+},
+{
+"name": "云雾之球",
+"name_en": "Cloudy Sphere",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "扩展",
+"image": "/api/image/34caaa0a0bd875aa.gif"
+},
+{
+"name": "闪耀之珠",
+"name_en": "Sparking Ball",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "扩展",
+"image": "/api/image/283635d51340987a.gif"
+},
+{
+"name": "涡流水晶",
+"name_en": "Swirling Crystal",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "扩展",
+"image": "/api/image/5247b6370c61d089.gif"
+},
+{
+"name": "天堂之石",
+"name_en": "Heavenly Stone",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "精华",
+"image": "/api/image/6dd0d33591961d00.gif"
+},
+{
+"name": "怪异之球",
+"name_en": "Eldritch Orb",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "精华",
+"image": "/api/image/b5b962f4d1b909e1.gif"
+},
+{
+"name": "恶魔之心",
+"name_en": "Demon Heart",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "精华",
+"image": "/api/image/34caaa0a0bd875aa.gif"
+},
+{
+"name": "漩涡球",
+"name_en": "Vortex Orb",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "精华",
+"image": "/api/image/283635d51340987a.gif"
+},
+{
+"name": "次元碎片",
+"name_en": "Dimensional Shard",
+"category": "职业专用武器",
+"type": "法师天球",
+"tier": "精华",
+"image": "/api/image/5247b6370c61d089.gif"
+},
+{
+"name": "饰带",
+"name_en": "Sash",
+"category": "防具",
+"type": "腰带",
+"tier": "普通",
+"image": "/api/image/4e29ca8ff27cd031.gif"
+},
+{
+"name": "轻扣带",
+"name_en": "Light Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "普通",
+"image": "/api/image/ac478efb615f79ae.gif"
+},
+{
+"name": "扣带",
+"name_en": "Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "普通",
+"image": "/api/image/057f30da767f5a34.gif"
+},
+{
+"name": "重扣带",
+"name_en": "Heavy Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "普通",
+"image": "/api/image/c532030f6946f7d0.gif"
+},
+{
+"name": "金属扣带",
+"name_en": "Plated Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "普通",
+"image": "/api/image/da76cfb7a8ff87dd.gif"
+},
+{
+"name": "魔皮动带",
+"name_en": "Demnhide Sash",
+"category": "防具",
+"type": "腰带",
+"tier": "扩展",
+"image": "/api/image/4e29ca8ff27cd031.gif"
+},
+{
+"name": "鲨皮腰带",
+"name_en": "Sharkskin Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "扩展",
+"image": "/api/image/ac478efb615f79ae.gif"
+},
+{
+"name": "织网腰带",
+"name_en": "Mesh Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "扩展",
+"image": "/api/image/057f30da767f5a34.gif"
+},
+{
+"name": "战场腰带",
+"name_en": "Battle Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "扩展",
+"image": "/api/image/c532030f6946f7d0.gif"
+},
+{
+"name": "巨战腰带",
+"name_en": "War Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "扩展",
+"image": "/api/image/da76cfb7a8ff87dd.gif"
+},
+{
+"name": "蛛网腰带",
+"name_en": "Spiderweb Sash",
+"category": "防具",
+"type": "腰带",
+"tier": "精华",
+"image": "/api/image/4e29ca8ff27cd031.gif"
+},
+{
+"name": "吸血鬼獠牙腰带",
+"name_en": "Vampirefang Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "精华",
+"image": "/api/image/ac478efb615f79ae.gif"
+},
+{
+"name": "秘银腰带",
+"name_en": "Mithril Coil",
+"category": "防具",
+"type": "腰带",
+"tier": "精华",
+"image": "/api/image/057f30da767f5a34.gif"
+},
+{
+"name": "洞穴巨魔腰带",
+"name_en": "Troll Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "精华",
+"image": "/api/image/c532030f6946f7d0.gif"
+},
+{
+"name": "巨神腰带",
+"name_en": "Colossus Belt",
+"category": "防具",
+"type": "腰带",
+"tier": "精华",
+"image": "/api/image/da76cfb7a8ff87dd.gif"
+},
+{
+"name": "皮手套",
+"name_en": "Leather Gloves",
+"category": "防具",
+"type": "手套",
+"tier": "普通",
+"image": "/api/image/f4986b57ebd07d21.gif"
+},
+{
+"name": "重手套",
+"name_en": "Heavy Gloves",
+"category": "防具",
+"type": "手套",
+"tier": "普通",
+"image": "/api/image/274415feaec1202d.gif"
+},
+{
+"name": "锁链手套",
+"name_en": "Chain Gloves",
+"category": "防具",
+"type": "手套",
+"tier": "普通",
+"image": "/api/image/a53a3d232f610fce.gif"
+},
+{
+"name": "轻型铁手套",
+"name_en": "Light Gauntlets",
+"category": "防具",
+"type": "手套",
+"tier": "普通",
+"image": "/api/image/cf13beb7552c33c2.gif"
+},
+{
+"name": "铁手套",
+"name_en": "Gauntlets",
+"category": "防具",
+"type": "手套",
+"tier": "普通",
+"image": "/api/image/d3ffc77c1fdd5b2f.gif"
+},
+{
+"name": "魔皮手套",
+"name_en": "Demonhide Gloves",
+"category": "防具",
+"type": "手套",
+"tier": "扩展",
+"image": "/api/image/f4986b57ebd07d21.gif"
+},
+{
+"name": "鲨皮手套",
+"name_en": "Sharkskin Gloves",
+"category": "防具",
+"type": "手套",
+"tier": "扩展",
+"image": "/api/image/274415feaec1202d.gif"
+},
+{
+"name": "重型手镯",
+"name_en": "Heavy Bracers",
+"category": "防具",
+"type": "手套",
+"tier": "扩展",
+"image": "/api/image/a53a3d232f610fce.gif"
+},
+{
+"name": "战场手套",
+"name_en": "Battle Gauntlets",
+"category": "防具",
+"type": "手套",
+"tier": "扩展",
+"image": "/api/image/cf13beb7552c33c2.gif"
+},
+{
+"name": "巨战手套",
+"name_en": "War Gauntlets",
+"category": "防具",
+"type": "手套",
+"tier": "扩展",
+"image": "/api/image/d3ffc77c1fdd5b2f.gif"
+},
+{
+"name": "荆棘连指手套",
+"name_en": "Bramble Mitts",
+"category": "防具",
+"type": "手套",
+"tier": "精华",
+"image": "/api/image/f4986b57ebd07d21.gif"
+},
+{
+"name": "吸血鬼骸骨手套",
+"name_en": "Vampirebone Gloves",
+"category": "防具",
+"type": "手套",
+"tier": "精华",
+"image": "/api/image/274415feaec1202d.gif"
+},
+{
+"name": "吸血鬼手套",
+"name_en": "Vambraces",
+"category": "防具",
+"type": "手套",
+"tier": "精华",
+"image": "/api/image/a53a3d232f610fce.gif"
+},
+{
+"name": "十字军铁手套",
+"name_en": "Crusader Gauntlets",
+"category": "防具",
+"type": "手套",
+"tier": "精华",
+"image": "/api/image/cf13beb7552c33c2.gif"
+},
+{
+"name": "食人魔铁手套",
+"name_en": "Ogre Gauntlets",
+"category": "防具",
+"type": "手套",
+"tier": "精华",
+"image": "/api/image/d3ffc77c1fdd5b2f.gif"
+},
+{
+"name": "皮靴",
+"name_en": "Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "普通",
+"image": "/api/image/477c1d22e0d08c9b.gif"
+},
+{
+"name": "重靴",
+"name_en": "Heavy Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "普通",
+"image": "/api/image/c414fe7bc0526880.gif"
+},
+{
+"name": "锁链靴",
+"name_en": "Chain Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "普通",
+"image": "/api/image/ef4d88470040a7f0.gif"
+},
+{
+"name": "轻型金属靴",
+"name_en": "Lingt Plated Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "普通",
+"image": "/api/image/c92d8225206ca3fc.gif"
+},
+{
+"name": "护胫",
+"name_en": "Greaves",
+"category": "防具",
+"type": "鞋子",
+"tier": "普通",
+"image": "/api/image/3379ab0f3c3c5724.gif"
+},
+{
+"name": "魔皮靴",
+"name_en": "Demonhide Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "扩展",
+"image": "/api/image/477c1d22e0d08c9b.gif"
+},
+{
+"name": "鲨皮之靴",
+"name_en": "Sharkskin Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "扩展",
+"image": "/api/image/c414fe7bc0526880.gif"
+},
+{
+"name": "织网之靴",
+"name_en": "Mesh Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "扩展",
+"image": "/api/image/ef4d88470040a7f0.gif"
+},
+{
+"name": "战场之靴",
+"name_en": "Battle Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "扩展",
+"image": "/api/image/c92d8225206ca3fc.gif"
+},
+{
+"name": "巨战之靴",
+"name_en": "War Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "扩展",
+"image": "/api/image/3379ab0f3c3c5724.gif"
+},
+{
+"name": "飞龙皮靴",
+"name_en": "Wyrmhide Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "精华",
+"image": "/api/image/477c1d22e0d08c9b.gif"
+},
+{
+"name": "圣甲壳虫靴",
+"name_en": "Scarabshell Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "精华",
+"image": "/api/image/c414fe7bc0526880.gif"
+},
+{
+"name": "骸骨靴",
+"name_en": "Boneweave Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "精华",
+"image": "/api/image/ef4d88470040a7f0.gif"
+},
+{
+"name": "镜化靴",
+"name_en": "Mirrored Boots",
+"category": "防具",
+"type": "鞋子",
+"tier": "精华",
+"image": "/api/image/c92d8225206ca3fc.gif"
+},
+{
+"name": "急速靴",
+"name_en": "Mymidon Greavres",
+"category": "防具",
+"type": "鞋子",
+"tier": "精华",
+"image": "/api/image/3379ab0f3c3c5724.gif"
+},
+{
+"name": "帽子",
+"name_en": "Cap",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/60b8a9fded44e62b.gif"
+},
+{
+"name": "骷髅帽",
+"name_en": "Skull Cap",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/54c7eabbbb18afe9.gif"
+},
+{
+"name": "头盔",
+"name_en": "Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/429d00d35de8ed0f.gif"
+},
+{
+"name": "高级头盔",
+"name_en": "Full Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/0277b4cfa78d6b14.gif"
+},
+{
+"name": "卓越头盔",
+"name_en": "Great Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/1769a31bc940d049.gif"
+},
+{
+"name": "面具",
+"name_en": "Mask",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/7e9cbe0572e4e5de.gif"
+},
+{
+"name": "皇冠",
+"name_en": "Crown",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/d456c9387ed79900.gif"
+},
+{
+"name": "白骨头盔",
+"name_en": "Bone Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "普通",
+"image": "/api/image/50d7a9e94eb37df4.gif"
+},
+{
+"name": "战帽",
+"name_en": "War Hat",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/60b8a9fded44e62b.gif"
+},
+{
+"name": "轻便头盔",
+"name_en": "Sallet",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/54c7eabbbb18afe9.gif"
+},
+{
+"name": "无颊头盔",
+"name_en": "Casque",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/429d00d35de8ed0f.gif"
+},
+{
+"name": "轻钢盔",
+"name_en": "Basinet",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/0277b4cfa78d6b14.gif"
+},
+{
+"name": "翼盔",
+"name_en": "Winged Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/1769a31bc940d049.gif"
+},
+{
+"name": "死亡面具",
+"name_en": "Death Mask",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/7e9cbe0572e4e5de.gif"
+},
+{
+"name": "巨皇冠",
+"name_en": "Grand Crown",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/d456c9387ed79900.gif"
+},
+{
+"name": "残酷头盔",
+"name_en": "Grim Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "扩展",
+"image": "/api/image/50d7a9e94eb37df4.gif"
+},
+{
+"name": "军帽",
+"name_en": "Shako",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/60b8a9fded44e62b.gif"
+},
+{
+"name": "九头蛇头盖骨圆帽",
+"name_en": "Hydraskull",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/54c7eabbbb18afe9.gif"
+},
+{
+"name": "活动头盔",
+"name_en": "Armet",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/429d00d35de8ed0f.gif"
+},
+{
+"name": "巨贝头盔",
+"name_en": "Giant Couch",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/0277b4cfa78d6b14.gif"
+},
+{
+"name": "螺旋头盔",
+"name_en": "Spired Helm",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/1769a31bc940d049.gif"
+},
+{
+"name": "恶魔头盖骨面具",
+"name_en": "Demonhead",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/7e9cbe0572e4e5de.gif"
+},
+{
+"name": "头冠",
+"name_en": "Corona",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/d456c9387ed79900.gif"
+},
+{
+"name": "骸骨面罩",
+"name_en": "Bone Visage",
+"category": "防具",
+"type": "头盔",
+"tier": "精华",
+"image": "/api/image/50d7a9e94eb37df4.gif"
+},
+{
+"name": "布甲",
+"name_en": "Quilted Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/d1d49326c8679576.gif"
+},
+{
+"name": "皮甲",
+"name_en": "Leather Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/cd836d191d2b70f7.gif"
+},
+{
+"name": "硬皮甲",
+"name_en": "Hard Leather Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/6841d31bea8256aa.gif"
+},
+{
+"name": "镶嵌甲",
+"name_en": "Studded Leather",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/231c4d220f3b557e.gif"
+},
+{
+"name": "锁环甲",
+"name_en": "Ring Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/c706bf70b8cd64da.gif"
+},
+{
+"name": "鳞甲",
+"name_en": "Scale Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/9223add4e91483e0.gif"
+},
+{
+"name": "胸甲",
+"name_en": "Breast Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/7bfbe70388b6df69.gif"
+},
+{
+"name": "锁子甲",
+"name_en": "Chain Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/7c148d1662e626da.gif"
+},
+{
+"name": "板甲",
+"name_en": "Splint Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/3b560e62ba40ade3.gif"
+},
+{
+"name": "轻型装甲",
+"name_en": "Light Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/953352ebf95a8a4b.gif"
+},
+{
+"name": "实战铠甲",
+"name_en": "Field Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/175dc5c5174c6d3e.gif"
+},
+{
+"name": "铠甲",
+"name_en": "Plate Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/4d75ec67e02315a3.gif"
+},
+{
+"name": "哥德战甲",
+"name_en": "Gothic Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/28aec6dc00f28822.gif"
+},
+{
+"name": "高级战甲",
+"name_en": "Full Plate Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/18e52c6e01c21536.gif"
+},
+{
+"name": "古代装甲",
+"name_en": "Ancient Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "普通",
+"image": "/api/image/cb25e874ec931348.gif"
+},
+{
+"name": "布甲",
+"name_en": "Quilted Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/d1d49326c8679576.gif"
+},
+{
+"name": "海蛇皮甲",
+"name_en": "Serpentskin Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/cd836d191d2b70f7.gif"
+},
+{
+"name": "魔皮战甲",
+"name_en": "Demonhide Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/6841d31bea8256aa.gif"
+},
+{
+"name": "攀绕战甲",
+"name_en": "Trellised Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/231c4d220f3b557e.gif"
+},
+{
+"name": "连扣战甲",
+"name_en": "Linked Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/c706bf70b8cd64da.gif"
+},
+{
+"name": "提格莱特战甲",
+"name_en": "Tigulated Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/9223add4e91483e0.gif"
+},
+{
+"name": "护胸甲",
+"name_en": "Cuirass",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/7bfbe70388b6df69.gif"
+},
+{
+"name": "织网战甲",
+"name_en": "Mesh Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/7c148d1662e626da.gif"
+},
+{
+"name": "罗瑟战甲",
+"name_en": "Russet Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/3b560e62ba40ade3.gif"
+},
+{
+"name": "法师铠甲",
+"name_en": "Mage Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/953352ebf95a8a4b.gif"
+},
+{
+"name": "鲨齿战甲",
+"name_en": "Sharktooth Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/175dc5c5174c6d3e.gif"
+},
+{
+"name": "圣堂武士外袍",
+"name_en": "Templar Coat",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/4d75ec67e02315a3.gif"
+},
+{
+"name": "凸纹战甲",
+"name_en": "Embossed Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/28aec6dc00f28822.gif"
+},
+{
+"name": "混沌战甲",
+"name_en": "Chaos Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/18e52c6e01c21536.gif"
+},
+{
+"name": "华丽战甲",
+"name_en": "Ornate Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "扩展",
+"image": "/api/image/cb25e874ec931348.gif"
+},
+{
+"name": "灰幕寿衣",
+"name_en": "Dusk Shroud",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/d1d49326c8679576.gif"
+},
+{
+"name": "古龙皮",
+"name_en": "Wyrmhide",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/cd836d191d2b70f7.gif"
+},
+{
+"name": "圣甲虫壳皮甲",
+"name_en": "Scarab Husk",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/6841d31bea8256aa.gif"
+},
+{
+"name": "绵羊毛甲",
+"name_en": "Wire Fleece",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/231c4d220f3b557e.gif"
+},
+{
+"name": "钻石锁子甲",
+"name_en": "Diamond Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/c706bf70b8cd64da.gif"
+},
+{
+"name": "甲壳铠鳞甲",
+"name_en": "Loricated Mail",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/9223add4e91483e0.gif"
+},
+{
+"name": "巨形鳞铠胸甲",
+"name_en": "Great Hauberk",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/7bfbe70388b6df69.gif"
+},
+{
+"name": "骸骨链甲",
+"name_en": "Boneweave",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/7c148d1662e626da.gif"
+},
+{
+"name": "炎魔皮板甲",
+"name_en": "Balrog Skin",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/3b560e62ba40ade3.gif"
+},
+{
+"name": "执政官之甲",
+"name_en": "Archon Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/953352ebf95a8a4b.gif"
+},
+{
+"name": "海妖壳甲",
+"name_en": "Kraken Shell",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/175dc5c5174c6d3e.gif"
+},
+{
+"name": "地狱锻甲",
+"name_en": "Hellforge Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/4d75ec67e02315a3.gif"
+},
+{
+"name": "漆甲",
+"name_en": "Lacquered Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/28aec6dc00f28822.gif"
+},
+{
+"name": "阴影铠甲",
+"name_en": "Shadow Plate",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/18e52c6e01c21536.gif"
+},
+{
+"name": "神圣铠甲",
+"name_en": "Sacred Armor",
+"category": "防具",
+"type": "盔甲",
+"tier": "精华",
+"image": "/api/image/cb25e874ec931348.gif"
+},
+{
+"name": "圆盾",
+"name_en": "Buckler",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/e1757e158b1bb37e.gif"
+},
+{
+"name": "小盾牌",
+"name_en": "Small Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/0f46880cb02a6319.gif"
+},
+{
+"name": "大盾牌",
+"name_en": "Large Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/e6b989a8f1157eb9.gif"
+},
+{
+"name": "轻盾",
+"name_en": "Kite Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/cb9e965ff8e51aee.gif"
+},
+{
+"name": "尖刺盾牌",
+"name_en": "Spiked Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/0225f5a75300868c.gif"
+},
+{
+"name": "塔盾",
+"name_en": "Tower Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/1ce0ae511084bef4.gif"
+},
+{
+"name": "白骨盾牌",
+"name_en": "Bone Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/0990bed5bfceb8e3.gif"
+},
+{
+"name": "歌德盾牌",
+"name_en": "Gothic Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "普通",
+"image": "/api/image/d2b6b2fac28b4c4a.gif"
+},
+{
+"name": "防御盾",
+"name_en": "Defender",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/e1757e158b1bb37e.gif"
+},
+{
+"name": "圆形盾",
+"name_en": "Round Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/0f46880cb02a6319.gif"
+},
+{
+"name": "鳞盾",
+"name_en": "Scutum",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/e6b989a8f1157eb9.gif"
+},
+{
+"name": "龙盾",
+"name_en": "Dragon Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/cb9e965ff8e51aee.gif"
+},
+{
+"name": "倒刺盾牌",
+"name_en": "Barbed Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/0225f5a75300868c.gif"
+},
+{
+"name": "大盾",
+"name_en": "Pavise",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/1ce0ae511084bef4.gif"
+},
+{
+"name": "冷酷之盾",
+"name_en": "Grim Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/0990bed5bfceb8e3.gif"
+},
+{
+"name": "古代之盾",
+"name_en": "Ancient Shield",
+"category": "防具",
+"type": "盾牌",
+"tier": "扩展",
+"image": "/api/image/d2b6b2fac28b4c4a.gif"
+},
+{
+"name": "防寒圆盾",
+"name_en": "Heater",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/e1757e158b1bb37e.gif"
+},
+{
+"name": "月精灵护盾",
+"name_en": "Luna",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/0f46880cb02a6319.gif"
+},
+{
+"name": "亥伯龙盾牌",
+"name_en": "Hyperion",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/e6b989a8f1157eb9.gif"
+},
+{
+"name": "统治者大盾",
+"name_en": "Monarch",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/cb9e965ff8e51aee.gif"
+},
+{
+"name": "刀刃盾牌",
+"name_en": "Blade Barrier",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/0225f5a75300868c.gif"
+},
+{
+"name": "护卫盾",
+"name_en": "Aegis",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/1ce0ae511084bef4.gif"
+},
+{
+"name": "洞穴巨魔巢穴",
+"name_en": "Troll Nest",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/0990bed5bfceb8e3.gif"
+},
+{
+"name": "保护盾牌",
+"name_en": "Ward",
+"category": "防具",
+"type": "盾牌",
+"tier": "精华",
+"image": "/api/image/d2b6b2fac28b4c4a.gif"
+},
+{
+"name": "头饰",
+"name_en": "Circlet",
+"category": "防具",
+"type": "头饰",
+"tier": "未分级",
+"image": "/api/image/74e098fed1f34b41.gif"
+},
+{
+"name": "宝冠",
+"name_en": "Coronet",
+"category": "防具",
+"type": "头饰",
+"tier": "未分级",
+"image": "/api/image/446de6bf080c472b.gif"
+},
+{
+"name": "三重冠",
+"name_en": "Tiara",
+"category": "防具",
+"type": "头饰",
+"tier": "未分级",
+"image": "/api/image/aa75a4c3322f0ec6.gif"
+},
+{
+"name": "权冠",
+"name_en": "Diadem",
+"category": "防具",
+"type": "头饰",
+"tier": "未分级",
+"image": "/api/image/23de4ce5869900ec.gif"
+},
+{
+"name": "颚骨帽",
+"name_en": "Jawbone Cap",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "普通",
+"image": "/api/image/b15513f04c336823.gif"
+},
+{
+"name": "尖牙盔",
+"name_en": "Fanged Helm",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "普通",
+"image": "/api/image/1fed9cf6c4948755.gif"
+},
+{
+"name": "角盔",
+"name_en": "Horned Helm",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "普通",
+"image": "/api/image/22de5a8cf347d03b.gif"
+},
+{
+"name": "突击盔",
+"name_en": "Assault Helmet",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "普通",
+"image": "/api/image/4a661afec2ff99b6.gif"
+},
+{
+"name": "复仇者之盔",
+"name_en": "Avenger Guard",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "普通",
+"image": "/api/image/a1515dfbb3151b67.gif"
+},
+{
+"name": "颚骨面甲",
+"name_en": "Jawbone Visor",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "扩展",
+"image": "/api/image/b15513f04c336823.gif"
+},
+{
+"name": "狮头尖盔",
+"name_en": "Lion Helm",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "扩展",
+"image": "/api/image/1fed9cf6c4948755.gif"
+},
+{
+"name": "狂怒面具刺盔",
+"name_en": "Rage Helm",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "扩展",
+"image": "/api/image/22de5a8cf347d03b.gif"
+},
+{
+"name": "蛮族头盔",
+"name_en": "Savage Helmet",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "扩展",
+"image": "/api/image/4a661afec2ff99b6.gif"
+},
+{
+"name": "杀手防护面甲",
+"name_en": "Slayer Guard",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "扩展",
+"image": "/api/image/a1515dfbb3151b67.gif"
+},
+{
+"name": "屠杀头盔",
+"name_en": "Carnage Helm",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "精华",
+"image": "/api/image/b15513f04c336823.gif"
+},
+{
+"name": "暴怒面甲",
+"name_en": "Fury Visor",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "精华",
+"image": "/api/image/1fed9cf6c4948755.gif"
+},
+{
+"name": "毁灭者头盔",
+"name_en": "Destroyer Helm",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "精华",
+"image": "/api/image/22de5a8cf347d03b.gif"
+},
+{
+"name": "征服者皇冠面甲",
+"name_en": "Conqueror Crown",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "精华",
+"image": "/api/image/4a661afec2ff99b6.gif"
+},
+{
+"name": "守护者皇冠面甲",
+"name_en": "Guardian Crown",
+"category": "职业专用防具",
+"type": "野蛮人专用头盔",
+"tier": "精华",
+"image": "/api/image/a1515dfbb3151b67.gif"
+},
+{
+"name": "狼头",
+"name_en": "Wolf Head",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "普通",
+"image": "/api/image/d4da47eadc86b58e.gif"
+},
+{
+"name": "飞鹰头盔",
+"name_en": "Hawk Helm",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "普通",
+"image": "/api/image/8a2eaa4451c54247.gif"
+},
+{
+"name": "鹿角",
+"name_en": "Antlers",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "普通",
+"image": "/api/image/215b933441e850a5.gif"
+},
+{
+"name": "猎鹰面具",
+"name_en": "Falcon Mask",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "普通",
+"image": "/api/image/f3063f30e828cb76.gif"
+},
+{
+"name": "灵魂狼头面具",
+"name_en": "Spirit Mask",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "普通",
+"image": "/api/image/cdbd1c82d7633169.gif"
+},
+{
+"name": "阿尔发头盔",
+"name_en": "Alpha Helm",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "扩展",
+"image": "/api/image/d4da47eadc86b58e.gif"
+},
+{
+"name": "狮鹫兽头盔",
+"name_en": "Griffon Headdress",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "扩展",
+"image": "/api/image/8a2eaa4451c54247.gif"
+},
+{
+"name": "猎人的伪装",
+"name_en": "Hunter's Guise",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "扩展",
+"image": "/api/image/215b933441e850a5.gif"
+},
+{
+"name": "神圣羽毛",
+"name_en": "Sacred Feathers",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "扩展",
+"image": "/api/image/f3063f30e828cb76.gif"
+},
+{
+"name": "图腾面具狼盔",
+"name_en": "Totemic Mask",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "扩展",
+"image": "/api/image/cdbd1c82d7633169.gif"
+},
+{
+"name": "血腥之灵",
+"name_en": "Blood Mask",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "精华",
+"image": "/api/image/d4da47eadc86b58e.gif"
+},
+{
+"name": "太阳之灵",
+"name_en": "Sun Spirit",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "精华",
+"image": "/api/image/8a2eaa4451c54247.gif"
+},
+{
+"name": "大地之灵",
+"name_en": "Earth Spirit",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "精华",
+"image": "/api/image/215b933441e850a5.gif"
+},
+{
+"name": "天空之灵",
+"name_en": "Sky Spirit",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "精华",
+"image": "/api/image/f3063f30e828cb76.gif"
+},
+{
+"name": "幽梦之灵",
+"name_en": "Dream Spirit",
+"category": "职业专用防具",
+"type": "德鲁伊专用头盔",
+"tier": "精华",
+"image": "/api/image/cdbd1c82d7633169.gif"
+},
+{
+"name": "小盾",
+"name_en": "Targe",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "普通",
+"image": "/api/image/b3a50c9317cf9151.gif"
+},
+{
+"name": "轻圆盾",
+"name_en": "Rondache",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "普通",
+"image": "/api/image/e079dee0cdf31906.gif"
+},
+{
+"name": "纹章盾",
+"name_en": "Heraldic Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "普通",
+"image": "/api/image/8e5b4a9b30f02f0c.gif"
+},
+{
+"name": "艾文之盾",
+"name_en": "Aerin Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "普通",
+"image": "/api/image/9961909777ab86bb.gif"
+},
+{
+"name": "皇冠之盾",
+"name_en": "Crown Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "普通",
+"image": "/api/image/c963557587e24804.gif"
+},
+{
+"name": "亚克南圆盾",
+"name_en": "Akaran Targe",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "扩展",
+"image": "/api/image/b3a50c9317cf9151.gif"
+},
+{
+"name": "亚克南轻圆盾",
+"name_en": "Akaran Rondache",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "扩展",
+"image": "/api/image/e079dee0cdf31906.gif"
+},
+{
+"name": "防守者盾牌",
+"name_en": "Protector Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "扩展",
+"image": "/api/image/8e5b4a9b30f02f0c.gif"
+},
+{
+"name": "饰金盾牌",
+"name_en": "Aerin Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "扩展",
+"image": "/api/image/9961909777ab86bb.gif"
+},
+{
+"name": "皇家盾牌",
+"name_en": "Royal Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "扩展",
+"image": "/api/image/c963557587e24804.gif"
+},
+{
+"name": "神圣小盾",
+"name_en": "Sacred Targe",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "精华",
+"image": "/api/image/b3a50c9317cf9151.gif"
+},
+{
+"name": "神圣轻圆盾",
+"name_en": "Sacred Rondache",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "精华",
+"image": "/api/image/e079dee0cdf31906.gif"
+},
+{
+"name": "库拉斯特之盾",
+"name_en": "Kurast Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "精华",
+"image": "/api/image/8e5b4a9b30f02f0c.gif"
+},
+{
+"name": "撒卡兰姆盾牌",
+"name_en": "Zakarum Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "精华",
+"image": "/api/image/9961909777ab86bb.gif"
+},
+{
+"name": "旋风盾",
+"name_en": "Vortex Shield",
+"category": "职业专用防具",
+"type": "圣骑士专用盾牌",
+"tier": "精华",
+"image": "/api/image/c963557587e24804.gif"
+},
+{
+"name": "防腐之首",
+"name_en": "Preserved Head",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "普通",
+"image": "/api/image/d0dc56036f80df40.gif"
+},
+{
+"name": "僵尸之首",
+"name_en": "Zombie Head",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "普通",
+"image": "/api/image/0ab09c16c4f505d1.gif"
+},
+{
+"name": "揭露者之首",
+"name_en": "Unraveller Head",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "普通",
+"image": "/api/image/50159cdf4ef8487d.gif"
+},
+{
+"name": "石像鬼之首",
+"name_en": "Gargoyle Head",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "普通",
+"image": "/api/image/df53935675892e1c.gif"
+},
+{
+"name": "恶魔之首",
+"name_en": "Demon Head",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "普通",
+"image": "/api/image/df53935675892e1c.gif"
+},
+{
+"name": "木乃伊印记",
+"name_en": "Mummified Trophy",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "扩展",
+"image": "/api/image/d0dc56036f80df40.gif"
+},
+{
+"name": "物神印记",
+"name_en": "Fetish Trophy",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "扩展",
+"image": "/api/image/0ab09c16c4f505d1.gif"
+},
+{
+"name": "司事印记",
+"name_en": "Sexton Trophy",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "扩展",
+"image": "/api/image/50159cdf4ef8487d.gif"
+},
+{
+"name": "领唱者印记",
+"name_en": "Cantor Trophy",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "扩展",
+"image": "/api/image/4d8961d9c9f2e5c4.gif"
+},
+{
+"name": "祭司印记",
+"name_en": "Hierophant Trophy",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "扩展",
+"image": "/api/image/df53935675892e1c.gif"
+},
+{
+"name": "随侍之骨",
+"name_en": "Minion Skull",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "精华",
+"image": "/api/image/d0dc56036f80df40.gif"
+},
+{
+"name": "地狱爪之骨",
+"name_en": "Hellspawn Skull",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "精华",
+"image": "/api/image/0ab09c16c4f505d1.gif"
+},
+{
+"name": "监视者之骨",
+"name_en": "Overseer Skull",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "精华",
+"image": "/api/image/50159cdf4ef8487d.gif"
+},
+{
+"name": "女妖之骨",
+"name_en": "Succubus Skull",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "精华",
+"image": "/api/image/4d8961d9c9f2e5c4.gif"
+},
+{
+"name": "血王之骨",
+"name_en": "Bloodlord Skull",
+"category": "职业专用防具",
+"type": "死灵法师萎缩头颅",
+"tier": "精华",
+"image": "/api/image/df53935675892e1c.gif"
+},
+{
+"name": "拿各的戒指",
+"name_en": "Nagelring",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/c632af62ea82a9db.gif"
+},
+{
+"name": "马娜德的治疗",
+"name_en": "Manald Heal",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/7371718312b0c6e1.gif"
+},
+{
+"name": "乔丹之石",
+"name_en": "The Stone of Jordan",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/fd37332767776ec3.gif"
+},
+{
+"name": "矮人之星",
+"name_en": "Dwarf Star",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/7371718312b0c6e1.gif"
+},
+{
+"name": "乌鸦之霜",
+"name_en": "Raven Frost",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/fd37332767776ec3.gif"
+},
+{
+"name": "布尔凯索的婚戒",
+"name_en": "Bul-Kathos' Wedding Band",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/c632af62ea82a9db.gif"
+},
+{
+"name": "腐肉之风",
+"name_en": "Carrion Wind",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/fd37332767776ec3.gif"
+},
+{
+"name": "大自然的和平",
+"name_en": "Nature's Peace",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/7371718312b0c6e1.gif"
+},
+{
+"name": "鬼火投掷者",
+"name_en": "Whisp Projector",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/c632af62ea82a9db.gif"
+},
+{
+"name": "天使的光晕",
+"name_en": "Angelic Halo",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/7371718312b0c6e1.gif"
+},
+{
+"name": "卡珊的封印",
+"name_en": "Cathan's Seal",
+"category": "其他",
+"type": "戒指",
+"tier": "未分级",
+"image": "/api/image/7e5acb078817412f.gif"
+},
+{
+"name": "诺科蓝遗物",
+"name_en": "Nokozan Relic",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "艾利屈之眼",
+"name_en": "The Eye of Etlich",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "玛哈姆橡木古董",
+"name_en": "The Mahim-Oak Curio",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/abda88e2f86510ca.gif"
+},
+{
+"name": "萨拉森的机会",
+"name_en": "Saracen's Chance",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/d6803e3b29b4e0fe.gif"
+},
+{
+"name": "猫眼",
+"name_en": "The Cat's Eye",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "新月",
+"name_en": "Crescent Moon",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/abda88e2f86510ca.gif"
+},
+{
+"name": "亚特玛的圣甲虫",
+"name_en": "Atma's Scarab",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "旭日东升",
+"name_en": "The Rising Sun",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/abda88e2f86510ca.gif"
+},
+{
+"name": "马拉的万花筒",
+"name_en": "Mara's Kaleidoscope",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/d6803e3b29b4e0fe.gif"
+},
+{
+"name": "大君之怒",
+"name_en": "Highlord's Wrath",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/abda88e2f86510ca.gif"
+},
+{
+"name": "炙天使之韵",
+"name_en": "Seraph's Hymn",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "金属网格",
+"name_en": "Metalgrid",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "天使之翼",
+"name_en": "Angelic Wings",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "阿卡娜的符号",
+"name_en": "Arcanna's Sign",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "卡珊的魔咒",
+"name_en": "Cathan's Sigil",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/d6803e3b29b4e0fe.gif"
+},
+{
+"name": "希弗柏的图案",
+"name_en": "Civerb's Icon",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "依雷撒的项圈",
+"name_en": "Iratha's Collar",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/d6803e3b29b4e0fe.gif"
+},
+{
+"name": "坦克雷的怪诞",
+"name_en": "Tancred's Weird",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/abda88e2f86510ca.gif"
+},
+{
+"name": "维达拉的陷阱",
+"name_en": "Vidala's Snare",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "述说之珠",
+"name_en": "Telling of Beads",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/85934f3ae3cdaa00.gif"
+},
+{
+"name": "塔拉夏的判决",
+"name_en": "Tal Rasha's Adjudication",
+"category": "其他",
+"type": "项链",
+"tier": "未分级",
+"image": "/api/image/99672c0a5c5c66a7.gif"
+},
+{
+"name": "小型护身符",
+"name_en": "Small Charm",
+"category": "其他",
+"type": "护身符",
+"tier": "未分级",
+"image": null
+},
+{
+"name": "大型护身符",
+"name_en": "Large Charm",
+"category": "其他",
+"type": "护身符",
+"tier": "未分级",
+"image": null
+},
+{
+"name": "超大型护身符",
+"name_en": "Grand Charm",
+"category": "其他",
+"type": "护身符",
+"tier": "未分级",
+"image": null
+}
+]

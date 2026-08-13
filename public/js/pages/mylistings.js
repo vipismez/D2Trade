@@ -15,7 +15,10 @@ const MyListingsPage = {
         <form id="new-listing-form">
           <div class="d2-form-group">
             <label class="d2-label">装备名称</label>
-            <input class="d2-input" name="item_name" placeholder="例：末日 狂战士斧" required />
+            <div class="d2-name-row">
+              <input class="d2-input" name="item_name" id="item-name" placeholder="例：末日 狂战士斧" required />
+              <button type="button" class="d2-btn" id="pick-equipment">📖 从装备库选择</button>
+            </div>
           </div>
           <div class="d2-form-group">
             <label class="d2-label">装备属性（选填）</label>
@@ -37,6 +40,25 @@ const MyListingsPage = {
         </form>
       </div>
 
+      <!-- 装备选择模态框 -->
+      <div class="d2-modal" id="equipment-modal" style="display:none;">
+        <div class="d2-modal-box">
+          <div class="d2-modal-header">
+            <span class="d2-title" style="margin:0;font-size:1.1rem;">📖 选择装备</span>
+            <button type="button" class="d2-modal-close" id="equipment-modal-close">✕</button>
+          </div>
+          <div class="d2-modal-filters">
+            <select class="d2-input" id="eq-category"></select>
+            <select class="d2-input" id="eq-type"></select>
+            <select class="d2-input" id="eq-tier"></select>
+            <input class="d2-input" id="eq-search" placeholder="搜索装备名称..." />
+          </div>
+          <div class="d2-modal-grid" id="eq-list">
+            <div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">加载中...</div>
+          </div>
+        </div>
+      </div>
+
       <div id="mylistings-list">
         <div class="text-dim" style="text-align:center;padding:2rem;">加载中...</div>
       </div>`
@@ -44,6 +66,38 @@ const MyListingsPage = {
 
   async mount() {
     if (!Auth.loggedIn) { App.route('login'); return }
+
+    // ── 装备选择器 ──
+    const modal = $('#equipment-modal')
+    const eqList = $('#eq-list')
+    const catSel = $('#eq-category')
+    const typeSel = $('#eq-type')
+    const tierSel = $('#eq-tier')
+    const eqSearch = $('#eq-search')
+
+    $('#pick-equipment').onclick = async () => {
+      modal.style.display = ''
+      if (!this._equipment) {
+        eqList.innerHTML = '<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">加载中...</div>'
+        const res = await API.equipment()
+        if (res.success) {
+          this._equipment = res.data
+          this._initEquipmentFilters()
+        } else {
+          eqList.innerHTML = `<div class="text-red" style="grid-column:1/-1;">${esc(res.error)}</div>`
+          return
+        }
+      }
+      this._renderEquipmentList()
+    }
+
+    $('#equipment-modal-close').onclick = () => { modal.style.display = 'none' }
+    modal.onclick = (e) => { if (e.target === modal) modal.style.display = 'none' }
+
+    catSel.onchange = () => { this._updateTypeFilter(); this._renderEquipmentList() }
+    typeSel.onchange = () => this._renderEquipmentList()
+    tierSel.onchange = () => this._renderEquipmentList()
+    eqSearch.oninput = () => this._renderEquipmentList()
 
     let imageBase64 = null
     const fileInput = $('#item-image')
@@ -121,6 +175,59 @@ const MyListingsPage = {
     }
 
     await this._load()
+  },
+
+  _initEquipmentFilters() {
+    const cats = [...new Set(this._equipment.map(e => e.category))]
+    $('#eq-category').innerHTML = '<option value="">全部分类</option>' +
+      cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('')
+    const tiers = [...new Set(this._equipment.map(e => e.tier))]
+    $('#eq-tier').innerHTML = '<option value="">全部品质</option>' +
+      tiers.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')
+    this._updateTypeFilter()
+  },
+
+  _updateTypeFilter() {
+    const cat = $('#eq-category').value
+    const types = [...new Set(this._equipment.filter(e => !cat || e.category === cat).map(e => e.type))]
+    $('#eq-type').innerHTML = '<option value="">全部类型</option>' +
+      types.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')
+  },
+
+  _renderEquipmentList() {
+    const eqList = $('#eq-list')
+    const cat = $('#eq-category').value
+    const type = $('#eq-type').value
+    const tier = $('#eq-tier').value
+    const search = $('#eq-search').value.trim().toLowerCase()
+
+    let items = this._equipment.filter(e =>
+      (!cat || e.category === cat) &&
+      (!type || e.type === type) &&
+      (!tier || e.tier === tier) &&
+      (!search || e.name.toLowerCase().includes(search) || (e.name_en || '').toLowerCase().includes(search))
+    )
+
+    if (items.length > 100) items = items.slice(0, 100)
+
+    if (items.length === 0) {
+      eqList.innerHTML = '<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">无匹配装备</div>'
+      return
+    }
+
+    eqList.innerHTML = items.map(e => `
+      <div class="d2-eq-item" onclick="MyListingsPage._selectEquipment('${esc(e.name)}')">
+        ${e.image ? `<img src="${esc(e.image)}" alt="${esc(e.name)}" loading="lazy" />` : ''}
+        <div class="d2-eq-name">${esc(e.name)}</div>
+        <div class="d2-eq-meta">${esc(e.tier)} · ${esc(e.type)}</div>
+      </div>
+    `).join('')
+  },
+
+  _selectEquipment(name) {
+    $('#item-name').value = name
+    $('#equipment-modal').style.display = 'none'
+    toast(`已选择: ${name}`, 'success')
   },
 
   async _load() {

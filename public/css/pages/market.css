@@ -90,3 +90,107 @@
   object-fit: contain;
   background: rgba(0, 0, 0, 0.4);
 }
+
+/* ── 装备名称输入行 ── */
+.d2-name-row {
+  display: flex;
+  gap: 0.5rem;
+}
+.d2-name-row .d2-input {
+  flex: 1;
+}
+.d2-name-row .d2-btn {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* ── 装备选择模态框 ── */
+.d2-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.d2-modal-box {
+  width: 100%;
+  max-width: 760px;
+  max-height: 85vh;
+  background: linear-gradient(180deg, var(--d2-stone) 0%, var(--d2-surface) 100%);
+  border: 2px solid var(--d2-gold-dim);
+  border-radius: 4px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8), var(--shadow-gold);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.d2-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--d2-stone-border);
+}
+.d2-modal-close {
+  background: none;
+  border: none;
+  color: var(--d2-text);
+  font-size: 1.3rem;
+  cursor: pointer;
+  padding: 0 0.5rem;
+}
+.d2-modal-close:hover { color: var(--d2-gold); }
+.d2-modal-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--d2-stone-border);
+}
+.d2-modal-filters .d2-input { flex: 1; min-width: 120px; }
+.d2-modal-filters select.d2-input { cursor: pointer; }
+.d2-modal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  overflow-y: auto;
+}
+
+/* 装备项 */
+.d2-eq-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.5rem;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid var(--d2-stone-border);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: center;
+}
+.d2-eq-item:hover {
+  border-color: var(--d2-gold);
+  box-shadow: var(--shadow-gold);
+  transform: translateY(-1px);
+}
+.d2-eq-item img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+.d2-eq-name {
+  font-size: 0.8rem;
+  color: var(--d2-text);
+  line-height: 1.2;
+}
+.d2-eq-meta {
+  font-size: 0.7rem;
+  color: var(--d2-text-dim);
+}
