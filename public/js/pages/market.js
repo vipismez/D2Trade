@@ -54,6 +54,7 @@ const MarketPage = {
 
     grid.innerHTML = res.data.map(item => `
       <div class="d2-item-card">
+        ${item.image_url ? `<div class="d2-item-image" onclick="MarketPage._previewImage('${esc(item.image_url)}')"><img src="${esc(item.image_url)}" alt="${esc(item.item_name)}" loading="lazy" /></div>` : ''}
         <div class="d2-item-name">${esc(item.item_name)}</div>
         ${item.item_attrs && item.item_attrs !== '{}' ? `<div class="d2-item-attrs">${esc(item.item_attrs)}</div>` : ''}
         <div class="d2-flex-between d2-mt-1">
@@ -84,6 +85,11 @@ const MarketPage = {
   },
 
   _goPage(p) { this._page = p; this._load() },
+
+  _previewImage(url) {
+    // 简单实现：在新窗口打开原图
+    window.open(url, '_blank')
+  },
 
   async _buy(id, name, price) {
     if (!Auth.loggedIn) { App.route('login'); return }

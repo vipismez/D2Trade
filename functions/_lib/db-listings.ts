@@ -11,10 +11,11 @@ export class ListingDB {
   /** 创建装备发布 */
   async create(sellerId: number, input: CreateListingInput): Promise<Listing | null> {
     const result = await this.db.run(
-      'INSERT INTO listings (seller_id, item_name, item_attrs, price) VALUES (?, ?, ?, ?)',
+      'INSERT INTO listings (seller_id, item_name, item_attrs, image_url, price) VALUES (?, ?, ?, ?, ?)',
       sellerId,
       input.item_name,
       input.item_attrs ?? '{}',
+      input.image_url ?? null,
       input.price,
     )
     if (!result.success) return null
@@ -103,6 +104,10 @@ export class ListingDB {
     if (input.item_attrs !== undefined) {
       fields.push('item_attrs = ?')
       params.push(input.item_attrs)
+    }
+    if (input.image_url !== undefined) {
+      fields.push('image_url = ?')
+      params.push(input.image_url ?? null)
     }
     if (input.price !== undefined) {
       fields.push('price = ?')

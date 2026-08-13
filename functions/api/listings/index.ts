@@ -33,7 +33,7 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
   const auth = await requireAuth(context.request, context.env)
   if (auth instanceof Response) return auth
 
-  const body: { item_name?: string; item_attrs?: string; price?: number } = await context.request
+  const body: { item_name?: string; item_attrs?: string; image_url?: string; price?: number } = await context.request
     .json()
     .catch(() => ({}))
 
@@ -56,6 +56,7 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
   const listing = await listingsDB.create(auth.sub, {
     item_name: body.item_name.trim(),
     item_attrs: body.item_attrs ?? '{}',
+    image_url: body.image_url ?? undefined,
     price: body.price,
   })
 

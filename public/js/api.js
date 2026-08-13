@@ -9,6 +9,15 @@ const API = {
   getToken() { return this._token },
   clearToken() { this._token = null },
 
+  /** 构建查询字符串，过滤掉 undefined/null/空值 */
+  _qs(params) {
+    const clean = Object.fromEntries(
+      Object.entries(params).filter(([, v]) => v !== undefined && v !== null && v !== ''),
+    )
+    const q = new URLSearchParams(clean).toString()
+    return q ? `?${q}` : ''
+  },
+
   headers() {
     const h = { 'Content-Type': 'application/json' }
     if (this._token) h['Authorization'] = `Bearer ${this._token}`
@@ -37,10 +46,14 @@ const API = {
   },
   me() { return this.get('/api/auth/me') },
 
+  // ── 图片上传 ──
+  uploadImage(filename, base64) {
+    return this.post('/api/upload', { filename, data: base64 })
+  },
+
   // ── Listings ──
   listings(params = {}) {
-    const q = new URLSearchParams(params).toString()
-    return this.get(`/api/listings${q ? '?' + q : ''}`)
+    return this.get(`/api/listings${this._qs(params)}`)
   },
   myListings(status) {
     const q = status ? `?status=${status}` : ''
@@ -54,8 +67,7 @@ const API = {
   // ── Transactions ──
   buy(listingId) { return this.post('/api/transactions/buy', { listing_id: listingId }) },
   myTransactions(params = {}) {
-    const q = new URLSearchParams(params).toString()
-    return this.get(`/api/transactions${q ? '?' + q : ''}`)
+    return this.get(`/api/transactions${this._qs(params)}`)
   },
 
   // ── Admin ──
@@ -63,8 +75,7 @@ const API = {
   approveUser(userId) { return this.put('/api/admin/users/approve', { user_id: userId }) },
   rejectUser(userId) { return this.put('/api/admin/users/reject', { user_id: userId }) },
   allTransactions(params = {}) {
-    const q = new URLSearchParams(params).toString()
-    return this.get(`/api/admin/transactions${q ? '?' + q : ''}`)
+    return this.get(`/api/admin/transactions${this._qs(params)}`)
   },
   rollback(txId, reason) {
     return this.post('/api/admin/transactions/rollback', { transaction_id: txId, reason })

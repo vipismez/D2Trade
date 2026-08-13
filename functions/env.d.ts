@@ -5,6 +5,7 @@
 
 interface Env {
   DB: D1Database
+  MY_BUCKET: R2Bucket
   JWT_SECRET: string
   ENVIRONMENT: string
 }

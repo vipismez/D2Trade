@@ -38,6 +38,7 @@ export interface Listing {
   seller_id: number
   item_name: string
   item_attrs: string // JSON
+  image_url: string | null
   price: number
   status: ListingStatus
   created_at: string
@@ -51,6 +52,7 @@ export interface ListingWithSeller extends Listing {
 export interface CreateListingInput {
   item_name: string
   item_attrs?: string
+  image_url?: string
   price: number
 }
 

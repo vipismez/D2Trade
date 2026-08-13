@@ -23,6 +23,7 @@ CREATE TABLE IF NOT EXISTS listings (
     seller_id   INTEGER NOT NULL REFERENCES users(id),
     item_name   TEXT    NOT NULL,
     item_attrs  TEXT    NOT NULL DEFAULT '{}',  -- JSON: 装备属性描述
+    image_url   TEXT,                            -- 装备图片 URL（可空）
     price       INTEGER NOT NULL CHECK(price > 0),
     status      TEXT    NOT NULL DEFAULT 'active' CHECK(status IN ('active', 'sold', 'cancelled')),
     created_at  TEXT    NOT NULL DEFAULT (datetime('now')),
