@@ -12,17 +12,21 @@ import equipmentData from '../_lib/equipment-data.json'
 interface EquipmentItem {
   name: string
   name_en: string
+  quality: string
   category: string
   type: string
   tier: string
+  base: string | null
   image: string | null
   attributes: Record<string, string>
+  special_attrs: string[]
 }
 
 const EQUIPMENT = equipmentData as EquipmentItem[]
 
 export async function onRequestGet(context: EventContext<Env, string, unknown>): Promise<Response> {
   const url = new URL(context.request.url)
+  const quality = url.searchParams.get('quality') || undefined
   const category = url.searchParams.get('category') || undefined
   const type = url.searchParams.get('type') || undefined
   const tier = url.searchParams.get('tier') || undefined
@@ -30,6 +34,7 @@ export async function onRequestGet(context: EventContext<Env, string, unknown>):
 
   // 筛选
   let items = EQUIPMENT
+  if (quality) items = items.filter((i) => i.quality === quality)
   if (category) items = items.filter((i) => i.category === category)
   if (type) items = items.filter((i) => i.type === type)
   if (tier) items = items.filter((i) => i.tier === tier)

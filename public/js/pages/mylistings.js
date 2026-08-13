@@ -48,6 +48,7 @@ const MyListingsPage = {
             <button type="button" class="d2-modal-close" id="equipment-modal-close">✕</button>
           </div>
           <div class="d2-modal-filters">
+            <select class="d2-input" id="eq-quality"></select>
             <select class="d2-input" id="eq-category"></select>
             <select class="d2-input" id="eq-type"></select>
             <select class="d2-input" id="eq-tier"></select>
@@ -70,6 +71,7 @@ const MyListingsPage = {
     // ── 装备选择器 ──
     const modal = $('#equipment-modal')
     const eqList = $('#eq-list')
+    const qualitySel = $('#eq-quality')
     const catSel = $('#eq-category')
     const typeSel = $('#eq-type')
     const tierSel = $('#eq-tier')
@@ -94,6 +96,7 @@ const MyListingsPage = {
     $('#equipment-modal-close').onclick = () => { modal.style.display = 'none' }
     modal.onclick = (e) => { if (e.target === modal) modal.style.display = 'none' }
 
+    qualitySel.onchange = () => { this._updateCategoryFilter(); this._updateTypeFilter(); this._renderEquipmentList() }
     catSel.onchange = () => { this._updateTypeFilter(); this._renderEquipmentList() }
     typeSel.onchange = () => this._renderEquipmentList()
     tierSel.onchange = () => this._renderEquipmentList()
@@ -187,30 +190,43 @@ const MyListingsPage = {
   },
 
   _initEquipmentFilters() {
-    const cats = [...new Set(this._equipment.map(e => e.category))]
-    $('#eq-category').innerHTML = '<option value="">全部分类</option>' +
-      cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('')
+    const qualities = [...new Set(this._equipment.map(e => e.quality))]
+    $('#eq-quality').innerHTML = '<option value="">全部品质</option>' +
+      qualities.map(q => `<option value="${esc(q)}">${esc(q)}</option>`).join('')
     const tiers = [...new Set(this._equipment.map(e => e.tier))]
-    $('#eq-tier').innerHTML = '<option value="">全部品质</option>' +
+    $('#eq-tier').innerHTML = '<option value="">全部等级</option>' +
       tiers.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')
+    this._updateCategoryFilter()
     this._updateTypeFilter()
   },
 
+  _updateCategoryFilter() {
+    const quality = $('#eq-quality').value
+    const cats = [...new Set(this._equipment.filter(e => !quality || e.quality === quality).map(e => e.category))]
+    $('#eq-category').innerHTML = '<option value="">全部分类</option>' +
+      cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join('')
+  },
+
   _updateTypeFilter() {
+    const quality = $('#eq-quality').value
     const cat = $('#eq-category').value
-    const types = [...new Set(this._equipment.filter(e => !cat || e.category === cat).map(e => e.type))]
+    const types = [...new Set(this._equipment
+      .filter(e => (!quality || e.quality === quality) && (!cat || e.category === cat))
+      .map(e => e.type))]
     $('#eq-type').innerHTML = '<option value="">全部类型</option>' +
       types.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')
   },
 
   _renderEquipmentList() {
     const eqList = $('#eq-list')
+    const quality = $('#eq-quality').value
     const cat = $('#eq-category').value
     const type = $('#eq-type').value
     const tier = $('#eq-tier').value
     const search = $('#eq-search').value.trim().toLowerCase()
 
     let items = this._equipment.filter(e =>
+      (!quality || e.quality === quality) &&
       (!cat || e.category === cat) &&
       (!type || e.type === type) &&
       (!tier || e.tier === tier) &&
@@ -229,7 +245,7 @@ const MyListingsPage = {
       <div class="d2-eq-item" onclick="MyListingsPage._selectEquipment(${i})">
         ${e.image ? `<img src="${esc(e.image)}" alt="${esc(e.name)}" loading="lazy" />` : ''}
         <div class="d2-eq-name">${esc(e.name)}</div>
-        <div class="d2-eq-meta">${esc(e.tier)} · ${esc(e.type)}</div>
+        <div class="d2-eq-meta">${esc(e.quality)} · ${esc(e.type)}</div>
       </div>
     `).join('')
   },
@@ -241,17 +257,21 @@ const MyListingsPage = {
     // 填入名称
     $('#item-name').value = item.name
 
-    // 填入详细属性描述
+    // 填入详细属性描述（基础属性 + 特殊属性）
+    const attrLines = []
     if (item.attributes && Object.keys(item.attributes).length > 0) {
-      const attrText = Object.entries(item.attributes)
+      Object.entries(item.attributes)
         .filter(([, v]) => v && v !== '-')
-        .map(([k, v]) => `${k}: ${v}`)
-        .join('\n')
-      const attrInput = document.querySelector('#new-listing-form textarea[name="item_attrs"]')
-      if (attrInput) attrInput.value = attrText
+        .forEach(([k, v]) => attrLines.push(`${k}: ${v}`))
     }
+    if (item.special_attrs && item.special_attrs.length > 0) {
+      if (attrLines.length > 0) attrLines.push('')
+      item.special_attrs.forEach(line => attrLines.push(line))
+    }
+    const attrInput = document.querySelector('#new-listing-form textarea[name="item_attrs"]')
+    if (attrInput) attrInput.value = attrLines.join('\n')
 
-    // 设置装备库基础图片
+    // 设置装备图片
     if (item.image) {
       this._equipmentImage = item.image
       this._imageBase64 = null
@@ -263,7 +283,7 @@ const MyListingsPage = {
     }
 
     $('#equipment-modal').style.display = 'none'
-    toast(`已选择: ${item.name}`, 'success')
+    toast(`已选择: ${item.name} (${item.quality})`, 'success')
   },
 
   async _load() {

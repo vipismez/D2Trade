@@ -4,3 +4,18 @@ dist/
 .dev.vars
 *.log
 .DS_Store
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 装备图片（已上传 R2，本地仅作缓存）
+data/equipment/images/
+
+# 数据收集中间产物（最终数据在 unified_equipment.json）
+data/equipment/unique_*.json
+data/equipment/set_*.json
+data/equipment/quality_equipment.json
+data/equipment/slim_equipment.json
+data/equipment/image_map.json
+data/equipment/quality_image_map.json
