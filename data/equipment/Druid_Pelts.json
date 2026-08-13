@@ -8,7 +8,7 @@
       "name": "狼头",
       "name_en": "Wolf Head",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+      "image": "/api/image/d4da47eadc86b58e.gif",
       "attributes": {
         "防御": "8-11",
         "需求力量": "16",
@@ -24,7 +24,7 @@
       "name": "飞鹰头盔",
       "name_en": "Hawk Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+      "image": "/api/image/8a2eaa4451c54247.gif",
       "attributes": {
         "防御": "4-15",
         "需求力量": "20",
@@ -40,7 +40,7 @@
       "name": "鹿角",
       "name_en": "Antlers",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+      "image": "/api/image/215b933441e850a5.gif",
       "attributes": {
         "防御": "18-24",
         "需求力量": "24",
@@ -56,7 +56,7 @@
       "name": "猎鹰面具",
       "name_en": "Falcon Mask",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+      "image": "/api/image/f3063f30e828cb76.gif",
       "attributes": {
         "防御": "12-28",
         "需求力量": "28",
@@ -72,7 +72,7 @@
       "name": "灵魂狼头面具",
       "name_en": "Spirit Mask",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+      "image": "/api/image/cdbd1c82d7633169.gif",
       "attributes": {
         "防御": "22-35",
         "需求力量": "30",
@@ -88,7 +88,7 @@
       "name": "阿尔发头盔",
       "name_en": "Alpha Helm",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+      "image": "/api/image/d4da47eadc86b58e.gif",
       "attributes": {
         "防御": "52-62",
         "需求力量": "44",
@@ -104,7 +104,7 @@
       "name": "狮鹫兽头盔",
       "name_en": "Griffon Headdress",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+      "image": "/api/image/8a2eaa4451c54247.gif",
       "attributes": {
         "防御": "46-68",
         "需求力量": "50",
@@ -120,7 +120,7 @@
       "name": "猎人的伪装",
       "name_en": "Hunter's Guise",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+      "image": "/api/image/215b933441e850a5.gif",
       "attributes": {
         "防御": "67-81",
         "需求力量": "56",
@@ -136,7 +136,7 @@
       "name": "神圣羽毛",
       "name_en": "Sacred Feathers",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+      "image": "/api/image/f3063f30e828cb76.gif",
       "attributes": {
         "防御": "58-87",
         "需求力量": "62",
@@ -152,7 +152,7 @@
       "name": "图腾面具狼盔",
       "name_en": "Totemic Mask",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+      "image": "/api/image/cdbd1c82d7633169.gif",
       "attributes": {
         "防御": "73-98",
         "需求力量": "65",
@@ -168,7 +168,7 @@
       "name": "血腥之灵",
       "name_en": "Blood Mask",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+      "image": "/api/image/d4da47eadc86b58e.gif",
       "attributes": {
         "防御": "101-145",
         "需求力量": "86",
@@ -184,7 +184,7 @@
       "name": "太阳之灵",
       "name_en": "Sun Spirit",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+      "image": "/api/image/8a2eaa4451c54247.gif",
       "attributes": {
         "防御": "98-147",
         "需求力量": "95",
@@ -200,7 +200,7 @@
       "name": "大地之灵",
       "name_en": "Earth Spirit",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+      "image": "/api/image/215b933441e850a5.gif",
       "attributes": {
         "防御": "107-152",
         "需求力量": "104",
@@ -216,7 +216,7 @@
       "name": "天空之灵",
       "name_en": "Sky Spirit",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+      "image": "/api/image/f3063f30e828cb76.gif",
       "attributes": {
         "防御": "103-155",
         "需求力量": "113",
@@ -232,7 +232,7 @@
       "name": "幽梦之灵",
       "name_en": "Dream Spirit",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+      "image": "/api/image/cdbd1c82d7633169.gif",
       "attributes": {
         "防御": "109-159",
         "需求力量": "118",

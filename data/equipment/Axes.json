@@ -8,7 +8,7 @@
       "name": "手斧",
       "name_en": "Hand Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/3f/Hand_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/28efa812e1ed336c.gif",
       "attributes": {
         "单手伤害": "3-6",
         "范围": "1",
@@ -26,7 +26,7 @@
       "name": "斧",
       "name_en": "Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/a4/Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/1ccaaeefc21e5803.gif",
       "attributes": {
         "单手伤害": "4-11",
         "范围": "2",
@@ -45,7 +45,7 @@
       "name": "双刃斧",
       "name_en": "Double Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/2/2a/Double_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/ceda0d9dbee1b3c4.gif",
       "attributes": {
         "单手伤害": "5-13",
         "范围": "2",
@@ -64,7 +64,7 @@
       "name": "军用锹",
       "name_en": "Military Pick",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/0/02/Military_pick_%28Diablo_II%29.gif",
+      "image": "/api/image/d6484e8dcc7a31ae.gif",
       "attributes": {
         "单手伤害": "7-11",
         "范围": "2",
@@ -83,7 +83,7 @@
       "name": "巨战斧",
       "name_en": "War Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/d/d2/War_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/c06a83576056c589.gif",
       "attributes": {
         "单手伤害": "10-18",
         "范围": "3",
@@ -102,7 +102,7 @@
       "name": "巨斧",
       "name_en": "Large Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/48/Large_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/1688209e3e806aef.gif",
       "attributes": {
         "双手伤害": "6-13",
         "范围": "2",
@@ -120,7 +120,7 @@
       "name": "阔斧",
       "name_en": "Broad Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/d4cd13e5e7825a9b.gif",
       "attributes": {
         "双手伤害": "10-18",
         "范围": "2",
@@ -139,7 +139,7 @@
       "name": "战斗斧",
       "name_en": "Battle Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/96/Battle_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/d08f8ab10885b235.gif",
       "attributes": {
         "双手伤害": "12-32",
         "范围": "2",
@@ -158,7 +158,7 @@
       "name": "卓越之斧",
       "name_en": "Great Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/c/c3/Great_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/0d84596f5937f3d7.gif",
       "attributes": {
         "双手伤害": "9-30",
         "范围": "1",
@@ -177,7 +177,7 @@
       "name": "大斧",
       "name_en": "Giant Axe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/33/Giant_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/5f7626a7c458935d.gif",
       "attributes": {
         "双手伤害": "22-45",
         "范围": "4",
@@ -196,7 +196,7 @@
       "name": "小斧",
       "name_en": "Hatchet",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/3f/Hand_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/28efa812e1ed336c.gif",
       "attributes": {
         "单手伤害": "10-21",
         "范围": "1",
@@ -214,7 +214,7 @@
       "name": "切肉斧",
       "name_en": "Cleaver",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/a4/Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/1ccaaeefc21e5803.gif",
       "attributes": {
         "单手伤害": "10-33",
         "范围": "2",
@@ -233,7 +233,7 @@
       "name": "强化双斧",
       "name_en": "Twin Axe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/2/2a/Double_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/ceda0d9dbee1b3c4.gif",
       "attributes": {
         "单手伤害": "13-38",
         "范围": "2",
@@ -252,7 +252,7 @@
       "name": "喙钳",
       "name_en": "Crowbill",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/0/02/Military_pick_%28Diablo_II%29.gif",
+      "image": "/api/image/d6484e8dcc7a31ae.gif",
       "attributes": {
         "单手伤害": "14-34",
         "范围": "2",
@@ -271,7 +271,7 @@
       "name": "纳卡",
       "name_en": "Naga",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/d/d2/War_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/c06a83576056c589.gif",
       "attributes": {
         "单手伤害": "16-45",
         "范围": "3",
@@ -290,7 +290,7 @@
       "name": "军斧",
       "name_en": "Military Axe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/48/Large_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/1688209e3e806aef.gif",
       "attributes": {
         "双手伤害": "14-34",
         "范围": "2",
@@ -309,7 +309,7 @@
       "name": "钩斧",
       "name_en": "Bearded Axe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/d4cd13e5e7825a9b.gif",
       "attributes": {
         "双手伤害": "21-49",
         "范围": "2",
@@ -328,7 +328,7 @@
       "name": "战袍斧",
       "name_en": "Tabar",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/96/Battle_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/d08f8ab10885b235.gif",
       "attributes": {
         "双手伤害": "24-77",
         "范围": "2",
@@ -347,7 +347,7 @@
       "name": "哥德之斧",
       "name_en": "Gothic Axe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/c3/Great_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/0d84596f5937f3d7.gif",
       "attributes": {
         "双手伤害": "18-70",
         "范围": "3",
@@ -366,7 +366,7 @@
       "name": "古代之斧",
       "name_en": "Ancient Axe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/33/Giant_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/5f7626a7c458935d.gif",
       "attributes": {
         "双手伤害": "43-85",
         "范围": "4",
@@ -385,7 +385,7 @@
       "name": "战铖",
       "name_en": "Tomahawk",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/3f/Hand_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/28efa812e1ed336c.gif",
       "attributes": {
         "单手伤害": "33-58",
         "范围": "1",
@@ -403,7 +403,7 @@
       "name": "弯月斧",
       "name_en": "Small Crescent",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/a4/Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/1ccaaeefc21e5803.gif",
       "attributes": {
         "单手伤害": "38-60",
         "范围": "2",
@@ -422,7 +422,7 @@
       "name": "双头斧",
       "name_en": "Ettin Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/2/2a/Double_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/ceda0d9dbee1b3c4.gif",
       "attributes": {
         "单手伤害": "33-66",
         "范围": "2",
@@ -441,7 +441,7 @@
       "name": "战刺",
       "name_en": "War Spike",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/0/02/Military_pick_%28Diablo_II%29.gif",
+      "image": "/api/image/d6484e8dcc7a31ae.gif",
       "attributes": {
         "单手伤害": "30-48",
         "范围": "2",
@@ -460,7 +460,7 @@
       "name": "狂战士斧",
       "name_en": "Berserker Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/d/d2/War_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/c06a83576056c589.gif",
       "attributes": {
         "单手伤害": "24-71",
         "范围": "3",
@@ -479,7 +479,7 @@
       "name": "猛禽斧",
       "name_en": "Feral Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/48/Large_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/1688209e3e806aef.gif",
       "attributes": {
         "双手伤害": "25-123",
         "范围": "2",
@@ -498,7 +498,7 @@
       "name": "银刃斧",
       "name_en": "Silver-Edged Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/d4cd13e5e7825a9b.gif",
       "attributes": {
         "双手伤害": "62-110",
         "范围": "2",
@@ -517,7 +517,7 @@
       "name": "斩首斧",
       "name_en": "Decapitator",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/96/Battle_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/d08f8ab10885b235.gif",
       "attributes": {
         "双手伤害": "49-137",
         "范围": "2",
@@ -536,7 +536,7 @@
       "name": "冠军斧",
       "name_en": "Champion Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/c3/Great_axe_%28Diablo_II%29.gif",
+      "image": "/api/image/0d84596f5937f3d7.gif",
       "attributes": {
         "双手伤害": "59-94",
         "范围": "3",
@@ -555,7 +555,7 @@
       "name": "光荣之斧",
       "name_en": "Glorious Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/33/Giant_Axe_%28Diablo_II%29.gif",
+      "image": "/api/image/5f7626a7c458935d.gif",
       "attributes": {
         "双手伤害": "60-124",
         "范围": "4",

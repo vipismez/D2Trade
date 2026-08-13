@@ -8,7 +8,7 @@
       "name": "皮手套",
       "name_en": "Leather Gloves",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/2/2c/Leather_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/f4986b57ebd07d21.gif",
       "attributes": {
         "防御值": "2-3",
         "需要力量": "-",
@@ -22,7 +22,7 @@
       "name": "重手套",
       "name_en": "Heavy Gloves",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/52/Heavy_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/274415feaec1202d.gif",
       "attributes": {
         "防御值": "5-6",
         "需要力量": "-",
@@ -36,7 +36,7 @@
       "name": "锁链手套",
       "name_en": "Chain Gloves",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/4f/Chain_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/a53a3d232f610fce.gif",
       "attributes": {
         "防御值": "8-9",
         "需要力量": "25",
@@ -50,7 +50,7 @@
       "name": "轻型铁手套",
       "name_en": "Light Gauntlets",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/91/Light_Gauntlets%28Diablo_II%29.gif",
+      "image": "/api/image/cf13beb7552c33c2.gif",
       "attributes": {
         "防御值": "9-11",
         "需要力量": "45",
@@ -64,7 +64,7 @@
       "name": "铁手套",
       "name_en": "Gauntlets",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/fc/Gauntlets%28Diablo_II%29.gif",
+      "image": "/api/image/d3ffc77c1fdd5b2f.gif",
       "attributes": {
         "防御值": "12-15",
         "需要力量": "60",
@@ -78,7 +78,7 @@
       "name": "魔皮手套",
       "name_en": "Demonhide Gloves",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/2/2c/Leather_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/f4986b57ebd07d21.gif",
       "attributes": {
         "防御值": "28-35",
         "需要力量": "20",
@@ -92,7 +92,7 @@
       "name": "鲨皮手套",
       "name_en": "Sharkskin Gloves",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/52/Heavy_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/274415feaec1202d.gif",
       "attributes": {
         "防御值": "33-39",
         "需要力量": "20",
@@ -106,7 +106,7 @@
       "name": "重型手镯",
       "name_en": "Heavy Bracers",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/4f/Chain_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/a53a3d232f610fce.gif",
       "attributes": {
         "防御值": "37-44",
         "需要力量": "58",
@@ -120,7 +120,7 @@
       "name": "战场手套",
       "name_en": "Battle Gauntlets",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/91/Light_Gauntlets%28Diablo_II%29.gif",
+      "image": "/api/image/cf13beb7552c33c2.gif",
       "attributes": {
         "防御值": "39-47",
         "需要力量": "88",
@@ -134,7 +134,7 @@
       "name": "巨战手套",
       "name_en": "War Gauntlets",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/fc/Gauntlets%28Diablo_II%29.gif",
+      "image": "/api/image/d3ffc77c1fdd5b2f.gif",
       "attributes": {
         "防御值": "43-53",
         "需要力量": "110",
@@ -148,7 +148,7 @@
       "name": "荆棘连指手套",
       "name_en": "Bramble Mitts",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/2/2c/Leather_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/f4986b57ebd07d21.gif",
       "attributes": {
         "防御值": "54-62",
         "需要力量": "50",
@@ -162,7 +162,7 @@
       "name": "吸血鬼骸骨手套",
       "name_en": "Vampirebone Gloves",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/52/Heavy_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/274415feaec1202d.gif",
       "attributes": {
         "防御值": "56-65",
         "需要力量": "50",
@@ -176,7 +176,7 @@
       "name": "吸血鬼手套",
       "name_en": "Vambraces",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/4f/Chain_Gloves%28Diablo_II%29.gif",
+      "image": "/api/image/a53a3d232f610fce.gif",
       "attributes": {
         "防御值": "59-67",
         "需要力量": "106",
@@ -190,7 +190,7 @@
       "name": "十字军铁手套",
       "name_en": "Crusader Gauntlets",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/91/Light_Gauntlets%28Diablo_II%29.gif",
+      "image": "/api/image/cf13beb7552c33c2.gif",
       "attributes": {
         "防御值": "59-68",
         "需要力量": "151",
@@ -204,7 +204,7 @@
       "name": "食人魔铁手套",
       "name_en": "Ogre Gauntlets",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/fc/Gauntlets%28Diablo_II%29.gif",
+      "image": "/api/image/d3ffc77c1fdd5b2f.gif",
       "attributes": {
         "防御值": "62-71",
         "需要力量": "185",

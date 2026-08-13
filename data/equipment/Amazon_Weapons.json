@@ -8,7 +8,7 @@
       "name": "男性之弓",
       "name_en": "Stag Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/9f/Stagbow.gif",
+      "image": "/api/image/cb2b7e8ed1f2269c.gif",
       "attributes": {
         "双手伤害": "7-12",
         "基础武器攻速": "[0]",
@@ -25,7 +25,7 @@
       "name": "反射之弓",
       "name_en": "Reflex Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/68/Reflexbow.gif",
+      "image": "/api/image/7ad0105bab6c3b89.gif",
       "attributes": {
         "双手伤害": "9-19",
         "基础武器攻速": "[10]",
@@ -42,7 +42,7 @@
       "name": "女士之矛",
       "name_en": "Maiden Spear",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/bf/Maidenspear.gif",
+      "image": "/api/image/9487613320e70507.gif",
       "attributes": {
         "双手伤害": "18-24",
         "攻击范围": "5",
@@ -61,7 +61,7 @@
       "name": "女士长矛",
       "name_en": "Maiden Pike",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/80/D2_maiden_pike.gif",
+      "image": "/api/image/6eac96aca3a87c5d.gif",
       "attributes": {
         "双手伤害": "23-55",
         "攻击范围": "5",
@@ -80,7 +80,7 @@
       "name": "女士标枪",
       "name_en": "Maiden Javelin",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/a7/Maidenjavelin.gif",
+      "image": "/api/image/6013b9d5af74151f.gif",
       "attributes": {
         "投掷伤害": "6-22",
         "单手伤害": "8-14",
@@ -99,7 +99,7 @@
       "name": "灰木之弓",
       "name_en": "Ashwood Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/9f/Stagbow.gif",
+      "image": "/api/image/cb2b7e8ed1f2269c.gif",
       "attributes": {
         "双手伤害": "16-29",
         "基础武器攻速": "[0]",
@@ -116,7 +116,7 @@
       "name": "祭典之弓",
       "name_en": "Ceremonial Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/68/Reflexbow.gif",
+      "image": "/api/image/7ad0105bab6c3b89.gif",
       "attributes": {
         "双手伤害": "19-41",
         "基础武器攻速": "[10]",
@@ -133,7 +133,7 @@
       "name": "祭典之矛",
       "name_en": "Ceremonial Spear",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/bf/Maidenspear.gif",
+      "image": "/api/image/9487613320e70507.gif",
       "attributes": {
         "双手伤害": "34-51",
         "攻击范围": "5",
@@ -152,7 +152,7 @@
       "name": "祭典长矛",
       "name_en": "Ceremonial Pike",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/80/D2_maiden_pike.gif",
+      "image": "/api/image/6eac96aca3a87c5d.gif",
       "attributes": {
         "双手伤害": "42-101",
         "攻击范围": "5",
@@ -171,7 +171,7 @@
       "name": "祭典标枪",
       "name_en": "Ceremonial Javelin",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/a7/Maidenjavelin.gif",
+      "image": "/api/image/6013b9d5af74151f.gif",
       "attributes": {
         "投掷伤害": "18-54",
         "单手伤害": "18-35",
@@ -190,7 +190,7 @@
       "name": "女族长之弓",
       "name_en": "Matriarchal Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/9f/Stagbow.gif",
+      "image": "/api/image/cb2b7e8ed1f2269c.gif",
       "attributes": {
         "双手伤害": "20-47",
         "基础武器攻速": "[0]",
@@ -207,7 +207,7 @@
       "name": "大院长之弓",
       "name_en": "Grand Matron Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/68/Reflexbow.gif",
+      "image": "/api/image/7ad0105bab6c3b89.gif",
       "attributes": {
         "双手伤害": "14-72",
         "基础武器攻速": "[10]",
@@ -224,7 +224,7 @@
       "name": "女族长之矛",
       "name_en": "Matriarchal Spear",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/bf/Maidenspear.gif",
+      "image": "/api/image/9487613320e70507.gif",
       "attributes": {
         "双手伤害": "65-95",
         "攻击范围": "5",
@@ -243,7 +243,7 @@
       "name": "女族长之长矛",
       "name_en": "Matriarchal Pike",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/80/D2_maiden_pike.gif",
+      "image": "/api/image/6eac96aca3a87c5d.gif",
       "attributes": {
         "双手伤害": "37-153",
         "攻击范围": "5",
@@ -262,7 +262,7 @@
       "name": "女族长之标枪",
       "name_en": "Matriarchal Javelin",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/a7/Maidenjavelin.gif",
+      "image": "/api/image/6013b9d5af74151f.gif",
       "attributes": {
         "投掷伤害": "35-66",
         "单手伤害": "30-54",

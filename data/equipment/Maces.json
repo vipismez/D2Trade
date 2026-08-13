@@ -8,7 +8,7 @@
       "name": "木棒",
       "name_en": "Club",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+      "image": "/api/image/afb8d19cbd42dbcc.gif",
       "attributes": {
         "单手伤害值": "1-6 (3.5)",
         "攻击距离": "1",
@@ -26,7 +26,7 @@
       "name": "狼牙棒",
       "name_en": "Spiked Club",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+      "image": "/api/image/a5d052fb92ca04ed.gif",
       "attributes": {
         "单手伤害值": "5-8 (6.5)",
         "攻击距离": "2",
@@ -44,7 +44,7 @@
       "name": "钉头锤",
       "name_en": "Mace",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+      "image": "/api/image/fa2ad23c7defb4b7.gif",
       "attributes": {
         "单手伤害值": "3-10 (7.5)",
         "攻击距离": "1",
@@ -62,7 +62,7 @@
       "name": "流星锤",
       "name_en": "Morning Star",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+      "image": "/api/image/1448043412ade0c6.gif",
       "attributes": {
         "单手伤害值": "7-16 (11.5)",
         "攻击距离": "2",
@@ -80,7 +80,7 @@
       "name": "链枷",
       "name_en": "Flail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+      "image": "/api/image/85fe5bb286c1019e.gif",
       "attributes": {
         "单手伤害值": "1-24 (12.5)",
         "攻击距离": "3",
@@ -98,7 +98,7 @@
       "name": "巨战铁槌",
       "name_en": "War Hammer",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+      "image": "/api/image/2b4e1b1ee5053277.gif",
       "attributes": {
         "单手伤害值": "19-29 (24)",
         "攻击距离": "1",
@@ -116,7 +116,7 @@
       "name": "大木棍",
       "name_en": "Maul",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+      "image": "/api/image/60f9068b60ba284c.gif",
       "attributes": {
         "双手伤害值": "38-58 (48)",
         "攻击距离": "3",
@@ -134,7 +134,7 @@
       "name": "卓越巨棍",
       "name_en": "Great Maul",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/97/Great_Maul%28Diablo_II%29.gif",
+      "image": "/api/image/fa70574f56da6c24.gif",
       "attributes": {
         "双手伤害值": "30-43 (36.5)",
         "攻击距离": "2",
@@ -152,7 +152,7 @@
       "name": "棍棒",
       "name_en": "Cudgel",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+      "image": "/api/image/afb8d19cbd42dbcc.gif",
       "attributes": {
         "单手伤害值": "6-21(13.5)",
         "攻击距离": "1",
@@ -170,7 +170,7 @@
       "name": "倒钩槌",
       "name_en": "Barbed Club",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+      "image": "/api/image/a5d052fb92ca04ed.gif",
       "attributes": {
         "单手伤害值": "13-25 (19)",
         "攻击距离": "2",
@@ -188,7 +188,7 @@
       "name": "凸缘钉头锤",
       "name_en": "Flanged Mace",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+      "image": "/api/image/fa2ad23c7defb4b7.gif",
       "attributes": {
         "单手伤害值": "15-23 (19)",
         "攻击距离": "1",
@@ -206,7 +206,7 @@
       "name": "锯齿流星锤",
       "name_en": "Jagged Star",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+      "image": "/api/image/1448043412ade0c6.gif",
       "attributes": {
         "单手伤害值": "20-31 (25.5)",
         "攻击距离": "2",
@@ -224,7 +224,7 @@
       "name": "铁皮鞭",
       "name_en": "Knout",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+      "image": "/api/image/85fe5bb286c1019e.gif",
       "attributes": {
         "单手伤害值": "13-35 (24)",
         "攻击距离": "3",
@@ -242,7 +242,7 @@
       "name": "战斗铁槌",
       "name_en": "Battle Hammer",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+      "image": "/api/image/2b4e1b1ee5053277.gif",
       "attributes": {
         "单手伤害值": "35-58 (46.5)",
         "攻击距离": "1",
@@ -260,7 +260,7 @@
       "name": "巨战木棍",
       "name_en": "War Club",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+      "image": "/api/image/60f9068b60ba284c.gif",
       "attributes": {
         "双手伤害值": "53-78(65.5)",
         "攻击距离": "2",
@@ -278,7 +278,7 @@
       "name": "战槌",
       "name_en": "Martel de Fer",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/80/Gavelofpain.gif",
+      "image": "/api/image/797b9addf4f395f4.gif",
       "attributes": {
         "双手伤害值": "61-99 (80)",
         "攻击距离": "3",
@@ -296,7 +296,7 @@
       "name": "战仪杖",
       "name_en": "Truncheon",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+      "image": "/api/image/afb8d19cbd42dbcc.gif",
       "attributes": {
         "单手伤害值": "35-43 (39)",
         "攻击距离": "1",
@@ -314,7 +314,7 @@
       "name": "暴君之棒",
       "name_en": "Tyrant Club",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+      "image": "/api/image/a5d052fb92ca04ed.gif",
       "attributes": {
         "单手伤害值": "32-58 (45)",
         "攻击距离": "2",
@@ -332,7 +332,7 @@
       "name": "强化钉头锤",
       "name_en": "Reinforced Mace",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+      "image": "/api/image/fa2ad23c7defb4b7.gif",
       "attributes": {
         "单手伤害值": "41-49 (7.5)",
         "攻击距离": "1",
@@ -350,7 +350,7 @@
       "name": "恶魔流星锤",
       "name_en": "Devil Star",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+      "image": "/api/image/1448043412ade0c6.gif",
       "attributes": {
         "单手伤害值": "43-53 (48)",
         "攻击距离": "2",
@@ -368,7 +368,7 @@
       "name": "天罚之锤",
       "name_en": "Scourge",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+      "image": "/api/image/85fe5bb286c1019e.gif",
       "attributes": {
         "单手伤害值": "3-80 (41.5)",
         "攻击距离": "3",
@@ -386,7 +386,7 @@
       "name": "传说之锤",
       "name_en": "Legendary Mallet",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+      "image": "/api/image/2b4e1b1ee5053277.gif",
       "attributes": {
         "单手伤害值": "59-61 (55.5)",
         "攻击距离": "1",
@@ -404,7 +404,7 @@
       "name": "食人魔之锤",
       "name_en": "Ogre Maul",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+      "image": "/api/image/60f9068b60ba284c.gif",
       "attributes": {
         "双手伤害值": "77-106 (91.5)",
         "攻击距离": "2",
@@ -422,7 +422,7 @@
       "name": "雷锤",
       "name_en": "Thunder Maul",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/97/Great_Maul%28Diablo_II%29.gif",
+      "image": "/api/image/fa70574f56da6c24.gif",
       "attributes": {
         "双手伤害值": "33-180 (106.5)",
         "攻击距离": "3",

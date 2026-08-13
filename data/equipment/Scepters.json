@@ -8,7 +8,7 @@
       "name": "权杖",
       "name_en": "Scepter",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/84/Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/0a576f0aee86363b.gif",
       "attributes": {
         "单手伤害值": "6-11 (8.5)",
         "攻击距离": "1",
@@ -26,7 +26,7 @@
       "name": "雄伟权杖",
       "name_en": "Grand Scepter",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/66/Grand_Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/4dbcaf481470a029.gif",
       "attributes": {
         "单手伤害值": "8-18",
         "攻击距离": "2",
@@ -44,7 +44,7 @@
       "name": "巨战权杖",
       "name_en": "War Scepter",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/7a/War_Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/d89bac1dce98528c.gif",
       "attributes": {
         "单手伤害值": "10-17 (13.5)",
         "攻击距离": "2",
@@ -62,7 +62,7 @@
       "name": "符文权杖",
       "name_en": "Rune Scepter",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/84/Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/0a576f0aee86363b.gif",
       "attributes": {
         "单手伤害值": "13-24 (18.5)",
         "攻击距离": "1",
@@ -80,7 +80,7 @@
       "name": "圣水喷杖",
       "name_en": "Holy Water Sprinkler",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/66/Grand_Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/4dbcaf481470a029.gif",
       "attributes": {
         "单手伤害值": "14-36 （25）",
         "攻击距离": "2",
@@ -98,7 +98,7 @@
       "name": "神属权杖",
       "name_en": "Divine Scepter",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/7a/War_Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/d89bac1dce98528c.gif",
       "attributes": {
         "单手伤害值": "16-38 (27)",
         "攻击距离": "2",
@@ -116,7 +116,7 @@
       "name": "强威权杖",
       "name_en": "Mighty Scepter",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/84/Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/0a576f0aee86363b.gif",
       "attributes": {
         "单手伤害值": "40-52 (46)",
         "攻击距离": "1",
@@ -134,7 +134,7 @@
       "name": "炽天使法杖",
       "name_en": "Seraph Rod",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/66/Grand_Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/4dbcaf481470a029.gif",
       "attributes": {
         "单手伤害值": "45-54（49.5）",
         "攻击距离": "2",
@@ -152,7 +152,7 @@
       "name": "神使之杖",
       "name_en": "Caduceus",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/7a/War_Scepter%28Diablo_II%29.gif",
+      "image": "/api/image/d89bac1dce98528c.gif",
       "attributes": {
         "单手伤害值": "10-17 (13.5)",
         "攻击距离": "2",

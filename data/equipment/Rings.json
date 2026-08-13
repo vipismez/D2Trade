@@ -8,7 +8,7 @@
       "name": "拿各的戒指",
       "name_en": "Nagelring",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+      "image": "/api/image/c632af62ea82a9db.gif",
       "attributes": {
         "需求等级": "7"
       },
@@ -19,7 +19,7 @@
       "name": "马娜德的治疗",
       "name_en": "Manald Heal",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "image": "/api/image/7371718312b0c6e1.gif",
       "attributes": {
         "需求等级": "15"
       },
@@ -30,7 +30,7 @@
       "name": "乔丹之石",
       "name_en": "The Stone of Jordan",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+      "image": "/api/image/fd37332767776ec3.gif",
       "attributes": {
         "需求等级": "29"
       },
@@ -41,7 +41,7 @@
       "name": "矮人之星",
       "name_en": "Dwarf Star",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "image": "/api/image/7371718312b0c6e1.gif",
       "attributes": {
         "需求等级": "45"
       },
@@ -52,7 +52,7 @@
       "name": "乌鸦之霜",
       "name_en": "Raven Frost",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+      "image": "/api/image/fd37332767776ec3.gif",
       "attributes": {
         "需求等级": "45"
       },
@@ -63,7 +63,7 @@
       "name": "布尔凯索的婚戒",
       "name_en": "Bul-Kathos' Wedding Band",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+      "image": "/api/image/c632af62ea82a9db.gif",
       "attributes": {
         "需求等级": "58"
       },
@@ -74,7 +74,7 @@
       "name": "腐肉之风",
       "name_en": "Carrion Wind",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+      "image": "/api/image/fd37332767776ec3.gif",
       "attributes": {
         "需求等级": "60"
       },
@@ -85,7 +85,7 @@
       "name": "大自然的和平",
       "name_en": "Nature's Peace",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "image": "/api/image/7371718312b0c6e1.gif",
       "attributes": {
         "需求等级": "69"
       },
@@ -96,7 +96,7 @@
       "name": "鬼火投掷者",
       "name_en": "Whisp Projector",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+      "image": "/api/image/c632af62ea82a9db.gif",
       "attributes": {
         "需求等级": "76"
       },
@@ -107,7 +107,7 @@
       "name": "天使的光晕",
       "name_en": "Angelic Halo",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "image": "/api/image/7371718312b0c6e1.gif",
       "attributes": {
         "需求等级": "12"
       },
@@ -118,7 +118,7 @@
       "name": "卡珊的封印",
       "name_en": "Cathan's Seal",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/5/5e/Ring4.gif",
+      "image": "/api/image/7e5acb078817412f.gif",
       "attributes": {
         "需求等级": "11"
       },

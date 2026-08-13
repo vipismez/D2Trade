@@ -8,7 +8,7 @@
       "name": "防腐之首",
       "name_en": "Preserved Head",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+      "image": "/api/image/d0dc56036f80df40.gif",
       "attributes": {
         "防御": "2-5",
         "类型": "轻型",
@@ -26,7 +26,7 @@
       "name": "僵尸之首",
       "name_en": "Zombie Head",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+      "image": "/api/image/0ab09c16c4f505d1.gif",
       "attributes": {
         "防御": "4-8",
         "类型": "轻型",
@@ -44,7 +44,7 @@
       "name": "揭露者之首",
       "name_en": "Unraveller Head",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+      "image": "/api/image/50159cdf4ef8487d.gif",
       "attributes": {
         "防御": "6-10",
         "类型": "轻型",
@@ -62,7 +62,7 @@
       "name": "石像鬼之首",
       "name_en": "Gargoyle Head",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "image": "/api/image/df53935675892e1c.gif",
       "attributes": {
         "防御": "10-16",
         "类型": "轻型",
@@ -80,7 +80,7 @@
       "name": "恶魔之首",
       "name_en": "Demon Head",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "image": "/api/image/df53935675892e1c.gif",
       "attributes": {
         "防御": "15-20",
         "类型": "轻型",
@@ -98,7 +98,7 @@
       "name": "木乃伊印记",
       "name_en": "Mummified Trophy",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+      "image": "/api/image/d0dc56036f80df40.gif",
       "attributes": {
         "防御": "38-48",
         "类型": "轻型",
@@ -116,7 +116,7 @@
       "name": "物神印记",
       "name_en": "Fetish Trophy",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+      "image": "/api/image/0ab09c16c4f505d1.gif",
       "attributes": {
         "防御": "41-52",
         "类型": "轻型",
@@ -134,7 +134,7 @@
       "name": "司事印记",
       "name_en": "Sexton Trophy",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+      "image": "/api/image/50159cdf4ef8487d.gif",
       "attributes": {
         "防御": "44-55",
         "类型": "轻型",
@@ -152,7 +152,7 @@
       "name": "领唱者印记",
       "name_en": "Cantor Trophy",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/cd/Gargoylehead.gif",
+      "image": "/api/image/4d8961d9c9f2e5c4.gif",
       "attributes": {
         "防御": "50-64",
         "类型": "轻型",
@@ -170,7 +170,7 @@
       "name": "祭司印记",
       "name_en": "Hierophant Trophy",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "image": "/api/image/df53935675892e1c.gif",
       "attributes": {
         "防御": "58-70",
         "类型": "轻型",
@@ -188,7 +188,7 @@
       "name": "随侍之骨",
       "name_en": "Minion Skull",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+      "image": "/api/image/d0dc56036f80df40.gif",
       "attributes": {
         "防御": "95-139",
         "类型": "轻型",
@@ -206,7 +206,7 @@
       "name": "地狱爪之骨",
       "name_en": "Hellspawn Skull",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+      "image": "/api/image/0ab09c16c4f505d1.gif",
       "attributes": {
         "防御": "96-141",
         "类型": "轻型",
@@ -224,7 +224,7 @@
       "name": "监视者之骨",
       "name_en": "Overseer Skull",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+      "image": "/api/image/50159cdf4ef8487d.gif",
       "attributes": {
         "防御": "98-142",
         "类型": "轻型",
@@ -242,7 +242,7 @@
       "name": "女妖之骨",
       "name_en": "Succubus Skull",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/cd/Gargoylehead.gif",
+      "image": "/api/image/4d8961d9c9f2e5c4.gif",
       "attributes": {
         "防御": "100-146",
         "类型": "轻型",
@@ -260,7 +260,7 @@
       "name": "血王之骨",
       "name_en": "Bloodlord Skull",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "image": "/api/image/df53935675892e1c.gif",
       "attributes": {
         "防御": "103-148",
         "类型": "轻型",

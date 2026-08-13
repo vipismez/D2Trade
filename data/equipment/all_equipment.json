@@ -15,7 +15,7 @@
           "name": "手斧",
           "name_en": "Hand Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/3f/Hand_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/28efa812e1ed336c.gif",
           "attributes": {
             "单手伤害": "3-6",
             "范围": "1",
@@ -33,7 +33,7 @@
           "name": "斧",
           "name_en": "Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a4/Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/1ccaaeefc21e5803.gif",
           "attributes": {
             "单手伤害": "4-11",
             "范围": "2",
@@ -52,7 +52,7 @@
           "name": "双刃斧",
           "name_en": "Double Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/2a/Double_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/ceda0d9dbee1b3c4.gif",
           "attributes": {
             "单手伤害": "5-13",
             "范围": "2",
@@ -71,7 +71,7 @@
           "name": "军用锹",
           "name_en": "Military Pick",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/02/Military_pick_%28Diablo_II%29.gif",
+          "image": "/api/image/d6484e8dcc7a31ae.gif",
           "attributes": {
             "单手伤害": "7-11",
             "范围": "2",
@@ -90,7 +90,7 @@
           "name": "巨战斧",
           "name_en": "War Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/d/d2/War_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/c06a83576056c589.gif",
           "attributes": {
             "单手伤害": "10-18",
             "范围": "3",
@@ -109,7 +109,7 @@
           "name": "巨斧",
           "name_en": "Large Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/48/Large_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/1688209e3e806aef.gif",
           "attributes": {
             "双手伤害": "6-13",
             "范围": "2",
@@ -127,7 +127,7 @@
           "name": "阔斧",
           "name_en": "Broad Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/d4cd13e5e7825a9b.gif",
           "attributes": {
             "双手伤害": "10-18",
             "范围": "2",
@@ -146,7 +146,7 @@
           "name": "战斗斧",
           "name_en": "Battle Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/96/Battle_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/d08f8ab10885b235.gif",
           "attributes": {
             "双手伤害": "12-32",
             "范围": "2",
@@ -165,7 +165,7 @@
           "name": "卓越之斧",
           "name_en": "Great Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/c3/Great_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/0d84596f5937f3d7.gif",
           "attributes": {
             "双手伤害": "9-30",
             "范围": "1",
@@ -184,7 +184,7 @@
           "name": "大斧",
           "name_en": "Giant Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/33/Giant_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/5f7626a7c458935d.gif",
           "attributes": {
             "双手伤害": "22-45",
             "范围": "4",
@@ -203,7 +203,7 @@
           "name": "小斧",
           "name_en": "Hatchet",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/3f/Hand_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/28efa812e1ed336c.gif",
           "attributes": {
             "单手伤害": "10-21",
             "范围": "1",
@@ -221,7 +221,7 @@
           "name": "切肉斧",
           "name_en": "Cleaver",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a4/Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/1ccaaeefc21e5803.gif",
           "attributes": {
             "单手伤害": "10-33",
             "范围": "2",
@@ -240,7 +240,7 @@
           "name": "强化双斧",
           "name_en": "Twin Axe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/2a/Double_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/ceda0d9dbee1b3c4.gif",
           "attributes": {
             "单手伤害": "13-38",
             "范围": "2",
@@ -259,7 +259,7 @@
           "name": "喙钳",
           "name_en": "Crowbill",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/02/Military_pick_%28Diablo_II%29.gif",
+          "image": "/api/image/d6484e8dcc7a31ae.gif",
           "attributes": {
             "单手伤害": "14-34",
             "范围": "2",
@@ -278,7 +278,7 @@
           "name": "纳卡",
           "name_en": "Naga",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/d/d2/War_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/c06a83576056c589.gif",
           "attributes": {
             "单手伤害": "16-45",
             "范围": "3",
@@ -297,7 +297,7 @@
           "name": "军斧",
           "name_en": "Military Axe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/48/Large_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/1688209e3e806aef.gif",
           "attributes": {
             "双手伤害": "14-34",
             "范围": "2",
@@ -316,7 +316,7 @@
           "name": "钩斧",
           "name_en": "Bearded Axe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/d4cd13e5e7825a9b.gif",
           "attributes": {
             "双手伤害": "21-49",
             "范围": "2",
@@ -335,7 +335,7 @@
           "name": "战袍斧",
           "name_en": "Tabar",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/96/Battle_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/d08f8ab10885b235.gif",
           "attributes": {
             "双手伤害": "24-77",
             "范围": "2",
@@ -354,7 +354,7 @@
           "name": "哥德之斧",
           "name_en": "Gothic Axe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/c3/Great_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/0d84596f5937f3d7.gif",
           "attributes": {
             "双手伤害": "18-70",
             "范围": "3",
@@ -373,7 +373,7 @@
           "name": "古代之斧",
           "name_en": "Ancient Axe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/33/Giant_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/5f7626a7c458935d.gif",
           "attributes": {
             "双手伤害": "43-85",
             "范围": "4",
@@ -392,7 +392,7 @@
           "name": "战铖",
           "name_en": "Tomahawk",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/3f/Hand_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/28efa812e1ed336c.gif",
           "attributes": {
             "单手伤害": "33-58",
             "范围": "1",
@@ -410,7 +410,7 @@
           "name": "弯月斧",
           "name_en": "Small Crescent",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a4/Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/1ccaaeefc21e5803.gif",
           "attributes": {
             "单手伤害": "38-60",
             "范围": "2",
@@ -429,7 +429,7 @@
           "name": "双头斧",
           "name_en": "Ettin Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/2a/Double_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/ceda0d9dbee1b3c4.gif",
           "attributes": {
             "单手伤害": "33-66",
             "范围": "2",
@@ -448,7 +448,7 @@
           "name": "战刺",
           "name_en": "War Spike",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/02/Military_pick_%28Diablo_II%29.gif",
+          "image": "/api/image/d6484e8dcc7a31ae.gif",
           "attributes": {
             "单手伤害": "30-48",
             "范围": "2",
@@ -467,7 +467,7 @@
           "name": "狂战士斧",
           "name_en": "Berserker Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/d/d2/War_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/c06a83576056c589.gif",
           "attributes": {
             "单手伤害": "24-71",
             "范围": "3",
@@ -486,7 +486,7 @@
           "name": "猛禽斧",
           "name_en": "Feral Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/48/Large_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/1688209e3e806aef.gif",
           "attributes": {
             "双手伤害": "25-123",
             "范围": "2",
@@ -505,7 +505,7 @@
           "name": "银刃斧",
           "name_en": "Silver-Edged Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/8b/Broad_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/d4cd13e5e7825a9b.gif",
           "attributes": {
             "双手伤害": "62-110",
             "范围": "2",
@@ -524,7 +524,7 @@
           "name": "斩首斧",
           "name_en": "Decapitator",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/96/Battle_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/d08f8ab10885b235.gif",
           "attributes": {
             "双手伤害": "49-137",
             "范围": "2",
@@ -543,7 +543,7 @@
           "name": "冠军斧",
           "name_en": "Champion Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/c3/Great_axe_%28Diablo_II%29.gif",
+          "image": "/api/image/0d84596f5937f3d7.gif",
           "attributes": {
             "双手伤害": "59-94",
             "范围": "3",
@@ -562,7 +562,7 @@
           "name": "光荣之斧",
           "name_en": "Glorious Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/33/Giant_Axe_%28Diablo_II%29.gif",
+          "image": "/api/image/5f7626a7c458935d.gif",
           "attributes": {
             "双手伤害": "60-124",
             "范围": "4",
@@ -589,7 +589,7 @@
           "name": "短剑",
           "name_en": "Short Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/777000ca70718458.gif",
           "attributes": {
             "单手伤害": "2-7",
             "范围": "1",
@@ -608,7 +608,7 @@
           "name": "弯刀",
           "name_en": "Scimitar",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+          "image": "/api/image/f8828e19f06ef0ee.gif",
           "attributes": {
             "单手伤害": "2-6",
             "范围": "1",
@@ -627,7 +627,7 @@
           "name": "军刀",
           "name_en": "Sabre",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+          "image": "/api/image/12937d813ff001b6.gif",
           "attributes": {
             "单手伤害": "3-8",
             "范围": "1",
@@ -646,7 +646,7 @@
           "name": "弯形大刀",
           "name_en": "Falchion",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+          "image": "/api/image/77f64c6d29841123.gif",
           "attributes": {
             "单手伤害": "9-17",
             "范围": "1",
@@ -665,7 +665,7 @@
           "name": "水晶剑",
           "name_en": "Crystal Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/7b1f422853e87449.gif",
           "attributes": {
             "单手伤害": "5-15",
             "范围": "2",
@@ -684,7 +684,7 @@
           "name": "阔剑",
           "name_en": "Broad Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/b193c5f303da2ff8.gif",
           "attributes": {
             "单手伤害": "7-14",
             "范围": "1",
@@ -703,7 +703,7 @@
           "name": "长剑",
           "name_en": "Long Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+          "image": "/api/image/dd868a16c6725653.gif",
           "attributes": {
             "单手伤害": "3-19",
             "范围": "1",
@@ -722,7 +722,7 @@
           "name": "巨战之剑",
           "name_en": "War Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/cc6a9f28bb848960.gif",
           "attributes": {
             "单手伤害": "8-20",
             "范围": "1",
@@ -741,7 +741,7 @@
           "name": "双手剑",
           "name_en": "Two-handed Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/7183607b0f8b3ccc.gif",
           "attributes": {
             "单手伤害": "2-9",
             "双手伤害": "8-17",
@@ -761,7 +761,7 @@
           "name": "双刃大刀",
           "name_en": "Claymore",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+          "image": "/api/image/84edbc3b3be89868.gif",
           "attributes": {
             "单手伤害": "5-12",
             "双手伤害": "13-30",
@@ -781,7 +781,7 @@
           "name": "大剑",
           "name_en": "Giant Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/4e1da676d12b2b55.gif",
           "attributes": {
             "单手伤害": "3-16",
             "双手伤害": "9-28",
@@ -801,7 +801,7 @@
           "name": "巨剑",
           "name_en": "Bastard Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/65e4fbe634e2f98d.gif",
           "attributes": {
             "单手伤害": "7-19",
             "双手伤害": "20-28",
@@ -821,7 +821,7 @@
           "name": "双手饰剑",
           "name_en": "Flamberge",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+          "image": "/api/image/2049a841ff311f1d.gif",
           "attributes": {
             "单手伤害": "9-15",
             "双手伤害": "13-26",
@@ -841,7 +841,7 @@
           "name": "卓越之剑",
           "name_en": "Great Sword",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/e8be8e4858677463.gif",
           "attributes": {
             "单手伤害": "12-20",
             "双手伤害": "25-42",
@@ -861,7 +861,7 @@
           "name": "罗马短剑",
           "name_en": "Gladius",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/777000ca70718458.gif",
           "attributes": {
             "单手伤害": "8-22",
             "范围": "1",
@@ -880,7 +880,7 @@
           "name": "微弯剑",
           "name_en": "Cutlass",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+          "image": "/api/image/f8828e19f06ef0ee.gif",
           "attributes": {
             "单手伤害": "8-21",
             "范围": "1",
@@ -899,7 +899,7 @@
           "name": "虚伪之刃",
           "name_en": "Shamshir",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+          "image": "/api/image/12937d813ff001b6.gif",
           "attributes": {
             "单手伤害": "10-24",
             "范围": "1",
@@ -918,7 +918,7 @@
           "name": "圆月弯刀",
           "name_en": "Tulwar",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+          "image": "/api/image/77f64c6d29841123.gif",
           "attributes": {
             "单手伤害": "16-35",
             "范围": "1",
@@ -937,7 +937,7 @@
           "name": "空间之刃",
           "name_en": "Dimensional Blade",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/7b1f422853e87449.gif",
           "attributes": {
             "单手伤害": "13-35",
             "范围": "2",
@@ -956,7 +956,7 @@
           "name": "战斗剑",
           "name_en": "Battle Sword",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/b193c5f303da2ff8.gif",
           "attributes": {
             "单手伤害": "16-34",
             "范围": "1",
@@ -975,7 +975,7 @@
           "name": "符文剑",
           "name_en": "Rune Sword",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+          "image": "/api/image/dd868a16c6725653.gif",
           "attributes": {
             "单手伤害": "10-42",
             "范围": "1",
@@ -994,7 +994,7 @@
           "name": "古代之剑",
           "name_en": "Ancient Sword",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/cc6a9f28bb848960.gif",
           "attributes": {
             "单手伤害": "18-43",
             "范围": "1",
@@ -1013,7 +1013,7 @@
           "name": "斩铁剑",
           "name_en": "Espandon",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/7183607b0f8b3ccc.gif",
           "attributes": {
             "单手伤害": "8-26",
             "双手伤害": "18-40",
@@ -1033,7 +1033,7 @@
           "name": "双刃镰",
           "name_en": "Dacian Falx",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+          "image": "/api/image/84edbc3b3be89868.gif",
           "attributes": {
             "单手伤害": "13-30",
             "双手伤害": "26-61",
@@ -1053,7 +1053,7 @@
           "name": "长牙剑",
           "name_en": "Tusk Sword",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/4e1da676d12b2b55.gif",
           "attributes": {
             "单手伤害": "10-37",
             "双手伤害": "19-58",
@@ -1073,7 +1073,7 @@
           "name": "歌德剑",
           "name_en": "Gothic Sword",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/65e4fbe634e2f98d.gif",
           "attributes": {
             "单手伤害": "14-40",
             "双手伤害": "39-60",
@@ -1093,7 +1093,7 @@
           "name": "瑞韩德之剑",
           "name_en": "Zweihander",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+          "image": "/api/image/2049a841ff311f1d.gif",
           "attributes": {
             "单手伤害": "19-35",
             "双手伤害": "29-54",
@@ -1113,7 +1113,7 @@
           "name": "死刑之剑",
           "name_en": "Executioner Sword",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/e8be8e4858677463.gif",
           "attributes": {
             "单手伤害": "24-40",
             "双手伤害": "47-80",
@@ -1133,7 +1133,7 @@
           "name": "刃剑",
           "name_en": "Falcata",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/777000ca70718458.gif",
           "attributes": {
             "单手伤害": "31-59",
             "范围": "1",
@@ -1152,7 +1152,7 @@
           "name": "土耳其剑",
           "name_en": "Ataghan",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+          "image": "/api/image/f8828e19f06ef0ee.gif",
           "attributes": {
             "单手伤害": "26-46",
             "范围": "1",
@@ -1171,7 +1171,7 @@
           "name": "优雅之剑",
           "name_en": "Elegant Blade",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+          "image": "/api/image/12937d813ff001b6.gif",
           "attributes": {
             "单手伤害": "33-45",
             "范围": "1",
@@ -1190,7 +1190,7 @@
           "name": "九头蛇刃",
           "name_en": "Hydra Edge",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+          "image": "/api/image/77f64c6d29841123.gif",
           "attributes": {
             "单手伤害": "28-68",
             "范围": "1",
@@ -1209,7 +1209,7 @@
           "name": "幻化之刃",
           "name_en": "Phase Blade",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/7b1f422853e87449.gif",
           "attributes": {
             "单手伤害": "31-35",
             "范围": "2",
@@ -1228,7 +1228,7 @@
           "name": "征服之剑",
           "name_en": "Conquest Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/b193c5f303da2ff8.gif",
           "attributes": {
             "单手伤害": "37-53",
             "范围": "1",
@@ -1247,7 +1247,7 @@
           "name": "神秘之剑",
           "name_en": "Cryptic Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+          "image": "/api/image/dd868a16c6725653.gif",
           "attributes": {
             "单手伤害": "5-77",
             "范围": "2",
@@ -1266,7 +1266,7 @@
           "name": "秘仪之剑",
           "name_en": "Mythical Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/cc6a9f28bb848960.gif",
           "attributes": {
             "单手伤害": "40-50",
             "范围": "2",
@@ -1285,7 +1285,7 @@
           "name": "传说之剑",
           "name_en": "Legend Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/7183607b0f8b3ccc.gif",
           "attributes": {
             "单手伤害": "22-56",
             "双手伤害": "50-94",
@@ -1305,7 +1305,7 @@
           "name": "高地之剑",
           "name_en": "Highland Blade",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+          "image": "/api/image/84edbc3b3be89868.gif",
           "attributes": {
             "单手伤害": "22-62",
             "双手伤害": "67-96",
@@ -1325,7 +1325,7 @@
           "name": "炎魔之刃",
           "name_en": "Balrog Blade",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/4e1da676d12b2b55.gif",
           "attributes": {
             "单手伤害": "15-75",
             "双手伤害": "55-118",
@@ -1345,7 +1345,7 @@
           "name": "冠军之剑",
           "name_en": "Champion Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/65e4fbe634e2f98d.gif",
           "attributes": {
             "单手伤害": "24-54",
             "双手伤害": "71-83",
@@ -1365,7 +1365,7 @@
           "name": "巨神之剑",
           "name_en": "Colossus Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+          "image": "/api/image/2049a841ff311f1d.gif",
           "attributes": {
             "单手伤害": "26-70",
             "双手伤害": "61-121",
@@ -1385,7 +1385,7 @@
           "name": "巨神之刃",
           "name_en": "Colossus Blade",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+          "image": "/api/image/e8be8e4858677463.gif",
           "attributes": {
             "单手伤害": "25-65",
             "双手伤害": "58-115",
@@ -1413,7 +1413,7 @@
           "name": "匕首",
           "name_en": "Dagger",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+          "image": "/api/image/70eb4a962e95430e.gif",
           "attributes": {
             "单手伤害": "1-4",
             "攻击范围": "1",
@@ -1432,7 +1432,7 @@
           "name": "长匕首",
           "name_en": "Dirk",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+          "image": "/api/image/1cf2946aa3ea2454.gif",
           "attributes": {
             "单手伤害": "3-9",
             "攻击范围": "1",
@@ -1451,7 +1451,7 @@
           "name": "波形刃",
           "name_en": "Kris",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+          "image": "/api/image/00ef32b2486d6c8e.jpg",
           "attributes": {
             "单手伤害": "2-11",
             "攻击范围": "1",
@@ -1470,7 +1470,7 @@
           "name": "短刀",
           "name_en": "Blade",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+          "image": "/api/image/5cef3fbbdf937c8b.gif",
           "attributes": {
             "单手伤害": "4-15",
             "攻击范围": "1",
@@ -1489,7 +1489,7 @@
           "name": "锐匕",
           "name_en": "Poignard",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+          "image": "/api/image/70eb4a962e95430e.gif",
           "attributes": {
             "单手伤害": "6-18",
             "攻击范围": "1",
@@ -1508,7 +1508,7 @@
           "name": "诗歌匕首",
           "name_en": "Rondel",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+          "image": "/api/image/1cf2946aa3ea2454.gif",
           "attributes": {
             "单手伤害": "10-26",
             "攻击范围": "1",
@@ -1527,7 +1527,7 @@
           "name": "强波刃",
           "name_en": "Cinquedeas",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+          "image": "/api/image/00ef32b2486d6c8e.jpg",
           "attributes": {
             "单手伤害": "15-31",
             "攻击范围": "1",
@@ -1546,7 +1546,7 @@
           "name": "小剑",
           "name_en": "Stiletto",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+          "image": "/api/image/5cef3fbbdf937c8b.gif",
           "attributes": {
             "单手伤害": "19-36",
             "攻击范围": "1",
@@ -1565,7 +1565,7 @@
           "name": "骸骨小刀",
           "name_en": "Bone Knife",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+          "image": "/api/image/70eb4a962e95430e.gif",
           "attributes": {
             "单手伤害": "23-49",
             "攻击范围": "1",
@@ -1584,7 +1584,7 @@
           "name": "秘银小刀",
           "name_en": "Mithril Point",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+          "image": "/api/image/1cf2946aa3ea2454.gif",
           "attributes": {
             "单手伤害": "37-53",
             "攻击范围": "1",
@@ -1603,7 +1603,7 @@
           "name": "齿缘小刀",
           "name_en": "Fanged Knife",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+          "image": "/api/image/00ef32b2486d6c8e.jpg",
           "attributes": {
             "单手伤害": "15-57",
             "攻击范围": "1",
@@ -1622,7 +1622,7 @@
           "name": "传说尖刺",
           "name_en": "Legend Spike",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+          "image": "/api/image/5cef3fbbdf937c8b.gif",
           "attributes": {
             "单手伤害": "31-47",
             "攻击范围": "1",
@@ -1649,7 +1649,7 @@
           "name": "木棒",
           "name_en": "Club",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+          "image": "/api/image/afb8d19cbd42dbcc.gif",
           "attributes": {
             "单手伤害值": "1-6 (3.5)",
             "攻击距离": "1",
@@ -1667,7 +1667,7 @@
           "name": "狼牙棒",
           "name_en": "Spiked Club",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+          "image": "/api/image/a5d052fb92ca04ed.gif",
           "attributes": {
             "单手伤害值": "5-8 (6.5)",
             "攻击距离": "2",
@@ -1685,7 +1685,7 @@
           "name": "钉头锤",
           "name_en": "Mace",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+          "image": "/api/image/fa2ad23c7defb4b7.gif",
           "attributes": {
             "单手伤害值": "3-10 (7.5)",
             "攻击距离": "1",
@@ -1703,7 +1703,7 @@
           "name": "流星锤",
           "name_en": "Morning Star",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+          "image": "/api/image/1448043412ade0c6.gif",
           "attributes": {
             "单手伤害值": "7-16 (11.5)",
             "攻击距离": "2",
@@ -1721,7 +1721,7 @@
           "name": "链枷",
           "name_en": "Flail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+          "image": "/api/image/85fe5bb286c1019e.gif",
           "attributes": {
             "单手伤害值": "1-24 (12.5)",
             "攻击距离": "3",
@@ -1739,7 +1739,7 @@
           "name": "巨战铁槌",
           "name_en": "War Hammer",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+          "image": "/api/image/2b4e1b1ee5053277.gif",
           "attributes": {
             "单手伤害值": "19-29 (24)",
             "攻击距离": "1",
@@ -1757,7 +1757,7 @@
           "name": "大木棍",
           "name_en": "Maul",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+          "image": "/api/image/60f9068b60ba284c.gif",
           "attributes": {
             "双手伤害值": "38-58 (48)",
             "攻击距离": "3",
@@ -1775,7 +1775,7 @@
           "name": "卓越巨棍",
           "name_en": "Great Maul",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/97/Great_Maul%28Diablo_II%29.gif",
+          "image": "/api/image/fa70574f56da6c24.gif",
           "attributes": {
             "双手伤害值": "30-43 (36.5)",
             "攻击距离": "2",
@@ -1793,7 +1793,7 @@
           "name": "棍棒",
           "name_en": "Cudgel",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+          "image": "/api/image/afb8d19cbd42dbcc.gif",
           "attributes": {
             "单手伤害值": "6-21(13.5)",
             "攻击距离": "1",
@@ -1811,7 +1811,7 @@
           "name": "倒钩槌",
           "name_en": "Barbed Club",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+          "image": "/api/image/a5d052fb92ca04ed.gif",
           "attributes": {
             "单手伤害值": "13-25 (19)",
             "攻击距离": "2",
@@ -1829,7 +1829,7 @@
           "name": "凸缘钉头锤",
           "name_en": "Flanged Mace",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+          "image": "/api/image/fa2ad23c7defb4b7.gif",
           "attributes": {
             "单手伤害值": "15-23 (19)",
             "攻击距离": "1",
@@ -1847,7 +1847,7 @@
           "name": "锯齿流星锤",
           "name_en": "Jagged Star",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+          "image": "/api/image/1448043412ade0c6.gif",
           "attributes": {
             "单手伤害值": "20-31 (25.5)",
             "攻击距离": "2",
@@ -1865,7 +1865,7 @@
           "name": "铁皮鞭",
           "name_en": "Knout",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+          "image": "/api/image/85fe5bb286c1019e.gif",
           "attributes": {
             "单手伤害值": "13-35 (24)",
             "攻击距离": "3",
@@ -1883,7 +1883,7 @@
           "name": "战斗铁槌",
           "name_en": "Battle Hammer",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+          "image": "/api/image/2b4e1b1ee5053277.gif",
           "attributes": {
             "单手伤害值": "35-58 (46.5)",
             "攻击距离": "1",
@@ -1901,7 +1901,7 @@
           "name": "巨战木棍",
           "name_en": "War Club",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+          "image": "/api/image/60f9068b60ba284c.gif",
           "attributes": {
             "双手伤害值": "53-78(65.5)",
             "攻击距离": "2",
@@ -1919,7 +1919,7 @@
           "name": "战槌",
           "name_en": "Martel de Fer",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/80/Gavelofpain.gif",
+          "image": "/api/image/797b9addf4f395f4.gif",
           "attributes": {
             "双手伤害值": "61-99 (80)",
             "攻击距离": "3",
@@ -1937,7 +1937,7 @@
           "name": "战仪杖",
           "name_en": "Truncheon",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+          "image": "/api/image/afb8d19cbd42dbcc.gif",
           "attributes": {
             "单手伤害值": "35-43 (39)",
             "攻击距离": "1",
@@ -1955,7 +1955,7 @@
           "name": "暴君之棒",
           "name_en": "Tyrant Club",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+          "image": "/api/image/a5d052fb92ca04ed.gif",
           "attributes": {
             "单手伤害值": "32-58 (45)",
             "攻击距离": "2",
@@ -1973,7 +1973,7 @@
           "name": "强化钉头锤",
           "name_en": "Reinforced Mace",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+          "image": "/api/image/fa2ad23c7defb4b7.gif",
           "attributes": {
             "单手伤害值": "41-49 (7.5)",
             "攻击距离": "1",
@@ -1991,7 +1991,7 @@
           "name": "恶魔流星锤",
           "name_en": "Devil Star",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+          "image": "/api/image/1448043412ade0c6.gif",
           "attributes": {
             "单手伤害值": "43-53 (48)",
             "攻击距离": "2",
@@ -2009,7 +2009,7 @@
           "name": "天罚之锤",
           "name_en": "Scourge",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+          "image": "/api/image/85fe5bb286c1019e.gif",
           "attributes": {
             "单手伤害值": "3-80 (41.5)",
             "攻击距离": "3",
@@ -2027,7 +2027,7 @@
           "name": "传说之锤",
           "name_en": "Legendary Mallet",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+          "image": "/api/image/2b4e1b1ee5053277.gif",
           "attributes": {
             "单手伤害值": "59-61 (55.5)",
             "攻击距离": "1",
@@ -2045,7 +2045,7 @@
           "name": "食人魔之锤",
           "name_en": "Ogre Maul",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+          "image": "/api/image/60f9068b60ba284c.gif",
           "attributes": {
             "双手伤害值": "77-106 (91.5)",
             "攻击距离": "2",
@@ -2063,7 +2063,7 @@
           "name": "雷锤",
           "name_en": "Thunder Maul",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/97/Great_Maul%28Diablo_II%29.gif",
+          "image": "/api/image/fa70574f56da6c24.gif",
           "attributes": {
             "双手伤害值": "33-180 (106.5)",
             "攻击距离": "3",
@@ -2089,7 +2089,7 @@
           "name": "短弓",
           "name_en": "Short Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+          "image": "/api/image/81d0ce5b77aa9984.gif",
           "attributes": {
             "双手伤害": "1-4",
             "武器基础攻速": "[5]",
@@ -2105,7 +2105,7 @@
           "name": "猎弓",
           "name_en": "Hunter's Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+          "image": "/api/image/d741af04de952bfa.gif",
           "attributes": {
             "双手伤害": "2-6",
             "武器基础攻速": "[-10]",
@@ -2121,7 +2121,7 @@
           "name": "长弓",
           "name_en": "Long Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+          "image": "/api/image/699998229546ffed.gif",
           "attributes": {
             "双手伤害": "3-10",
             "武器基础攻速": "[0]",
@@ -2137,7 +2137,7 @@
           "name": "组合弓",
           "name_en": "Composite Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+          "image": "/api/image/ca6112493a19685c.gif",
           "attributes": {
             "双手伤害": "4-8",
             "武器基础攻速": "[-10]",
@@ -2153,7 +2153,7 @@
           "name": "短战斗弓",
           "name_en": "Short Battle Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+          "image": "/api/image/85aec98198b528cb.gif",
           "attributes": {
             "双手伤害": "5-11",
             "武器基础攻速": "[0]",
@@ -2169,7 +2169,7 @@
           "name": "长战斗弓",
           "name_en": "Long Battle Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+          "image": "/api/image/8850e31d2cb53297.gif",
           "attributes": {
             "双手伤害": "3-18",
             "武器基础攻速": "[10]",
@@ -2185,7 +2185,7 @@
           "name": "短巨战弓",
           "name_en": "Short War Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+          "image": "/api/image/af44c5acf87316f1.gif",
           "attributes": {
             "双手伤害": "6-14",
             "武器基础攻速": "[0]",
@@ -2201,7 +2201,7 @@
           "name": "长巨战弓",
           "name_en": "Long War Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+          "image": "/api/image/05ee9ec6133e7135.gif",
           "attributes": {
             "双手伤害": "3-23",
             "武器基础攻速": "[10]",
@@ -2217,7 +2217,7 @@
           "name": "锋锐之弓",
           "name_en": "Edge Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+          "image": "/api/image/81d0ce5b77aa9984.gif",
           "attributes": {
             "双手伤害": "6-19",
             "武器基础攻速": "[5]",
@@ -2235,7 +2235,7 @@
           "name": "剃刀之弓",
           "name_en": "Razor Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+          "image": "/api/image/d741af04de952bfa.gif",
           "attributes": {
             "双手伤害": "8-22",
             "武器基础攻速": "[-10]",
@@ -2252,7 +2252,7 @@
           "name": "杉木弓",
           "name_en": "Cedar Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+          "image": "/api/image/699998229546ffed.gif",
           "attributes": {
             "双手伤害": "10-29",
             "武器基础攻速": "[0]",
@@ -2269,7 +2269,7 @@
           "name": "双弓",
           "name_en": "Double Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+          "image": "/api/image/ca6112493a19685c.gif",
           "attributes": {
             "双手伤害": "11-26",
             "武器基础攻速": "[-10]",
@@ -2286,7 +2286,7 @@
           "name": "短攻城弓",
           "name_en": "Short Siege Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+          "image": "/api/image/85aec98198b528cb.gif",
           "attributes": {
             "双手伤害": "13-30",
             "武器基础攻速": "[0]",
@@ -2303,7 +2303,7 @@
           "name": "长攻城弓",
           "name_en": "Large Siege Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+          "image": "/api/image/8850e31d2cb53297.gif",
           "attributes": {
             "双手伤害": "10-42",
             "武器基础攻速": "[10]",
@@ -2320,7 +2320,7 @@
           "name": "符文之弓",
           "name_en": "Rune Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+          "image": "/api/image/af44c5acf87316f1.gif",
           "attributes": {
             "双手伤害": "14-35",
             "武器基础攻速": "[0]",
@@ -2337,7 +2337,7 @@
           "name": "歌德弓",
           "name_en": "Gothic Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+          "image": "/api/image/05ee9ec6133e7135.gif",
           "attributes": {
             "双手伤害": "10-50",
             "武器基础攻速": "[10]",
@@ -2354,7 +2354,7 @@
           "name": "蜘蛛弓",
           "name_en": "Spider Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+          "image": "/api/image/81d0ce5b77aa9984.gif",
           "attributes": {
             "双手伤害": "23-50",
             "武器基础攻速": "[5]",
@@ -2371,7 +2371,7 @@
           "name": "刀锋弓",
           "name_en": "Blade Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+          "image": "/api/image/d741af04de952bfa.gif",
           "attributes": {
             "双手伤害": "21-41",
             "武器基础攻速": "[-10]",
@@ -2388,7 +2388,7 @@
           "name": "阴影弓",
           "name_en": "Shadow Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+          "image": "/api/image/699998229546ffed.gif",
           "attributes": {
             "双手伤害": "15-59",
             "武器基础攻速": "[0]",
@@ -2405,7 +2405,7 @@
           "name": "巨弓",
           "name_en": "Great Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+          "image": "/api/image/ca6112493a19685c.gif",
           "attributes": {
             "双手伤害": "12-52",
             "武器基础攻速": "[-10]",
@@ -2422,7 +2422,7 @@
           "name": "钻石弓",
           "name_en": "Diamond Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+          "image": "/api/image/85aec98198b528cb.gif",
           "attributes": {
             "双手伤害": "33-40",
             "武器基础攻速": "[0]",
@@ -2439,7 +2439,7 @@
           "name": "十字军之弓",
           "name_en": "Crusader Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+          "image": "/api/image/8850e31d2cb53297.gif",
           "attributes": {
             "双手伤害": "15-63",
             "武器基础攻速": "[10]",
@@ -2456,7 +2456,7 @@
           "name": "庇护之弓",
           "name_en": "Ward Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+          "image": "/api/image/af44c5acf87316f1.gif",
           "attributes": {
             "双手伤害": "20-53",
             "武器基础攻速": "[0]",
@@ -2473,7 +2473,7 @@
           "name": "九头蛇弓",
           "name_en": "Hydra Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+          "image": "/api/image/05ee9ec6133e7135.gif",
           "attributes": {
             "双手伤害": "10-68",
             "武器基础攻速": "[10]",
@@ -2498,7 +2498,7 @@
           "name": "轻十字弓",
           "name_en": "Light Crossbow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/2d594a5d0e100a76.gif",
           "attributes": {
             "单手伤害值": "6-9 (7.5)",
             "攻击距离": "-",
@@ -2516,7 +2516,7 @@
           "name": "十字弓",
           "name_en": "Crossbow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/6b92fc6ce34a8c5e.gif",
           "attributes": {
             "单手伤害值": "6-16 (12.5)",
             "攻击距离": "-",
@@ -2534,7 +2534,7 @@
           "name": "重十字弓",
           "name_en": "Heavy Crossbow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/4b5edad47a5fff8d.gif",
           "attributes": {
             "单手伤害值": "14-26 (20)",
             "攻击距离": "-",
@@ -2552,7 +2552,7 @@
           "name": "连射十字弓",
           "name_en": "Repeating Crossbow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/f35009f813900dce.gif",
           "attributes": {
             "单手伤害值": "6-12 (9)",
             "攻击距离": "-",
@@ -2570,7 +2570,7 @@
           "name": "石弓",
           "name_en": "Arbalest",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/2d594a5d0e100a76.gif",
           "attributes": {
             "单手伤害值": "14-27 (20.5)",
             "攻击距离": "-",
@@ -2588,7 +2588,7 @@
           "name": "攻城十字弓",
           "name_en": "Siege Crossbow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/6b92fc6ce34a8c5e.gif",
           "attributes": {
             "单手伤害值": "6-16 (12.5)",
             "攻击距离": "-",
@@ -2606,7 +2606,7 @@
           "name": "弩弓",
           "name_en": "Ballista",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/4b5edad47a5fff8d.gif",
           "attributes": {
             "单手伤害值": "33-55 (44)",
             "攻击距离": "-",
@@ -2624,7 +2624,7 @@
           "name": "巧工弩",
           "name_en": "Chu-Ko-Nu",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/f35009f813900dce.gif",
           "attributes": {
             "单手伤害值": "14-32 (23)",
             "攻击距离": "-",
@@ -2642,7 +2642,7 @@
           "name": "弹丸弓",
           "name_en": "Pellet Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/2d594a5d0e100a76.gif",
           "attributes": {
             "单手伤害值": "28-73 (50.5)",
             "攻击距离": "-",
@@ -2660,7 +2660,7 @@
           "name": "蛇魔女十字弓",
           "name_en": "Gorgon Crossbow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/6b92fc6ce34a8c5e.gif",
           "attributes": {
             "单手伤害值": "25-87 (56)",
             "攻击距离": "-",
@@ -2678,7 +2678,7 @@
           "name": "巨神十字弓",
           "name_en": "Colossus Crossbow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/4b5edad47a5fff8d.gif",
           "attributes": {
             "单手伤害值": "32-91 (61.5)",
             "攻击距离": "-",
@@ -2696,7 +2696,7 @@
           "name": "恶魔十字弓",
           "name_en": "Demon Crossbow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+          "image": "/api/image/f35009f813900dce.gif",
           "attributes": {
             "单手伤害值": "26-40 (33)",
             "攻击距离": "-",
@@ -2722,7 +2722,7 @@
           "name": "标枪",
           "name_en": "Javelins",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/7f/Javelins%28Diablo_II%29.gif",
+          "image": "/api/image/bf5b20e60df76d47.gif",
           "attributes": {
             "投掷伤害": "6-14",
             "单手伤害": "1-5",
@@ -2740,7 +2740,7 @@
           "name": "短标枪",
           "name_en": "Pilum",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/08/Pilum%28Diablo_II%29.gif",
+          "image": "/api/image/8e3ae1d0d15c4653.gif",
           "attributes": {
             "投掷伤害": "7-20",
             "单手伤害": "4-9",
@@ -2758,7 +2758,7 @@
           "name": "短矛",
           "name_en": "Short Spear",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/bc/Short_Spear%28Diablo_II%29.gif",
+          "image": "/api/image/b290a9774c48f953.gif",
           "attributes": {
             "投掷伤害": "10-22",
             "单手伤害": "2-13",
@@ -2776,7 +2776,7 @@
           "name": "大长刀",
           "name_en": "Glaive",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/53/Glaive%28Diablo_II%29.gif",
+          "image": "/api/image/e6ccda6afd4c1d54.gif",
           "attributes": {
             "投掷伤害": "16-22",
             "单手伤害": "5-17",
@@ -2794,7 +2794,7 @@
           "name": "飞矛",
           "name_en": "Throwing Spear",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/74/Throwing_Spear%28Diablo_II%29.gif",
+          "image": "/api/image/a76faed754fdfa06.gif",
           "attributes": {
             "投掷伤害": "12-30",
             "单手伤害": "5-15",
@@ -2812,7 +2812,7 @@
           "name": "巨战标枪",
           "name_en": "War Javelin",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/7f/Javelins%28Diablo_II%29.gif",
+          "image": "/api/image/bf5b20e60df76d47.gif",
           "attributes": {
             "投掷伤害": "14-32",
             "单手伤害": "6-19",
@@ -2831,7 +2831,7 @@
           "name": "卓越标枪",
           "name_en": "Great Pilum",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/08/Pilum%28Diablo_II%29.gif",
+          "image": "/api/image/8e3ae1d0d15c4653.gif",
           "attributes": {
             "投掷伤害": "16-42",
             "单手伤害": "11-26",
@@ -2850,7 +2850,7 @@
           "name": "锐矛",
           "name_en": "Simbilan",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/bc/Short_Spear%28Diablo_II%29.gif",
+          "image": "/api/image/b290a9774c48f953.gif",
           "attributes": {
             "投掷伤害": "27-50",
             "单手伤害": "8-32",
@@ -2869,7 +2869,7 @@
           "name": "阔针长矛",
           "name_en": "Spiculum",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/53/Glaive%28Diablo_II%29.gif",
+          "image": "/api/image/e6ccda6afd4c1d54.gif",
           "attributes": {
             "投掷伤害": "32-60",
             "单手伤害": "13-38",
@@ -2888,7 +2888,7 @@
           "name": "鱼叉",
           "name_en": "Harpoon",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/74/Throwing_Spear%28Diablo_II%29.gif",
+          "image": "/api/image/a76faed754fdfa06.gif",
           "attributes": {
             "投掷伤害": "18-54",
             "单手伤害": "13-35",
@@ -2907,7 +2907,7 @@
           "name": "亥伯龙之枪",
           "name_en": "Hyperion Javelin",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/7f/Javelins%28Diablo_II%29.gif",
+          "image": "/api/image/bf5b20e60df76d47.gif",
           "attributes": {
             "投掷伤害": "28-55",
             "单手伤害": "21-57",
@@ -2926,7 +2926,7 @@
           "name": "冥河标枪",
           "name_en": "Stygian Pilum",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/08/Pilum%28Diablo_II%29.gif",
+          "image": "/api/image/8e3ae1d0d15c4653.gif",
           "attributes": {
             "投掷伤害": "21-75",
             "单手伤害": "14-64",
@@ -2945,7 +2945,7 @@
           "name": "炎魔长矛",
           "name_en": "Balrog Spear",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/bc/Short_Spear%28Diablo_II%29.gif",
+          "image": "/api/image/b290a9774c48f953.gif",
           "attributes": {
             "投掷伤害": "40-62",
             "单手伤害": "33-63",
@@ -2964,7 +2964,7 @@
           "name": "鬼魂尖枪",
           "name_en": "Ghost Glaive",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/53/Glaive%28Diablo_II%29.gif",
+          "image": "/api/image/e6ccda6afd4c1d54.gif",
           "attributes": {
             "投掷伤害": "30-85",
             "单手伤害": "19-60",
@@ -2983,7 +2983,7 @@
           "name": "翼鱼叉",
           "name_en": "Winged Harpoon",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/74/Throwing_Spear%28Diablo_II%29.gif",
+          "image": "/api/image/a76faed754fdfa06.gif",
           "attributes": {
             "投掷伤害": "11-77",
             "单手伤害": "27-35",
@@ -3010,7 +3010,7 @@
           "name": "权杖",
           "name_en": "Scepter",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/84/Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/0a576f0aee86363b.gif",
           "attributes": {
             "单手伤害值": "6-11 (8.5)",
             "攻击距离": "1",
@@ -3028,7 +3028,7 @@
           "name": "雄伟权杖",
           "name_en": "Grand Scepter",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/66/Grand_Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/4dbcaf481470a029.gif",
           "attributes": {
             "单手伤害值": "8-18",
             "攻击距离": "2",
@@ -3046,7 +3046,7 @@
           "name": "巨战权杖",
           "name_en": "War Scepter",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/7a/War_Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/d89bac1dce98528c.gif",
           "attributes": {
             "单手伤害值": "10-17 (13.5)",
             "攻击距离": "2",
@@ -3064,7 +3064,7 @@
           "name": "符文权杖",
           "name_en": "Rune Scepter",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/84/Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/0a576f0aee86363b.gif",
           "attributes": {
             "单手伤害值": "13-24 (18.5)",
             "攻击距离": "1",
@@ -3082,7 +3082,7 @@
           "name": "圣水喷杖",
           "name_en": "Holy Water Sprinkler",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/66/Grand_Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/4dbcaf481470a029.gif",
           "attributes": {
             "单手伤害值": "14-36 （25）",
             "攻击距离": "2",
@@ -3100,7 +3100,7 @@
           "name": "神属权杖",
           "name_en": "Divine Scepter",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/7a/War_Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/d89bac1dce98528c.gif",
           "attributes": {
             "单手伤害值": "16-38 (27)",
             "攻击距离": "2",
@@ -3118,7 +3118,7 @@
           "name": "强威权杖",
           "name_en": "Mighty Scepter",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/84/Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/0a576f0aee86363b.gif",
           "attributes": {
             "单手伤害值": "40-52 (46)",
             "攻击距离": "1",
@@ -3136,7 +3136,7 @@
           "name": "炽天使法杖",
           "name_en": "Seraph Rod",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/66/Grand_Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/4dbcaf481470a029.gif",
           "attributes": {
             "单手伤害值": "45-54（49.5）",
             "攻击距离": "2",
@@ -3154,7 +3154,7 @@
           "name": "神使之杖",
           "name_en": "Caduceus",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/7a/War_Scepter%28Diablo_II%29.gif",
+          "image": "/api/image/d89bac1dce98528c.gif",
           "attributes": {
             "单手伤害值": "10-17 (13.5)",
             "攻击距离": "2",
@@ -3180,7 +3180,7 @@
           "name": "短棍",
           "name_en": "Short Staff",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+          "image": "/api/image/60bb69997937830a.jpg",
           "attributes": {
             "双手伤害": "1-5",
             "范围": "2",
@@ -3199,7 +3199,7 @@
           "name": "长棍",
           "name_en": "Long Staff",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/0fdb1a5d6511f628.gif",
           "attributes": {
             "双手伤害": "2-8",
             "范围": "2",
@@ -3218,7 +3218,7 @@
           "name": "多节棍",
           "name_en": "Gnarled Staff",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/2f3e1d5b0c7f6e0c.gif",
           "attributes": {
             "双手伤害": "4-12",
             "范围": "2",
@@ -3237,7 +3237,7 @@
           "name": "战斗法杖",
           "name_en": "Battle Staff",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/0d4bbe234c44b766.gif",
           "attributes": {
             "双手伤害": "6-13",
             "范围": "2",
@@ -3256,7 +3256,7 @@
           "name": "巨战法杖",
           "name_en": "War Staff",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/8d9a047cb71bc920.gif",
           "attributes": {
             "双手伤害": "12-28",
             "范围": "2",
@@ -3275,7 +3275,7 @@
           "name": "乔木棒",
           "name_en": "Jo Staff",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+          "image": "/api/image/60bb69997937830a.jpg",
           "attributes": {
             "双手伤害": "6-21",
             "范围": "2",
@@ -3294,7 +3294,7 @@
           "name": "六尺棍",
           "name_en": "Quaterstaff",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/0fdb1a5d6511f628.gif",
           "attributes": {
             "双手伤害": "8-26",
             "范围": "2",
@@ -3313,7 +3313,7 @@
           "name": "杉木之棍",
           "name_en": "Cedar Staff",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/2f3e1d5b0c7f6e0c.gif",
           "attributes": {
             "双手伤害": "11-32",
             "范围": "2",
@@ -3332,7 +3332,7 @@
           "name": "哥德之棍",
           "name_en": "Gothic Staff",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/0d4bbe234c44b766.gif",
           "attributes": {
             "双手伤害": "14-34",
             "范围": "2",
@@ -3351,7 +3351,7 @@
           "name": "符文之棍",
           "name_en": "Rune Staff",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/8d9a047cb71bc920.gif",
           "attributes": {
             "双手伤害": "24-58",
             "范围": "2",
@@ -3370,7 +3370,7 @@
           "name": "手杖",
           "name_en": "Walking Stick",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+          "image": "/api/image/60bb69997937830a.jpg",
           "attributes": {
             "双手伤害": "69-85",
             "范围": "2",
@@ -3389,7 +3389,7 @@
           "name": "钟乳石之杖",
           "name_en": "Stalagmite",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/0fdb1a5d6511f628.gif",
           "attributes": {
             "双手伤害": "75-107",
             "范围": "2",
@@ -3408,7 +3408,7 @@
           "name": "多节棍",
           "name_en": "Elder Staff",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/2f3e1d5b0c7f6e0c.gif",
           "attributes": {
             "双手伤害": "80-93",
             "范围": "2",
@@ -3427,7 +3427,7 @@
           "name": "树皮之杖",
           "name_en": "Shillelagh",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/0d4bbe234c44b766.gif",
           "attributes": {
             "双手伤害": "65-108",
             "范围": "2",
@@ -3446,7 +3446,7 @@
           "name": "执政官之杖",
           "name_en": "Archon Staff",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+          "image": "/api/image/8d9a047cb71bc920.gif",
           "attributes": {
             "双手伤害": "83-99",
             "范围": "2",
@@ -3473,7 +3473,7 @@
           "name": "手杖",
           "name_en": "Wand",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/84/Wand%28Diablo_II%29.gif",
+          "image": "/api/image/dcf0211fa2c7e5c3.gif",
           "attributes": {
             "单手伤害": "2-4(3)",
             "攻击距离": "1",
@@ -3491,7 +3491,7 @@
           "name": "紫杉之杖",
           "name_en": "Yew Wand",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/e/eb/Yew_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/deccf11efd80b908.gif",
           "attributes": {
             "单手害": "2-8(5)",
             "攻击距离": "1",
@@ -3509,7 +3509,7 @@
           "name": "骨杖",
           "name_en": "Bone Wand",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/6d/Bone_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/489810dd9d69644f.gif",
           "attributes": {
             "单手伤害": "3-7 (5)",
             "攻击距离": "1",
@@ -3527,7 +3527,7 @@
           "name": "残酷之杖",
           "name_en": "Grim Wand",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/4b/Grim_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/0981dc25fd0253fe.gif",
           "attributes": {
             "单手伤害": "5-11（8）",
             "攻击距离": "1",
@@ -3545,7 +3545,7 @@
           "name": "烧焦之杖",
           "name_en": "Burnt Wand",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/84/Wand%28Diablo_II%29.gif",
+          "image": "/api/image/dcf0211fa2c7e5c3.gif",
           "attributes": {
             "单手伤害": "8-18(13)",
             "攻击距离": "1",
@@ -3563,7 +3563,7 @@
           "name": "净化之杖",
           "name_en": "Petrified Wand",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/e/eb/Yew_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/deccf11efd80b908.gif",
           "attributes": {
             "单手害": "8-24(16)",
             "攻击距离": "1",
@@ -3581,7 +3581,7 @@
           "name": "古墓之杖",
           "name_en": "Tomb Wand",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/6d/Bone_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/489810dd9d69644f.gif",
           "attributes": {
             "单手伤害": "10-22 (16)",
             "攻击距离": "1",
@@ -3599,7 +3599,7 @@
           "name": "洗练法杖",
           "name_en": "Polished Wand",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/84/Wand%28Diablo_II%29.gif",
+          "image": "/api/image/dcf0211fa2c7e5c3.gif",
           "attributes": {
             "单手伤害": "18-33(25.5)",
             "攻击距离": "1",
@@ -3617,7 +3617,7 @@
           "name": "鬼魂之杖",
           "name_en": "Ghost Wand",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/e/eb/Yew_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/deccf11efd80b908.gif",
           "attributes": {
             "单手害": "20-40(30)",
             "攻击距离": "1",
@@ -3635,7 +3635,7 @@
           "name": "巫妖法杖",
           "name_en": "Lich Wand",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/6d/Bone_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/489810dd9d69644f.gif",
           "attributes": {
             "单手伤害": "10-31 (20.5)",
             "攻击距离": "1",
@@ -3653,7 +3653,7 @@
           "name": "破隐法杖",
           "name_en": "Uneatthed Wand",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/4b/Grim_Wand%28Diablo_II%29.gif",
+          "image": "/api/image/0981dc25fd0253fe.gif",
           "attributes": {
             "单手伤害": "22-28（25）",
             "攻击距离": "1",
@@ -3679,7 +3679,7 @@
           "name": "长矛",
           "name_en": "Spear",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/50/Spear1_%28Diablo_II%29.gif",
+          "image": "/api/image/72cae0412a011814.gif",
           "attributes": {
             "双手伤害": "3-15(9平均)",
             "范围": "4",
@@ -3697,7 +3697,7 @@
           "name": "三叉戟",
           "name_en": "Trident",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/fd/Trident_%28Diablo_II%29.gif",
+          "image": "/api/image/df175768c0e006b0.gif",
           "attributes": {
             "双手伤害": "9-15(12平均)",
             "范围": "4",
@@ -3715,7 +3715,7 @@
           "name": "叉",
           "name_en": "Brandistock",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+          "image": "/api/image/45205634dfcfb652.gif",
           "attributes": {
             "双手伤害": "7-17(12平均)",
             "范围": "5",
@@ -3733,7 +3733,7 @@
           "name": "大战戟",
           "name_en": "Spetum",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+          "image": "/api/image/45205634dfcfb652.gif",
           "attributes": {
             "双手伤害": "15-23(19平均)",
             "范围": "5",
@@ -3751,7 +3751,7 @@
           "name": "矛",
           "name_en": "Pike",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/7a/Pike_%28Diablo_II%29.gif",
+          "image": "/api/image/572fc174f01dd993.gif",
           "attributes": {
             "双手伤害": "14-63(38.5平均)",
             "范围": "5",
@@ -3769,7 +3769,7 @@
           "name": "巨战长矛",
           "name_en": "War Spear",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/50/Spear1_%28Diablo_II%29.gif",
+          "image": "/api/image/72cae0412a011814.gif",
           "attributes": {
             "双手伤害": "10-37(23.5平均)",
             "范围": "4",
@@ -3788,7 +3788,7 @@
           "name": "魔鬼之叉",
           "name_en": "War Fork",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/fd/Trident_%28Diablo_II%29.gif",
+          "image": "/api/image/df175768c0e006b0.gif",
           "attributes": {
             "双手伤害": "19-37(28平均)",
             "范围": "4",
@@ -3807,7 +3807,7 @@
           "name": "巨战之叉",
           "name_en": "War Fork",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+          "image": "/api/image/45205634dfcfb652.gif",
           "attributes": {
             "双手伤害": "16-40(12平均)",
             "范围": "5",
@@ -3826,7 +3826,7 @@
           "name": "三叉长枪",
           "name_en": "Yari",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+          "image": "/api/image/45205634dfcfb652.gif",
           "attributes": {
             "双手伤害": "29-59(44平均)",
             "范围": "5",
@@ -3845,7 +3845,7 @@
           "name": "长枪",
           "name_en": "Lance",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/7a/Pike_%28Diablo_II%29.gif",
+          "image": "/api/image/572fc174f01dd993.gif",
           "attributes": {
             "双手伤害": "27-114(70.5平均)",
             "范围": "5",
@@ -3864,7 +3864,7 @@
           "name": "亥伯龙之矛",
           "name_en": "Hyperion Spear",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/50/Spear1_%28Diablo_II%29.gif",
+          "image": "/api/image/72cae0412a011814.gif",
           "attributes": {
             "双手伤害": "35-119(77平均)",
             "范围": "4",
@@ -3883,7 +3883,7 @@
           "name": "冥河之枪",
           "name_en": "Stygian Pike",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/fd/Trident_%28Diablo_II%29.gif",
+          "image": "/api/image/df175768c0e006b0.gif",
           "attributes": {
             "双手伤害": "29-114(86.5平均)",
             "范围": "4",
@@ -3902,7 +3902,7 @@
           "name": "刺人枪",
           "name_en": "Mancatcher",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+          "image": "/api/image/45205634dfcfb652.gif",
           "attributes": {
             "双手伤害": "42-92(67平均)",
             "范围": "5",
@@ -3921,7 +3921,7 @@
           "name": "鬼魂之矛",
           "name_en": "Ghost Spear",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+          "image": "/api/image/45205634dfcfb652.gif",
           "attributes": {
             "双手伤害": "18-155(86.5平均)",
             "范围": "5",
@@ -3940,7 +3940,7 @@
           "name": "战枪",
           "name_en": "War Pike",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/7a/Pike_%28Diablo_II%29.gif",
+          "image": "/api/image/572fc174f01dd993.gif",
           "attributes": {
             "双手伤害": "33-178(105.5平均)",
             "范围": "5",
@@ -3967,7 +3967,7 @@
           "name": "大砍刀",
           "name_en": "Bardiche",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+          "image": "/api/image/d9d93f9428bfe51c.gif",
           "attributes": {
             "双手伤害": "1-27（平均：14）",
             "攻击范围": "3",
@@ -3985,7 +3985,7 @@
           "name": "钩镰枪",
           "name_en": "Voulge",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+          "image": "/api/image/a907e1285d7cb22d.gif",
           "attributes": {
             "双手伤害": "6-21（平均：14）",
             "攻击范围": "3",
@@ -4003,7 +4003,7 @@
           "name": "镰刀",
           "name_en": "Scythe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+          "image": "/api/image/c4043840db4a3a89.gif",
           "attributes": {
             "双手伤害": "8-20（平均：14）",
             "攻击范围": "2",
@@ -4021,7 +4021,7 @@
           "name": "长柄战斧",
           "name_en": "Poleaxe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+          "image": "/api/image/a6c8cd800ada1946.gif",
           "attributes": {
             "双手伤害": "18-39（平均：28.5）",
             "攻击范围": "4",
@@ -4039,7 +4039,7 @@
           "name": "长戟",
           "name_en": "Halberd",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+          "image": "/api/image/e76402b53bd7ee43.gif",
           "attributes": {
             "双手伤害": "12-45（平均28.5）",
             "攻击范围": "5",
@@ -4057,7 +4057,7 @@
           "name": "巨战镰刀",
           "name_en": "War Scythe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+          "image": "/api/image/7ce0cac9ac8a136f.gif",
           "attributes": {
             "双手伤害": "15-36（平均：26.5）",
             "攻击范围": "5",
@@ -4075,7 +4075,7 @@
           "name": "罗佳伯斧",
           "name_en": "Lochaber Axe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+          "image": "/api/image/d9d93f9428bfe51c.gif",
           "attributes": {
             "双手伤害": "6-58（平均：32）",
             "攻击范围": "3",
@@ -4094,7 +4094,7 @@
           "name": "比尔长刀",
           "name_en": "Bill",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+          "image": "/api/image/a907e1285d7cb22d.gif",
           "attributes": {
             "双手伤害": "14-53（平均：33.5）",
             "攻击范围": "3",
@@ -4113,7 +4113,7 @@
           "name": "战斗镰刀",
           "name_en": "Battle Scythe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+          "image": "/api/image/c4043840db4a3a89.gif",
           "attributes": {
             "双手伤害": "18-45（平均：31.5）",
             "攻击范围": "2",
@@ -4132,7 +4132,7 @@
           "name": "战戟",
           "name_en": "Partizan",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+          "image": "/api/image/a6c8cd800ada1946.gif",
           "attributes": {
             "双手伤害": "34-75（平均：54.5）",
             "攻击范围": "4",
@@ -4151,7 +4151,7 @@
           "name": "双锋战戟",
           "name_en": "Bec-De-Corbin",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+          "image": "/api/image/e76402b53bd7ee43.gif",
           "attributes": {
             "双手伤害": "13-85（平均49）",
             "攻击范围": "5",
@@ -4170,7 +4170,7 @@
           "name": "残酷镰刀",
           "name_en": "Grim Scythe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+          "image": "/api/image/7ce0cac9ac8a136f.gif",
           "attributes": {
             "双手伤害": "30-70（平均：50）",
             "攻击范围": "5",
@@ -4189,7 +4189,7 @@
           "name": "食人魔之斧",
           "name_en": "Ogre Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+          "image": "/api/image/d9d93f9428bfe51c.gif",
           "attributes": {
             "双手伤害": "28-145（平均：86.5）",
             "攻击范围": "3",
@@ -4208,7 +4208,7 @@
           "name": "巨神之斧",
           "name_en": "Colossus Voulge",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+          "image": "/api/image/a907e1285d7cb22d.gif",
           "attributes": {
             "双手伤害": "17-165（平均：91）",
             "攻击范围": "3",
@@ -4227,7 +4227,7 @@
           "name": "锐利之斧",
           "name_en": "Thresher",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+          "image": "/api/image/c4043840db4a3a89.gif",
           "attributes": {
             "双手伤害": "12-141（平均：76.5）",
             "攻击范围": "2",
@@ -4246,7 +4246,7 @@
           "name": "神秘之斧",
           "name_en": "Cryptic Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+          "image": "/api/image/a6c8cd800ada1946.gif",
           "attributes": {
             "双手伤害": "33-150（平均：91.5）",
             "攻击范围": "4",
@@ -4265,7 +4265,7 @@
           "name": "巨长斧",
           "name_en": "Great Poleaxe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+          "image": "/api/image/e76402b53bd7ee43.gif",
           "attributes": {
             "双手伤害": "46-127（平均86.5）",
             "攻击范围": "5",
@@ -4284,7 +4284,7 @@
           "name": "蛟尾巨斧",
           "name_en": "Giant Thresher",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+          "image": "/api/image/7ce0cac9ac8a136f.gif",
           "attributes": {
             "双手伤害": "40-114（平均：77）",
             "攻击范围": "5",
@@ -4311,7 +4311,7 @@
           "name": "飞刀",
           "name_en": "Throwing Knife",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/cf/Throwing_Knife%28Diablo_II%29.gif",
+          "image": "/api/image/0efa00cf70e94ac8.gif",
           "attributes": {
             "投掷伤害": "4-9 (6.5)",
             "最大/最小伤害": "2-3 （2.5）",
@@ -4330,7 +4330,7 @@
           "name": "平衡小刀",
           "name_en": "Balanced Knife",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/b6/Balanced_Knife%28Diablo_II%29.gif",
+          "image": "/api/image/1ea99e1e0761512c.gif",
           "attributes": {
             "投掷伤害": "6-11(8.5)",
             "最大/最小伤害": "1-8 （4.5）",
@@ -4349,7 +4349,7 @@
           "name": "飞斧",
           "name_en": "Throwing Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/12/Throwing_Axe%28Diablo_II%29.gif",
+          "image": "/api/image/de8d293d07df0845.gif",
           "attributes": {
             "投掷伤害": "8-12 (10)",
             "最大/最小伤害": "4-7 （5.5）",
@@ -4368,7 +4368,7 @@
           "name": "平衡斧",
           "name_en": "Balanced Axe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/e/e2/Balanced_Axe%28Diablo_II%29.gif",
+          "image": "/api/image/49737e72968d01fc.gif",
           "attributes": {
             "投掷伤害": "12-15 (13.5)",
             "最大/最小伤害": "5-10 （7.5）",
@@ -4387,7 +4387,7 @@
           "name": "战斗飞镖",
           "name_en": "Battle Dart",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/cf/Throwing_Knife%28Diablo_II%29.gif",
+          "image": "/api/image/0efa00cf70e94ac8.gif",
           "attributes": {
             "投掷伤害": "11-24 (17.5)",
             "最大/最小伤害": "8-16 （12）",
@@ -4406,7 +4406,7 @@
           "name": "巨战飞镖",
           "name_en": "War Dart",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/b6/Balanced_Knife%28Diablo_II%29.gif",
+          "image": "/api/image/1ea99e1e0761512c.gif",
           "attributes": {
             "投掷伤害": "14-27(20.5)",
             "最大/最小伤害": "6-24 （15）",
@@ -4425,7 +4425,7 @@
           "name": "法兰飞斧",
           "name_en": "Francisca",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/12/Throwing_Axe%28Diablo_II%29.gif",
+          "image": "/api/image/de8d293d07df0845.gif",
           "attributes": {
             "投掷伤害": "18-33 (25.5)",
             "最大/最小伤害": "11-22（16.5）",
@@ -4444,7 +4444,7 @@
           "name": "短战戟",
           "name_en": "Hurbat",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/e/e2/Balanced_Axe%28Diablo_II%29.gif",
+          "image": "/api/image/49737e72968d01fc.gif",
           "attributes": {
             "投掷伤害": "24-34 (39)",
             "最大/最小伤害": "5-10 （7.5）",
@@ -4463,7 +4463,7 @@
           "name": "飞刀",
           "name_en": "Flying Knife",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/cf/Throwing_Knife%28Diablo_II%29.gif",
+          "image": "/api/image/0efa00cf70e94ac8.gif",
           "attributes": {
             "投掷伤害": "23-54(38.5)",
             "最大/最小伤害": "23-54 (38.5) （12）",
@@ -4482,7 +4482,7 @@
           "name": "翼刀",
           "name_en": "Winged Knife",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/b6/Balanced_Knife%28Diablo_II%29.gif",
+          "image": "/api/image/1ea99e1e0761512c.gif",
           "attributes": {
             "投掷伤害": "23-39(31)",
             "最大/最小伤害": "27-35 （31）",
@@ -4501,7 +4501,7 @@
           "name": "飞斧",
           "name_en": "Flying Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/12/Throwing_Axe%28Diablo_II%29.gif",
+          "image": "/api/image/de8d293d07df0845.gif",
           "attributes": {
             "投掷伤害": "15-66 (40.5)",
             "最大/最小伤害": "17-65（41）",
@@ -4520,7 +4520,7 @@
           "name": "翼斧",
           "name_en": "Winged Axe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/e/e2/Balanced_Axe%28Diablo_II%29.gif",
+          "image": "/api/image/49737e72968d01fc.gif",
           "attributes": {
             "投掷伤害": "7-60 (35.5)",
             "最大/最小伤害": "11-56 （33.5）",
@@ -4547,7 +4547,7 @@
           "name": "男性之弓",
           "name_en": "Stag Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/9f/Stagbow.gif",
+          "image": "/api/image/cb2b7e8ed1f2269c.gif",
           "attributes": {
             "双手伤害": "7-12",
             "基础武器攻速": "[0]",
@@ -4564,7 +4564,7 @@
           "name": "反射之弓",
           "name_en": "Reflex Bow",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/68/Reflexbow.gif",
+          "image": "/api/image/7ad0105bab6c3b89.gif",
           "attributes": {
             "双手伤害": "9-19",
             "基础武器攻速": "[10]",
@@ -4581,7 +4581,7 @@
           "name": "女士之矛",
           "name_en": "Maiden Spear",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/bf/Maidenspear.gif",
+          "image": "/api/image/9487613320e70507.gif",
           "attributes": {
             "双手伤害": "18-24",
             "攻击范围": "5",
@@ -4600,7 +4600,7 @@
           "name": "女士长矛",
           "name_en": "Maiden Pike",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/80/D2_maiden_pike.gif",
+          "image": "/api/image/6eac96aca3a87c5d.gif",
           "attributes": {
             "双手伤害": "23-55",
             "攻击范围": "5",
@@ -4619,7 +4619,7 @@
           "name": "女士标枪",
           "name_en": "Maiden Javelin",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a7/Maidenjavelin.gif",
+          "image": "/api/image/6013b9d5af74151f.gif",
           "attributes": {
             "投掷伤害": "6-22",
             "单手伤害": "8-14",
@@ -4638,7 +4638,7 @@
           "name": "灰木之弓",
           "name_en": "Ashwood Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/9f/Stagbow.gif",
+          "image": "/api/image/cb2b7e8ed1f2269c.gif",
           "attributes": {
             "双手伤害": "16-29",
             "基础武器攻速": "[0]",
@@ -4655,7 +4655,7 @@
           "name": "祭典之弓",
           "name_en": "Ceremonial Bow",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/68/Reflexbow.gif",
+          "image": "/api/image/7ad0105bab6c3b89.gif",
           "attributes": {
             "双手伤害": "19-41",
             "基础武器攻速": "[10]",
@@ -4672,7 +4672,7 @@
           "name": "祭典之矛",
           "name_en": "Ceremonial Spear",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/bf/Maidenspear.gif",
+          "image": "/api/image/9487613320e70507.gif",
           "attributes": {
             "双手伤害": "34-51",
             "攻击范围": "5",
@@ -4691,7 +4691,7 @@
           "name": "祭典长矛",
           "name_en": "Ceremonial Pike",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/80/D2_maiden_pike.gif",
+          "image": "/api/image/6eac96aca3a87c5d.gif",
           "attributes": {
             "双手伤害": "42-101",
             "攻击范围": "5",
@@ -4710,7 +4710,7 @@
           "name": "祭典标枪",
           "name_en": "Ceremonial Javelin",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a7/Maidenjavelin.gif",
+          "image": "/api/image/6013b9d5af74151f.gif",
           "attributes": {
             "投掷伤害": "18-54",
             "单手伤害": "18-35",
@@ -4729,7 +4729,7 @@
           "name": "女族长之弓",
           "name_en": "Matriarchal Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/9f/Stagbow.gif",
+          "image": "/api/image/cb2b7e8ed1f2269c.gif",
           "attributes": {
             "双手伤害": "20-47",
             "基础武器攻速": "[0]",
@@ -4746,7 +4746,7 @@
           "name": "大院长之弓",
           "name_en": "Grand Matron Bow",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/68/Reflexbow.gif",
+          "image": "/api/image/7ad0105bab6c3b89.gif",
           "attributes": {
             "双手伤害": "14-72",
             "基础武器攻速": "[10]",
@@ -4763,7 +4763,7 @@
           "name": "女族长之矛",
           "name_en": "Matriarchal Spear",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/bf/Maidenspear.gif",
+          "image": "/api/image/9487613320e70507.gif",
           "attributes": {
             "双手伤害": "65-95",
             "攻击范围": "5",
@@ -4782,7 +4782,7 @@
           "name": "女族长之长矛",
           "name_en": "Matriarchal Pike",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/80/D2_maiden_pike.gif",
+          "image": "/api/image/6eac96aca3a87c5d.gif",
           "attributes": {
             "双手伤害": "37-153",
             "攻击范围": "5",
@@ -4801,7 +4801,7 @@
           "name": "女族长之标枪",
           "name_en": "Matriarchal Javelin",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a7/Maidenjavelin.gif",
+          "image": "/api/image/6013b9d5af74151f.gif",
           "attributes": {
             "投掷伤害": "35-66",
             "单手伤害": "30-54",
@@ -4828,7 +4828,7 @@
           "name": "拳剑",
           "name_en": "Katar",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/24/Katar%28Diablo_II%29.gif",
+          "image": "/api/image/411f66aa313e6820.gif",
           "attributes": {
             "单手伤害": "4-7(5.5)",
             "攻击距离": "2",
@@ -4846,7 +4846,7 @@
           "name": "腕刀",
           "name_en": "Wrist Blade",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/14/Wrist_Blade%28Diablo_II%29.gif",
+          "image": "/api/image/49f6a3f25b8a0207.gif",
           "attributes": {
             "单手伤害": "5-9(7)",
             "攻击距离": "2",
@@ -4864,7 +4864,7 @@
           "name": "斧手",
           "name_en": "Hatchet Hands",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/d/d9/Hatcher_Hands%28Diablo_II%29.gif",
+          "image": "/api/image/fb817a74eaba7dc4.gif",
           "attributes": {
             "单手伤害": "2-15(8.5)",
             "攻击距离": "2",
@@ -4882,7 +4882,7 @@
           "name": "腰刀",
           "name_en": "Cestus",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/bf/Cestus%28Diablo_II%29.gif",
+          "image": "/api/image/3269eef82ed55d4a.gif",
           "attributes": {
             "单手伤害": "7-15(11)",
             "攻击距离": "2",
@@ -4900,7 +4900,7 @@
           "name": "爪",
           "name_en": "Claws",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/89/Claws%28Diablo_II%29.gif",
+          "image": "/api/image/4c7172a6c3bfc05c.gif",
           "attributes": {
             "单手伤害": "8-15(11.5)",
             "攻击距离": "2",
@@ -4918,7 +4918,7 @@
           "name": "刃爪",
           "name_en": "Blade Talons",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/05/Blade_Talons%28Diablo_II%29.gif",
+          "image": "/api/image/a92c7f84c43de92c.gif",
           "attributes": {
             "单手伤害": "10-14(12)",
             "攻击距离": "2",
@@ -4936,7 +4936,7 @@
           "name": "剪咬刃",
           "name_en": "Scissor Katar",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/8a/Scissor_Katar%28Diablo_II%29.gif",
+          "image": "/api/image/579b63360eb04937.gif",
           "attributes": {
             "单手伤害": "9-17(13)",
             "攻击距离": "2",
@@ -4954,7 +4954,7 @@
           "name": "格斗刃",
           "name_en": "Quhab",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/24/Katar%28Diablo_II%29.gif",
+          "image": "/api/image/411f66aa313e6820.gif",
           "attributes": {
             "单手伤害": "11-24(17.5)",
             "攻击距离": "2",
@@ -4972,7 +4972,7 @@
           "name": "腕刺",
           "name_en": "Wrist Spike",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/14/Wrist_Blade%28Diablo_II%29.gif",
+          "image": "/api/image/49f6a3f25b8a0207.gif",
           "attributes": {
             "单手伤害": "13-27(20)",
             "攻击距离": "2",
@@ -4990,7 +4990,7 @@
           "name": "格斗爪",
           "name_en": "Fascia",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/d/d9/Hatcher_Hands%28Diablo_II%29.gif",
+          "image": "/api/image/fb817a74eaba7dc4.gif",
           "attributes": {
             "单手伤害": "8-37(22.5)",
             "攻击距离": "2",
@@ -5008,7 +5008,7 @@
           "name": "手镰",
           "name_en": "Hand Scythe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/bf/Cestus%28Diablo_II%29.gif",
+          "image": "/api/image/3269eef82ed55d4a.gif",
           "attributes": {
             "单手伤害": "16-37(26.5)",
             "攻击距离": "2",
@@ -5026,7 +5026,7 @@
           "name": "巨爪",
           "name_en": "Greater Claws",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/89/Claws%28Diablo_II%29.gif",
+          "image": "/api/image/4c7172a6c3bfc05c.gif",
           "attributes": {
             "单手伤害": "18-37(27.5)",
             "攻击距离": "2",
@@ -5044,7 +5044,7 @@
           "name": "巨鹰爪",
           "name_en": "Greater Talons",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/05/Blade_Talons%28Diablo_II%29.gif",
+          "image": "/api/image/a92c7f84c43de92c.gif",
           "attributes": {
             "单手伤害": "21-35(28)",
             "攻击距离": "2",
@@ -5062,7 +5062,7 @@
           "name": "格斗剪",
           "name_en": "Scissors Quhab",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/8a/Scissor_Katar%28Diablo_II%29.gif",
+          "image": "/api/image/579b63360eb04937.gif",
           "attributes": {
             "单手伤害": "19-40(29.5)",
             "攻击距离": "2",
@@ -5080,7 +5080,7 @@
           "name": "近身刃",
           "name_en": "Suwayyah",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/24/Katar%28Diablo_II%29.gif",
+          "image": "/api/image/411f66aa313e6820.gif",
           "attributes": {
             "单手伤害": "39-52(45.5)",
             "攻击距离": "2",
@@ -5098,7 +5098,7 @@
           "name": "腕剑",
           "name_en": "Wrist Sword",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/14/Wrist_Blade%28Diablo_II%29.gif",
+          "image": "/api/image/49f6a3f25b8a0207.gif",
           "attributes": {
             "单手伤害": "34-45(39.5)",
             "攻击距离": "2",
@@ -5116,7 +5116,7 @@
           "name": "战拳",
           "name_en": "War Fist",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/d/d9/Hatcher_Hands%28Diablo_II%29.gif",
+          "image": "/api/image/fb817a74eaba7dc4.gif",
           "attributes": {
             "单手伤害": "44-53(48.5)",
             "攻击距离": "2",
@@ -5134,7 +5134,7 @@
           "name": "斗腰刀",
           "name_en": "Battle Cestus",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/bf/Cestus%28Diablo_II%29.gif",
+          "image": "/api/image/3269eef82ed55d4a.gif",
           "attributes": {
             "单手伤害": "36-42(39)",
             "攻击距离": "2",
@@ -5152,7 +5152,7 @@
           "name": "猛禽爪",
           "name_en": "Freal Claws",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/89/Claws%28Diablo_II%29.gif",
+          "image": "/api/image/4c7172a6c3bfc05c.gif",
           "attributes": {
             "单手伤害": "22-53(37.5)",
             "攻击距离": "2",
@@ -5170,7 +5170,7 @@
           "name": "符文爪",
           "name_en": "Runic Talons",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/05/Blade_Talons%28Diablo_II%29.gif",
+          "image": "/api/image/a92c7f84c43de92c.gif",
           "attributes": {
             "单手伤害": "24-44(34)",
             "攻击距离": "2",
@@ -5188,7 +5188,7 @@
           "name": "近身剪",
           "name_en": "Scissor Suwayyah",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/8a/Scissor_Katar%28Diablo_II%29.gif",
+          "image": "/api/image/579b63360eb04937.gif",
           "attributes": {
             "单手伤害": "40-51(45.5)",
             "攻击距离": "2",
@@ -5214,7 +5214,7 @@
           "name": "鹰之法珠",
           "name_en": "Eagle Orb",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/6a/Eagle_Orb%28Diablo_II%29.gif",
+          "image": "/api/image/6dd0d33591961d00.gif",
           "attributes": {
             "单手伤害": "2-5(3.5)",
             "攻击距离": "1",
@@ -5232,7 +5232,7 @@
           "name": "神圣天球",
           "name_en": "Scared Globe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/37/Scared_Globe%28Diablo_II%29.gif",
+          "image": "/api/image/b5b962f4d1b909e1.gif",
           "attributes": {
             "单手伤害": "3-8(5.5)",
             "攻击距离": "1",
@@ -5250,7 +5250,7 @@
           "name": "拢烟之球",
           "name_en": "Smoked Sphere",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/3a/Smoked_Sphere%28Diablo_II%29.gif",
+          "image": "/api/image/34caaa0a0bd875aa.gif",
           "attributes": {
             "单手伤害": "4-10(7)",
             "攻击距离": "1",
@@ -5268,7 +5268,7 @@
           "name": "扣握法珠",
           "name_en": "Clasped Orb",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/d/d1/Clasped_Orb%28Diablo_II%29.gif",
+          "image": "/api/image/283635d51340987a.gif",
           "attributes": {
             "单手伤害": "5-12(8.5)",
             "攻击距离": "1",
@@ -5286,7 +5286,7 @@
           "name": "杰瑞德之石",
           "name_en": "Jared's Stone",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/08/Jared%27s_Stone%28Diablo_II%29.gif",
+          "image": "/api/image/5247b6370c61d089.gif",
           "attributes": {
             "单手伤害": "8-18(12)",
             "攻击距离": "1",
@@ -5304,7 +5304,7 @@
           "name": "灵光法珠",
           "name_en": "Glowing Orb",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/6a/Eagle_Orb%28Diablo_II%29.gif",
+          "image": "/api/image/6dd0d33591961d00.gif",
           "attributes": {
             "单手伤害": "8-21(14.5)",
             "攻击距离": "1",
@@ -5322,7 +5322,7 @@
           "name": "水晶天球",
           "name_en": "Crystalline Globe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/37/Scared_Globe%28Diablo_II%29.gif",
+          "image": "/api/image/b5b962f4d1b909e1.gif",
           "attributes": {
             "单手伤害": "19-26(18）",
             "攻击距离": "1",
@@ -5340,7 +5340,7 @@
           "name": "云雾之球",
           "name_en": "Cloudy Sphere",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/3a/Smoked_Sphere%28Diablo_II%29.gif",
+          "image": "/api/image/34caaa0a0bd875aa.gif",
           "attributes": {
             "单手伤害": "11-29(20)",
             "攻击距离": "1",
@@ -5358,7 +5358,7 @@
           "name": "闪耀之珠",
           "name_en": "Sparking Ball",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/d/d1/Clasped_Orb%28Diablo_II%29.gif",
+          "image": "/api/image/283635d51340987a.gif",
           "attributes": {
             "单手伤害": "13-32(22.5)",
             "攻击距离": "1",
@@ -5376,7 +5376,7 @@
           "name": "涡流水晶",
           "name_en": "Swirling Crystal",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/08/Jared%27s_Stone%28Diablo_II%29.gif",
+          "image": "/api/image/5247b6370c61d089.gif",
           "attributes": {
             "单手伤害": "18-42(30)",
             "攻击距离": "1",
@@ -5394,7 +5394,7 @@
           "name": "天堂之石",
           "name_en": "Heavenly Stone",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/6a/Eagle_Orb%28Diablo_II%29.gif",
+          "image": "/api/image/6dd0d33591961d00.gif",
           "attributes": {
             "单手伤害": "21-46(33.5)",
             "攻击距离": "1",
@@ -5412,7 +5412,7 @@
           "name": "怪异之球",
           "name_en": "Eldritch Orb",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/37/Scared_Globe%28Diablo_II%29.gif",
+          "image": "/api/image/b5b962f4d1b909e1.gif",
           "attributes": {
             "单手伤害": "18-50(34)",
             "攻击距离": "1",
@@ -5430,7 +5430,7 @@
           "name": "恶魔之心",
           "name_en": "Demon Heart",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/3a/Smoked_Sphere%28Diablo_II%29.gif",
+          "image": "/api/image/34caaa0a0bd875aa.gif",
           "attributes": {
             "单手伤害": "23-55(39)",
             "攻击距离": "1",
@@ -5448,7 +5448,7 @@
           "name": "漩涡球",
           "name_en": "Vortex Orb",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/d/d1/Clasped_Orb%28Diablo_II%29.gif",
+          "image": "/api/image/283635d51340987a.gif",
           "attributes": {
             "单手伤害": "12-66(39)",
             "攻击距离": "1",
@@ -5466,7 +5466,7 @@
           "name": "次元碎片",
           "name_en": "Dimensional Shard",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/08/Jared%27s_Stone%28Diablo_II%29.gif",
+          "image": "/api/image/5247b6370c61d089.gif",
           "attributes": {
             "单手伤害": "30-53(41.5)",
             "攻击距离": "1",
@@ -5492,7 +5492,7 @@
           "name": "饰带",
           "name_en": "Sash",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/f8/Sash%28Diablo_II%29.gif",
+          "image": "/api/image/4e29ca8ff27cd031.gif",
           "attributes": {
             "防御值": "2",
             "需要力量": "-",
@@ -5507,7 +5507,7 @@
           "name": "轻扣带",
           "name_en": "Light Belt",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a1/Light_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/ac478efb615f79ae.gif",
           "attributes": {
             "防御值": "3",
             "需要力量": "-",
@@ -5522,7 +5522,7 @@
           "name": "扣带",
           "name_en": "Belt",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/92/Belt%28Diablo_II%29.gif",
+          "image": "/api/image/057f30da767f5a34.gif",
           "attributes": {
             "防御值": "5",
             "需要力量": "25",
@@ -5537,7 +5537,7 @@
           "name": "重扣带",
           "name_en": "Heavy Belt",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/0e/Heavy_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/c532030f6946f7d0.gif",
           "attributes": {
             "防御值": "6",
             "需要力量": "45",
@@ -5552,7 +5552,7 @@
           "name": "金属扣带",
           "name_en": "Plated Belt",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/ae/Plated_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/da76cfb7a8ff87dd.gif",
           "attributes": {
             "防御值": "8-11",
             "需要力量": "60",
@@ -5567,7 +5567,7 @@
           "name": "魔皮动带",
           "name_en": "Demnhide Sash",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/f8/Sash%28Diablo_II%29.gif",
+          "image": "/api/image/4e29ca8ff27cd031.gif",
           "attributes": {
             "防御值": "29-34",
             "需要力量": "20",
@@ -5582,7 +5582,7 @@
           "name": "鲨皮腰带",
           "name_en": "Sharkskin Belt",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a1/Light_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/ac478efb615f79ae.gif",
           "attributes": {
             "防御值": "31-36",
             "需要力量": "20",
@@ -5597,7 +5597,7 @@
           "name": "织网腰带",
           "name_en": "Mesh Belt",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/92/Belt%28Diablo_II%29.gif",
+          "image": "/api/image/057f30da767f5a34.gif",
           "attributes": {
             "防御值": "35-40",
             "需要力量": "58",
@@ -5612,7 +5612,7 @@
           "name": "战场腰带",
           "name_en": "Battle Belt",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/0e/Heavy_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/c532030f6946f7d0.gif",
           "attributes": {
             "防御值": "37-42",
             "需要力量": "88",
@@ -5627,7 +5627,7 @@
           "name": "巨战腰带",
           "name_en": "War Belt",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/ae/Plated_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/da76cfb7a8ff87dd.gif",
           "attributes": {
             "防御值": "41-52",
             "需要力量": "110",
@@ -5642,7 +5642,7 @@
           "name": "蛛网腰带",
           "name_en": "Spiderweb Sash",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/f8/Sash%28Diablo_II%29.gif",
+          "image": "/api/image/4e29ca8ff27cd031.gif",
           "attributes": {
             "防御值": "55-62",
             "需要力量": "50",
@@ -5657,7 +5657,7 @@
           "name": "吸血鬼獠牙腰带",
           "name_en": "Vampirefang Belt",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a1/Light_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/ac478efb615f79ae.gif",
           "attributes": {
             "防御值": "56-63",
             "需要力量": "50",
@@ -5672,7 +5672,7 @@
           "name": "秘银腰带",
           "name_en": "Mithril Coil",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/92/Belt%28Diablo_II%29.gif",
+          "image": "/api/image/057f30da767f5a34.gif",
           "attributes": {
             "防御值": "58-65",
             "需要力量": "106",
@@ -5687,7 +5687,7 @@
           "name": "洞穴巨魔腰带",
           "name_en": "Troll Belt",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/0e/Heavy_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/c532030f6946f7d0.gif",
           "attributes": {
             "防御值": "59-66",
             "需要力量": "151",
@@ -5702,7 +5702,7 @@
           "name": "巨神腰带",
           "name_en": "Colossus Belt",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/ae/Plated_Belt%28Diablo_II%29.gif",
+          "image": "/api/image/da76cfb7a8ff87dd.gif",
           "attributes": {
             "防御值": "61-71",
             "需要力量": "185",
@@ -5725,7 +5725,7 @@
           "name": "皮手套",
           "name_en": "Leather Gloves",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/2c/Leather_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/f4986b57ebd07d21.gif",
           "attributes": {
             "防御值": "2-3",
             "需要力量": "-",
@@ -5739,7 +5739,7 @@
           "name": "重手套",
           "name_en": "Heavy Gloves",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/52/Heavy_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/274415feaec1202d.gif",
           "attributes": {
             "防御值": "5-6",
             "需要力量": "-",
@@ -5753,7 +5753,7 @@
           "name": "锁链手套",
           "name_en": "Chain Gloves",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/4f/Chain_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/a53a3d232f610fce.gif",
           "attributes": {
             "防御值": "8-9",
             "需要力量": "25",
@@ -5767,7 +5767,7 @@
           "name": "轻型铁手套",
           "name_en": "Light Gauntlets",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/91/Light_Gauntlets%28Diablo_II%29.gif",
+          "image": "/api/image/cf13beb7552c33c2.gif",
           "attributes": {
             "防御值": "9-11",
             "需要力量": "45",
@@ -5781,7 +5781,7 @@
           "name": "铁手套",
           "name_en": "Gauntlets",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/fc/Gauntlets%28Diablo_II%29.gif",
+          "image": "/api/image/d3ffc77c1fdd5b2f.gif",
           "attributes": {
             "防御值": "12-15",
             "需要力量": "60",
@@ -5795,7 +5795,7 @@
           "name": "魔皮手套",
           "name_en": "Demonhide Gloves",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/2c/Leather_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/f4986b57ebd07d21.gif",
           "attributes": {
             "防御值": "28-35",
             "需要力量": "20",
@@ -5809,7 +5809,7 @@
           "name": "鲨皮手套",
           "name_en": "Sharkskin Gloves",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/52/Heavy_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/274415feaec1202d.gif",
           "attributes": {
             "防御值": "33-39",
             "需要力量": "20",
@@ -5823,7 +5823,7 @@
           "name": "重型手镯",
           "name_en": "Heavy Bracers",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/4f/Chain_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/a53a3d232f610fce.gif",
           "attributes": {
             "防御值": "37-44",
             "需要力量": "58",
@@ -5837,7 +5837,7 @@
           "name": "战场手套",
           "name_en": "Battle Gauntlets",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/91/Light_Gauntlets%28Diablo_II%29.gif",
+          "image": "/api/image/cf13beb7552c33c2.gif",
           "attributes": {
             "防御值": "39-47",
             "需要力量": "88",
@@ -5851,7 +5851,7 @@
           "name": "巨战手套",
           "name_en": "War Gauntlets",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/fc/Gauntlets%28Diablo_II%29.gif",
+          "image": "/api/image/d3ffc77c1fdd5b2f.gif",
           "attributes": {
             "防御值": "43-53",
             "需要力量": "110",
@@ -5865,7 +5865,7 @@
           "name": "荆棘连指手套",
           "name_en": "Bramble Mitts",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/2c/Leather_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/f4986b57ebd07d21.gif",
           "attributes": {
             "防御值": "54-62",
             "需要力量": "50",
@@ -5879,7 +5879,7 @@
           "name": "吸血鬼骸骨手套",
           "name_en": "Vampirebone Gloves",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/52/Heavy_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/274415feaec1202d.gif",
           "attributes": {
             "防御值": "56-65",
             "需要力量": "50",
@@ -5893,7 +5893,7 @@
           "name": "吸血鬼手套",
           "name_en": "Vambraces",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/4f/Chain_Gloves%28Diablo_II%29.gif",
+          "image": "/api/image/a53a3d232f610fce.gif",
           "attributes": {
             "防御值": "59-67",
             "需要力量": "106",
@@ -5907,7 +5907,7 @@
           "name": "十字军铁手套",
           "name_en": "Crusader Gauntlets",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/91/Light_Gauntlets%28Diablo_II%29.gif",
+          "image": "/api/image/cf13beb7552c33c2.gif",
           "attributes": {
             "防御值": "59-68",
             "需要力量": "151",
@@ -5921,7 +5921,7 @@
           "name": "食人魔铁手套",
           "name_en": "Ogre Gauntlets",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/fc/Gauntlets%28Diablo_II%29.gif",
+          "image": "/api/image/d3ffc77c1fdd5b2f.gif",
           "attributes": {
             "防御值": "62-71",
             "需要力量": "185",
@@ -5943,7 +5943,7 @@
           "name": "皮靴",
           "name_en": "Boots",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/56/Boots%28Diablo_II%29.gif",
+          "image": "/api/image/477c1d22e0d08c9b.gif",
           "attributes": {
             "防御值": "2-3",
             "需要力量": "-",
@@ -5958,7 +5958,7 @@
           "name": "重靴",
           "name_en": "Heavy Boots",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/98/Heavy_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/c414fe7bc0526880.gif",
           "attributes": {
             "防御值": "5-6",
             "需要力量": "18",
@@ -5973,7 +5973,7 @@
           "name": "锁链靴",
           "name_en": "Chain Boots",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/86/Chain_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/ef4d88470040a7f0.gif",
           "attributes": {
             "防御值": "8-9",
             "需要力量": "30",
@@ -5988,7 +5988,7 @@
           "name": "轻型金属靴",
           "name_en": "Lingt Plated Boots",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/31/Lingt_Plated_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/c92d8225206ca3fc.gif",
           "attributes": {
             "防御值": "9-11",
             "需要力量": "50",
@@ -6003,7 +6003,7 @@
           "name": "护胫",
           "name_en": "Greaves",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/44/Greaves%28Diablo_II%29.gif",
+          "image": "/api/image/3379ab0f3c3c5724.gif",
           "attributes": {
             "防御值": "12-15",
             "需要力量": "70",
@@ -6018,7 +6018,7 @@
           "name": "魔皮靴",
           "name_en": "Demonhide Boots",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/56/Boots%28Diablo_II%29.gif",
+          "image": "/api/image/477c1d22e0d08c9b.gif",
           "attributes": {
             "防御值": "28-35",
             "需要力量": "20",
@@ -6033,7 +6033,7 @@
           "name": "鲨皮之靴",
           "name_en": "Sharkskin Boots",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/98/Heavy_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/c414fe7bc0526880.gif",
           "attributes": {
             "防御值": "33-39",
             "需要力量": "47",
@@ -6048,7 +6048,7 @@
           "name": "织网之靴",
           "name_en": "Mesh Boots",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/86/Chain_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/ef4d88470040a7f0.gif",
           "attributes": {
             "防御值": "37-44",
             "需要力量": "65",
@@ -6063,7 +6063,7 @@
           "name": "战场之靴",
           "name_en": "Battle Boots",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/31/Lingt_Plated_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/c92d8225206ca3fc.gif",
           "attributes": {
             "防御值": "39-47",
             "需要力量": "95",
@@ -6078,7 +6078,7 @@
           "name": "巨战之靴",
           "name_en": "War Boots",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/44/Greaves%28Diablo_II%29.gif",
+          "image": "/api/image/3379ab0f3c3c5724.gif",
           "attributes": {
             "防御值": "43-53",
             "需要力量": "125",
@@ -6093,7 +6093,7 @@
           "name": "飞龙皮靴",
           "name_en": "Wyrmhide Boots",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/56/Boots%28Diablo_II%29.gif",
+          "image": "/api/image/477c1d22e0d08c9b.gif",
           "attributes": {
             "防御值": "54-62",
             "需要力量": "50",
@@ -6108,7 +6108,7 @@
           "name": "圣甲壳虫靴",
           "name_en": "Scarabshell Boots",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/98/Heavy_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/c414fe7bc0526880.gif",
           "attributes": {
             "防御值": "56-65",
             "需要力量": "91",
@@ -6123,7 +6123,7 @@
           "name": "骸骨靴",
           "name_en": "Boneweave Boots",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/86/Chain_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/ef4d88470040a7f0.gif",
           "attributes": {
             "防御值": "59-67",
             "需要力量": "118",
@@ -6138,7 +6138,7 @@
           "name": "镜化靴",
           "name_en": "Mirrored Boots",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/31/Lingt_Plated_Boots%28Diablo_II%29.gif",
+          "image": "/api/image/c92d8225206ca3fc.gif",
           "attributes": {
             "防御值": "59-68",
             "需要力量": "163",
@@ -6153,7 +6153,7 @@
           "name": "急速靴",
           "name_en": "Mymidon Greavres",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/44/Greaves%28Diablo_II%29.gif",
+          "image": "/api/image/3379ab0f3c3c5724.gif",
           "attributes": {
             "防御值": "62-71",
             "需要力量": "208",
@@ -6176,7 +6176,7 @@
           "name": "帽子",
           "name_en": "Cap",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+          "image": "/api/image/60b8a9fded44e62b.gif",
           "attributes": {
             "防御值": "3-5",
             "需要力量": "-",
@@ -6191,7 +6191,7 @@
           "name": "骷髅帽",
           "name_en": "Skull Cap",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+          "image": "/api/image/54c7eabbbb18afe9.gif",
           "attributes": {
             "防御值": "8-11",
             "需要力量": "15",
@@ -6206,7 +6206,7 @@
           "name": "头盔",
           "name_en": "Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+          "image": "/api/image/429d00d35de8ed0f.gif",
           "attributes": {
             "防御值": "15-18",
             "需要力量": "26",
@@ -6221,7 +6221,7 @@
           "name": "高级头盔",
           "name_en": "Full Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/0277b4cfa78d6b14.gif",
           "attributes": {
             "防御值": "23-26",
             "需要力量": "41",
@@ -6236,7 +6236,7 @@
           "name": "卓越头盔",
           "name_en": "Great Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/1769a31bc940d049.gif",
           "attributes": {
             "防御值": "30-35",
             "需要力量": "63",
@@ -6251,7 +6251,7 @@
           "name": "面具",
           "name_en": "Mask",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+          "image": "/api/image/7e9cbe0572e4e5de.gif",
           "attributes": {
             "防御值": "9-27",
             "需要力量": "23",
@@ -6266,7 +6266,7 @@
           "name": "皇冠",
           "name_en": "Crown",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+          "image": "/api/image/d456c9387ed79900.gif",
           "attributes": {
             "防御值": "25-45",
             "需要力量": "55",
@@ -6281,7 +6281,7 @@
           "name": "白骨头盔",
           "name_en": "Bone Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/50d7a9e94eb37df4.gif",
           "attributes": {
             "防御值": "33-36",
             "需要力量": "25",
@@ -6296,7 +6296,7 @@
           "name": "战帽",
           "name_en": "War Hat",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+          "image": "/api/image/60b8a9fded44e62b.gif",
           "attributes": {
             "防御值": "45-53",
             "需要力量": "20",
@@ -6311,7 +6311,7 @@
           "name": "轻便头盔",
           "name_en": "Sallet",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+          "image": "/api/image/54c7eabbbb18afe9.gif",
           "attributes": {
             "防御值": "52-62",
             "需要力量": "43",
@@ -6326,7 +6326,7 @@
           "name": "无颊头盔",
           "name_en": "Casque",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+          "image": "/api/image/429d00d35de8ed0f.gif",
           "attributes": {
             "防御值": "63-72",
             "需要力量": "59",
@@ -6341,7 +6341,7 @@
           "name": "轻钢盔",
           "name_en": "Basinet",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/0277b4cfa78d6b14.gif",
           "attributes": {
             "防御值": "75-84",
             "需要力量": "82",
@@ -6356,7 +6356,7 @@
           "name": "翼盔",
           "name_en": "Winged Helm",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/1769a31bc940d049.gif",
           "attributes": {
             "防御值": "85-98",
             "需要力量": "115",
@@ -6371,7 +6371,7 @@
           "name": "死亡面具",
           "name_en": "Death Mask",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+          "image": "/api/image/7e9cbe0572e4e5de.gif",
           "attributes": {
             "防御值": "54-86",
             "需要力量": "55",
@@ -6386,7 +6386,7 @@
           "name": "巨皇冠",
           "name_en": "Grand Crown",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+          "image": "/api/image/d456c9387ed79900.gif",
           "attributes": {
             "防御值": "78-113",
             "需要力量": "103",
@@ -6401,7 +6401,7 @@
           "name": "残酷头盔",
           "name_en": "Grim Helm",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/50d7a9e94eb37df4.gif",
           "attributes": {
             "防御值": "60-125",
             "需要力量": "58",
@@ -6416,7 +6416,7 @@
           "name": "军帽",
           "name_en": "Shako",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+          "image": "/api/image/60b8a9fded44e62b.gif",
           "attributes": {
             "防御值": "98-141",
             "需要力量": "50",
@@ -6431,7 +6431,7 @@
           "name": "九头蛇头盖骨圆帽",
           "name_en": "Hydraskull",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+          "image": "/api/image/54c7eabbbb18afe9.gif",
           "attributes": {
             "防御值": "101-145",
             "需要力量": "84",
@@ -6446,7 +6446,7 @@
           "name": "活动头盔",
           "name_en": "Armet",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+          "image": "/api/image/429d00d35de8ed0f.gif",
           "attributes": {
             "防御值": "105-149",
             "需要力量": "109",
@@ -6461,7 +6461,7 @@
           "name": "巨贝头盔",
           "name_en": "Giant Couch",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/0277b4cfa78d6b14.gif",
           "attributes": {
             "防御值": "110-154",
             "需要力量": "142",
@@ -6476,7 +6476,7 @@
           "name": "螺旋头盔",
           "name_en": "Spired Helm",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/1769a31bc940d049.gif",
           "attributes": {
             "防御值": "114-159",
             "需要力量": "192",
@@ -6491,7 +6491,7 @@
           "name": "恶魔头盖骨面具",
           "name_en": "Demonhead",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+          "image": "/api/image/7e9cbe0572e4e5de.gif",
           "attributes": {
             "防御值": "101-154",
             "需要力量": "102",
@@ -6506,7 +6506,7 @@
           "name": "头冠",
           "name_en": "Corona",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+          "image": "/api/image/d456c9387ed79900.gif",
           "attributes": {
             "防御值": "111-165",
             "需要力量": "174",
@@ -6521,7 +6521,7 @@
           "name": "骸骨面罩",
           "name_en": "Bone Visage",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+          "image": "/api/image/50d7a9e94eb37df4.gif",
           "attributes": {
             "防御值": "100-157",
             "需要力量": "106",
@@ -6544,7 +6544,7 @@
           "name": "布甲",
           "name_en": "Quilted Armor",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/d1d49326c8679576.gif",
           "attributes": {
             "防御值": "8-11",
             "需要力量": "12",
@@ -6560,7 +6560,7 @@
           "name": "皮甲",
           "name_en": "Leather Armor",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/cd836d191d2b70f7.gif",
           "attributes": {
             "防御值": "14-17",
             "需要力量": "15",
@@ -6576,7 +6576,7 @@
           "name": "硬皮甲",
           "name_en": "Hard Leather Armor",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/6841d31bea8256aa.gif",
           "attributes": {
             "防御值": "21-24",
             "需要力量": "20",
@@ -6592,7 +6592,7 @@
           "name": "镶嵌甲",
           "name_en": "Studded Leather",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+          "image": "/api/image/231c4d220f3b557e.gif",
           "attributes": {
             "防御值": "32-35",
             "需要力量": "27",
@@ -6608,7 +6608,7 @@
           "name": "锁环甲",
           "name_en": "Ring Mail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/c706bf70b8cd64da.gif",
           "attributes": {
             "防御值": "45-48",
             "需要力量": "36",
@@ -6624,7 +6624,7 @@
           "name": "鳞甲",
           "name_en": "Scale Mail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/9223add4e91483e0.gif",
           "attributes": {
             "防御值": "57-60",
             "需要力量": "44",
@@ -6640,7 +6640,7 @@
           "name": "胸甲",
           "name_en": "Breast Plate",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/7bfbe70388b6df69.gif",
           "attributes": {
             "防御值": "65-68",
             "需要力量": "30",
@@ -6656,7 +6656,7 @@
           "name": "锁子甲",
           "name_en": "Chain Mail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/7c148d1662e626da.gif",
           "attributes": {
             "防御值": "72-75",
             "需要力量": "48",
@@ -6672,7 +6672,7 @@
           "name": "板甲",
           "name_en": "Splint Mail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/3b560e62ba40ade3.gif",
           "attributes": {
             "防御值": "90-95",
             "需要力量": "51",
@@ -6688,7 +6688,7 @@
           "name": "轻型装甲",
           "name_en": "Light Plate",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/953352ebf95a8a4b.gif",
           "attributes": {
             "防御值": "90-107",
             "需要力量": "41",
@@ -6704,7 +6704,7 @@
           "name": "实战铠甲",
           "name_en": "Field Plate",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/175dc5c5174c6d3e.gif",
           "attributes": {
             "防御值": "101-105",
             "需要力量": "55",
@@ -6720,7 +6720,7 @@
           "name": "铠甲",
           "name_en": "Plate Mail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/4d75ec67e02315a3.gif",
           "attributes": {
             "防御值": "108-116",
             "需要力量": "65",
@@ -6736,7 +6736,7 @@
           "name": "哥德战甲",
           "name_en": "Gothic Plate",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/28aec6dc00f28822.gif",
           "attributes": {
             "防御值": "128-135",
             "需要力量": "70",
@@ -6752,7 +6752,7 @@
           "name": "高级战甲",
           "name_en": "Full Plate Mail",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/18e52c6e01c21536.gif",
           "attributes": {
             "防御值": "150-161",
             "需要力量": "80",
@@ -6768,7 +6768,7 @@
           "name": "古代装甲",
           "name_en": "Ancient Armor",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/cb25e874ec931348.gif",
           "attributes": {
             "防御值": "218-233",
             "需要力量": "100",
@@ -6784,7 +6784,7 @@
           "name": "布甲",
           "name_en": "Quilted Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/d1d49326c8679576.gif",
           "attributes": {
             "防御值": "102-117",
             "需要力量": "38",
@@ -6800,7 +6800,7 @@
           "name": "海蛇皮甲",
           "name_en": "Serpentskin Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/cd836d191d2b70f7.gif",
           "attributes": {
             "防御值": "111-126",
             "需要力量": "43",
@@ -6816,7 +6816,7 @@
           "name": "魔皮战甲",
           "name_en": "Demonhide Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/6841d31bea8256aa.gif",
           "attributes": {
             "防御值": "122-136",
             "需要力量": "50",
@@ -6832,7 +6832,7 @@
           "name": "攀绕战甲",
           "name_en": "Trellised Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+          "image": "/api/image/231c4d220f3b557e.gif",
           "attributes": {
             "防御值": "138-153",
             "需要力量": "61",
@@ -6848,7 +6848,7 @@
           "name": "连扣战甲",
           "name_en": "Linked Mail",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/c706bf70b8cd64da.gif",
           "attributes": {
             "防御值": "158-172",
             "需要力量": "74",
@@ -6864,7 +6864,7 @@
           "name": "提格莱特战甲",
           "name_en": "Tigulated Mail",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/9223add4e91483e0.gif",
           "attributes": {
             "防御值": "176-190",
             "需要力量": "86",
@@ -6880,7 +6880,7 @@
           "name": "护胸甲",
           "name_en": "Cuirass",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/7bfbe70388b6df69.gif",
           "attributes": {
             "防御值": "188-202",
             "需要力量": "65",
@@ -6896,7 +6896,7 @@
           "name": "织网战甲",
           "name_en": "Mesh Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/7c148d1662e626da.gif",
           "attributes": {
             "防御值": "198-213",
             "需要力量": "92",
@@ -6912,7 +6912,7 @@
           "name": "罗瑟战甲",
           "name_en": "Russet Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/3b560e62ba40ade3.gif",
           "attributes": {
             "防御值": "225-243",
             "需要力量": "97",
@@ -6928,7 +6928,7 @@
           "name": "法师铠甲",
           "name_en": "Mage Plate",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/953352ebf95a8a4b.gif",
           "attributes": {
             "防御值": "225-261",
             "需要力量": "55",
@@ -6944,7 +6944,7 @@
           "name": "鲨齿战甲",
           "name_en": "Sharktooth Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/175dc5c5174c6d3e.gif",
           "attributes": {
             "防御值": "242-258",
             "需要力量": "103",
@@ -6960,7 +6960,7 @@
           "name": "圣堂武士外袍",
           "name_en": "Templar Coat",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/4d75ec67e02315a3.gif",
           "attributes": {
             "防御值": "252-274",
             "需要力量": "118",
@@ -6976,7 +6976,7 @@
           "name": "凸纹战甲",
           "name_en": "Embossed Plate",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/28aec6dc00f28822.gif",
           "attributes": {
             "防御值": "282-303",
             "需要力量": "125",
@@ -6992,7 +6992,7 @@
           "name": "混沌战甲",
           "name_en": "Chaos Armor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/18e52c6e01c21536.gif",
           "attributes": {
             "防御值": "315-342",
             "需要力量": "140",
@@ -7008,7 +7008,7 @@
           "name": "华丽战甲",
           "name_en": "Ornate Plate",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/cb25e874ec931348.gif",
           "attributes": {
             "防御值": "417-450",
             "需要力量": "170",
@@ -7024,7 +7024,7 @@
           "name": "灰幕寿衣",
           "name_en": "Dusk Shroud",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/d1d49326c8679576.gif",
           "attributes": {
             "防御值": "361-467",
             "需要力量": "77",
@@ -7040,7 +7040,7 @@
           "name": "古龙皮",
           "name_en": "Wyrmhide",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/cd836d191d2b70f7.gif",
           "attributes": {
             "防御值": "364-470",
             "需要力量": "84",
@@ -7056,7 +7056,7 @@
           "name": "圣甲虫壳皮甲",
           "name_en": "Scarab Husk",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/6841d31bea8256aa.gif",
           "attributes": {
             "防御值": "369-474",
             "需要力量": "95",
@@ -7072,7 +7072,7 @@
           "name": "绵羊毛甲",
           "name_en": "Wire Fleece",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+          "image": "/api/image/231c4d220f3b557e.gif",
           "attributes": {
             "防御值": "375-481",
             "需要力量": "111",
@@ -7088,7 +7088,7 @@
           "name": "钻石锁子甲",
           "name_en": "Diamond Mail",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/c706bf70b8cd64da.gif",
           "attributes": {
             "防御值": "383-489",
             "需要力量": "131",
@@ -7104,7 +7104,7 @@
           "name": "甲壳铠鳞甲",
           "name_en": "Loricated Mail",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/9223add4e91483e0.gif",
           "attributes": {
             "防御值": "390-496",
             "需要力量": "149",
@@ -7120,7 +7120,7 @@
           "name": "巨形鳞铠胸甲",
           "name_en": "Great Hauberk",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/7bfbe70388b6df69.gif",
           "attributes": {
             "防御值": "395-501",
             "需要力量": "118",
@@ -7136,7 +7136,7 @@
           "name": "骸骨链甲",
           "name_en": "Boneweave",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/7c148d1662e626da.gif",
           "attributes": {
             "防御值": "399-505",
             "需要力量": "158",
@@ -7152,7 +7152,7 @@
           "name": "炎魔皮板甲",
           "name_en": "Balrog Skin",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/3b560e62ba40ade3.gif",
           "attributes": {
             "防御值": "410-524",
             "需要力量": "103",
@@ -7168,7 +7168,7 @@
           "name": "执政官之甲",
           "name_en": "Archon Plate",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/953352ebf95a8a4b.gif",
           "attributes": {
             "防御值": "410-524",
             "需要力量": "103",
@@ -7184,7 +7184,7 @@
           "name": "海妖壳甲",
           "name_en": "Kraken Shell",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/175dc5c5174c6d3e.gif",
           "attributes": {
             "防御值": "417-523",
             "需要力量": "174",
@@ -7200,7 +7200,7 @@
           "name": "地狱锻甲",
           "name_en": "Hellforge Plate",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/4d75ec67e02315a3.gif",
           "attributes": {
             "防御值": "421-530",
             "需要力量": "196",
@@ -7216,7 +7216,7 @@
           "name": "漆甲",
           "name_en": "Lacquered Plate",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+          "image": "/api/image/28aec6dc00f28822.gif",
           "attributes": {
             "防御值": "433-451",
             "需要力量": "208",
@@ -7232,7 +7232,7 @@
           "name": "阴影铠甲",
           "name_en": "Shadow Plate",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+          "image": "/api/image/18e52c6e01c21536.gif",
           "attributes": {
             "防御值": "446-557",
             "需要力量": "230",
@@ -7248,7 +7248,7 @@
           "name": "神圣铠甲",
           "name_en": "Sacred Armor",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+          "image": "/api/image/cb25e874ec931348.gif",
           "attributes": {
             "防御值": "487-600",
             "需要力量": "232",
@@ -7272,7 +7272,7 @@
           "name": "圆盾",
           "name_en": "Buckler",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/00/Buckler%28Diablo_II%29.gif",
+          "image": "/api/image/e1757e158b1bb37e.gif",
           "attributes": {
             "防御值": "4-6",
             "格挡": "[0]Pal:30% Ama/Asn/Bar:25% Dru/Sor/Nec:20%",
@@ -7290,7 +7290,7 @@
           "name": "小盾牌",
           "name_en": "Small Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a5/Small_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0f46880cb02a6319.gif",
           "attributes": {
             "防御值": "8-10",
             "格挡": "[5]Pal:35% Ama/Asn/Bar:30% Dru/Sor/Nec:25%",
@@ -7308,7 +7308,7 @@
           "name": "大盾牌",
           "name_en": "Large Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/6b/Large_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/e6b989a8f1157eb9.gif",
           "attributes": {
             "防御值": "12-14",
             "格挡": "[12]Pal:42% Ama/Asn/Bar:37% Dru/Sor/Nec:32%",
@@ -7326,7 +7326,7 @@
           "name": "轻盾",
           "name_en": "Kite Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/2/2f/Kite_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/cb9e965ff8e51aee.gif",
           "attributes": {
             "防御值": "16-18",
             "格挡": "[8]Pal:38% Ama/Asn/Bar:33% Dru/Sor/Nec:28%",
@@ -7344,7 +7344,7 @@
           "name": "尖刺盾牌",
           "name_en": "Spiked Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/72/Spiked_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0225f5a75300868c.gif",
           "attributes": {
             "防御值": "15-25",
             "格挡": "[10]Pal:49% Ama/Asn/Bar:35% Dru/Sor/Nec:30%",
@@ -7362,7 +7362,7 @@
           "name": "塔盾",
           "name_en": "Tower Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/82/Tower_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/1ce0ae511084bef4.gif",
           "attributes": {
             "防御值": "22-25",
             "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
@@ -7380,7 +7380,7 @@
           "name": "白骨盾牌",
           "name_en": "Bone Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/3/30/Bone_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0990bed5bfceb8e3.gif",
           "attributes": {
             "防御值": "10-30",
             "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
@@ -7398,7 +7398,7 @@
           "name": "歌德盾牌",
           "name_en": "Gothic Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/5/5e/Gothic_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/d2b6b2fac28b4c4a.gif",
           "attributes": {
             "防御值": "30-35",
             "格挡": "[16]Pal:46% Ama/Asn/Bar:41% Dru/Sor/Nec:36%",
@@ -7416,7 +7416,7 @@
           "name": "防御盾",
           "name_en": "Defender",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/00/Buckler%28Diablo_II%29.gif",
+          "image": "/api/image/e1757e158b1bb37e.gif",
           "attributes": {
             "防御值": "41-49",
             "格挡": "[10]Pal:40% Ama/Asn/Bar:35% Dru/Sor/Nec:30%",
@@ -7434,7 +7434,7 @@
           "name": "圆形盾",
           "name_en": "Round Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a5/Small_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0f46880cb02a6319.gif",
           "attributes": {
             "防御值": "47-55",
             "格挡": "[12]Pal:42% Ama/Asn/Bar:37% Dru/Sor/Nec:32%",
@@ -7452,7 +7452,7 @@
           "name": "鳞盾",
           "name_en": "Scutum",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/6b/Large_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/e6b989a8f1157eb9.gif",
           "attributes": {
             "防御值": "53-61",
             "格挡": "[14]Pal:44% Ama/Asn/Bar:39% Dru/Sor/Nec:34%",
@@ -7470,7 +7470,7 @@
           "name": "龙盾",
           "name_en": "Dragon Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/2/2f/Kite_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/cb9e965ff8e51aee.gif",
           "attributes": {
             "防御值": "59-67",
             "格挡": "[18]Pal:48% Ama/Asn/Bar:43% Dru/Sor/Nec:38%",
@@ -7488,7 +7488,7 @@
           "name": "倒刺盾牌",
           "name_en": "Barbed Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/72/Spiked_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0225f5a75300868c.gif",
           "attributes": {
             "防御值": "58-78",
             "格挡": "[17]Pal:47% Ama/Asn/Bar:42% Dru/Sor/Nec:37%",
@@ -7506,7 +7506,7 @@
           "name": "大盾",
           "name_en": "Pavise",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/82/Tower_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/1ce0ae511084bef4.gif",
           "attributes": {
             "防御值": "68-78",
             "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
@@ -7524,7 +7524,7 @@
           "name": "冷酷之盾",
           "name_en": "Grim Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/3/30/Bone_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0990bed5bfceb8e3.gif",
           "attributes": {
             "防御值": "50-150",
             "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
@@ -7542,7 +7542,7 @@
           "name": "古代之盾",
           "name_en": "Ancient Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/5/5e/Gothic_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/d2b6b2fac28b4c4a.gif",
           "attributes": {
             "防御值": "80-93",
             "格挡": "[16]Pal:46% Ama/Asn/Bar:41% Dru/Sor/Nec:36%",
@@ -7560,7 +7560,7 @@
           "name": "防寒圆盾",
           "name_en": "Heater",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/00/Buckler%28Diablo_II%29.gif",
+          "image": "/api/image/e1757e158b1bb37e.gif",
           "attributes": {
             "防御值": "95-110",
             "格挡": "[22]Pal:52% Ama/Asn/Bar:47% Dru/Sor/Nec:42%",
@@ -7578,7 +7578,7 @@
           "name": "月精灵护盾",
           "name_en": "Luna",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a5/Small_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0f46880cb02a6319.gif",
           "attributes": {
             "防御值": "108-123",
             "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
@@ -7596,7 +7596,7 @@
           "name": "亥伯龙盾牌",
           "name_en": "Hyperion",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/6b/Large_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/e6b989a8f1157eb9.gif",
           "attributes": {
             "防御值": "119-135",
             "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
@@ -7614,7 +7614,7 @@
           "name": "统治者大盾",
           "name_en": "Monarch",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/2/2f/Kite_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/cb9e965ff8e51aee.gif",
           "attributes": {
             "防御值": "133-148",
             "格挡": "[22]Pal:52% Ama/Asn/Bar:47% Dru/Sor/Nec:42%",
@@ -7632,7 +7632,7 @@
           "name": "刀刃盾牌",
           "name_en": "Blade Barrier",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/72/Spiked_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0225f5a75300868c.gif",
           "attributes": {
             "防御值": "147-163",
             "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
@@ -7650,7 +7650,7 @@
           "name": "护卫盾",
           "name_en": "Aegis",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/82/Tower_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/1ce0ae511084bef4.gif",
           "attributes": {
             "防御值": "145-161",
             "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
@@ -7668,7 +7668,7 @@
           "name": "洞穴巨魔巢穴",
           "name_en": "Troll Nest",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/3/30/Bone_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/0990bed5bfceb8e3.gif",
           "attributes": {
             "防御值": "158-173",
             "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
@@ -7686,7 +7686,7 @@
           "name": "保护盾牌",
           "name_en": "Ward",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/5/5e/Gothic_Shield%28Diablo_II%29.gif",
+          "image": "/api/image/d2b6b2fac28b4c4a.gif",
           "attributes": {
             "防御值": "153-170",
             "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
@@ -7712,7 +7712,7 @@
           "name": "头饰",
           "name_en": "Circlet",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/8/8e/Circlet_%28Diablo_II%29.gif",
+          "image": "/api/image/74e098fed1f34b41.gif",
           "attributes": {
             "防御": "20-30",
             "耐久度": "35",
@@ -7727,7 +7727,7 @@
           "name": "宝冠",
           "name_en": "Coronet",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/d/d3/Coronet_%28Diablo_II%29.gif",
+          "image": "/api/image/446de6bf080c472b.gif",
           "attributes": {
             "防御": "30-40",
             "耐久度": "30",
@@ -7742,7 +7742,7 @@
           "name": "三重冠",
           "name_en": "Tiara",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/d/d1/Tiara_%28Diablo_II%29.gif",
+          "image": "/api/image/aa75a4c3322f0ec6.gif",
           "attributes": {
             "防御": "40-50",
             "耐久度": "25",
@@ -7757,7 +7757,7 @@
           "name": "权冠",
           "name_en": "Diadem",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/2/2d/Diadem_%28Diablo_II%29.gif",
+          "image": "/api/image/23de4ce5869900ec.gif",
           "attributes": {
             "防御": "50-60",
             "耐久度": "20",
@@ -7780,7 +7780,7 @@
           "name": "颚骨帽",
           "name_en": "Jawbone Cap",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+          "image": "/api/image/b15513f04c336823.gif",
           "attributes": {
             "防御": "10-15",
             "需求力量": "25",
@@ -7796,7 +7796,7 @@
           "name": "尖牙盔",
           "name_en": "Fanged Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+          "image": "/api/image/1fed9cf6c4948755.gif",
           "attributes": {
             "防御": "15-20",
             "需求力量": "35",
@@ -7812,7 +7812,7 @@
           "name": "角盔",
           "name_en": "Horned Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+          "image": "/api/image/22de5a8cf347d03b.gif",
           "attributes": {
             "防御": "25-30",
             "需求力量": "45",
@@ -7828,7 +7828,7 @@
           "name": "突击盔",
           "name_en": "Assault Helmet",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+          "image": "/api/image/4a661afec2ff99b6.gif",
           "attributes": {
             "防御": "30-35",
             "需求力量": "55",
@@ -7844,7 +7844,7 @@
           "name": "复仇者之盔",
           "name_en": "Avenger Guard",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+          "image": "/api/image/a1515dfbb3151b67.gif",
           "attributes": {
             "防御": "35-50",
             "需求力量": "65",
@@ -7860,7 +7860,7 @@
           "name": "颚骨面甲",
           "name_en": "Jawbone Visor",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+          "image": "/api/image/b15513f04c336823.gif",
           "attributes": {
             "防御": "55-68",
             "需求力量": "58",
@@ -7876,7 +7876,7 @@
           "name": "狮头尖盔",
           "name_en": "Lion Helm",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+          "image": "/api/image/1fed9cf6c4948755.gif",
           "attributes": {
             "防御": "63-75",
             "需求力量": "73",
@@ -7892,7 +7892,7 @@
           "name": "狂怒面具刺盔",
           "name_en": "Rage Helm",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+          "image": "/api/image/22de5a8cf347d03b.gif",
           "attributes": {
             "防御": "78-90",
             "需求力量": "88",
@@ -7908,7 +7908,7 @@
           "name": "蛮族头盔",
           "name_en": "Savage Helmet",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+          "image": "/api/image/4a661afec2ff99b6.gif",
           "attributes": {
             "防御": "85-98",
             "需求力量": "103",
@@ -7924,7 +7924,7 @@
           "name": "杀手防护面甲",
           "name_en": "Slayer Guard",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+          "image": "/api/image/a1515dfbb3151b67.gif",
           "attributes": {
             "防御": "93-120",
             "需求力量": "118",
@@ -7940,7 +7940,7 @@
           "name": "屠杀头盔",
           "name_en": "Carnage Helm",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+          "image": "/api/image/b15513f04c336823.gif",
           "attributes": {
             "防御": "102-147",
             "需求力量": "106",
@@ -7956,7 +7956,7 @@
           "name": "暴怒面甲",
           "name_en": "Fury Visor",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+          "image": "/api/image/1fed9cf6c4948755.gif",
           "attributes": {
             "防御": "105-150",
             "需求力量": "129",
@@ -7972,7 +7972,7 @@
           "name": "毁灭者头盔",
           "name_en": "Destroyer Helm",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+          "image": "/api/image/22de5a8cf347d03b.gif",
           "attributes": {
             "防御": "111-156",
             "需求力量": "151",
@@ -7988,7 +7988,7 @@
           "name": "征服者皇冠面甲",
           "name_en": "Conqueror Crown",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+          "image": "/api/image/4a661afec2ff99b6.gif",
           "attributes": {
             "防御": "114-159",
             "需求力量": "174",
@@ -8004,7 +8004,7 @@
           "name": "守护者皇冠面甲",
           "name_en": "Guardian Crown",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+          "image": "/api/image/a1515dfbb3151b67.gif",
           "attributes": {
             "防御": "117-168",
             "需求力量": "196",
@@ -8028,7 +8028,7 @@
           "name": "狼头",
           "name_en": "Wolf Head",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+          "image": "/api/image/d4da47eadc86b58e.gif",
           "attributes": {
             "防御": "8-11",
             "需求力量": "16",
@@ -8044,7 +8044,7 @@
           "name": "飞鹰头盔",
           "name_en": "Hawk Helm",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+          "image": "/api/image/8a2eaa4451c54247.gif",
           "attributes": {
             "防御": "4-15",
             "需求力量": "20",
@@ -8060,7 +8060,7 @@
           "name": "鹿角",
           "name_en": "Antlers",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+          "image": "/api/image/215b933441e850a5.gif",
           "attributes": {
             "防御": "18-24",
             "需求力量": "24",
@@ -8076,7 +8076,7 @@
           "name": "猎鹰面具",
           "name_en": "Falcon Mask",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+          "image": "/api/image/f3063f30e828cb76.gif",
           "attributes": {
             "防御": "12-28",
             "需求力量": "28",
@@ -8092,7 +8092,7 @@
           "name": "灵魂狼头面具",
           "name_en": "Spirit Mask",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+          "image": "/api/image/cdbd1c82d7633169.gif",
           "attributes": {
             "防御": "22-35",
             "需求力量": "30",
@@ -8108,7 +8108,7 @@
           "name": "阿尔发头盔",
           "name_en": "Alpha Helm",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+          "image": "/api/image/d4da47eadc86b58e.gif",
           "attributes": {
             "防御": "52-62",
             "需求力量": "44",
@@ -8124,7 +8124,7 @@
           "name": "狮鹫兽头盔",
           "name_en": "Griffon Headdress",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+          "image": "/api/image/8a2eaa4451c54247.gif",
           "attributes": {
             "防御": "46-68",
             "需求力量": "50",
@@ -8140,7 +8140,7 @@
           "name": "猎人的伪装",
           "name_en": "Hunter's Guise",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+          "image": "/api/image/215b933441e850a5.gif",
           "attributes": {
             "防御": "67-81",
             "需求力量": "56",
@@ -8156,7 +8156,7 @@
           "name": "神圣羽毛",
           "name_en": "Sacred Feathers",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+          "image": "/api/image/f3063f30e828cb76.gif",
           "attributes": {
             "防御": "58-87",
             "需求力量": "62",
@@ -8172,7 +8172,7 @@
           "name": "图腾面具狼盔",
           "name_en": "Totemic Mask",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+          "image": "/api/image/cdbd1c82d7633169.gif",
           "attributes": {
             "防御": "73-98",
             "需求力量": "65",
@@ -8188,7 +8188,7 @@
           "name": "血腥之灵",
           "name_en": "Blood Mask",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+          "image": "/api/image/d4da47eadc86b58e.gif",
           "attributes": {
             "防御": "101-145",
             "需求力量": "86",
@@ -8204,7 +8204,7 @@
           "name": "太阳之灵",
           "name_en": "Sun Spirit",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+          "image": "/api/image/8a2eaa4451c54247.gif",
           "attributes": {
             "防御": "98-147",
             "需求力量": "95",
@@ -8220,7 +8220,7 @@
           "name": "大地之灵",
           "name_en": "Earth Spirit",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+          "image": "/api/image/215b933441e850a5.gif",
           "attributes": {
             "防御": "107-152",
             "需求力量": "104",
@@ -8236,7 +8236,7 @@
           "name": "天空之灵",
           "name_en": "Sky Spirit",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+          "image": "/api/image/f3063f30e828cb76.gif",
           "attributes": {
             "防御": "103-155",
             "需求力量": "113",
@@ -8252,7 +8252,7 @@
           "name": "幽梦之灵",
           "name_en": "Dream Spirit",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+          "image": "/api/image/cdbd1c82d7633169.gif",
           "attributes": {
             "防御": "109-159",
             "需求力量": "118",
@@ -8276,7 +8276,7 @@
           "name": "小盾",
           "name_en": "Targe",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+          "image": "/api/image/b3a50c9317cf9151.gif",
           "attributes": {
             "防御": "8-12",
             "类型": "轻型",
@@ -8295,7 +8295,7 @@
           "name": "轻圆盾",
           "name_en": "Rondache",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+          "image": "/api/image/e079dee0cdf31906.gif",
           "attributes": {
             "防御": "10-18",
             "类型": "轻型",
@@ -8314,7 +8314,7 @@
           "name": "纹章盾",
           "name_en": "Heraldic Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+          "image": "/api/image/8e5b4a9b30f02f0c.gif",
           "attributes": {
             "防御": "16-26",
             "类型": "轻型",
@@ -8333,7 +8333,7 @@
           "name": "艾文之盾",
           "name_en": "Aerin Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+          "image": "/api/image/9961909777ab86bb.gif",
           "attributes": {
             "防御": "26-36",
             "类型": "轻型",
@@ -8352,7 +8352,7 @@
           "name": "皇冠之盾",
           "name_en": "Crown Shield",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+          "image": "/api/image/c963557587e24804.gif",
           "attributes": {
             "防御": "30-40",
             "类型": "轻型",
@@ -8371,7 +8371,7 @@
           "name": "亚克南圆盾",
           "name_en": "Akaran Targe",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+          "image": "/api/image/b3a50c9317cf9151.gif",
           "attributes": {
             "防御": "101-125",
             "类型": "轻型",
@@ -8390,7 +8390,7 @@
           "name": "亚克南轻圆盾",
           "name_en": "Akaran Rondache",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+          "image": "/api/image/e079dee0cdf31906.gif",
           "attributes": {
             "防御": "113-137",
             "类型": "轻型",
@@ -8409,7 +8409,7 @@
           "name": "防守者盾牌",
           "name_en": "Protector Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+          "image": "/api/image/8e5b4a9b30f02f0c.gif",
           "attributes": {
             "防御": "129-153",
             "类型": "轻型",
@@ -8428,7 +8428,7 @@
           "name": "饰金盾牌",
           "name_en": "Aerin Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+          "image": "/api/image/9961909777ab86bb.gif",
           "attributes": {
             "防御": "144-168",
             "类型": "轻型",
@@ -8447,7 +8447,7 @@
           "name": "皇家盾牌",
           "name_en": "Royal Shield",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+          "image": "/api/image/c963557587e24804.gif",
           "attributes": {
             "防御": "156-181",
             "类型": "轻型",
@@ -8466,7 +8466,7 @@
           "name": "神圣小盾",
           "name_en": "Sacred Targe",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+          "image": "/api/image/b3a50c9317cf9151.gif",
           "attributes": {
             "防御": "126-158",
             "类型": "轻型",
@@ -8485,7 +8485,7 @@
           "name": "神圣轻圆盾",
           "name_en": "Sacred Rondache",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+          "image": "/api/image/e079dee0cdf31906.gif",
           "attributes": {
             "防御": "138-164",
             "类型": "轻型",
@@ -8504,7 +8504,7 @@
           "name": "库拉斯特之盾",
           "name_en": "Kurast Shield",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+          "image": "/api/image/8e5b4a9b30f02f0c.gif",
           "attributes": {
             "防御": "154-172",
             "类型": "轻型",
@@ -8523,7 +8523,7 @@
           "name": "撒卡兰姆盾牌",
           "name_en": "Zakarum Shield",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+          "image": "/api/image/9961909777ab86bb.gif",
           "attributes": {
             "防御": "169-193",
             "类型": "轻型",
@@ -8542,7 +8542,7 @@
           "name": "旋风盾",
           "name_en": "Vortex Shield",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+          "image": "/api/image/c963557587e24804.gif",
           "attributes": {
             "防御": "182-225",
             "类型": "轻型",
@@ -8569,7 +8569,7 @@
           "name": "防腐之首",
           "name_en": "Preserved Head",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+          "image": "/api/image/d0dc56036f80df40.gif",
           "attributes": {
             "防御": "2-5",
             "类型": "轻型",
@@ -8587,7 +8587,7 @@
           "name": "僵尸之首",
           "name_en": "Zombie Head",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+          "image": "/api/image/0ab09c16c4f505d1.gif",
           "attributes": {
             "防御": "4-8",
             "类型": "轻型",
@@ -8605,7 +8605,7 @@
           "name": "揭露者之首",
           "name_en": "Unraveller Head",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+          "image": "/api/image/50159cdf4ef8487d.gif",
           "attributes": {
             "防御": "6-10",
             "类型": "轻型",
@@ -8623,7 +8623,7 @@
           "name": "石像鬼之首",
           "name_en": "Gargoyle Head",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+          "image": "/api/image/df53935675892e1c.gif",
           "attributes": {
             "防御": "10-16",
             "类型": "轻型",
@@ -8641,7 +8641,7 @@
           "name": "恶魔之首",
           "name_en": "Demon Head",
           "tier": "普通",
-          "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+          "image": "/api/image/df53935675892e1c.gif",
           "attributes": {
             "防御": "15-20",
             "类型": "轻型",
@@ -8659,7 +8659,7 @@
           "name": "木乃伊印记",
           "name_en": "Mummified Trophy",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+          "image": "/api/image/d0dc56036f80df40.gif",
           "attributes": {
             "防御": "38-48",
             "类型": "轻型",
@@ -8677,7 +8677,7 @@
           "name": "物神印记",
           "name_en": "Fetish Trophy",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+          "image": "/api/image/0ab09c16c4f505d1.gif",
           "attributes": {
             "防御": "41-52",
             "类型": "轻型",
@@ -8695,7 +8695,7 @@
           "name": "司事印记",
           "name_en": "Sexton Trophy",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+          "image": "/api/image/50159cdf4ef8487d.gif",
           "attributes": {
             "防御": "44-55",
             "类型": "轻型",
@@ -8713,7 +8713,7 @@
           "name": "领唱者印记",
           "name_en": "Cantor Trophy",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/c/cd/Gargoylehead.gif",
+          "image": "/api/image/4d8961d9c9f2e5c4.gif",
           "attributes": {
             "防御": "50-64",
             "类型": "轻型",
@@ -8731,7 +8731,7 @@
           "name": "祭司印记",
           "name_en": "Hierophant Trophy",
           "tier": "扩展",
-          "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+          "image": "/api/image/df53935675892e1c.gif",
           "attributes": {
             "防御": "58-70",
             "类型": "轻型",
@@ -8749,7 +8749,7 @@
           "name": "随侍之骨",
           "name_en": "Minion Skull",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+          "image": "/api/image/d0dc56036f80df40.gif",
           "attributes": {
             "防御": "95-139",
             "类型": "轻型",
@@ -8767,7 +8767,7 @@
           "name": "地狱爪之骨",
           "name_en": "Hellspawn Skull",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+          "image": "/api/image/0ab09c16c4f505d1.gif",
           "attributes": {
             "防御": "96-141",
             "类型": "轻型",
@@ -8785,7 +8785,7 @@
           "name": "监视者之骨",
           "name_en": "Overseer Skull",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+          "image": "/api/image/50159cdf4ef8487d.gif",
           "attributes": {
             "防御": "98-142",
             "类型": "轻型",
@@ -8803,7 +8803,7 @@
           "name": "女妖之骨",
           "name_en": "Succubus Skull",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/c/cd/Gargoylehead.gif",
+          "image": "/api/image/4d8961d9c9f2e5c4.gif",
           "attributes": {
             "防御": "100-146",
             "类型": "轻型",
@@ -8821,7 +8821,7 @@
           "name": "血王之骨",
           "name_en": "Bloodlord Skull",
           "tier": "精华",
-          "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+          "image": "/api/image/df53935675892e1c.gif",
           "attributes": {
             "防御": "103-148",
             "类型": "轻型",
@@ -8847,7 +8847,7 @@
           "name": "拿各的戒指",
           "name_en": "Nagelring",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+          "image": "/api/image/c632af62ea82a9db.gif",
           "attributes": {
             "需求等级": "7"
           },
@@ -8858,7 +8858,7 @@
           "name": "马娜德的治疗",
           "name_en": "Manald Heal",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+          "image": "/api/image/7371718312b0c6e1.gif",
           "attributes": {
             "需求等级": "15"
           },
@@ -8869,7 +8869,7 @@
           "name": "乔丹之石",
           "name_en": "The Stone of Jordan",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+          "image": "/api/image/fd37332767776ec3.gif",
           "attributes": {
             "需求等级": "29"
           },
@@ -8880,7 +8880,7 @@
           "name": "矮人之星",
           "name_en": "Dwarf Star",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+          "image": "/api/image/7371718312b0c6e1.gif",
           "attributes": {
             "需求等级": "45"
           },
@@ -8891,7 +8891,7 @@
           "name": "乌鸦之霜",
           "name_en": "Raven Frost",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+          "image": "/api/image/fd37332767776ec3.gif",
           "attributes": {
             "需求等级": "45"
           },
@@ -8902,7 +8902,7 @@
           "name": "布尔凯索的婚戒",
           "name_en": "Bul-Kathos' Wedding Band",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+          "image": "/api/image/c632af62ea82a9db.gif",
           "attributes": {
             "需求等级": "58"
           },
@@ -8913,7 +8913,7 @@
           "name": "腐肉之风",
           "name_en": "Carrion Wind",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+          "image": "/api/image/fd37332767776ec3.gif",
           "attributes": {
             "需求等级": "60"
           },
@@ -8924,7 +8924,7 @@
           "name": "大自然的和平",
           "name_en": "Nature's Peace",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+          "image": "/api/image/7371718312b0c6e1.gif",
           "attributes": {
             "需求等级": "69"
           },
@@ -8935,7 +8935,7 @@
           "name": "鬼火投掷者",
           "name_en": "Whisp Projector",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+          "image": "/api/image/c632af62ea82a9db.gif",
           "attributes": {
             "需求等级": "76"
           },
@@ -8946,7 +8946,7 @@
           "name": "天使的光晕",
           "name_en": "Angelic Halo",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+          "image": "/api/image/7371718312b0c6e1.gif",
           "attributes": {
             "需求等级": "12"
           },
@@ -8957,7 +8957,7 @@
           "name": "卡珊的封印",
           "name_en": "Cathan's Seal",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/5/5e/Ring4.gif",
+          "image": "/api/image/7e5acb078817412f.gif",
           "attributes": {
             "需求等级": "11"
           },
@@ -8976,7 +8976,7 @@
           "name": "诺科蓝遗物",
           "name_en": "Nokozan Relic",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "10"
           },
@@ -8987,7 +8987,7 @@
           "name": "艾利屈之眼",
           "name_en": "The Eye of Etlich",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "15"
           },
@@ -8998,7 +8998,7 @@
           "name": "玛哈姆橡木古董",
           "name_en": "The Mahim-Oak Curio",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+          "image": "/api/image/abda88e2f86510ca.gif",
           "attributes": {
             "需求等级": "25"
           },
@@ -9009,7 +9009,7 @@
           "name": "萨拉森的机会",
           "name_en": "Saracen's Chance",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+          "image": "/api/image/d6803e3b29b4e0fe.gif",
           "attributes": {
             "需求等级": "47"
           },
@@ -9020,7 +9020,7 @@
           "name": "猫眼",
           "name_en": "The Cat's Eye",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "50"
           },
@@ -9031,7 +9031,7 @@
           "name": "新月",
           "name_en": "Crescent Moon",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+          "image": "/api/image/abda88e2f86510ca.gif",
           "attributes": {
             "需求等级": "50"
           },
@@ -9042,7 +9042,7 @@
           "name": "亚特玛的圣甲虫",
           "name_en": "Atma's Scarab",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "60"
           },
@@ -9053,7 +9053,7 @@
           "name": "旭日东升",
           "name_en": "The Rising Sun",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+          "image": "/api/image/abda88e2f86510ca.gif",
           "attributes": {
             "需求等级": "65"
           },
@@ -9064,7 +9064,7 @@
           "name": "马拉的万花筒",
           "name_en": "Mara's Kaleidoscope",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+          "image": "/api/image/d6803e3b29b4e0fe.gif",
           "attributes": {
             "需求等级": "67"
           },
@@ -9075,7 +9075,7 @@
           "name": "大君之怒",
           "name_en": "Highlord's Wrath",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+          "image": "/api/image/abda88e2f86510ca.gif",
           "attributes": {
             "需求等级": "65"
           },
@@ -9086,7 +9086,7 @@
           "name": "炙天使之韵",
           "name_en": "Seraph's Hymn",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "65"
           },
@@ -9097,7 +9097,7 @@
           "name": "金属网格",
           "name_en": "Metalgrid",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "81"
           },
@@ -9108,7 +9108,7 @@
           "name": "天使之翼",
           "name_en": "Angelic Wings",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "12"
           },
@@ -9119,7 +9119,7 @@
           "name": "阿卡娜的符号",
           "name_en": "Arcanna's Sign",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "15"
           },
@@ -9130,7 +9130,7 @@
           "name": "卡珊的魔咒",
           "name_en": "Cathan's Sigil",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+          "image": "/api/image/d6803e3b29b4e0fe.gif",
           "attributes": {
             "需求等级": "11"
           },
@@ -9141,7 +9141,7 @@
           "name": "希弗柏的图案",
           "name_en": "Civerb's Icon",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "9"
           },
@@ -9152,7 +9152,7 @@
           "name": "依雷撒的项圈",
           "name_en": "Iratha's Collar",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+          "image": "/api/image/d6803e3b29b4e0fe.gif",
           "attributes": {
             "需求等级": "15"
           },
@@ -9163,7 +9163,7 @@
           "name": "坦克雷的怪诞",
           "name_en": "Tancred's Weird",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+          "image": "/api/image/abda88e2f86510ca.gif",
           "attributes": {
             "需求等级": "20"
           },
@@ -9174,7 +9174,7 @@
           "name": "维达拉的陷阱",
           "name_en": "Vidala's Snare",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "14"
           },
@@ -9185,7 +9185,7 @@
           "name": "述说之珠",
           "name_en": "Telling of Beads",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+          "image": "/api/image/85934f3ae3cdaa00.gif",
           "attributes": {
             "需求等级": "30"
           },
@@ -9196,7 +9196,7 @@
           "name": "塔拉夏的判决",
           "name_en": "Tal Rasha's Adjudication",
           "tier": null,
-          "image": "https://wiki.d.163.com/images/1/1b/%E5%A1%94%E6%8B%89%E5%A4%8F%E7%9A%84%E5%88%A4%E5%86%B3.gif",
+          "image": "/api/image/99672c0a5c5c66a7.gif",
           "attributes": {
             "要求级别": "67"
           },

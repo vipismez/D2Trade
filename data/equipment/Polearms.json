@@ -8,7 +8,7 @@
       "name": "大砍刀",
       "name_en": "Bardiche",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+      "image": "/api/image/d9d93f9428bfe51c.gif",
       "attributes": {
         "双手伤害": "1-27（平均：14）",
         "攻击范围": "3",
@@ -26,7 +26,7 @@
       "name": "钩镰枪",
       "name_en": "Voulge",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+      "image": "/api/image/a907e1285d7cb22d.gif",
       "attributes": {
         "双手伤害": "6-21（平均：14）",
         "攻击范围": "3",
@@ -44,7 +44,7 @@
       "name": "镰刀",
       "name_en": "Scythe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+      "image": "/api/image/c4043840db4a3a89.gif",
       "attributes": {
         "双手伤害": "8-20（平均：14）",
         "攻击范围": "2",
@@ -62,7 +62,7 @@
       "name": "长柄战斧",
       "name_en": "Poleaxe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+      "image": "/api/image/a6c8cd800ada1946.gif",
       "attributes": {
         "双手伤害": "18-39（平均：28.5）",
         "攻击范围": "4",
@@ -80,7 +80,7 @@
       "name": "长戟",
       "name_en": "Halberd",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+      "image": "/api/image/e76402b53bd7ee43.gif",
       "attributes": {
         "双手伤害": "12-45（平均28.5）",
         "攻击范围": "5",
@@ -98,7 +98,7 @@
       "name": "巨战镰刀",
       "name_en": "War Scythe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+      "image": "/api/image/7ce0cac9ac8a136f.gif",
       "attributes": {
         "双手伤害": "15-36（平均：26.5）",
         "攻击范围": "5",
@@ -116,7 +116,7 @@
       "name": "罗佳伯斧",
       "name_en": "Lochaber Axe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+      "image": "/api/image/d9d93f9428bfe51c.gif",
       "attributes": {
         "双手伤害": "6-58（平均：32）",
         "攻击范围": "3",
@@ -135,7 +135,7 @@
       "name": "比尔长刀",
       "name_en": "Bill",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+      "image": "/api/image/a907e1285d7cb22d.gif",
       "attributes": {
         "双手伤害": "14-53（平均：33.5）",
         "攻击范围": "3",
@@ -154,7 +154,7 @@
       "name": "战斗镰刀",
       "name_en": "Battle Scythe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+      "image": "/api/image/c4043840db4a3a89.gif",
       "attributes": {
         "双手伤害": "18-45（平均：31.5）",
         "攻击范围": "2",
@@ -173,7 +173,7 @@
       "name": "战戟",
       "name_en": "Partizan",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+      "image": "/api/image/a6c8cd800ada1946.gif",
       "attributes": {
         "双手伤害": "34-75（平均：54.5）",
         "攻击范围": "4",
@@ -192,7 +192,7 @@
       "name": "双锋战戟",
       "name_en": "Bec-De-Corbin",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+      "image": "/api/image/e76402b53bd7ee43.gif",
       "attributes": {
         "双手伤害": "13-85（平均49）",
         "攻击范围": "5",
@@ -211,7 +211,7 @@
       "name": "残酷镰刀",
       "name_en": "Grim Scythe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+      "image": "/api/image/7ce0cac9ac8a136f.gif",
       "attributes": {
         "双手伤害": "30-70（平均：50）",
         "攻击范围": "5",
@@ -230,7 +230,7 @@
       "name": "食人魔之斧",
       "name_en": "Ogre Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+      "image": "/api/image/d9d93f9428bfe51c.gif",
       "attributes": {
         "双手伤害": "28-145（平均：86.5）",
         "攻击范围": "3",
@@ -249,7 +249,7 @@
       "name": "巨神之斧",
       "name_en": "Colossus Voulge",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+      "image": "/api/image/a907e1285d7cb22d.gif",
       "attributes": {
         "双手伤害": "17-165（平均：91）",
         "攻击范围": "3",
@@ -268,7 +268,7 @@
       "name": "锐利之斧",
       "name_en": "Thresher",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+      "image": "/api/image/c4043840db4a3a89.gif",
       "attributes": {
         "双手伤害": "12-141（平均：76.5）",
         "攻击范围": "2",
@@ -287,7 +287,7 @@
       "name": "神秘之斧",
       "name_en": "Cryptic Axe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+      "image": "/api/image/a6c8cd800ada1946.gif",
       "attributes": {
         "双手伤害": "33-150（平均：91.5）",
         "攻击范围": "4",
@@ -306,7 +306,7 @@
       "name": "巨长斧",
       "name_en": "Great Poleaxe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+      "image": "/api/image/e76402b53bd7ee43.gif",
       "attributes": {
         "双手伤害": "46-127（平均86.5）",
         "攻击范围": "5",
@@ -325,7 +325,7 @@
       "name": "蛟尾巨斧",
       "name_en": "Giant Thresher",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+      "image": "/api/image/7ce0cac9ac8a136f.gif",
       "attributes": {
         "双手伤害": "40-114（平均：77）",
         "攻击范围": "5",

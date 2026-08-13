@@ -8,7 +8,7 @@
       "name": "颚骨帽",
       "name_en": "Jawbone Cap",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+      "image": "/api/image/b15513f04c336823.gif",
       "attributes": {
         "防御": "10-15",
         "需求力量": "25",
@@ -24,7 +24,7 @@
       "name": "尖牙盔",
       "name_en": "Fanged Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+      "image": "/api/image/1fed9cf6c4948755.gif",
       "attributes": {
         "防御": "15-20",
         "需求力量": "35",
@@ -40,7 +40,7 @@
       "name": "角盔",
       "name_en": "Horned Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+      "image": "/api/image/22de5a8cf347d03b.gif",
       "attributes": {
         "防御": "25-30",
         "需求力量": "45",
@@ -56,7 +56,7 @@
       "name": "突击盔",
       "name_en": "Assault Helmet",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+      "image": "/api/image/4a661afec2ff99b6.gif",
       "attributes": {
         "防御": "30-35",
         "需求力量": "55",
@@ -72,7 +72,7 @@
       "name": "复仇者之盔",
       "name_en": "Avenger Guard",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+      "image": "/api/image/a1515dfbb3151b67.gif",
       "attributes": {
         "防御": "35-50",
         "需求力量": "65",
@@ -88,7 +88,7 @@
       "name": "颚骨面甲",
       "name_en": "Jawbone Visor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+      "image": "/api/image/b15513f04c336823.gif",
       "attributes": {
         "防御": "55-68",
         "需求力量": "58",
@@ -104,7 +104,7 @@
       "name": "狮头尖盔",
       "name_en": "Lion Helm",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+      "image": "/api/image/1fed9cf6c4948755.gif",
       "attributes": {
         "防御": "63-75",
         "需求力量": "73",
@@ -120,7 +120,7 @@
       "name": "狂怒面具刺盔",
       "name_en": "Rage Helm",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+      "image": "/api/image/22de5a8cf347d03b.gif",
       "attributes": {
         "防御": "78-90",
         "需求力量": "88",
@@ -136,7 +136,7 @@
       "name": "蛮族头盔",
       "name_en": "Savage Helmet",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+      "image": "/api/image/4a661afec2ff99b6.gif",
       "attributes": {
         "防御": "85-98",
         "需求力量": "103",
@@ -152,7 +152,7 @@
       "name": "杀手防护面甲",
       "name_en": "Slayer Guard",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+      "image": "/api/image/a1515dfbb3151b67.gif",
       "attributes": {
         "防御": "93-120",
         "需求力量": "118",
@@ -168,7 +168,7 @@
       "name": "屠杀头盔",
       "name_en": "Carnage Helm",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+      "image": "/api/image/b15513f04c336823.gif",
       "attributes": {
         "防御": "102-147",
         "需求力量": "106",
@@ -184,7 +184,7 @@
       "name": "暴怒面甲",
       "name_en": "Fury Visor",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+      "image": "/api/image/1fed9cf6c4948755.gif",
       "attributes": {
         "防御": "105-150",
         "需求力量": "129",
@@ -200,7 +200,7 @@
       "name": "毁灭者头盔",
       "name_en": "Destroyer Helm",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+      "image": "/api/image/22de5a8cf347d03b.gif",
       "attributes": {
         "防御": "111-156",
         "需求力量": "151",
@@ -216,7 +216,7 @@
       "name": "征服者皇冠面甲",
       "name_en": "Conqueror Crown",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+      "image": "/api/image/4a661afec2ff99b6.gif",
       "attributes": {
         "防御": "114-159",
         "需求力量": "174",
@@ -232,7 +232,7 @@
       "name": "守护者皇冠面甲",
       "name_en": "Guardian Crown",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+      "image": "/api/image/a1515dfbb3151b67.gif",
       "attributes": {
         "防御": "117-168",
         "需求力量": "196",

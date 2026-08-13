@@ -8,7 +8,7 @@
       "name": "短棍",
       "name_en": "Short Staff",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+      "image": "/api/image/60bb69997937830a.jpg",
       "attributes": {
         "双手伤害": "1-5",
         "范围": "2",
@@ -27,7 +27,7 @@
       "name": "长棍",
       "name_en": "Long Staff",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/0fdb1a5d6511f628.gif",
       "attributes": {
         "双手伤害": "2-8",
         "范围": "2",
@@ -46,7 +46,7 @@
       "name": "多节棍",
       "name_en": "Gnarled Staff",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/2f3e1d5b0c7f6e0c.gif",
       "attributes": {
         "双手伤害": "4-12",
         "范围": "2",
@@ -65,7 +65,7 @@
       "name": "战斗法杖",
       "name_en": "Battle Staff",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/0d4bbe234c44b766.gif",
       "attributes": {
         "双手伤害": "6-13",
         "范围": "2",
@@ -84,7 +84,7 @@
       "name": "巨战法杖",
       "name_en": "War Staff",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/8d9a047cb71bc920.gif",
       "attributes": {
         "双手伤害": "12-28",
         "范围": "2",
@@ -103,7 +103,7 @@
       "name": "乔木棒",
       "name_en": "Jo Staff",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+      "image": "/api/image/60bb69997937830a.jpg",
       "attributes": {
         "双手伤害": "6-21",
         "范围": "2",
@@ -122,7 +122,7 @@
       "name": "六尺棍",
       "name_en": "Quaterstaff",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/0fdb1a5d6511f628.gif",
       "attributes": {
         "双手伤害": "8-26",
         "范围": "2",
@@ -141,7 +141,7 @@
       "name": "杉木之棍",
       "name_en": "Cedar Staff",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/2f3e1d5b0c7f6e0c.gif",
       "attributes": {
         "双手伤害": "11-32",
         "范围": "2",
@@ -160,7 +160,7 @@
       "name": "哥德之棍",
       "name_en": "Gothic Staff",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/0d4bbe234c44b766.gif",
       "attributes": {
         "双手伤害": "14-34",
         "范围": "2",
@@ -179,7 +179,7 @@
       "name": "符文之棍",
       "name_en": "Rune Staff",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/8d9a047cb71bc920.gif",
       "attributes": {
         "双手伤害": "24-58",
         "范围": "2",
@@ -198,7 +198,7 @@
       "name": "手杖",
       "name_en": "Walking Stick",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+      "image": "/api/image/60bb69997937830a.jpg",
       "attributes": {
         "双手伤害": "69-85",
         "范围": "2",
@@ -217,7 +217,7 @@
       "name": "钟乳石之杖",
       "name_en": "Stalagmite",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/0fdb1a5d6511f628.gif",
       "attributes": {
         "双手伤害": "75-107",
         "范围": "2",
@@ -236,7 +236,7 @@
       "name": "多节棍",
       "name_en": "Elder Staff",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/2f3e1d5b0c7f6e0c.gif",
       "attributes": {
         "双手伤害": "80-93",
         "范围": "2",
@@ -255,7 +255,7 @@
       "name": "树皮之杖",
       "name_en": "Shillelagh",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/0d4bbe234c44b766.gif",
       "attributes": {
         "双手伤害": "65-108",
         "范围": "2",
@@ -274,7 +274,7 @@
       "name": "执政官之杖",
       "name_en": "Archon Staff",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+      "image": "/api/image/8d9a047cb71bc920.gif",
       "attributes": {
         "双手伤害": "83-99",
         "范围": "2",

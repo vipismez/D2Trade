@@ -8,7 +8,7 @@
       "name": "小盾",
       "name_en": "Targe",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+      "image": "/api/image/b3a50c9317cf9151.gif",
       "attributes": {
         "防御": "8-12",
         "类型": "轻型",
@@ -27,7 +27,7 @@
       "name": "轻圆盾",
       "name_en": "Rondache",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+      "image": "/api/image/e079dee0cdf31906.gif",
       "attributes": {
         "防御": "10-18",
         "类型": "轻型",
@@ -46,7 +46,7 @@
       "name": "纹章盾",
       "name_en": "Heraldic Shield",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+      "image": "/api/image/8e5b4a9b30f02f0c.gif",
       "attributes": {
         "防御": "16-26",
         "类型": "轻型",
@@ -65,7 +65,7 @@
       "name": "艾文之盾",
       "name_en": "Aerin Shield",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+      "image": "/api/image/9961909777ab86bb.gif",
       "attributes": {
         "防御": "26-36",
         "类型": "轻型",
@@ -84,7 +84,7 @@
       "name": "皇冠之盾",
       "name_en": "Crown Shield",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+      "image": "/api/image/c963557587e24804.gif",
       "attributes": {
         "防御": "30-40",
         "类型": "轻型",
@@ -103,7 +103,7 @@
       "name": "亚克南圆盾",
       "name_en": "Akaran Targe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+      "image": "/api/image/b3a50c9317cf9151.gif",
       "attributes": {
         "防御": "101-125",
         "类型": "轻型",
@@ -122,7 +122,7 @@
       "name": "亚克南轻圆盾",
       "name_en": "Akaran Rondache",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+      "image": "/api/image/e079dee0cdf31906.gif",
       "attributes": {
         "防御": "113-137",
         "类型": "轻型",
@@ -141,7 +141,7 @@
       "name": "防守者盾牌",
       "name_en": "Protector Shield",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+      "image": "/api/image/8e5b4a9b30f02f0c.gif",
       "attributes": {
         "防御": "129-153",
         "类型": "轻型",
@@ -160,7 +160,7 @@
       "name": "饰金盾牌",
       "name_en": "Aerin Shield",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+      "image": "/api/image/9961909777ab86bb.gif",
       "attributes": {
         "防御": "144-168",
         "类型": "轻型",
@@ -179,7 +179,7 @@
       "name": "皇家盾牌",
       "name_en": "Royal Shield",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+      "image": "/api/image/c963557587e24804.gif",
       "attributes": {
         "防御": "156-181",
         "类型": "轻型",
@@ -198,7 +198,7 @@
       "name": "神圣小盾",
       "name_en": "Sacred Targe",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+      "image": "/api/image/b3a50c9317cf9151.gif",
       "attributes": {
         "防御": "126-158",
         "类型": "轻型",
@@ -217,7 +217,7 @@
       "name": "神圣轻圆盾",
       "name_en": "Sacred Rondache",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+      "image": "/api/image/e079dee0cdf31906.gif",
       "attributes": {
         "防御": "138-164",
         "类型": "轻型",
@@ -236,7 +236,7 @@
       "name": "库拉斯特之盾",
       "name_en": "Kurast Shield",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+      "image": "/api/image/8e5b4a9b30f02f0c.gif",
       "attributes": {
         "防御": "154-172",
         "类型": "轻型",
@@ -255,7 +255,7 @@
       "name": "撒卡兰姆盾牌",
       "name_en": "Zakarum Shield",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+      "image": "/api/image/9961909777ab86bb.gif",
       "attributes": {
         "防御": "169-193",
         "类型": "轻型",
@@ -274,7 +274,7 @@
       "name": "旋风盾",
       "name_en": "Vortex Shield",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+      "image": "/api/image/c963557587e24804.gif",
       "attributes": {
         "防御": "182-225",
         "类型": "轻型",

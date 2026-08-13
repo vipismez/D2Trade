@@ -8,7 +8,7 @@
       "name": "短剑",
       "name_en": "Short Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/777000ca70718458.gif",
       "attributes": {
         "单手伤害": "2-7",
         "范围": "1",
@@ -27,7 +27,7 @@
       "name": "弯刀",
       "name_en": "Scimitar",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+      "image": "/api/image/f8828e19f06ef0ee.gif",
       "attributes": {
         "单手伤害": "2-6",
         "范围": "1",
@@ -46,7 +46,7 @@
       "name": "军刀",
       "name_en": "Sabre",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+      "image": "/api/image/12937d813ff001b6.gif",
       "attributes": {
         "单手伤害": "3-8",
         "范围": "1",
@@ -65,7 +65,7 @@
       "name": "弯形大刀",
       "name_en": "Falchion",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+      "image": "/api/image/77f64c6d29841123.gif",
       "attributes": {
         "单手伤害": "9-17",
         "范围": "1",
@@ -84,7 +84,7 @@
       "name": "水晶剑",
       "name_en": "Crystal Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/7b1f422853e87449.gif",
       "attributes": {
         "单手伤害": "5-15",
         "范围": "2",
@@ -103,7 +103,7 @@
       "name": "阔剑",
       "name_en": "Broad Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/b193c5f303da2ff8.gif",
       "attributes": {
         "单手伤害": "7-14",
         "范围": "1",
@@ -122,7 +122,7 @@
       "name": "长剑",
       "name_en": "Long Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+      "image": "/api/image/dd868a16c6725653.gif",
       "attributes": {
         "单手伤害": "3-19",
         "范围": "1",
@@ -141,7 +141,7 @@
       "name": "巨战之剑",
       "name_en": "War Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/cc6a9f28bb848960.gif",
       "attributes": {
         "单手伤害": "8-20",
         "范围": "1",
@@ -160,7 +160,7 @@
       "name": "双手剑",
       "name_en": "Two-handed Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/7183607b0f8b3ccc.gif",
       "attributes": {
         "单手伤害": "2-9",
         "双手伤害": "8-17",
@@ -180,7 +180,7 @@
       "name": "双刃大刀",
       "name_en": "Claymore",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+      "image": "/api/image/84edbc3b3be89868.gif",
       "attributes": {
         "单手伤害": "5-12",
         "双手伤害": "13-30",
@@ -200,7 +200,7 @@
       "name": "大剑",
       "name_en": "Giant Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/4e1da676d12b2b55.gif",
       "attributes": {
         "单手伤害": "3-16",
         "双手伤害": "9-28",
@@ -220,7 +220,7 @@
       "name": "巨剑",
       "name_en": "Bastard Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/65e4fbe634e2f98d.gif",
       "attributes": {
         "单手伤害": "7-19",
         "双手伤害": "20-28",
@@ -240,7 +240,7 @@
       "name": "双手饰剑",
       "name_en": "Flamberge",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+      "image": "/api/image/2049a841ff311f1d.gif",
       "attributes": {
         "单手伤害": "9-15",
         "双手伤害": "13-26",
@@ -260,7 +260,7 @@
       "name": "卓越之剑",
       "name_en": "Great Sword",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/e8be8e4858677463.gif",
       "attributes": {
         "单手伤害": "12-20",
         "双手伤害": "25-42",
@@ -280,7 +280,7 @@
       "name": "罗马短剑",
       "name_en": "Gladius",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/777000ca70718458.gif",
       "attributes": {
         "单手伤害": "8-22",
         "范围": "1",
@@ -299,7 +299,7 @@
       "name": "微弯剑",
       "name_en": "Cutlass",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+      "image": "/api/image/f8828e19f06ef0ee.gif",
       "attributes": {
         "单手伤害": "8-21",
         "范围": "1",
@@ -318,7 +318,7 @@
       "name": "虚伪之刃",
       "name_en": "Shamshir",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+      "image": "/api/image/12937d813ff001b6.gif",
       "attributes": {
         "单手伤害": "10-24",
         "范围": "1",
@@ -337,7 +337,7 @@
       "name": "圆月弯刀",
       "name_en": "Tulwar",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+      "image": "/api/image/77f64c6d29841123.gif",
       "attributes": {
         "单手伤害": "16-35",
         "范围": "1",
@@ -356,7 +356,7 @@
       "name": "空间之刃",
       "name_en": "Dimensional Blade",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/7b1f422853e87449.gif",
       "attributes": {
         "单手伤害": "13-35",
         "范围": "2",
@@ -375,7 +375,7 @@
       "name": "战斗剑",
       "name_en": "Battle Sword",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/b193c5f303da2ff8.gif",
       "attributes": {
         "单手伤害": "16-34",
         "范围": "1",
@@ -394,7 +394,7 @@
       "name": "符文剑",
       "name_en": "Rune Sword",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+      "image": "/api/image/dd868a16c6725653.gif",
       "attributes": {
         "单手伤害": "10-42",
         "范围": "1",
@@ -413,7 +413,7 @@
       "name": "古代之剑",
       "name_en": "Ancient Sword",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/cc6a9f28bb848960.gif",
       "attributes": {
         "单手伤害": "18-43",
         "范围": "1",
@@ -432,7 +432,7 @@
       "name": "斩铁剑",
       "name_en": "Espandon",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/7183607b0f8b3ccc.gif",
       "attributes": {
         "单手伤害": "8-26",
         "双手伤害": "18-40",
@@ -452,7 +452,7 @@
       "name": "双刃镰",
       "name_en": "Dacian Falx",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+      "image": "/api/image/84edbc3b3be89868.gif",
       "attributes": {
         "单手伤害": "13-30",
         "双手伤害": "26-61",
@@ -472,7 +472,7 @@
       "name": "长牙剑",
       "name_en": "Tusk Sword",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/4e1da676d12b2b55.gif",
       "attributes": {
         "单手伤害": "10-37",
         "双手伤害": "19-58",
@@ -492,7 +492,7 @@
       "name": "歌德剑",
       "name_en": "Gothic Sword",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/65e4fbe634e2f98d.gif",
       "attributes": {
         "单手伤害": "14-40",
         "双手伤害": "39-60",
@@ -512,7 +512,7 @@
       "name": "瑞韩德之剑",
       "name_en": "Zweihander",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+      "image": "/api/image/2049a841ff311f1d.gif",
       "attributes": {
         "单手伤害": "19-35",
         "双手伤害": "29-54",
@@ -532,7 +532,7 @@
       "name": "死刑之剑",
       "name_en": "Executioner Sword",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/e8be8e4858677463.gif",
       "attributes": {
         "单手伤害": "24-40",
         "双手伤害": "47-80",
@@ -552,7 +552,7 @@
       "name": "刃剑",
       "name_en": "Falcata",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/777000ca70718458.gif",
       "attributes": {
         "单手伤害": "31-59",
         "范围": "1",
@@ -571,7 +571,7 @@
       "name": "土耳其剑",
       "name_en": "Ataghan",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+      "image": "/api/image/f8828e19f06ef0ee.gif",
       "attributes": {
         "单手伤害": "26-46",
         "范围": "1",
@@ -590,7 +590,7 @@
       "name": "优雅之剑",
       "name_en": "Elegant Blade",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+      "image": "/api/image/12937d813ff001b6.gif",
       "attributes": {
         "单手伤害": "33-45",
         "范围": "1",
@@ -609,7 +609,7 @@
       "name": "九头蛇刃",
       "name_en": "Hydra Edge",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+      "image": "/api/image/77f64c6d29841123.gif",
       "attributes": {
         "单手伤害": "28-68",
         "范围": "1",
@@ -628,7 +628,7 @@
       "name": "幻化之刃",
       "name_en": "Phase Blade",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/7b1f422853e87449.gif",
       "attributes": {
         "单手伤害": "31-35",
         "范围": "2",
@@ -647,7 +647,7 @@
       "name": "征服之剑",
       "name_en": "Conquest Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/b193c5f303da2ff8.gif",
       "attributes": {
         "单手伤害": "37-53",
         "范围": "1",
@@ -666,7 +666,7 @@
       "name": "神秘之剑",
       "name_en": "Cryptic Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+      "image": "/api/image/dd868a16c6725653.gif",
       "attributes": {
         "单手伤害": "5-77",
         "范围": "2",
@@ -685,7 +685,7 @@
       "name": "秘仪之剑",
       "name_en": "Mythical Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/cc6a9f28bb848960.gif",
       "attributes": {
         "单手伤害": "40-50",
         "范围": "2",
@@ -704,7 +704,7 @@
       "name": "传说之剑",
       "name_en": "Legend Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/7183607b0f8b3ccc.gif",
       "attributes": {
         "单手伤害": "22-56",
         "双手伤害": "50-94",
@@ -724,7 +724,7 @@
       "name": "高地之剑",
       "name_en": "Highland Blade",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+      "image": "/api/image/84edbc3b3be89868.gif",
       "attributes": {
         "单手伤害": "22-62",
         "双手伤害": "67-96",
@@ -744,7 +744,7 @@
       "name": "炎魔之刃",
       "name_en": "Balrog Blade",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/4e1da676d12b2b55.gif",
       "attributes": {
         "单手伤害": "15-75",
         "双手伤害": "55-118",
@@ -764,7 +764,7 @@
       "name": "冠军之剑",
       "name_en": "Champion Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/65e4fbe634e2f98d.gif",
       "attributes": {
         "单手伤害": "24-54",
         "双手伤害": "71-83",
@@ -784,7 +784,7 @@
       "name": "巨神之剑",
       "name_en": "Colossus Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+      "image": "/api/image/2049a841ff311f1d.gif",
       "attributes": {
         "单手伤害": "26-70",
         "双手伤害": "61-121",
@@ -804,7 +804,7 @@
       "name": "巨神之刃",
       "name_en": "Colossus Blade",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+      "image": "/api/image/e8be8e4858677463.gif",
       "attributes": {
         "单手伤害": "25-65",
         "双手伤害": "58-115",

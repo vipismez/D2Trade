@@ -8,7 +8,7 @@
       "name": "布甲",
       "name_en": "Quilted Armor",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/d1d49326c8679576.gif",
       "attributes": {
         "防御值": "8-11",
         "需要力量": "12",
@@ -24,7 +24,7 @@
       "name": "皮甲",
       "name_en": "Leather Armor",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/cd836d191d2b70f7.gif",
       "attributes": {
         "防御值": "14-17",
         "需要力量": "15",
@@ -40,7 +40,7 @@
       "name": "硬皮甲",
       "name_en": "Hard Leather Armor",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/6841d31bea8256aa.gif",
       "attributes": {
         "防御值": "21-24",
         "需要力量": "20",
@@ -56,7 +56,7 @@
       "name": "镶嵌甲",
       "name_en": "Studded Leather",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+      "image": "/api/image/231c4d220f3b557e.gif",
       "attributes": {
         "防御值": "32-35",
         "需要力量": "27",
@@ -72,7 +72,7 @@
       "name": "锁环甲",
       "name_en": "Ring Mail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/c706bf70b8cd64da.gif",
       "attributes": {
         "防御值": "45-48",
         "需要力量": "36",
@@ -88,7 +88,7 @@
       "name": "鳞甲",
       "name_en": "Scale Mail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/9223add4e91483e0.gif",
       "attributes": {
         "防御值": "57-60",
         "需要力量": "44",
@@ -104,7 +104,7 @@
       "name": "胸甲",
       "name_en": "Breast Plate",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/7bfbe70388b6df69.gif",
       "attributes": {
         "防御值": "65-68",
         "需要力量": "30",
@@ -120,7 +120,7 @@
       "name": "锁子甲",
       "name_en": "Chain Mail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/7c148d1662e626da.gif",
       "attributes": {
         "防御值": "72-75",
         "需要力量": "48",
@@ -136,7 +136,7 @@
       "name": "板甲",
       "name_en": "Splint Mail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/3b560e62ba40ade3.gif",
       "attributes": {
         "防御值": "90-95",
         "需要力量": "51",
@@ -152,7 +152,7 @@
       "name": "轻型装甲",
       "name_en": "Light Plate",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/953352ebf95a8a4b.gif",
       "attributes": {
         "防御值": "90-107",
         "需要力量": "41",
@@ -168,7 +168,7 @@
       "name": "实战铠甲",
       "name_en": "Field Plate",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/175dc5c5174c6d3e.gif",
       "attributes": {
         "防御值": "101-105",
         "需要力量": "55",
@@ -184,7 +184,7 @@
       "name": "铠甲",
       "name_en": "Plate Mail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/4d75ec67e02315a3.gif",
       "attributes": {
         "防御值": "108-116",
         "需要力量": "65",
@@ -200,7 +200,7 @@
       "name": "哥德战甲",
       "name_en": "Gothic Plate",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/28aec6dc00f28822.gif",
       "attributes": {
         "防御值": "128-135",
         "需要力量": "70",
@@ -216,7 +216,7 @@
       "name": "高级战甲",
       "name_en": "Full Plate Mail",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/18e52c6e01c21536.gif",
       "attributes": {
         "防御值": "150-161",
         "需要力量": "80",
@@ -232,7 +232,7 @@
       "name": "古代装甲",
       "name_en": "Ancient Armor",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/cb25e874ec931348.gif",
       "attributes": {
         "防御值": "218-233",
         "需要力量": "100",
@@ -248,7 +248,7 @@
       "name": "布甲",
       "name_en": "Quilted Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/d1d49326c8679576.gif",
       "attributes": {
         "防御值": "102-117",
         "需要力量": "38",
@@ -264,7 +264,7 @@
       "name": "海蛇皮甲",
       "name_en": "Serpentskin Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/cd836d191d2b70f7.gif",
       "attributes": {
         "防御值": "111-126",
         "需要力量": "43",
@@ -280,7 +280,7 @@
       "name": "魔皮战甲",
       "name_en": "Demonhide Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/6841d31bea8256aa.gif",
       "attributes": {
         "防御值": "122-136",
         "需要力量": "50",
@@ -296,7 +296,7 @@
       "name": "攀绕战甲",
       "name_en": "Trellised Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+      "image": "/api/image/231c4d220f3b557e.gif",
       "attributes": {
         "防御值": "138-153",
         "需要力量": "61",
@@ -312,7 +312,7 @@
       "name": "连扣战甲",
       "name_en": "Linked Mail",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/c706bf70b8cd64da.gif",
       "attributes": {
         "防御值": "158-172",
         "需要力量": "74",
@@ -328,7 +328,7 @@
       "name": "提格莱特战甲",
       "name_en": "Tigulated Mail",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/9223add4e91483e0.gif",
       "attributes": {
         "防御值": "176-190",
         "需要力量": "86",
@@ -344,7 +344,7 @@
       "name": "护胸甲",
       "name_en": "Cuirass",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/7bfbe70388b6df69.gif",
       "attributes": {
         "防御值": "188-202",
         "需要力量": "65",
@@ -360,7 +360,7 @@
       "name": "织网战甲",
       "name_en": "Mesh Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/7c148d1662e626da.gif",
       "attributes": {
         "防御值": "198-213",
         "需要力量": "92",
@@ -376,7 +376,7 @@
       "name": "罗瑟战甲",
       "name_en": "Russet Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/3b560e62ba40ade3.gif",
       "attributes": {
         "防御值": "225-243",
         "需要力量": "97",
@@ -392,7 +392,7 @@
       "name": "法师铠甲",
       "name_en": "Mage Plate",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/953352ebf95a8a4b.gif",
       "attributes": {
         "防御值": "225-261",
         "需要力量": "55",
@@ -408,7 +408,7 @@
       "name": "鲨齿战甲",
       "name_en": "Sharktooth Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/175dc5c5174c6d3e.gif",
       "attributes": {
         "防御值": "242-258",
         "需要力量": "103",
@@ -424,7 +424,7 @@
       "name": "圣堂武士外袍",
       "name_en": "Templar Coat",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/4d75ec67e02315a3.gif",
       "attributes": {
         "防御值": "252-274",
         "需要力量": "118",
@@ -440,7 +440,7 @@
       "name": "凸纹战甲",
       "name_en": "Embossed Plate",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/28aec6dc00f28822.gif",
       "attributes": {
         "防御值": "282-303",
         "需要力量": "125",
@@ -456,7 +456,7 @@
       "name": "混沌战甲",
       "name_en": "Chaos Armor",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/18e52c6e01c21536.gif",
       "attributes": {
         "防御值": "315-342",
         "需要力量": "140",
@@ -472,7 +472,7 @@
       "name": "华丽战甲",
       "name_en": "Ornate Plate",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/cb25e874ec931348.gif",
       "attributes": {
         "防御值": "417-450",
         "需要力量": "170",
@@ -488,7 +488,7 @@
       "name": "灰幕寿衣",
       "name_en": "Dusk Shroud",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/d1d49326c8679576.gif",
       "attributes": {
         "防御值": "361-467",
         "需要力量": "77",
@@ -504,7 +504,7 @@
       "name": "古龙皮",
       "name_en": "Wyrmhide",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/cd836d191d2b70f7.gif",
       "attributes": {
         "防御值": "364-470",
         "需要力量": "84",
@@ -520,7 +520,7 @@
       "name": "圣甲虫壳皮甲",
       "name_en": "Scarab Husk",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/6841d31bea8256aa.gif",
       "attributes": {
         "防御值": "369-474",
         "需要力量": "95",
@@ -536,7 +536,7 @@
       "name": "绵羊毛甲",
       "name_en": "Wire Fleece",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+      "image": "/api/image/231c4d220f3b557e.gif",
       "attributes": {
         "防御值": "375-481",
         "需要力量": "111",
@@ -552,7 +552,7 @@
       "name": "钻石锁子甲",
       "name_en": "Diamond Mail",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/c706bf70b8cd64da.gif",
       "attributes": {
         "防御值": "383-489",
         "需要力量": "131",
@@ -568,7 +568,7 @@
       "name": "甲壳铠鳞甲",
       "name_en": "Loricated Mail",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/9223add4e91483e0.gif",
       "attributes": {
         "防御值": "390-496",
         "需要力量": "149",
@@ -584,7 +584,7 @@
       "name": "巨形鳞铠胸甲",
       "name_en": "Great Hauberk",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/7bfbe70388b6df69.gif",
       "attributes": {
         "防御值": "395-501",
         "需要力量": "118",
@@ -600,7 +600,7 @@
       "name": "骸骨链甲",
       "name_en": "Boneweave",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/7c148d1662e626da.gif",
       "attributes": {
         "防御值": "399-505",
         "需要力量": "158",
@@ -616,7 +616,7 @@
       "name": "炎魔皮板甲",
       "name_en": "Balrog Skin",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/3b560e62ba40ade3.gif",
       "attributes": {
         "防御值": "410-524",
         "需要力量": "103",
@@ -632,7 +632,7 @@
       "name": "执政官之甲",
       "name_en": "Archon Plate",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/953352ebf95a8a4b.gif",
       "attributes": {
         "防御值": "410-524",
         "需要力量": "103",
@@ -648,7 +648,7 @@
       "name": "海妖壳甲",
       "name_en": "Kraken Shell",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/175dc5c5174c6d3e.gif",
       "attributes": {
         "防御值": "417-523",
         "需要力量": "174",
@@ -664,7 +664,7 @@
       "name": "地狱锻甲",
       "name_en": "Hellforge Plate",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/4d75ec67e02315a3.gif",
       "attributes": {
         "防御值": "421-530",
         "需要力量": "196",
@@ -680,7 +680,7 @@
       "name": "漆甲",
       "name_en": "Lacquered Plate",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+      "image": "/api/image/28aec6dc00f28822.gif",
       "attributes": {
         "防御值": "433-451",
         "需要力量": "208",
@@ -696,7 +696,7 @@
       "name": "阴影铠甲",
       "name_en": "Shadow Plate",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+      "image": "/api/image/18e52c6e01c21536.gif",
       "attributes": {
         "防御值": "446-557",
         "需要力量": "230",
@@ -712,7 +712,7 @@
       "name": "神圣铠甲",
       "name_en": "Sacred Armor",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+      "image": "/api/image/cb25e874ec931348.gif",
       "attributes": {
         "防御值": "487-600",
         "需要力量": "232",

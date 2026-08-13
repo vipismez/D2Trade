@@ -8,7 +8,7 @@
       "name": "短弓",
       "name_en": "Short Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+      "image": "/api/image/81d0ce5b77aa9984.gif",
       "attributes": {
         "双手伤害": "1-4",
         "武器基础攻速": "[5]",
@@ -24,7 +24,7 @@
       "name": "猎弓",
       "name_en": "Hunter's Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+      "image": "/api/image/d741af04de952bfa.gif",
       "attributes": {
         "双手伤害": "2-6",
         "武器基础攻速": "[-10]",
@@ -40,7 +40,7 @@
       "name": "长弓",
       "name_en": "Long Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+      "image": "/api/image/699998229546ffed.gif",
       "attributes": {
         "双手伤害": "3-10",
         "武器基础攻速": "[0]",
@@ -56,7 +56,7 @@
       "name": "组合弓",
       "name_en": "Composite Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+      "image": "/api/image/ca6112493a19685c.gif",
       "attributes": {
         "双手伤害": "4-8",
         "武器基础攻速": "[-10]",
@@ -72,7 +72,7 @@
       "name": "短战斗弓",
       "name_en": "Short Battle Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+      "image": "/api/image/85aec98198b528cb.gif",
       "attributes": {
         "双手伤害": "5-11",
         "武器基础攻速": "[0]",
@@ -88,7 +88,7 @@
       "name": "长战斗弓",
       "name_en": "Long Battle Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+      "image": "/api/image/8850e31d2cb53297.gif",
       "attributes": {
         "双手伤害": "3-18",
         "武器基础攻速": "[10]",
@@ -104,7 +104,7 @@
       "name": "短巨战弓",
       "name_en": "Short War Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+      "image": "/api/image/af44c5acf87316f1.gif",
       "attributes": {
         "双手伤害": "6-14",
         "武器基础攻速": "[0]",
@@ -120,7 +120,7 @@
       "name": "长巨战弓",
       "name_en": "Long War Bow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+      "image": "/api/image/05ee9ec6133e7135.gif",
       "attributes": {
         "双手伤害": "3-23",
         "武器基础攻速": "[10]",
@@ -136,7 +136,7 @@
       "name": "锋锐之弓",
       "name_en": "Edge Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+      "image": "/api/image/81d0ce5b77aa9984.gif",
       "attributes": {
         "双手伤害": "6-19",
         "武器基础攻速": "[5]",
@@ -154,7 +154,7 @@
       "name": "剃刀之弓",
       "name_en": "Razor Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+      "image": "/api/image/d741af04de952bfa.gif",
       "attributes": {
         "双手伤害": "8-22",
         "武器基础攻速": "[-10]",
@@ -171,7 +171,7 @@
       "name": "杉木弓",
       "name_en": "Cedar Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+      "image": "/api/image/699998229546ffed.gif",
       "attributes": {
         "双手伤害": "10-29",
         "武器基础攻速": "[0]",
@@ -188,7 +188,7 @@
       "name": "双弓",
       "name_en": "Double Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+      "image": "/api/image/ca6112493a19685c.gif",
       "attributes": {
         "双手伤害": "11-26",
         "武器基础攻速": "[-10]",
@@ -205,7 +205,7 @@
       "name": "短攻城弓",
       "name_en": "Short Siege Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+      "image": "/api/image/85aec98198b528cb.gif",
       "attributes": {
         "双手伤害": "13-30",
         "武器基础攻速": "[0]",
@@ -222,7 +222,7 @@
       "name": "长攻城弓",
       "name_en": "Large Siege Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+      "image": "/api/image/8850e31d2cb53297.gif",
       "attributes": {
         "双手伤害": "10-42",
         "武器基础攻速": "[10]",
@@ -239,7 +239,7 @@
       "name": "符文之弓",
       "name_en": "Rune Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+      "image": "/api/image/af44c5acf87316f1.gif",
       "attributes": {
         "双手伤害": "14-35",
         "武器基础攻速": "[0]",
@@ -256,7 +256,7 @@
       "name": "歌德弓",
       "name_en": "Gothic Bow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+      "image": "/api/image/05ee9ec6133e7135.gif",
       "attributes": {
         "双手伤害": "10-50",
         "武器基础攻速": "[10]",
@@ -273,7 +273,7 @@
       "name": "蜘蛛弓",
       "name_en": "Spider Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+      "image": "/api/image/81d0ce5b77aa9984.gif",
       "attributes": {
         "双手伤害": "23-50",
         "武器基础攻速": "[5]",
@@ -290,7 +290,7 @@
       "name": "刀锋弓",
       "name_en": "Blade Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+      "image": "/api/image/d741af04de952bfa.gif",
       "attributes": {
         "双手伤害": "21-41",
         "武器基础攻速": "[-10]",
@@ -307,7 +307,7 @@
       "name": "阴影弓",
       "name_en": "Shadow Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+      "image": "/api/image/699998229546ffed.gif",
       "attributes": {
         "双手伤害": "15-59",
         "武器基础攻速": "[0]",
@@ -324,7 +324,7 @@
       "name": "巨弓",
       "name_en": "Great Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+      "image": "/api/image/ca6112493a19685c.gif",
       "attributes": {
         "双手伤害": "12-52",
         "武器基础攻速": "[-10]",
@@ -341,7 +341,7 @@
       "name": "钻石弓",
       "name_en": "Diamond Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+      "image": "/api/image/85aec98198b528cb.gif",
       "attributes": {
         "双手伤害": "33-40",
         "武器基础攻速": "[0]",
@@ -358,7 +358,7 @@
       "name": "十字军之弓",
       "name_en": "Crusader Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+      "image": "/api/image/8850e31d2cb53297.gif",
       "attributes": {
         "双手伤害": "15-63",
         "武器基础攻速": "[10]",
@@ -375,7 +375,7 @@
       "name": "庇护之弓",
       "name_en": "Ward Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+      "image": "/api/image/af44c5acf87316f1.gif",
       "attributes": {
         "双手伤害": "20-53",
         "武器基础攻速": "[0]",
@@ -392,7 +392,7 @@
       "name": "九头蛇弓",
       "name_en": "Hydra Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+      "image": "/api/image/05ee9ec6133e7135.gif",
       "attributes": {
         "双手伤害": "10-68",
         "武器基础攻速": "[10]",

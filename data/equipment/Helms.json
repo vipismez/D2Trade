@@ -8,7 +8,7 @@
       "name": "帽子",
       "name_en": "Cap",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+      "image": "/api/image/60b8a9fded44e62b.gif",
       "attributes": {
         "防御值": "3-5",
         "需要力量": "-",
@@ -23,7 +23,7 @@
       "name": "骷髅帽",
       "name_en": "Skull Cap",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+      "image": "/api/image/54c7eabbbb18afe9.gif",
       "attributes": {
         "防御值": "8-11",
         "需要力量": "15",
@@ -38,7 +38,7 @@
       "name": "头盔",
       "name_en": "Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+      "image": "/api/image/429d00d35de8ed0f.gif",
       "attributes": {
         "防御值": "15-18",
         "需要力量": "26",
@@ -53,7 +53,7 @@
       "name": "高级头盔",
       "name_en": "Full Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/0277b4cfa78d6b14.gif",
       "attributes": {
         "防御值": "23-26",
         "需要力量": "41",
@@ -68,7 +68,7 @@
       "name": "卓越头盔",
       "name_en": "Great Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/1769a31bc940d049.gif",
       "attributes": {
         "防御值": "30-35",
         "需要力量": "63",
@@ -83,7 +83,7 @@
       "name": "面具",
       "name_en": "Mask",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+      "image": "/api/image/7e9cbe0572e4e5de.gif",
       "attributes": {
         "防御值": "9-27",
         "需要力量": "23",
@@ -98,7 +98,7 @@
       "name": "皇冠",
       "name_en": "Crown",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+      "image": "/api/image/d456c9387ed79900.gif",
       "attributes": {
         "防御值": "25-45",
         "需要力量": "55",
@@ -113,7 +113,7 @@
       "name": "白骨头盔",
       "name_en": "Bone Helm",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/50d7a9e94eb37df4.gif",
       "attributes": {
         "防御值": "33-36",
         "需要力量": "25",
@@ -128,7 +128,7 @@
       "name": "战帽",
       "name_en": "War Hat",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+      "image": "/api/image/60b8a9fded44e62b.gif",
       "attributes": {
         "防御值": "45-53",
         "需要力量": "20",
@@ -143,7 +143,7 @@
       "name": "轻便头盔",
       "name_en": "Sallet",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+      "image": "/api/image/54c7eabbbb18afe9.gif",
       "attributes": {
         "防御值": "52-62",
         "需要力量": "43",
@@ -158,7 +158,7 @@
       "name": "无颊头盔",
       "name_en": "Casque",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+      "image": "/api/image/429d00d35de8ed0f.gif",
       "attributes": {
         "防御值": "63-72",
         "需要力量": "59",
@@ -173,7 +173,7 @@
       "name": "轻钢盔",
       "name_en": "Basinet",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/0277b4cfa78d6b14.gif",
       "attributes": {
         "防御值": "75-84",
         "需要力量": "82",
@@ -188,7 +188,7 @@
       "name": "翼盔",
       "name_en": "Winged Helm",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/1769a31bc940d049.gif",
       "attributes": {
         "防御值": "85-98",
         "需要力量": "115",
@@ -203,7 +203,7 @@
       "name": "死亡面具",
       "name_en": "Death Mask",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+      "image": "/api/image/7e9cbe0572e4e5de.gif",
       "attributes": {
         "防御值": "54-86",
         "需要力量": "55",
@@ -218,7 +218,7 @@
       "name": "巨皇冠",
       "name_en": "Grand Crown",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+      "image": "/api/image/d456c9387ed79900.gif",
       "attributes": {
         "防御值": "78-113",
         "需要力量": "103",
@@ -233,7 +233,7 @@
       "name": "残酷头盔",
       "name_en": "Grim Helm",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/50d7a9e94eb37df4.gif",
       "attributes": {
         "防御值": "60-125",
         "需要力量": "58",
@@ -248,7 +248,7 @@
       "name": "军帽",
       "name_en": "Shako",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+      "image": "/api/image/60b8a9fded44e62b.gif",
       "attributes": {
         "防御值": "98-141",
         "需要力量": "50",
@@ -263,7 +263,7 @@
       "name": "九头蛇头盖骨圆帽",
       "name_en": "Hydraskull",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+      "image": "/api/image/54c7eabbbb18afe9.gif",
       "attributes": {
         "防御值": "101-145",
         "需要力量": "84",
@@ -278,7 +278,7 @@
       "name": "活动头盔",
       "name_en": "Armet",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+      "image": "/api/image/429d00d35de8ed0f.gif",
       "attributes": {
         "防御值": "105-149",
         "需要力量": "109",
@@ -293,7 +293,7 @@
       "name": "巨贝头盔",
       "name_en": "Giant Couch",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/0277b4cfa78d6b14.gif",
       "attributes": {
         "防御值": "110-154",
         "需要力量": "142",
@@ -308,7 +308,7 @@
       "name": "螺旋头盔",
       "name_en": "Spired Helm",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/1769a31bc940d049.gif",
       "attributes": {
         "防御值": "114-159",
         "需要力量": "192",
@@ -323,7 +323,7 @@
       "name": "恶魔头盖骨面具",
       "name_en": "Demonhead",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+      "image": "/api/image/7e9cbe0572e4e5de.gif",
       "attributes": {
         "防御值": "101-154",
         "需要力量": "102",
@@ -338,7 +338,7 @@
       "name": "头冠",
       "name_en": "Corona",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+      "image": "/api/image/d456c9387ed79900.gif",
       "attributes": {
         "防御值": "111-165",
         "需要力量": "174",
@@ -353,7 +353,7 @@
       "name": "骸骨面罩",
       "name_en": "Bone Visage",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+      "image": "/api/image/50d7a9e94eb37df4.gif",
       "attributes": {
         "防御值": "100-157",
         "需要力量": "106",

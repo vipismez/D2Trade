@@ -8,7 +8,7 @@
       "name": "轻十字弓",
       "name_en": "Light Crossbow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/2d594a5d0e100a76.gif",
       "attributes": {
         "单手伤害值": "6-9 (7.5)",
         "攻击距离": "-",
@@ -26,7 +26,7 @@
       "name": "十字弓",
       "name_en": "Crossbow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/6b92fc6ce34a8c5e.gif",
       "attributes": {
         "单手伤害值": "6-16 (12.5)",
         "攻击距离": "-",
@@ -44,7 +44,7 @@
       "name": "重十字弓",
       "name_en": "Heavy Crossbow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/4b5edad47a5fff8d.gif",
       "attributes": {
         "单手伤害值": "14-26 (20)",
         "攻击距离": "-",
@@ -62,7 +62,7 @@
       "name": "连射十字弓",
       "name_en": "Repeating Crossbow",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/f35009f813900dce.gif",
       "attributes": {
         "单手伤害值": "6-12 (9)",
         "攻击距离": "-",
@@ -80,7 +80,7 @@
       "name": "石弓",
       "name_en": "Arbalest",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/2d594a5d0e100a76.gif",
       "attributes": {
         "单手伤害值": "14-27 (20.5)",
         "攻击距离": "-",
@@ -98,7 +98,7 @@
       "name": "攻城十字弓",
       "name_en": "Siege Crossbow",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/6b92fc6ce34a8c5e.gif",
       "attributes": {
         "单手伤害值": "6-16 (12.5)",
         "攻击距离": "-",
@@ -116,7 +116,7 @@
       "name": "弩弓",
       "name_en": "Ballista",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/4b5edad47a5fff8d.gif",
       "attributes": {
         "单手伤害值": "33-55 (44)",
         "攻击距离": "-",
@@ -134,7 +134,7 @@
       "name": "巧工弩",
       "name_en": "Chu-Ko-Nu",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/f35009f813900dce.gif",
       "attributes": {
         "单手伤害值": "14-32 (23)",
         "攻击距离": "-",
@@ -152,7 +152,7 @@
       "name": "弹丸弓",
       "name_en": "Pellet Bow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/2d594a5d0e100a76.gif",
       "attributes": {
         "单手伤害值": "28-73 (50.5)",
         "攻击距离": "-",
@@ -170,7 +170,7 @@
       "name": "蛇魔女十字弓",
       "name_en": "Gorgon Crossbow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/6b92fc6ce34a8c5e.gif",
       "attributes": {
         "单手伤害值": "25-87 (56)",
         "攻击距离": "-",
@@ -188,7 +188,7 @@
       "name": "巨神十字弓",
       "name_en": "Colossus Crossbow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/4b5edad47a5fff8d.gif",
       "attributes": {
         "单手伤害值": "32-91 (61.5)",
         "攻击距离": "-",
@@ -206,7 +206,7 @@
       "name": "恶魔十字弓",
       "name_en": "Demon Crossbow",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+      "image": "/api/image/f35009f813900dce.gif",
       "attributes": {
         "单手伤害值": "26-40 (33)",
         "攻击距离": "-",

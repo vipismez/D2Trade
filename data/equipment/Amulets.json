@@ -8,7 +8,7 @@
       "name": "诺科蓝遗物",
       "name_en": "Nokozan Relic",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "10"
       },
@@ -19,7 +19,7 @@
       "name": "艾利屈之眼",
       "name_en": "The Eye of Etlich",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "15"
       },
@@ -30,7 +30,7 @@
       "name": "玛哈姆橡木古董",
       "name_en": "The Mahim-Oak Curio",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "image": "/api/image/abda88e2f86510ca.gif",
       "attributes": {
         "需求等级": "25"
       },
@@ -41,7 +41,7 @@
       "name": "萨拉森的机会",
       "name_en": "Saracen's Chance",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "image": "/api/image/d6803e3b29b4e0fe.gif",
       "attributes": {
         "需求等级": "47"
       },
@@ -52,7 +52,7 @@
       "name": "猫眼",
       "name_en": "The Cat's Eye",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "50"
       },
@@ -63,7 +63,7 @@
       "name": "新月",
       "name_en": "Crescent Moon",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "image": "/api/image/abda88e2f86510ca.gif",
       "attributes": {
         "需求等级": "50"
       },
@@ -74,7 +74,7 @@
       "name": "亚特玛的圣甲虫",
       "name_en": "Atma's Scarab",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "60"
       },
@@ -85,7 +85,7 @@
       "name": "旭日东升",
       "name_en": "The Rising Sun",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "image": "/api/image/abda88e2f86510ca.gif",
       "attributes": {
         "需求等级": "65"
       },
@@ -96,7 +96,7 @@
       "name": "马拉的万花筒",
       "name_en": "Mara's Kaleidoscope",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "image": "/api/image/d6803e3b29b4e0fe.gif",
       "attributes": {
         "需求等级": "67"
       },
@@ -107,7 +107,7 @@
       "name": "大君之怒",
       "name_en": "Highlord's Wrath",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "image": "/api/image/abda88e2f86510ca.gif",
       "attributes": {
         "需求等级": "65"
       },
@@ -118,7 +118,7 @@
       "name": "炙天使之韵",
       "name_en": "Seraph's Hymn",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "65"
       },
@@ -129,7 +129,7 @@
       "name": "金属网格",
       "name_en": "Metalgrid",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "81"
       },
@@ -140,7 +140,7 @@
       "name": "天使之翼",
       "name_en": "Angelic Wings",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "12"
       },
@@ -151,7 +151,7 @@
       "name": "阿卡娜的符号",
       "name_en": "Arcanna's Sign",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "15"
       },
@@ -162,7 +162,7 @@
       "name": "卡珊的魔咒",
       "name_en": "Cathan's Sigil",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "image": "/api/image/d6803e3b29b4e0fe.gif",
       "attributes": {
         "需求等级": "11"
       },
@@ -173,7 +173,7 @@
       "name": "希弗柏的图案",
       "name_en": "Civerb's Icon",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "9"
       },
@@ -184,7 +184,7 @@
       "name": "依雷撒的项圈",
       "name_en": "Iratha's Collar",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "image": "/api/image/d6803e3b29b4e0fe.gif",
       "attributes": {
         "需求等级": "15"
       },
@@ -195,7 +195,7 @@
       "name": "坦克雷的怪诞",
       "name_en": "Tancred's Weird",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "image": "/api/image/abda88e2f86510ca.gif",
       "attributes": {
         "需求等级": "20"
       },
@@ -206,7 +206,7 @@
       "name": "维达拉的陷阱",
       "name_en": "Vidala's Snare",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "14"
       },
@@ -217,7 +217,7 @@
       "name": "述说之珠",
       "name_en": "Telling of Beads",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "image": "/api/image/85934f3ae3cdaa00.gif",
       "attributes": {
         "需求等级": "30"
       },
@@ -228,7 +228,7 @@
       "name": "塔拉夏的判决",
       "name_en": "Tal Rasha's Adjudication",
       "tier": null,
-      "image": "https://wiki.d.163.com/images/1/1b/%E5%A1%94%E6%8B%89%E5%A4%8F%E7%9A%84%E5%88%A4%E5%86%B3.gif",
+      "image": "/api/image/99672c0a5c5c66a7.gif",
       "attributes": {
         "要求级别": "67"
       },

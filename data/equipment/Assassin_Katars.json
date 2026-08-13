@@ -8,7 +8,7 @@
       "name": "拳剑",
       "name_en": "Katar",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/2/24/Katar%28Diablo_II%29.gif",
+      "image": "/api/image/411f66aa313e6820.gif",
       "attributes": {
         "单手伤害": "4-7(5.5)",
         "攻击距离": "2",
@@ -26,7 +26,7 @@
       "name": "腕刀",
       "name_en": "Wrist Blade",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/14/Wrist_Blade%28Diablo_II%29.gif",
+      "image": "/api/image/49f6a3f25b8a0207.gif",
       "attributes": {
         "单手伤害": "5-9(7)",
         "攻击距离": "2",
@@ -44,7 +44,7 @@
       "name": "斧手",
       "name_en": "Hatchet Hands",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/d/d9/Hatcher_Hands%28Diablo_II%29.gif",
+      "image": "/api/image/fb817a74eaba7dc4.gif",
       "attributes": {
         "单手伤害": "2-15(8.5)",
         "攻击距离": "2",
@@ -62,7 +62,7 @@
       "name": "腰刀",
       "name_en": "Cestus",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/bf/Cestus%28Diablo_II%29.gif",
+      "image": "/api/image/3269eef82ed55d4a.gif",
       "attributes": {
         "单手伤害": "7-15(11)",
         "攻击距离": "2",
@@ -80,7 +80,7 @@
       "name": "爪",
       "name_en": "Claws",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/89/Claws%28Diablo_II%29.gif",
+      "image": "/api/image/4c7172a6c3bfc05c.gif",
       "attributes": {
         "单手伤害": "8-15(11.5)",
         "攻击距离": "2",
@@ -98,7 +98,7 @@
       "name": "刃爪",
       "name_en": "Blade Talons",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/0/05/Blade_Talons%28Diablo_II%29.gif",
+      "image": "/api/image/a92c7f84c43de92c.gif",
       "attributes": {
         "单手伤害": "10-14(12)",
         "攻击距离": "2",
@@ -116,7 +116,7 @@
       "name": "剪咬刃",
       "name_en": "Scissor Katar",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/8a/Scissor_Katar%28Diablo_II%29.gif",
+      "image": "/api/image/579b63360eb04937.gif",
       "attributes": {
         "单手伤害": "9-17(13)",
         "攻击距离": "2",
@@ -134,7 +134,7 @@
       "name": "格斗刃",
       "name_en": "Quhab",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/2/24/Katar%28Diablo_II%29.gif",
+      "image": "/api/image/411f66aa313e6820.gif",
       "attributes": {
         "单手伤害": "11-24(17.5)",
         "攻击距离": "2",
@@ -152,7 +152,7 @@
       "name": "腕刺",
       "name_en": "Wrist Spike",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/14/Wrist_Blade%28Diablo_II%29.gif",
+      "image": "/api/image/49f6a3f25b8a0207.gif",
       "attributes": {
         "单手伤害": "13-27(20)",
         "攻击距离": "2",
@@ -170,7 +170,7 @@
       "name": "格斗爪",
       "name_en": "Fascia",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/d/d9/Hatcher_Hands%28Diablo_II%29.gif",
+      "image": "/api/image/fb817a74eaba7dc4.gif",
       "attributes": {
         "单手伤害": "8-37(22.5)",
         "攻击距离": "2",
@@ -188,7 +188,7 @@
       "name": "手镰",
       "name_en": "Hand Scythe",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/bf/Cestus%28Diablo_II%29.gif",
+      "image": "/api/image/3269eef82ed55d4a.gif",
       "attributes": {
         "单手伤害": "16-37(26.5)",
         "攻击距离": "2",
@@ -206,7 +206,7 @@
       "name": "巨爪",
       "name_en": "Greater Claws",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/89/Claws%28Diablo_II%29.gif",
+      "image": "/api/image/4c7172a6c3bfc05c.gif",
       "attributes": {
         "单手伤害": "18-37(27.5)",
         "攻击距离": "2",
@@ -224,7 +224,7 @@
       "name": "巨鹰爪",
       "name_en": "Greater Talons",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/0/05/Blade_Talons%28Diablo_II%29.gif",
+      "image": "/api/image/a92c7f84c43de92c.gif",
       "attributes": {
         "单手伤害": "21-35(28)",
         "攻击距离": "2",
@@ -242,7 +242,7 @@
       "name": "格斗剪",
       "name_en": "Scissors Quhab",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/8a/Scissor_Katar%28Diablo_II%29.gif",
+      "image": "/api/image/579b63360eb04937.gif",
       "attributes": {
         "单手伤害": "19-40(29.5)",
         "攻击距离": "2",
@@ -260,7 +260,7 @@
       "name": "近身刃",
       "name_en": "Suwayyah",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/2/24/Katar%28Diablo_II%29.gif",
+      "image": "/api/image/411f66aa313e6820.gif",
       "attributes": {
         "单手伤害": "39-52(45.5)",
         "攻击距离": "2",
@@ -278,7 +278,7 @@
       "name": "腕剑",
       "name_en": "Wrist Sword",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/14/Wrist_Blade%28Diablo_II%29.gif",
+      "image": "/api/image/49f6a3f25b8a0207.gif",
       "attributes": {
         "单手伤害": "34-45(39.5)",
         "攻击距离": "2",
@@ -296,7 +296,7 @@
       "name": "战拳",
       "name_en": "War Fist",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/d/d9/Hatcher_Hands%28Diablo_II%29.gif",
+      "image": "/api/image/fb817a74eaba7dc4.gif",
       "attributes": {
         "单手伤害": "44-53(48.5)",
         "攻击距离": "2",
@@ -314,7 +314,7 @@
       "name": "斗腰刀",
       "name_en": "Battle Cestus",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/bf/Cestus%28Diablo_II%29.gif",
+      "image": "/api/image/3269eef82ed55d4a.gif",
       "attributes": {
         "单手伤害": "36-42(39)",
         "攻击距离": "2",
@@ -332,7 +332,7 @@
       "name": "猛禽爪",
       "name_en": "Freal Claws",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/89/Claws%28Diablo_II%29.gif",
+      "image": "/api/image/4c7172a6c3bfc05c.gif",
       "attributes": {
         "单手伤害": "22-53(37.5)",
         "攻击距离": "2",
@@ -350,7 +350,7 @@
       "name": "符文爪",
       "name_en": "Runic Talons",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/0/05/Blade_Talons%28Diablo_II%29.gif",
+      "image": "/api/image/a92c7f84c43de92c.gif",
       "attributes": {
         "单手伤害": "24-44(34)",
         "攻击距离": "2",
@@ -368,7 +368,7 @@
       "name": "近身剪",
       "name_en": "Scissor Suwayyah",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/8a/Scissor_Katar%28Diablo_II%29.gif",
+      "image": "/api/image/579b63360eb04937.gif",
       "attributes": {
         "单手伤害": "40-51(45.5)",
         "攻击距离": "2",

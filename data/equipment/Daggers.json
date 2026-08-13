@@ -8,7 +8,7 @@
       "name": "匕首",
       "name_en": "Dagger",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+      "image": "/api/image/70eb4a962e95430e.gif",
       "attributes": {
         "单手伤害": "1-4",
         "攻击范围": "1",
@@ -27,7 +27,7 @@
       "name": "长匕首",
       "name_en": "Dirk",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+      "image": "/api/image/1cf2946aa3ea2454.gif",
       "attributes": {
         "单手伤害": "3-9",
         "攻击范围": "1",
@@ -46,7 +46,7 @@
       "name": "波形刃",
       "name_en": "Kris",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+      "image": "/api/image/00ef32b2486d6c8e.jpg",
       "attributes": {
         "单手伤害": "2-11",
         "攻击范围": "1",
@@ -65,7 +65,7 @@
       "name": "短刀",
       "name_en": "Blade",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+      "image": "/api/image/5cef3fbbdf937c8b.gif",
       "attributes": {
         "单手伤害": "4-15",
         "攻击范围": "1",
@@ -84,7 +84,7 @@
       "name": "锐匕",
       "name_en": "Poignard",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+      "image": "/api/image/70eb4a962e95430e.gif",
       "attributes": {
         "单手伤害": "6-18",
         "攻击范围": "1",
@@ -103,7 +103,7 @@
       "name": "诗歌匕首",
       "name_en": "Rondel",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+      "image": "/api/image/1cf2946aa3ea2454.gif",
       "attributes": {
         "单手伤害": "10-26",
         "攻击范围": "1",
@@ -122,7 +122,7 @@
       "name": "强波刃",
       "name_en": "Cinquedeas",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+      "image": "/api/image/00ef32b2486d6c8e.jpg",
       "attributes": {
         "单手伤害": "15-31",
         "攻击范围": "1",
@@ -141,7 +141,7 @@
       "name": "小剑",
       "name_en": "Stiletto",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+      "image": "/api/image/5cef3fbbdf937c8b.gif",
       "attributes": {
         "单手伤害": "19-36",
         "攻击范围": "1",
@@ -160,7 +160,7 @@
       "name": "骸骨小刀",
       "name_en": "Bone Knife",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+      "image": "/api/image/70eb4a962e95430e.gif",
       "attributes": {
         "单手伤害": "23-49",
         "攻击范围": "1",
@@ -179,7 +179,7 @@
       "name": "秘银小刀",
       "name_en": "Mithril Point",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+      "image": "/api/image/1cf2946aa3ea2454.gif",
       "attributes": {
         "单手伤害": "37-53",
         "攻击范围": "1",
@@ -198,7 +198,7 @@
       "name": "齿缘小刀",
       "name_en": "Fanged Knife",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+      "image": "/api/image/00ef32b2486d6c8e.jpg",
       "attributes": {
         "单手伤害": "15-57",
         "攻击范围": "1",
@@ -217,7 +217,7 @@
       "name": "传说尖刺",
       "name_en": "Legend Spike",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+      "image": "/api/image/5cef3fbbdf937c8b.gif",
       "attributes": {
         "单手伤害": "31-47",
         "攻击范围": "1",

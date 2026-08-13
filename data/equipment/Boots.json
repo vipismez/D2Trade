@@ -8,7 +8,7 @@
       "name": "皮靴",
       "name_en": "Boots",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/5/56/Boots%28Diablo_II%29.gif",
+      "image": "/api/image/477c1d22e0d08c9b.gif",
       "attributes": {
         "防御值": "2-3",
         "需要力量": "-",
@@ -23,7 +23,7 @@
       "name": "重靴",
       "name_en": "Heavy Boots",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/9/98/Heavy_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/c414fe7bc0526880.gif",
       "attributes": {
         "防御值": "5-6",
         "需要力量": "18",
@@ -38,7 +38,7 @@
       "name": "锁链靴",
       "name_en": "Chain Boots",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/8/86/Chain_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/ef4d88470040a7f0.gif",
       "attributes": {
         "防御值": "8-9",
         "需要力量": "30",
@@ -53,7 +53,7 @@
       "name": "轻型金属靴",
       "name_en": "Lingt Plated Boots",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/3/31/Lingt_Plated_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/c92d8225206ca3fc.gif",
       "attributes": {
         "防御值": "9-11",
         "需要力量": "50",
@@ -68,7 +68,7 @@
       "name": "护胫",
       "name_en": "Greaves",
       "tier": "普通",
-      "image": "https://wiki.d.163.com/images/4/44/Greaves%28Diablo_II%29.gif",
+      "image": "/api/image/3379ab0f3c3c5724.gif",
       "attributes": {
         "防御值": "12-15",
         "需要力量": "70",
@@ -83,7 +83,7 @@
       "name": "魔皮靴",
       "name_en": "Demonhide Boots",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/5/56/Boots%28Diablo_II%29.gif",
+      "image": "/api/image/477c1d22e0d08c9b.gif",
       "attributes": {
         "防御值": "28-35",
         "需要力量": "20",
@@ -98,7 +98,7 @@
       "name": "鲨皮之靴",
       "name_en": "Sharkskin Boots",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/9/98/Heavy_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/c414fe7bc0526880.gif",
       "attributes": {
         "防御值": "33-39",
         "需要力量": "47",
@@ -113,7 +113,7 @@
       "name": "织网之靴",
       "name_en": "Mesh Boots",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/8/86/Chain_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/ef4d88470040a7f0.gif",
       "attributes": {
         "防御值": "37-44",
         "需要力量": "65",
@@ -128,7 +128,7 @@
       "name": "战场之靴",
       "name_en": "Battle Boots",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/3/31/Lingt_Plated_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/c92d8225206ca3fc.gif",
       "attributes": {
         "防御值": "39-47",
         "需要力量": "95",
@@ -143,7 +143,7 @@
       "name": "巨战之靴",
       "name_en": "War Boots",
       "tier": "扩展",
-      "image": "https://wiki.d.163.com/images/4/44/Greaves%28Diablo_II%29.gif",
+      "image": "/api/image/3379ab0f3c3c5724.gif",
       "attributes": {
         "防御值": "43-53",
         "需要力量": "125",
@@ -158,7 +158,7 @@
       "name": "飞龙皮靴",
       "name_en": "Wyrmhide Boots",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/5/56/Boots%28Diablo_II%29.gif",
+      "image": "/api/image/477c1d22e0d08c9b.gif",
       "attributes": {
         "防御值": "54-62",
         "需要力量": "50",
@@ -173,7 +173,7 @@
       "name": "圣甲壳虫靴",
       "name_en": "Scarabshell Boots",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/9/98/Heavy_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/c414fe7bc0526880.gif",
       "attributes": {
         "防御值": "56-65",
         "需要力量": "91",
@@ -188,7 +188,7 @@
       "name": "骸骨靴",
       "name_en": "Boneweave Boots",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/8/86/Chain_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/ef4d88470040a7f0.gif",
       "attributes": {
         "防御值": "59-67",
         "需要力量": "118",
@@ -203,7 +203,7 @@
       "name": "镜化靴",
       "name_en": "Mirrored Boots",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/3/31/Lingt_Plated_Boots%28Diablo_II%29.gif",
+      "image": "/api/image/c92d8225206ca3fc.gif",
       "attributes": {
         "防御值": "59-68",
         "需要力量": "163",
@@ -218,7 +218,7 @@
       "name": "急速靴",
       "name_en": "Mymidon Greavres",
       "tier": "精华",
-      "image": "https://wiki.d.163.com/images/4/44/Greaves%28Diablo_II%29.gif",
+      "image": "/api/image/3379ab0f3c3c5724.gif",
       "attributes": {
         "防御值": "62-71",
         "需要力量": "208",
