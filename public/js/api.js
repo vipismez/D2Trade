@@ -80,10 +80,10 @@ const API = {
   rollback(txId, reason) {
     return this.post('/api/admin/transactions/rollback', { transaction_id: txId, reason })
   },
-  grantPoints(userId, amount, note) {
-    return this.post('/api/admin/grant', { user_id: userId, amount, note })
+  grantPoints(username, amount, note) {
+    return this.post('/api/admin/grant', { username, amount, note })
   },
-  buyback(userId, itemName, amount, note) {
-    return this.post('/api/admin/buyback', { user_id: userId, item_name: itemName, amount, note })
+  buyback(username, itemName, amount, note) {
+    return this.post('/api/admin/buyback', { username, item_name: itemName, amount, note })
   },
 }

@@ -1,10 +1,11 @@
 /**
  * POST /api/admin/grant — GM 发放积分
- * Body: { user_id: number, amount: number, note?: string }
+ * Body: { username: string, amount: number, note?: string }
  */
 
 import { requireAuth, requireGM } from '../../_lib/auth-middleware'
 import { createDB } from '../../_lib/db-client'
+import { UserDB } from '../../_lib/db-users'
 import { TradeService } from '../../_lib/trade'
 
 export async function onRequestPost(context: EventContext<Env, string, unknown>): Promise<Response> {
@@ -14,12 +15,12 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
   const gmCheck = requireGM(auth)
   if (gmCheck) return gmCheck
 
-  const body: { user_id?: number; amount?: number; note?: string } = await context.request
+  const body: { username?: string; amount?: number; note?: string } = await context.request
     .json()
     .catch(() => ({}))
-  if (!body.user_id || !body.amount) {
+  if (!body.username || !body.amount) {
     return Response.json(
-      { success: false, error: '请指定用户 ID 和积分数量' },
+      { success: false, error: '请指定用户名和积分数量' },
       { status: 400 },
     )
   }
@@ -28,9 +29,16 @@ export async function onRequestPost(context: EventContext<Env, string, unknown>)
   }
 
   const db = createDB(context.env)
-  const tradeService = new TradeService(db)
+  const usersDB = new UserDB(db)
 
-  const result = await tradeService.grantPoints(body.user_id, auth.sub, body.amount, body.note)
+  // 按用户名查找玩家
+  const user = await usersDB.getByUsername(body.username.trim())
+  if (!user) {
+    return Response.json({ success: false, error: '玩家不存在' }, { status: 404 })
+  }
+
+  const tradeService = new TradeService(db)
+  const result = await tradeService.grantPoints(user.id, auth.sub, body.amount, body.note)
 
   if (!result.success) {
     return Response.json({ success: false, error: result.error }, { status: 400 })

@@ -29,8 +29,8 @@ const AdminPage = {
           <h3 style="color:var(--d2-gold);margin-bottom:0.75rem;">发放积分</h3>
           <form id="grant-form" class="d2-admin-form">
             <div class="d2-form-group">
-              <label class="d2-label">玩家 ID</label>
-              <input class="d2-input" name="user_id" type="number" min="1" required />
+              <label class="d2-label">玩家用户名</label>
+              <input class="d2-input" name="username" required />
             </div>
             <div class="d2-form-group">
               <label class="d2-label">积分数量</label>
@@ -50,8 +50,8 @@ const AdminPage = {
           <h3 style="color:var(--d2-gold);margin-bottom:0.75rem;">回收装备</h3>
           <form id="buyback-form" class="d2-admin-form">
             <div class="d2-form-group">
-              <label class="d2-label">玩家 ID</label>
-              <input class="d2-input" name="user_id" type="number" min="1" required />
+              <label class="d2-label">玩家用户名</label>
+              <input class="d2-input" name="username" required />
             </div>
             <div class="d2-form-group">
               <label class="d2-label">装备名称</label>
@@ -106,7 +106,7 @@ const AdminPage = {
       e.preventDefault()
       const fd = new FormData(e.target)
       const res = await API.grantPoints(
-        parseInt(fd.get('user_id')),
+        fd.get('username').trim(),
         parseInt(fd.get('amount')),
         fd.get('note'),
       )
@@ -118,7 +118,7 @@ const AdminPage = {
       e.preventDefault()
       const fd = new FormData(e.target)
       const res = await API.buyback(
-        parseInt(fd.get('user_id')),
+        fd.get('username').trim(),
         fd.get('item_name'),
         parseInt(fd.get('amount')),
         fd.get('note'),
