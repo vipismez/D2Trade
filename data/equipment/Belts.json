@@ -1,0 +1,233 @@
+{
+  "category": "防具",
+  "type": "腰带",
+  "type_en": "Belts",
+  "source": "https://wiki.d.163.com/index.php?title=Belts_(Diablo2)",
+  "items": [
+    {
+      "name": "饰带",
+      "name_en": "Sash",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/f8/Sash%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "2",
+        "需要力量": "-",
+        "耐久度": "12",
+        "格数": "8",
+        "品质等级需要等级": "3"
+      },
+      "set_item": null,
+      "unique_item": "雷尼摩"
+    },
+    {
+      "name": "轻扣带",
+      "name_en": "Light Belt",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/a1/Light_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "3",
+        "需要力量": "-",
+        "耐久度": "14",
+        "格数": "8",
+        "品质等级需要等级": "7"
+      },
+      "set_item": null,
+      "unique_item": "蛇索"
+    },
+    {
+      "name": "扣带",
+      "name_en": "Belt",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/92/Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "5",
+        "需要力量": "25",
+        "耐久度": "16",
+        "格数": "12",
+        "品质等级需要等级": "12"
+      },
+      "set_item": "华宁的祝福",
+      "unique_item": "夜烟"
+    },
+    {
+      "name": "重扣带",
+      "name_en": "Heavy Belt",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/0e/Heavy_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "6",
+        "需要力量": "45",
+        "耐久度": "18",
+        "格数": "12",
+        "品质等级需要等级": "20"
+      },
+      "set_item": null,
+      "unique_item": "金色包袱"
+    },
+    {
+      "name": "金属扣带",
+      "name_en": "Plated Belt",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/ae/Plated_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "8-11",
+        "需要力量": "60",
+        "耐久度": "24",
+        "格数": "16",
+        "品质等级需要等级": "27"
+      },
+      "set_item": null,
+      "unique_item": "锋利扣带"
+    },
+    {
+      "name": "魔皮动带",
+      "name_en": "Demnhide Sash",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/f8/Sash%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "29-34",
+        "需要力量": "20",
+        "耐久度": "12",
+        "格数": "16",
+        "品质等级需要等级": "36/24"
+      },
+      "set_item": null,
+      "unique_item": "长串之耳"
+    },
+    {
+      "name": "鲨皮腰带",
+      "name_en": "Sharkskin Belt",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/a1/Light_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "31-36",
+        "需要力量": "20",
+        "耐久度": "14",
+        "格数": "16",
+        "品质等级需要等级": "39/25"
+      },
+      "set_item": "马维娜的教义",
+      "unique_item": "剃刀之尾"
+    },
+    {
+      "name": "织网腰带",
+      "name_en": "Mesh Belt",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/92/Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "35-40",
+        "需要力量": "58",
+        "耐久度": "16",
+        "格数": "16",
+        "品质等级需要等级": "43/25"
+      },
+      "set_item": "塔拉夏的织细衣服",
+      "unique_item": "阴影陷阱"
+    },
+    {
+      "name": "战场腰带",
+      "name_en": "Battle Belt",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/0e/Heavy_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "37-42",
+        "需要力量": "88",
+        "耐久度": "18",
+        "格数": "16",
+        "品质等级需要等级": "49/25"
+      },
+      "set_item": null,
+      "unique_item": "雪之冲突"
+    },
+    {
+      "name": "巨战腰带",
+      "name_en": "War Belt",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/ae/Plated_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "41-52",
+        "需要力量": "110",
+        "耐久度": "24",
+        "格数": "16",
+        "品质等级需要等级": "54/25"
+      },
+      "set_item": "不朽之王的琐事",
+      "unique_item": "雷神之力"
+    },
+    {
+      "name": "蛛网腰带",
+      "name_en": "Spiderweb Sash",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/f8/Sash%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "55-62",
+        "需要力量": "50",
+        "耐久度": "12",
+        "格数": "16",
+        "品质等级需要等级": "61/46"
+      },
+      "set_item": null,
+      "unique_item": "蜘蛛之网"
+    },
+    {
+      "name": "吸血鬼獠牙腰带",
+      "name_en": "Vampirefang Belt",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/a1/Light_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "56-63",
+        "需要力量": "50",
+        "耐久度": "14",
+        "格数": "16",
+        "品质等级需要等级": "68/51"
+      },
+      "set_item": null,
+      "unique_item": "吸血圣王之圈"
+    },
+    {
+      "name": "秘银腰带",
+      "name_en": "Mithril Coil",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/92/Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "58-65",
+        "需要力量": "106",
+        "耐久度": "16",
+        "格数": "16",
+        "品质等级需要等级": "75/56"
+      },
+      "set_item": "信条",
+      "unique_item": "维尔登戈的心结"
+    },
+    {
+      "name": "洞穴巨魔腰带",
+      "name_en": "Troll Belt",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/0e/Heavy_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "59-66",
+        "需要力量": "151",
+        "耐久度": "18",
+        "格数": "16",
+        "品质等级需要等级": "82/62"
+      },
+      "set_item": "塔格奥之束带",
+      "unique_item": null
+    },
+    {
+      "name": "巨神腰带",
+      "name_en": "Colossus Belt",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/ae/Plated_Belt%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "61-71",
+        "需要力量": "185",
+        "耐久度": "24",
+        "格数": "16",
+        "品质等级需要等级": "85/67"
+      },
+      "set_item": null,
+      "unique_item": null
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "category": "武器",
+  "type": "弓",
+  "type_en": "Bows",
+  "source": "https://wiki.d.163.com/index.php?title=Bows_(Diablo2)",
+  "items": [
+    {
+      "name": "短弓",
+      "name_en": "Short Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+      "attributes": {
+        "双手伤害": "1-4",
+        "武器基础攻速": "[5]",
+        "需求力量": "-",
+        "需求敏捷": "15",
+        "最大孔数": "3",
+        "品质等级需求等级": "1"
+      },
+      "set_item": null,
+      "unique_item": "勇气之眼"
+    },
+    {
+      "name": "猎弓",
+      "name_en": "Hunter's Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+      "attributes": {
+        "双手伤害": "2-6",
+        "武器基础攻速": "[-10]",
+        "需求力量": "-",
+        "需求敏捷": "28",
+        "最大孔数": "4",
+        "品质等级": "4"
+      },
+      "set_item": null,
+      "unique_item": "凋谢之戒"
+    },
+    {
+      "name": "长弓",
+      "name_en": "Long Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+      "attributes": {
+        "双手伤害": "3-10",
+        "武器基础攻速": "[0]",
+        "需求力量": "22",
+        "需求敏捷": "19",
+        "最大孔数": "5",
+        "品质等级": "8"
+      },
+      "set_item": null,
+      "unique_item": "渡鸟之爪"
+    },
+    {
+      "name": "组合弓",
+      "name_en": "Composite Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+      "attributes": {
+        "双手伤害": "4-8",
+        "武器基础攻速": "[-10]",
+        "需求力量": "25",
+        "需求敏捷": "35",
+        "最大孔数": "4",
+        "品质等级": "12"
+      },
+      "set_item": null,
+      "unique_item": "萝格之弓"
+    },
+    {
+      "name": "短战斗弓",
+      "name_en": "Short Battle Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+      "attributes": {
+        "双手伤害": "5-11",
+        "武器基础攻速": "[0]",
+        "需求力量": "30",
+        "需求敏捷": "40",
+        "最大孔数": "5",
+        "品质等级": "18"
+      },
+      "set_item": null,
+      "unique_item": "暴风之击"
+    },
+    {
+      "name": "长战斗弓",
+      "name_en": "Long Battle Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+      "attributes": {
+        "双手伤害": "3-18",
+        "武器基础攻速": "[10]",
+        "需求力量": "40",
+        "需求敏捷": "50",
+        "最大孔数": "6",
+        "品质等级": "23"
+      },
+      "set_item": "维达拉之倒刺",
+      "unique_item": "凋谢之书"
+    },
+    {
+      "name": "短巨战弓",
+      "name_en": "Short War Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+      "attributes": {
+        "双手伤害": "6-14",
+        "武器基础攻速": "[0]",
+        "需求力量": "35",
+        "需求敏捷": "55",
+        "最大孔数": "5",
+        "品质等级需求等级": "27"
+      },
+      "set_item": "北极号角",
+      "unique_item": "作声的地狱"
+    },
+    {
+      "name": "长巨战弓",
+      "name_en": "Long War Bow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+      "attributes": {
+        "双手伤害": "3-23",
+        "武器基础攻速": "[10]",
+        "需求力量": "50",
+        "需求敏捷": "65",
+        "最大孔数": "6",
+        "品质等级需求等级": "31"
+      },
+      "set_item": null,
+      "unique_item": "爆裂的吠叫"
+    },
+    {
+      "name": "锋锐之弓",
+      "name_en": "Edge Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+      "attributes": {
+        "双手伤害": "6-19",
+        "武器基础攻速": "[5]",
+        "需求力量": "25",
+        "需求敏捷": "43",
+        "最大孔数": "3",
+        "需求等级": "",
+        ":18": "",
+        "品质等级需求等级": "30"
+      },
+      "set_item": null,
+      "unique_item": "天击"
+    },
+    {
+      "name": "剃刀之弓",
+      "name_en": "Razor Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+      "attributes": {
+        "双手伤害": "8-22",
+        "武器基础攻速": "[-10]",
+        "需求力量": "25",
+        "需求敏捷": "62",
+        "最大孔数": "4",
+        "需求等级": "21",
+        "品质等级": "33"
+      },
+      "set_item": null,
+      "unique_item": "撕裂之钩"
+    },
+    {
+      "name": "杉木弓",
+      "name_en": "Cedar Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+      "attributes": {
+        "双手伤害": "10-29",
+        "武器基础攻速": "[0]",
+        "需求力量": "53",
+        "需求敏捷": "48",
+        "最大孔数": "5",
+        "需求等级": "23",
+        "品质等级": "35"
+      },
+      "set_item": null,
+      "unique_item": "社角久子"
+    },
+    {
+      "name": "双弓",
+      "name_en": "Double Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+      "attributes": {
+        "双手伤害": "11-26",
+        "武器基础攻速": "[-10]",
+        "需求力量": "58",
+        "需求敏捷": "73",
+        "最大孔数": "4",
+        "需求等级": "25",
+        "品质等级": "39"
+      },
+      "set_item": null,
+      "unique_item": "无尽的冰雹"
+    },
+    {
+      "name": "短攻城弓",
+      "name_en": "Short Siege Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+      "attributes": {
+        "双手伤害": "13-30",
+        "武器基础攻速": "[0]",
+        "需求力量": "65",
+        "需求敏捷": "80",
+        "最大孔数": "5",
+        "需求等级": "25",
+        "品质等级": "43"
+      },
+      "set_item": null,
+      "unique_item": "狂野之弦"
+    },
+    {
+      "name": "长攻城弓",
+      "name_en": "Large Siege Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+      "attributes": {
+        "双手伤害": "10-42",
+        "武器基础攻速": "[10]",
+        "需求力量": "80",
+        "需求敏捷": "95",
+        "最大孔数": "6",
+        "需求等级": "25",
+        "品质等级": "46"
+      },
+      "set_item": null,
+      "unique_item": "岩壁杀手"
+    },
+    {
+      "name": "符文之弓",
+      "name_en": "Rune Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+      "attributes": {
+        "双手伤害": "14-35",
+        "武器基础攻速": "[0]",
+        "需求力量": "73",
+        "需求敏捷": "103",
+        "最大孔数": "5",
+        "需求等级": "25",
+        "品质等级需求等级": "49"
+      },
+      "set_item": null,
+      "unique_item": "巫师之怒"
+    },
+    {
+      "name": "歌德弓",
+      "name_en": "Gothic Bow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+      "attributes": {
+        "双手伤害": "10-50",
+        "武器基础攻速": "[10]",
+        "需求力量": "95",
+        "需求敏捷": "118",
+        "最大孔数": "6",
+        "需求等级": "25",
+        "品质等级需求等级": "52"
+      },
+      "set_item": null,
+      "unique_item": "金击圆弧"
+    },
+    {
+      "name": "蜘蛛弓",
+      "name_en": "Spider Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/37/Shortbow.gif",
+      "attributes": {
+        "双手伤害": "23-50",
+        "武器基础攻速": "[5]",
+        "需求力量": "64",
+        "需求敏捷": "143",
+        "最大孔数": "3",
+        "需求等级": "41",
+        "品质等级需求等级": "55"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "刀锋弓",
+      "name_en": "Blade Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/60/Huntersbow.gif",
+      "attributes": {
+        "双手伤害": "21-41",
+        "武器基础攻速": "[-10]",
+        "需求力量": "76",
+        "需求敏捷": "119",
+        "最大孔数": "4",
+        "需求等级": "45",
+        "品质等级": "60"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "阴影弓",
+      "name_en": "Shadow Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/1b/Longbow.gif",
+      "attributes": {
+        "双手伤害": "15-59",
+        "武器基础攻速": "[0]",
+        "需求力量": "52",
+        "需求敏捷": "188",
+        "最大孔数": "5",
+        "需求等级": "47",
+        "品质等级": "63"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "巨弓",
+      "name_en": "Great Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/fd/Compositebow.gif",
+      "attributes": {
+        "双手伤害": "12-52",
+        "武器基础攻速": "[-10]",
+        "需求力量": "121",
+        "需求敏捷": "107",
+        "最大孔数": "4",
+        "需求等级": "51",
+        "品质等级": "68"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "钻石弓",
+      "name_en": "Diamond Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/2/2b/Shortbattlebow.gif",
+      "attributes": {
+        "双手伤害": "33-40",
+        "武器基础攻速": "[0]",
+        "需求力量": "89",
+        "需求敏捷": "132",
+        "最大孔数": "5",
+        "需求等级": "54",
+        "品质等级": "72"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "十字军之弓",
+      "name_en": "Crusader Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/80/Longbattlebow.gif",
+      "attributes": {
+        "双手伤害": "15-63",
+        "武器基础攻速": "[10]",
+        "需求力量": "97",
+        "需求敏捷": "121",
+        "最大孔数": "6",
+        "需求等级": "57",
+        "品质等级": "77"
+      },
+      "set_item": null,
+      "unique_item": "鹰之号角"
+    },
+    {
+      "name": "庇护之弓",
+      "name_en": "Ward Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/87/Shortwarbow.gif",
+      "attributes": {
+        "双手伤害": "20-53",
+        "武器基础攻速": "[0]",
+        "需求力量": "72",
+        "需求敏捷": "146",
+        "最大孔数": "5",
+        "需求等级": "60",
+        "品质等级需求等级": "80"
+      },
+      "set_item": null,
+      "unique_item": "寡妇制造者"
+    },
+    {
+      "name": "九头蛇弓",
+      "name_en": "Hydra Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/96/Longwarbow.gif",
+      "attributes": {
+        "双手伤害": "10-68",
+        "武器基础攻速": "[10]",
+        "需求力量": "134",
+        "需求敏捷": "167",
+        "最大孔数": "6",
+        "需求等级": "63",
+        "品质等级需求等级": "85"
+      },
+      "set_item": null,
+      "unique_item": "风之力"
+    }
+  ]
+}

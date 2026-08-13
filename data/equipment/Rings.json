@@ -1,0 +1,129 @@
+{
+  "category": "其他",
+  "type": "戒指",
+  "type_en": "Rings",
+  "source": "https://wiki.d.163.com/index.php?title=Rings_(Diablo2)",
+  "items": [
+    {
+      "name": "拿各的戒指",
+      "name_en": "Nagelring",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+      "attributes": {
+        "需求等级": "7"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "马娜德的治疗",
+      "name_en": "Manald Heal",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "attributes": {
+        "需求等级": "15"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "乔丹之石",
+      "name_en": "The Stone of Jordan",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+      "attributes": {
+        "需求等级": "29"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "矮人之星",
+      "name_en": "Dwarf Star",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "attributes": {
+        "需求等级": "45"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "乌鸦之霜",
+      "name_en": "Raven Frost",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+      "attributes": {
+        "需求等级": "45"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "布尔凯索的婚戒",
+      "name_en": "Bul-Kathos' Wedding Band",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+      "attributes": {
+        "需求等级": "58"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "腐肉之风",
+      "name_en": "Carrion Wind",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/c8/Ston_of_Jordan.gif",
+      "attributes": {
+        "需求等级": "60"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "大自然的和平",
+      "name_en": "Nature's Peace",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "attributes": {
+        "需求等级": "69"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "鬼火投掷者",
+      "name_en": "Whisp Projector",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/0/00/D2_ring1.gif",
+      "attributes": {
+        "需求等级": "76"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "天使的光晕",
+      "name_en": "Angelic Halo",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/4/4a/Manald_heal.gif",
+      "attributes": {
+        "需求等级": "12"
+      },
+      "set_item": "+(12每角色等级)144-1188攻击准确率(以角色等级决定)(2件)+50%更佳的几率获得魔法装备(3件)",
+      "unique_item": null
+    },
+    {
+      "name": "卡珊的封印",
+      "name_en": "Cathan's Seal",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/5/5e/Ring4.gif",
+      "attributes": {
+        "需求等级": "11"
+      },
+      "set_item": "+10力量（2件）",
+      "unique_item": null
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "category": "武器",
+  "type": "十字弓",
+  "type_en": "Crossbows",
+  "source": "https://wiki.d.163.com/index.php?title=Crossbows_(Diablo2)",
+  "items": [
+    {
+      "name": "轻十字弓",
+      "name_en": "Light Crossbow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "6-9 (7.5)",
+        "攻击距离": "-",
+        "基础武器速度": "-10",
+        "需要力量": "21",
+        "需要敏捷": "27",
+        "耐久度": "-",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "引导乌鸦"
+    },
+    {
+      "name": "十字弓",
+      "name_en": "Crossbow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "6-16 (12.5)",
+        "攻击距离": "-",
+        "基础武器速度": "0",
+        "需要力量": "40",
+        "需要敏捷": "33",
+        "耐久度": "-",
+        "最大可打孔数": "4",
+        "品质等级需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "灵液之刺"
+    },
+    {
+      "name": "重十字弓",
+      "name_en": "Heavy Crossbow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "14-26 (20)",
+        "攻击距离": "-",
+        "基础武器速度": "10",
+        "需要力量": "60",
+        "需要敏捷": "40",
+        "耐久度": "-",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "投掷地狱"
+    },
+    {
+      "name": "连射十字弓",
+      "name_en": "Repeating Crossbow",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "6-12 (9)",
+        "攻击距离": "-",
+        "基础武器速度": "-40",
+        "需要力量": "40",
+        "需要敏捷": "50",
+        "耐久度": "-",
+        "最大可打孔数": "5",
+        "品质等级需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "毁灭投石者"
+    },
+    {
+      "name": "石弓",
+      "name_en": "Arbalest",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "14-27 (20.5)",
+        "攻击距离": "-",
+        "基础武器速度": "-10",
+        "需要力量": "52",
+        "需要敏捷": "61",
+        "耐久度": "-",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "22"
+      },
+      "set_item": null,
+      "unique_item": "兰格.布里瑟"
+    },
+    {
+      "name": "攻城十字弓",
+      "name_en": "Siege Crossbow",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "6-16 (12.5)",
+        "攻击距离": "-",
+        "基础武器速度": "0",
+        "需要力量": "40",
+        "需要敏捷": "33",
+        "耐久度": "-",
+        "最大可打孔数": "4",
+        "品质等级需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "毒液怪"
+    },
+    {
+      "name": "弩弓",
+      "name_en": "Ballista",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "33-55 (44)",
+        "攻击距离": "-",
+        "基础武器速度": "10",
+        "需要力量": "110",
+        "需要敏捷": "80",
+        "耐久度": "-",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "布理撒-多 凯南"
+    },
+    {
+      "name": "巧工弩",
+      "name_en": "Chu-Ko-Nu",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "14-32 (23)",
+        "攻击距离": "-",
+        "基础武器速度": "-60",
+        "需要力量": "80",
+        "需要敏捷": "95",
+        "耐久度": "-",
+        "最大可打孔数": "5",
+        "品质等级需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "恶魔机器"
+    },
+    {
+      "name": "弹丸弓",
+      "name_en": "Pellet Bow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/d/dd/Light_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "28-73 (50.5)",
+        "攻击距离": "-",
+        "基础武器速度": "-10",
+        "需要力量": "83",
+        "需要敏捷": "155",
+        "耐久度": "-",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "42"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "蛇魔女十字弓",
+      "name_en": "Gorgon Crossbow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/ce/Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "25-87 (56)",
+        "攻击距离": "-",
+        "基础武器速度": "0",
+        "需要力量": "117",
+        "需要敏捷": "105",
+        "耐久度": "-",
+        "最大可打孔数": "4",
+        "品质等级需要等级": "50"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "巨神十字弓",
+      "name_en": "Colossus Crossbow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/a6/Heavy_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "32-91 (61.5)",
+        "攻击距离": "-",
+        "基础武器速度": "10",
+        "需要力量": "163",
+        "需要敏捷": "77",
+        "耐久度": "-",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "56"
+      },
+      "set_item": null,
+      "unique_item": "地狱拷问"
+    },
+    {
+      "name": "恶魔十字弓",
+      "name_en": "Demon Crossbow",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/16/Repeating_Crossbow%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "26-40 (33)",
+        "攻击距离": "-",
+        "基础武器速度": "-60",
+        "需要力量": "141",
+        "需要敏捷": "98",
+        "耐久度": "-",
+        "最大可打孔数": "5",
+        "品质等级需要等级": "63"
+      },
+      "set_item": null,
+      "unique_item": "内部爆裂"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "category": "防具",
+  "type": "盾牌",
+  "type_en": "Shields",
+  "source": "https://wiki.d.163.com/index.php?title=Shields_(Diablo2)",
+  "items": [
+    {
+      "name": "圆盾",
+      "name_en": "Buckler",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/00/Buckler%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "4-6",
+        "格挡": "[0]Pal:30% Ama/Asn/Bar:25% Dru/Sor/Nec:20%",
+        "需要力量": "12",
+        "耐久度": "12",
+        "最大可打孔数": "1",
+        "圣骑盾击伤害": "1-3",
+        "类型": "轻",
+        "品质等级需要等级": "1"
+      },
+      "set_item": null,
+      "unique_item": "新月小盾"
+    },
+    {
+      "name": "小盾牌",
+      "name_en": "Small Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/a5/Small_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "8-10",
+        "格挡": "[5]Pal:35% Ama/Asn/Bar:30% Dru/Sor/Nec:25%",
+        "需要力量": "22",
+        "耐久度": "16",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "2-3",
+        "类型": "轻",
+        "品质等级需要等级": "5"
+      },
+      "set_item": null,
+      "unique_item": "阴影圆盘"
+    },
+    {
+      "name": "大盾牌",
+      "name_en": "Large Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/6b/Large_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "12-14",
+        "格挡": "[12]Pal:42% Ama/Asn/Bar:37% Dru/Sor/Nec:32%",
+        "需要力量": "34",
+        "耐久度": "24",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "2-4",
+        "类型": "中",
+        "品质等级需要等级": "11"
+      },
+      "set_item": null,
+      "unique_item": "暴风公会"
+    },
+    {
+      "name": "轻盾",
+      "name_en": "Kite Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/2/2f/Kite_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "16-18",
+        "格挡": "[8]Pal:38% Ama/Asn/Bar:33% Dru/Sor/Nec:28%",
+        "需要力量": "47",
+        "耐久度": "30",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "2-5",
+        "类型": "轻",
+        "品质等级需要等级": "15"
+      },
+      "set_item": null,
+      "unique_item": "作响的金属"
+    },
+    {
+      "name": "尖刺盾牌",
+      "name_en": "Spiked Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/72/Spiked_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "15-25",
+        "格挡": "[10]Pal:49% Ama/Asn/Bar:35% Dru/Sor/Nec:30%",
+        "需要力量": "30",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "5-9",
+        "类型": "轻",
+        "品质等级需要等级": "11"
+      },
+      "set_item": null,
+      "unique_item": "剑背之架"
+    },
+    {
+      "name": "塔盾",
+      "name_en": "Tower Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/82/Tower_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "22-25",
+        "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
+        "需要力量": "74",
+        "耐久度": "60",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "1-5",
+        "类型": "重",
+        "品质等级需要等级": "22"
+      },
+      "set_item": null,
+      "unique_item": "贝弗提的纪念"
+    },
+    {
+      "name": "白骨盾牌",
+      "name_en": "Bone Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/30/Bone_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "10-30",
+        "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
+        "需要力量": "25",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "3-6",
+        "类型": "轻",
+        "品质等级需要等级": "19"
+      },
+      "set_item": null,
+      "unique_item": "无眼之墙"
+    },
+    {
+      "name": "歌德盾牌",
+      "name_en": "Gothic Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/5e/Gothic_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "30-35",
+        "格挡": "[16]Pal:46% Ama/Asn/Bar:41% Dru/Sor/Nec:36%",
+        "需要力量": "60",
+        "耐久度": "40",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "2-6",
+        "类型": "中",
+        "品质等级需要等级": "30"
+      },
+      "set_item": null,
+      "unique_item": "囚房"
+    },
+    {
+      "name": "防御盾",
+      "name_en": "Defender",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/00/Buckler%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "41-49",
+        "格挡": "[10]Pal:40% Ama/Asn/Bar:35% Dru/Sor/Nec:30%",
+        "需要力量": "38",
+        "耐久度": "68",
+        "最大可打孔数": "1",
+        "圣骑盾击伤害": "8-12",
+        "类型": "轻",
+        "品质等级需要等级": "34/22"
+      },
+      "set_item": null,
+      "unique_item": "维斯尔坦特"
+    },
+    {
+      "name": "圆形盾",
+      "name_en": "Round Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/a5/Small_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "47-55",
+        "格挡": "[12]Pal:42% Ama/Asn/Bar:37% Dru/Sor/Nec:32%",
+        "需要力量": "53",
+        "耐久度": "64",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "7-14",
+        "类型": "轻",
+        "品质等级需要等级": "37/25"
+      },
+      "set_item": "惠斯坦的武装",
+      "unique_item": "摩西祝福之环"
+    },
+    {
+      "name": "鳞盾",
+      "name_en": "Scutum",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/6b/Large_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "53-61",
+        "格挡": "[14]Pal:44% Ama/Asn/Bar:39% Dru/Sor/Nec:34%",
+        "需要力量": "71",
+        "耐久度": "62",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "11-15",
+        "类型": "中",
+        "品质等级需要等级": "42/25"
+      },
+      "set_item": null,
+      "unique_item": "暴风追逐者"
+    },
+    {
+      "name": "龙盾",
+      "name_en": "Dragon Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/2/2f/Kite_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "59-67",
+        "格挡": "[18]Pal:48% Ama/Asn/Bar:43% Dru/Sor/Nec:38%",
+        "需要力量": "91",
+        "耐久度": "76",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "15-24",
+        "类型": "轻",
+        "品质等级需要等级": "45/25"
+      },
+      "set_item": null,
+      "unique_item": "魔龙的非难"
+    },
+    {
+      "name": "倒刺盾牌",
+      "name_en": "Barbed Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/72/Spiked_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "58-78",
+        "格挡": "[17]Pal:47% Ama/Asn/Bar:42% Dru/Sor/Nec:37%",
+        "需要力量": "65",
+        "耐久度": "55",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "18-15",
+        "类型": "轻",
+        "品质等级需要等级": "42/25"
+      },
+      "set_item": null,
+      "unique_item": "长枪守护"
+    },
+    {
+      "name": "大盾",
+      "name_en": "Pavise",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/82/Tower_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "68-78",
+        "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
+        "需要力量": "133",
+        "耐久度": "74",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "10-17",
+        "类型": "重",
+        "品质等级需要等级": "50/25"
+      },
+      "set_item": null,
+      "unique_item": "基尔克的圣堂"
+    },
+    {
+      "name": "冷酷之盾",
+      "name_en": "Grim Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/30/Bone_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "50-150",
+        "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
+        "需要力量": "58",
+        "耐久度": "70",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "14-20",
+        "类型": "轻",
+        "品质等级需要等级": "48/25"
+      },
+      "set_item": null,
+      "unique_item": "警戒之墙"
+    },
+    {
+      "name": "古代之盾",
+      "name_en": "Ancient Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/5e/Gothic_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "80-93",
+        "格挡": "[16]Pal:46% Ama/Asn/Bar:41% Dru/Sor/Nec:36%",
+        "需要力量": "110",
+        "耐久度": "80",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "12-16",
+        "类型": "中",
+        "品质等级需要等级": "56/25"
+      },
+      "set_item": null,
+      "unique_item": "罗达蒙特之球体"
+    },
+    {
+      "name": "防寒圆盾",
+      "name_en": "Heater",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/00/Buckler%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "95-110",
+        "格挡": "[22]Pal:52% Ama/Asn/Bar:47% Dru/Sor/Nec:42%",
+        "需要力量": "77",
+        "耐久度": "88",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "16-30",
+        "类型": "轻",
+        "品质等级需要等级": "58/43"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "月精灵护盾",
+      "name_en": "Luna",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/a5/Small_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "108-123",
+        "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
+        "需要力量": "100",
+        "耐久度": "84",
+        "最大可打孔数": "2",
+        "圣骑盾击伤害": "17-29",
+        "类型": "轻",
+        "品质等级需要等级": "61/45"
+      },
+      "set_item": null,
+      "unique_item": "黑橡树盾"
+    },
+    {
+      "name": "亥伯龙盾牌",
+      "name_en": "Hyperion",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/6b/Large_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "119-135",
+        "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
+        "需要力量": "127",
+        "耐久度": "82",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "14-32",
+        "类型": "中",
+        "品质等级需要等级": "64-48"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "统治者大盾",
+      "name_en": "Monarch",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/2/2f/Kite_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "133-148",
+        "格挡": "[22]Pal:52% Ama/Asn/Bar:47% Dru/Sor/Nec:42%",
+        "需要力量": "156",
+        "耐久度": "86",
+        "最大可打孔数": "4",
+        "圣骑盾击伤害": "12-34",
+        "类型": "轻",
+        "品质等级需要等级": "72/54"
+      },
+      "set_item": null,
+      "unique_item": "暴风之盾"
+    },
+    {
+      "name": "刀刃盾牌",
+      "name_en": "Blade Barrier",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/72/Spiked_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "147-163",
+        "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
+        "需要力量": "118",
+        "耐久度": "83",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "26-40",
+        "类型": "轻",
+        "品质等级需要等级": "68-51"
+      },
+      "set_item": null,
+      "unique_item": "尖刺根源"
+    },
+    {
+      "name": "护卫盾",
+      "name_en": "Aegis",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/82/Tower_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "145-161",
+        "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
+        "需要力量": "219",
+        "耐久度": "92",
+        "最大可打孔数": "4",
+        "圣骑盾击伤害": "18-28",
+        "类型": "重",
+        "品质等级需要等级": "79/59"
+      },
+      "set_item": null,
+      "unique_item": "美杜沙的凝视"
+    },
+    {
+      "name": "洞穴巨魔巢穴",
+      "name_en": "Troll Nest",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/30/Bone_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "158-173",
+        "格挡": "[20]Pal:50% Ama/Asn/Bar:45% Dru/Sor/Nec:40%",
+        "需要力量": "106",
+        "耐久度": "74",
+        "最大可打孔数": "3",
+        "圣骑盾击伤害": "24-38",
+        "类型": "轻",
+        "品质等级需要等级": "76/57"
+      },
+      "set_item": null,
+      "unique_item": "猎头人的荣耀"
+    },
+    {
+      "name": "保护盾牌",
+      "name_en": "Ward",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/5e/Gothic_Shield%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "153-170",
+        "格挡": "[24]Pal:54% Ama/Asn/Bar:49% Dru/Sor/Nec:44%",
+        "需要力量": "185",
+        "耐久度": "100",
+        "最大可打孔数": "4",
+        "圣骑盾击伤害": "11-35",
+        "类型": "中",
+        "品质等级需要等级": "84-63"
+      },
+      "set_item": "泰比克的光荣",
+      "unique_item": "魂系结果"
+    }
+  ]
+}

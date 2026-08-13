@@ -1,0 +1,288 @@
+{
+  "category": "武器",
+  "type": "标枪",
+  "type_en": "Javelins",
+  "source": "https://wiki.d.163.com/index.php?title=Javelins_(Diablo2)",
+  "items": [
+    {
+      "name": "标枪",
+      "name_en": "Javelins",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/7f/Javelins%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "6-14",
+        "单手伤害": "1-5",
+        "攻击距离": "3",
+        "基础武器速度": "[-10]",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "最大数量": "60",
+        "品质等级": "1"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "短标枪",
+      "name_en": "Pilum",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/08/Pilum%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "7-20",
+        "单手伤害": "4-9",
+        "攻击距离": "3",
+        "基础武器速度": "[0]",
+        "需要力量": "-",
+        "需要敏捷": "45",
+        "最大数量": "50",
+        "品质等级": "10"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "短矛",
+      "name_en": "Short Spear",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/bc/Short_Spear%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "10-22",
+        "单手伤害": "2-13",
+        "攻击范围": "3",
+        "基础武器速度": "[10]",
+        "需要力量": "40",
+        "需要敏捷": "40",
+        "最大数量": "40",
+        "品质等级": "15"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "大长刀",
+      "name_en": "Glaive",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/53/Glaive%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "16-22",
+        "单手伤害": "5-17",
+        "攻击范围": "2",
+        "基础武器速度": "[20]",
+        "需要力量": "52",
+        "需要敏捷": "35",
+        "最大数量": "40",
+        "品质等级": "23"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "飞矛",
+      "name_en": "Throwing Spear",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/74/Throwing_Spear%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "12-30",
+        "单手伤害": "5-15",
+        "攻击范围": "3",
+        "基础武器速度": "[-10]",
+        "需要力量": "-",
+        "需要敏捷": "65",
+        "最大数量": "80",
+        "品质等级": "29"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "巨战标枪",
+      "name_en": "War Javelin",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/7f/Javelins%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "14-32",
+        "单手伤害": "6-19",
+        "攻击范围": "3",
+        "基础武器速度": "[-10]",
+        "需要力量": "25",
+        "需要敏捷": "25",
+        "最大数量": "60",
+        "需求等级": "18",
+        "品质等级": "30"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "卓越标枪",
+      "name_en": "Great Pilum",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/08/Pilum%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "16-42",
+        "单手伤害": "11-26",
+        "攻击范围": "3",
+        "基础武器速度": "[0]",
+        "需要力量": "25",
+        "需要敏捷": "88",
+        "最大数量": "50",
+        "需求等级": "25",
+        "品质等级": "37"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "锐矛",
+      "name_en": "Simbilan",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/bc/Short_Spear%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "27-50",
+        "单手伤害": "8-32",
+        "攻击范围": "3",
+        "基础武器速度": "[10]",
+        "需要力量": "80",
+        "需要敏捷": "80",
+        "最大数量": "40",
+        "需求等级": "25",
+        "品质等级": "40"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "阔针长矛",
+      "name_en": "Spiculum",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/53/Glaive%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "32-60",
+        "单手伤害": "13-38",
+        "攻击范围": "3",
+        "基础武器速度": "[20]",
+        "需要力量": "98",
+        "需要敏捷": "73",
+        "最大数量": "20",
+        "需求等级": "25",
+        "品质等级": "46"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "鱼叉",
+      "name_en": "Harpoon",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/74/Throwing_Spear%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "18-54",
+        "单手伤害": "13-35",
+        "攻击范围": "3",
+        "基础武器速度": "[-10]",
+        "需要力量": "25",
+        "需要敏捷": "118",
+        "最大数量": "80",
+        "需求等级": "25",
+        "品质等级": "51"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "亥伯龙之枪",
+      "name_en": "Hyperion Javelin",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/7f/Javelins%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "28-55",
+        "单手伤害": "21-57",
+        "攻击范围": "3",
+        "基础武器速度": "[-10]",
+        "需要力量": "98",
+        "需要敏捷": "123",
+        "最大数量": "100",
+        "需求等级": "40",
+        "品质等级": "54"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "冥河标枪",
+      "name_en": "Stygian Pilum",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/08/Pilum%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "21-75",
+        "单手伤害": "14-64",
+        "攻击范围": "3",
+        "基础武器速度": "[0]",
+        "需要力量": "118",
+        "需要敏捷": "112",
+        "最大数量": "90",
+        "需求等级": "46",
+        "品质等级": "62"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "炎魔长矛",
+      "name_en": "Balrog Spear",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/bc/Short_Spear%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "40-62",
+        "单手伤害": "33-63",
+        "攻击范围": "3",
+        "基础武器速度": "[10]",
+        "需要力量": "127",
+        "需要敏捷": "95",
+        "最大数量": "80",
+        "需求等级": "53",
+        "品质等级": "71"
+      },
+      "set_item": null,
+      "unique_item": "魔鬼抛物线"
+    },
+    {
+      "name": "鬼魂尖枪",
+      "name_en": "Ghost Glaive",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/53/Glaive%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "30-85",
+        "单手伤害": "19-60",
+        "攻击范围": "3",
+        "基础武器速度": "[20]",
+        "需要力量": "89",
+        "需要敏捷": "137",
+        "最大数量": "75",
+        "需求等级": "59",
+        "品质等级": "79"
+      },
+      "set_item": null,
+      "unique_item": "死灵夜翔"
+    },
+    {
+      "name": "翼鱼叉",
+      "name_en": "Winged Harpoon",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/74/Throwing_Spear%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "11-77",
+        "单手伤害": "27-35",
+        "攻击范围": "3",
+        "基础武器速度": "[-10]",
+        "需要力量": "76",
+        "需要敏捷": "145",
+        "最大数量": "80",
+        "需求等级": "65",
+        "品质等级": "85"
+      },
+      "set_item": null,
+      "unique_item": "石像鬼之噬"
+    }
+  ]
+}

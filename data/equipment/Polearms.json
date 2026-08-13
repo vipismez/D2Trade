@@ -1,0 +1,344 @@
+{
+  "category": "武器",
+  "type": "长柄武器",
+  "type_en": "Polearms",
+  "source": "https://wiki.d.163.com/index.php?title=Polearms_(Diablo2)",
+  "items": [
+    {
+      "name": "大砍刀",
+      "name_en": "Bardiche",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "1-27（平均：14）",
+        "攻击范围": "3",
+        "速度[10]": "",
+        "需求力量": "40",
+        "需求敏捷": "无",
+        "耐久度": "50",
+        "最大孔数": "3",
+        "品质等级": "5"
+      },
+      "set_item": null,
+      "unique_item": "迪马克之劈砍"
+    },
+    {
+      "name": "钩镰枪",
+      "name_en": "Voulge",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "6-21（平均：14）",
+        "攻击范围": "3",
+        "速度[0]": "",
+        "需求力量": "50",
+        "需求敏捷": "无",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "11"
+      },
+      "set_item": null,
+      "unique_item": "铁刺棒"
+    },
+    {
+      "name": "镰刀",
+      "name_en": "Scythe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "8-20（平均：14）",
+        "攻击范围": "2",
+        "速度[-10]": "",
+        "需求力量": "41",
+        "需求敏捷": "41",
+        "耐久度": "65",
+        "最大孔数": "5",
+        "品质等级": "15"
+      },
+      "set_item": null,
+      "unique_item": "灵魂采集者"
+    },
+    {
+      "name": "长柄战斧",
+      "name_en": "Poleaxe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "18-39（平均：28.5）",
+        "攻击范围": "4",
+        "速度[10]": "",
+        "需求力 量": "62",
+        "需求敏捷": "45",
+        "耐久度": "55",
+        "最大孔数": "5",
+        "品质等级": "21"
+      },
+      "set_item": null,
+      "unique_item": "战斗支系"
+    },
+    {
+      "name": "长戟",
+      "name_en": "Halberd",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "12-45（平均28.5）",
+        "攻击范围": "5",
+        "速度[0]": "",
+        "需求力量": "75",
+        "需求敏捷": "47",
+        "耐久度": "55",
+        "最大孔数": "6",
+        "品质等级": "29"
+      },
+      "set_item": null,
+      "unique_item": "烦恼诗集"
+    },
+    {
+      "name": "巨战镰刀",
+      "name_en": "War Scythe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "15-36（平均：26.5）",
+        "攻击范围": "5",
+        "速度[-10]": "",
+        "需求力量": "80",
+        "需求敏捷": "80",
+        "耐久度": "55",
+        "最大孔数": "6",
+        "品质等级": "34"
+      },
+      "set_item": null,
+      "unique_item": "冷酷开膛手"
+    },
+    {
+      "name": "罗佳伯斧",
+      "name_en": "Lochaber Axe",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "6-58（平均：32）",
+        "攻击范围": "3",
+        "速度[10]": "",
+        "需求力 量": "80",
+        "需求敏捷": "无",
+        "耐久度": "50",
+        "最大孔数": "3",
+        "品质等 级": "33",
+        "需要等级": "21"
+      },
+      "set_item": null,
+      "unique_item": "刮肉者"
+    },
+    {
+      "name": "比尔长刀",
+      "name_en": "Bill",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "14-53（平均：33.5）",
+        "攻击范围": "3",
+        "速度[0]": "",
+        "需求力 量": "95",
+        "需求敏捷": "无",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "37",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "黑水之刃"
+    },
+    {
+      "name": "战斗镰刀",
+      "name_en": "Battle Scythe",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "18-45（平均：31.5）",
+        "攻击范围": "2",
+        "速度[-10]": "",
+        "需求力 量": "82",
+        "需求敏捷": "82",
+        "耐久度": "65",
+        "最大孔数": "5",
+        "品质等级": "40",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "雅典娜的忿怒"
+    },
+    {
+      "name": "战戟",
+      "name_en": "Partizan",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "34-75（平均：54.5）",
+        "攻击范围": "4",
+        "速度[10]": "",
+        "需求力  量": "113",
+        "需求敏捷": "67",
+        "耐久度": "65",
+        "最大孔数": "5",
+        "品质等级": "35",
+        "需要等级": "23"
+      },
+      "set_item": null,
+      "unique_item": "皮尔.通把.考恩特"
+    },
+    {
+      "name": "双锋战戟",
+      "name_en": "Bec-De-Corbin",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "13-85（平均49）",
+        "攻击范围": "5",
+        "速度[0]": "",
+        "需求力 量": "113",
+        "需求敏捷": "91",
+        "耐久度": "55",
+        "最大孔数": "6",
+        "品质等级": "51",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "胡索丹.依弗"
+    },
+    {
+      "name": "残酷镰刀",
+      "name_en": "Grim Scythe",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "30-70（平均：50）",
+        "攻击范围": "5",
+        "速度[-10]": "",
+        "需求力 量": "140",
+        "需求敏捷": "140",
+        "耐久度": "55",
+        "最大孔数": "6",
+        "品质等级": "55",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "惊怖焰亡灵"
+    },
+    {
+      "name": "食人魔之斧",
+      "name_en": "Ogre Axe",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/9e/Bardiche_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "28-145（平均：86.5）",
+        "攻击范围": "3",
+        "速度[10]": "",
+        "需求力量": "195",
+        "需求敏捷": "75",
+        "耐久度": "50",
+        "最大孔数": "3",
+        "品质等级": "60",
+        "需要等级": "45"
+      },
+      "set_item": null,
+      "unique_item": "破骨"
+    },
+    {
+      "name": "巨神之斧",
+      "name_en": "Colossus Voulge",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/55/Steelgoad_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "17-165（平均：91）",
+        "攻击范围": "3",
+        "速度[0]": "",
+        "需求力量": "221",
+        "需求敏捷": "55",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "64",
+        "需要等级": "48"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "锐利之斧",
+      "name_en": "Thresher",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/aa/The_Reaper%27s_Toll_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "12-141（平均：76.5）",
+        "攻击范围": "2",
+        "速度[-10]": "",
+        "需求力量": "152",
+        "需求敏捷": "118",
+        "耐久度": "65",
+        "最大孔数": "5",
+        "品质等级": "71",
+        "需要等级": "53"
+      },
+      "set_item": null,
+      "unique_item": "死神的丧钟"
+    },
+    {
+      "name": "神秘之斧",
+      "name_en": "Cryptic Axe",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/cb/The_Battlebranch_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "33-150（平均：91.5）",
+        "攻击范围": "4",
+        "速度[10]": "",
+        "需求力量": "165",
+        "需求敏捷": "103",
+        "耐久度": "65",
+        "最大孔数": "5",
+        "品质等级": "79",
+        "需要等级": "59"
+      },
+      "set_item": null,
+      "unique_item": "盗墓者"
+    },
+    {
+      "name": "巨长斧",
+      "name_en": "Great Poleaxe",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/70/Woestave_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "46-127（平均86.5）",
+        "攻击范围": "5",
+        "速度[0]": "",
+        "需求力  量": "179",
+        "需求敏捷": "99",
+        "耐久度": "55",
+        "最大孔数": "6",
+        "品质等级": "84",
+        "需要等级": "63"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "蛟尾巨斧",
+      "name_en": "Giant Thresher",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/2/2e/Stormspire_Diablo2.gif",
+      "attributes": {
+        "双手伤害": "40-114（平均：77）",
+        "攻击范围": "5",
+        "速度[-10]": "",
+        "需求力量": "188",
+        "需求敏捷": "140",
+        "耐久度": "55",
+        "最大孔数": "6",
+        "品质等级": "85",
+        "需要等级": "66"
+      },
+      "set_item": null,
+      "unique_item": "暴风尖塔"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "category": "防具",
+  "type": "头饰",
+  "type_en": "Circlets",
+  "source": "https://wiki.d.163.com/index.php?title=Circlets_(Diablo2)",
+  "items": [
+    {
+      "name": "头饰",
+      "name_en": "Circlet",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/8/8e/Circlet_%28Diablo_II%29.gif",
+      "attributes": {
+        "防御": "20-30",
+        "耐久度": "35",
+        "最大孔数": "2",
+        "品质等级": "24",
+        "需求等级": "16"
+      },
+      "set_item": "娜吉的小环",
+      "unique_item": null
+    },
+    {
+      "name": "宝冠",
+      "name_en": "Coronet",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/d/d3/Coronet_%28Diablo_II%29.gif",
+      "attributes": {
+        "防御": "30-40",
+        "耐久度": "30",
+        "最大孔数": "2",
+        "品质等级": "50",
+        "需求等级": "39"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "三重冠",
+      "name_en": "Tiara",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/d/d1/Tiara_%28Diablo_II%29.gif",
+      "attributes": {
+        "防御": "40-50",
+        "耐久度": "25",
+        "最大孔数": "3",
+        "品质等级": "70",
+        "需求等级": "52"
+      },
+      "set_item": null,
+      "unique_item": "奇拉的守护"
+    },
+    {
+      "name": "权冠",
+      "name_en": "Diadem",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/2/2d/Diadem_%28Diablo_II%29.gif",
+      "attributes": {
+        "防御": "50-60",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "品质等级": "85",
+        "需求等级": "64"
+      },
+      "set_item": "马维娜的真实之眼",
+      "unique_item": "格利风之眼"
+    }
+  ]
+}

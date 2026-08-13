@@ -1,0 +1,278 @@
+{
+  "category": "职业专用武器",
+  "type": "法师天球",
+  "type_en": "Sorceress Orbs",
+  "source": "https://wiki.d.163.com/index.php?title=Sorceress%20Orbs_(Diablo2)",
+  "items": [
+    {
+      "name": "鹰之法珠",
+      "name_en": "Eagle Orb",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/6a/Eagle_Orb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "2-5(3.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "20",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "1/1"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "神圣天球",
+      "name_en": "Scared Globe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/37/Scared_Globe%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "3-8(5.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "8/1"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "拢烟之球",
+      "name_en": "Smoked Sphere",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/3a/Smoked_Sphere%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "4-10(7)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "35",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "12/8"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "扣握法珠",
+      "name_en": "Clasped Orb",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/d/d1/Clasped_Orb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "5-12(8.5)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "17/1 3"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "杰瑞德之石",
+      "name_en": "Jared's Stone",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/08/Jared%27s_Stone%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-18(12)",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "24/18"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "灵光法珠",
+      "name_en": "Glowing Orb",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/6a/Eagle_Orb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-21(14.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "20",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "32/23"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "水晶天球",
+      "name_en": "Crystalline Globe",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/37/Scared_Globe%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "19-26(18）",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "37/27"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "云雾之球",
+      "name_en": "Cloudy Sphere",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/3a/Smoked_Sphere%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "11-29(20)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "35",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "41/30"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "闪耀之珠",
+      "name_en": "Sparking Ball",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/d/d1/Clasped_Orb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "13-32(22.5)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "46/34"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "涡流水晶",
+      "name_en": "Swirling Crystal",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/08/Jared%27s_Stone%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "18-42(30)",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "50/37"
+      },
+      "set_item": "塔拉夏的女士之眼",
+      "unique_item": "眼球"
+    },
+    {
+      "name": "天堂之石",
+      "name_en": "Heavenly Stone",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/6a/Eagle_Orb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "21-46(33.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "20",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "59/44"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "怪异之球",
+      "name_en": "Eldritch Orb",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/37/Scared_Globe%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "18-50(34)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "67/50"
+      },
+      "set_item": null,
+      "unique_item": "艾丝屈塔的脾气"
+    },
+    {
+      "name": "恶魔之心",
+      "name_en": "Demon Heart",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/3a/Smoked_Sphere%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "23-55(39)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "35",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "75/56"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "漩涡球",
+      "name_en": "Vortex Orb",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/d/d1/Clasped_Orb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "12-66(39)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "84/63"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "次元碎片",
+      "name_en": "Dimensional Shard",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/08/Jared%27s_Stone%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "30-53(41.5)",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "85/66"
+      },
+      "set_item": null,
+      "unique_item": "死亡深度"
+    }
+  ]
+}

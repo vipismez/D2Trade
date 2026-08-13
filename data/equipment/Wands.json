@@ -1,0 +1,206 @@
+{
+  "category": "武器",
+  "type": "手杖",
+  "type_en": "Wands",
+  "source": "https://wiki.d.163.com/index.php?title=Wands_(Diablo2)",
+  "items": [
+    {
+      "name": "手杖",
+      "name_en": "Wand",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/84/Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "2-4(3)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "1",
+        "品质等级需要等级": "2"
+      },
+      "set_item": null,
+      "unique_item": "衣洛的火炬"
+    },
+    {
+      "name": "紫杉之杖",
+      "name_en": "Yew Wand",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/e/eb/Yew_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手害": "2-8(5)",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "1",
+        "品质等级需要等级": "12"
+      },
+      "set_item": null,
+      "unique_item": "漩涡"
+    },
+    {
+      "name": "骨杖",
+      "name_en": "Bone Wand",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/6d/Bone_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "3-7 (5)",
+        "攻击距离": "1",
+        "基础武器速度": "-20",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "18"
+      },
+      "set_item": "山德的迷信",
+      "unique_item": "墓穴之脊"
+    },
+    {
+      "name": "残酷之杖",
+      "name_en": "Grim Wand",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/4/4b/Grim_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "5-11（8）",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "26"
+      },
+      "set_item": null,
+      "unique_item": "乌米的恸哭"
+    },
+    {
+      "name": "烧焦之杖",
+      "name_en": "Burnt Wand",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/84/Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-18(13)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "1",
+        "品质等级需要等级": "31/19"
+      },
+      "set_item": null,
+      "unique_item": "自杀支系"
+    },
+    {
+      "name": "净化之杖",
+      "name_en": "Petrified Wand",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/e/eb/Yew_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手害": "8-24(16)",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "1",
+        "品质等级需要等级": "38/25"
+      },
+      "set_item": null,
+      "unique_item": "凯恩碎片"
+    },
+    {
+      "name": "古墓之杖",
+      "name_en": "Tomb Wand",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/6d/Bone_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "10-22 (16)",
+        "攻击距离": "1",
+        "基础武器速度": "-20",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "15",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "43/25"
+      },
+      "set_item": null,
+      "unique_item": "李奥瑞克王的武器"
+    },
+    {
+      "name": "洗练法杖",
+      "name_en": "Polished Wand",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/84/Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "18-33(25.5)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "22",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "55/41"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "鬼魂之杖",
+      "name_en": "Ghost Wand",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/e/eb/Yew_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手害": "20-40(30)",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "14",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "65/48"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "巫妖法杖",
+      "name_en": "Lich Wand",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/6d/Bone_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "10-31 (20.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-20",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "17",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "75/56"
+      },
+      "set_item": null,
+      "unique_item": "白骨阴影"
+    },
+    {
+      "name": "破隐法杖",
+      "name_en": "Uneatthed Wand",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/4/4b/Grim_Wand%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "22-28（25）",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "25-",
+        "需要敏捷": "-",
+        "耐久度": "18",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "86/64"
+      },
+      "set_item": null,
+      "unique_item": "死亡之网"
+    }
+  ]
+}

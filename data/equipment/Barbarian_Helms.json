@@ -1,0 +1,248 @@
+{
+  "category": "职业专用防具",
+  "type": "野蛮人专用头盔",
+  "type_en": "Barbarian Helms",
+  "source": "https://wiki.d.163.com/index.php?title=Barbarian%20Helms_(Diablo2)",
+  "items": [
+    {
+      "name": "颚骨帽",
+      "name_en": "Jawbone Cap",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+      "attributes": {
+        "防御": "10-15",
+        "需求力量": "25",
+        "耐久度": "25",
+        "最大孔数": "3",
+        "需求等级": "3",
+        "品质等级": "4"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "尖牙盔",
+      "name_en": "Fanged Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+      "attributes": {
+        "防御": "15-20",
+        "需求力量": "35",
+        "耐久度": "35",
+        "最大孔数": "3",
+        "需求等级": "6",
+        "品质等级": "8"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "角盔",
+      "name_en": "Horned Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+      "attributes": {
+        "防御": "25-30",
+        "需求力量": "45",
+        "耐久度": "45",
+        "最大孔数": "3",
+        "需求等级": "12",
+        "品质等级": "16"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "突击盔",
+      "name_en": "Assault Helmet",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+      "attributes": {
+        "防御": "30-35",
+        "需求力量": "55",
+        "耐久度": "50",
+        "最大孔数": "3",
+        "需求等级": "15",
+        "品质等级": "20"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "复仇者之盔",
+      "name_en": "Avenger Guard",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+      "attributes": {
+        "防御": "35-50",
+        "需求力量": "65",
+        "耐久度": "55",
+        "最大孔数": "3",
+        "需求等级": "18",
+        "品质等级": "24"
+      },
+      "set_item": "不朽之王的意志",
+      "unique_item": null
+    },
+    {
+      "name": "颚骨面甲",
+      "name_en": "Jawbone Visor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+      "attributes": {
+        "防御": "55-68",
+        "需求力量": "58",
+        "耐久度": "25",
+        "最大孔数": "3",
+        "需求等级": "25",
+        "品质等级": "33"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "狮头尖盔",
+      "name_en": "Lion Helm",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+      "attributes": {
+        "防御": "63-75",
+        "需求力量": "73",
+        "耐久度": "35",
+        "最大孔数": "3",
+        "需求等级": "29",
+        "品质等级": "38"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "狂怒面具刺盔",
+      "name_en": "Rage Helm",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+      "attributes": {
+        "防御": "78-90",
+        "需求力量": "88",
+        "耐久度": "45",
+        "最大孔数": "3",
+        "需求等级": "29",
+        "品质等级": "44"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "蛮族头盔",
+      "name_en": "Savage Helmet",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+      "attributes": {
+        "防御": "85-98",
+        "需求力量": "103",
+        "耐久度": "50",
+        "最大孔数": "3",
+        "需求等级": "32",
+        "品质等级": "49"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "杀手防护面甲",
+      "name_en": "Slayer Guard",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+      "attributes": {
+        "防御": "93-120",
+        "需求力量": "118",
+        "耐久度": "55",
+        "最大孔数": "3",
+        "需求等级": "40",
+        "品质等级": "54"
+      },
+      "set_item": null,
+      "unique_item": "亚瑞特的面容"
+    },
+    {
+      "name": "屠杀头盔",
+      "name_en": "Carnage Helm",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/ab/Jawbonecap.gif",
+      "attributes": {
+        "防御": "102-147",
+        "需求力量": "106",
+        "耐久度": "25",
+        "最大孔数": "3",
+        "需求等级": "45",
+        "品质等级": "60"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "暴怒面甲",
+      "name_en": "Fury Visor",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/f9/Fangedhelm.gif",
+      "attributes": {
+        "防御": "105-150",
+        "需求力量": "129",
+        "耐久度": "35",
+        "最大孔数": "3",
+        "需求等级": "49",
+        "品质等级": "66"
+      },
+      "set_item": null,
+      "unique_item": "狼嚎"
+    },
+    {
+      "name": "毁灭者头盔",
+      "name_en": "Destroyer Helm",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/4/4c/Hornedhelm.gif",
+      "attributes": {
+        "防御": "111-156",
+        "需求力量": "151",
+        "耐久度": "45",
+        "最大孔数": "3",
+        "需求等级": "54",
+        "品质等级": "73"
+      },
+      "set_item": null,
+      "unique_item": "恶魔号角的边缘"
+    },
+    {
+      "name": "征服者皇冠面甲",
+      "name_en": "Conqueror Crown",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/bf/Assualthelm.gif",
+      "attributes": {
+        "防御": "114-159",
+        "需求力量": "174",
+        "耐久度": "50",
+        "最大孔数": "3",
+        "需求等级": "60",
+        "品质等级": "80"
+      },
+      "set_item": null,
+      "unique_item": "海拉柏得的国度"
+    },
+    {
+      "name": "守护者皇冠面甲",
+      "name_en": "Guardian Crown",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/a8/Avengerguard.gif",
+      "attributes": {
+        "防御": "117-168",
+        "需求力量": "196",
+        "耐久度": "55",
+        "最大孔数": "3",
+        "需求等级": "65",
+        "品质等级": "85"
+      },
+      "set_item": null,
+      "unique_item": null
+    }
+  ]
+}

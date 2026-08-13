@@ -1,0 +1,728 @@
+{
+  "category": "防具",
+  "type": "盔甲",
+  "type_en": "Body Armor",
+  "source": "https://wiki.d.163.com/index.php?title=Body%20Armor_(Diablo2)",
+  "items": [
+    {
+      "name": "布甲",
+      "name_en": "Quilted Armor",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "8-11",
+        "需要力量": "12",
+        "耐久度": "20",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "1"
+      },
+      "set_item": null,
+      "unique_item": "薄暮外观"
+    },
+    {
+      "name": "皮甲",
+      "name_en": "Leather Armor",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "14-17",
+        "需要力量": "15",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "3"
+      },
+      "set_item": null,
+      "unique_item": "眨眼蝙蝠的外观"
+    },
+    {
+      "name": "硬皮甲",
+      "name_en": "Hard Leather Armor",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "21-24",
+        "需要力量": "20",
+        "耐久度": "28",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "5"
+      },
+      "set_item": null,
+      "unique_item": "百夫长"
+    },
+    {
+      "name": "镶嵌甲",
+      "name_en": "Studded Leather",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "32-35",
+        "需要力量": "27",
+        "耐久度": "32",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "8"
+      },
+      "set_item": "牛魔王之皮",
+      "unique_item": "抽动的挣扎"
+    },
+    {
+      "name": "锁环甲",
+      "name_en": "Ring Mail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "45-48",
+        "需要力量": "36",
+        "耐久度": "26",
+        "最大可打孔数": "3",
+        "类型": "中",
+        "品质等级需要等级": "11"
+      },
+      "set_item": null,
+      "unique_item": "扩散黑暗"
+    },
+    {
+      "name": "鳞甲",
+      "name_en": "Scale Mail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "57-60",
+        "需要力量": "44",
+        "耐久度": "36",
+        "最大可打孔数": "2",
+        "类型": "重",
+        "品质等级需要等级": "13"
+      },
+      "set_item": null,
+      "unique_item": "鹰甲"
+    },
+    {
+      "name": "胸甲",
+      "name_en": "Breast Plate",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "65-68",
+        "需要力量": "30",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "类型": "轻",
+        "品质等级需要等级": "18"
+      },
+      "set_item": null,
+      "unique_item": "毒液牢房"
+    },
+    {
+      "name": "锁子甲",
+      "name_en": "Chain Mail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "72-75",
+        "需要力量": "48",
+        "耐久度": "45",
+        "最大可打孔数": "2",
+        "类型": "中",
+        "品质等级需要等级": "15"
+      },
+      "set_item": "卡珊之网",
+      "unique_item": "火花之甲"
+    },
+    {
+      "name": "板甲",
+      "name_en": "Splint Mail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "90-95",
+        "需要力量": "51",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "类型": "中",
+        "品质等级需要等级": "20"
+      },
+      "set_item": null,
+      "unique_item": "冰雪眨眼"
+    },
+    {
+      "name": "轻型装甲",
+      "name_en": "Light Plate",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "90-107",
+        "需要力量": "41",
+        "耐久度": "60",
+        "最大可打孔数": "3",
+        "类型": "轻",
+        "品质等级需要等级": "35"
+      },
+      "set_item": null,
+      "unique_item": "天堂装束"
+    },
+    {
+      "name": "实战铠甲",
+      "name_en": "Field Plate",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "101-105",
+        "需要力量": "55",
+        "耐久度": "48",
+        "最大可打孔数": "2",
+        "类型": "中",
+        "品质等级需要等级": "28"
+      },
+      "set_item": null,
+      "unique_item": "石之毛"
+    },
+    {
+      "name": "铠甲",
+      "name_en": "Plate Mail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "108-116",
+        "需要力量": "65",
+        "耐久度": "60",
+        "最大可打孔数": "2",
+        "类型": "重",
+        "品质等级需要等级": "24"
+      },
+      "set_item": null,
+      "unique_item": "骨肉"
+    },
+    {
+      "name": "哥德战甲",
+      "name_en": "Gothic Plate",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "128-135",
+        "需要力量": "70",
+        "耐久度": "55",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "32"
+      },
+      "set_item": "西刚的遮蔽",
+      "unique_item": "作响的牢笼"
+    },
+    {
+      "name": "高级战甲",
+      "name_en": "Full Plate Mail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "150-161",
+        "需要力量": "80",
+        "耐久度": "70",
+        "最大可打孔数": "4",
+        "类型": "重",
+        "品质等级需要等级": "37"
+      },
+      "set_item": null,
+      "unique_item": "黄金之皮"
+    },
+    {
+      "name": "古代装甲",
+      "name_en": "Ancient Armor",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "218-233",
+        "需要力量": "100",
+        "耐久度": "60",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "40"
+      },
+      "set_item": null,
+      "unique_item": "胜利者之丝绸"
+    },
+    {
+      "name": "布甲",
+      "name_en": "Quilted Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "102-117",
+        "需要力量": "38",
+        "耐久度": "20",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "34/22"
+      },
+      "set_item": null,
+      "unique_item": "灵魂帷幕"
+    },
+    {
+      "name": "海蛇皮甲",
+      "name_en": "Serpentskin Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "111-126",
+        "需要力量": "43",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "36/24"
+      },
+      "set_item": null,
+      "unique_item": "蛇魔法师之皮"
+    },
+    {
+      "name": "魔皮战甲",
+      "name_en": "Demonhide Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "122-136",
+        "需要力量": "50",
+        "耐久度": "28",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "40/25"
+      },
+      "set_item": null,
+      "unique_item": "剥皮者之皮"
+    },
+    {
+      "name": "攀绕战甲",
+      "name_en": "Trellised Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "138-153",
+        "需要力量": "61",
+        "耐久度": "32",
+        "最大可打孔数": "2",
+        "类型": "轻",
+        "品质等级需要等级": "40/25"
+      },
+      "set_item": null,
+      "unique_item": "掷铁"
+    },
+    {
+      "name": "连扣战甲",
+      "name_en": "Linked Mail",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "158-172",
+        "需要力量": "74",
+        "耐久度": "26",
+        "最大可打孔数": "3",
+        "类型": "中",
+        "品质等级需要等级": "42/25"
+      },
+      "set_item": null,
+      "unique_item": "灵魂熔炉"
+    },
+    {
+      "name": "提格莱特战甲",
+      "name_en": "Tigulated Mail",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "176-190",
+        "需要力量": "86",
+        "耐久度": "36",
+        "最大可打孔数": "3",
+        "类型": "重",
+        "品质等级需要等级": "43/25"
+      },
+      "set_item": "华宁的保护",
+      "unique_item": "鸦鸣"
+    },
+    {
+      "name": "护胸甲",
+      "name_en": "Cuirass",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "188-202",
+        "需要力量": "65",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "类型": "轻",
+        "品质等级需要等级": "47/25"
+      },
+      "set_item": "黑摩苏的坚决",
+      "unique_item": "督瑞尔的壳"
+    },
+    {
+      "name": "织网战甲",
+      "name_en": "Mesh Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "198-213",
+        "需要力量": "92",
+        "耐久度": "45",
+        "最大可打孔数": "2",
+        "类型": "中",
+        "品质等级需要等级": "45/25"
+      },
+      "set_item": null,
+      "unique_item": "谢夫特斯坦布"
+    },
+    {
+      "name": "罗瑟战甲",
+      "name_en": "Russet Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "225-243",
+        "需要力量": "97",
+        "耐久度": "30",
+        "最大可打孔数": "3",
+        "类型": "中",
+        "品质等级需要等级": "49/25"
+      },
+      "set_item": null,
+      "unique_item": "诗寇蒂的愤怒"
+    },
+    {
+      "name": "法师铠甲",
+      "name_en": "Mage Plate",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "225-261",
+        "需要力量": "55",
+        "耐久度": "60",
+        "最大可打孔数": "3",
+        "类型": "轻",
+        "品质等级需要等级": "60/25"
+      },
+      "set_item": null,
+      "unique_item": "魁黑刚的智慧"
+    },
+    {
+      "name": "鲨齿战甲",
+      "name_en": "Sharktooth Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "242-258",
+        "需要力量": "103",
+        "耐久度": "48",
+        "最大可打孔数": "3",
+        "类型": "中",
+        "品质等级需要等级": "55/25"
+      },
+      "set_item": null,
+      "unique_item": "排齿"
+    },
+    {
+      "name": "圣堂武士外袍",
+      "name_en": "Templar Coat",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "252-274",
+        "需要力量": "118",
+        "耐久度": "60",
+        "最大可打孔数": "3",
+        "类型": "重",
+        "品质等级需要等级": "52/25"
+      },
+      "set_item": null,
+      "unique_item": "守护天使"
+    },
+    {
+      "name": "凸纹战甲",
+      "name_en": "Embossed Plate",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "282-303",
+        "需要力量": "125",
+        "耐久度": "55",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "58/25"
+      },
+      "set_item": null,
+      "unique_item": "亚特玛的哭喊"
+    },
+    {
+      "name": "混沌战甲",
+      "name_en": "Chaos Armor",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "315-342",
+        "需要力量": "140",
+        "耐久度": "70",
+        "最大可打孔数": "4",
+        "类型": "重",
+        "品质等级需要等级": "61/25"
+      },
+      "set_item": "塔格奥之鳞",
+      "unique_item": "黑色黑帝斯"
+    },
+    {
+      "name": "华丽战甲",
+      "name_en": "Ornate Plate",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "417-450",
+        "需要力量": "170",
+        "耐久度": "60",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "64/25"
+      },
+      "set_item": "格瑞斯华尔德之心",
+      "unique_item": "尸体的哀伤"
+    },
+    {
+      "name": "灰幕寿衣",
+      "name_en": "Dusk Shroud",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/b9/Quilted_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "361-467",
+        "需要力量": "77",
+        "耐久度": "20",
+        "最大可打孔数": "4",
+        "类型": "轻",
+        "品质等级需要等级": "65/49"
+      },
+      "set_item": "黑暗信徒",
+      "unique_item": "奥墨斯的长袍"
+    },
+    {
+      "name": "古龙皮",
+      "name_en": "Wyrmhide",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/b2/Leather_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "364-470",
+        "需要力量": "84",
+        "耐久度": "24",
+        "最大可打孔数": "4",
+        "类型": "轻",
+        "品质等级需要等级": "67/50"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "圣甲虫壳皮甲",
+      "name_en": "Scarab Husk",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/89/Hard_Leather_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "369-474",
+        "需要力量": "95",
+        "耐久度": "28",
+        "最大可打孔数": "4",
+        "类型": "轻",
+        "品质等级需要等级": "68/51"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "绵羊毛甲",
+      "name_en": "Wire Fleece",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/70/Studded_Leather%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "375-481",
+        "需要力量": "111",
+        "耐久度": "32",
+        "最大可打孔数": "4",
+        "类型": "轻",
+        "品质等级需要等级": "70/53"
+      },
+      "set_item": null,
+      "unique_item": "斗士的祸根"
+    },
+    {
+      "name": "钻石锁子甲",
+      "name_en": "Diamond Mail",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/4/46/Ring_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "383-489",
+        "需要力量": "131",
+        "耐久度": "26",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "72/54"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "甲壳铠鳞甲",
+      "name_en": "Loricated Mail",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/c6/Scale_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "390-496",
+        "需要力量": "149",
+        "耐久度": "36",
+        "最大可打孔数": "4",
+        "类型": "重",
+        "品质等级需要等级": "73/55"
+      },
+      "set_item": "娜塔亚的影子",
+      "unique_item": null
+    },
+    {
+      "name": "巨形鳞铠胸甲",
+      "name_en": "Great Hauberk",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/7c/Breast_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "395-501",
+        "需要力量": "118",
+        "耐久度": "50",
+        "最大可打孔数": "4",
+        "类型": "轻",
+        "品质等级需要等级": "75/56"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "骸骨链甲",
+      "name_en": "Boneweave",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/e/e9/Chain_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "399-505",
+        "需要力量": "158",
+        "耐久度": "45",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "62/47"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "炎魔皮板甲",
+      "name_en": "Balrog Skin",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/4/48/Splint_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "410-524",
+        "需要力量": "103",
+        "耐久度": "30",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "84/63"
+      },
+      "set_item": "沙撒璧的鬼魂释放者",
+      "unique_item": "阿凯尼的荣耀"
+    },
+    {
+      "name": "执政官之甲",
+      "name_en": "Archon Plate",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/52/Light_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "410-524",
+        "需要力量": "103",
+        "耐久度": "60",
+        "最大可打孔数": "4",
+        "类型": "轻",
+        "品质等级需要等级": "84/63"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "海妖壳甲",
+      "name_en": "Kraken Shell",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/50/Field_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "417-523",
+        "需要力量": "174",
+        "耐久度": "48",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "81/59"
+      },
+      "set_item": "马维娜的拥抱",
+      "unique_item": "海王利维亚桑"
+    },
+    {
+      "name": "地狱锻甲",
+      "name_en": "Hellforge Plate",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/6f/Plate_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "421-530",
+        "需要力量": "196",
+        "耐久度": "60",
+        "最大可打孔数": "4",
+        "类型": "重",
+        "品质等级需要等级": "78/59"
+      },
+      "set_item": "娜吉的轻铠甲",
+      "unique_item": null
+    },
+    {
+      "name": "漆甲",
+      "name_en": "Lacquered Plate",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/19/Gothic_Plate%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "433-451",
+        "需要力量": "208",
+        "耐久度": "55",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "82/62"
+      },
+      "set_item": "塔拉夏的守护",
+      "unique_item": null
+    },
+    {
+      "name": "阴影铠甲",
+      "name_en": "Shadow Plate",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/3f/Full_Plate_Mail%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "446-557",
+        "需要力量": "230",
+        "耐久度": "70",
+        "最大可打孔数": "4",
+        "类型": "重",
+        "品质等级需要等级": "83/64"
+      },
+      "set_item": "艾尔多的欺瞒",
+      "unique_item": "钢铁铠甲"
+    },
+    {
+      "name": "神圣铠甲",
+      "name_en": "Sacred Armor",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/50/Ancient_Armor%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "487-600",
+        "需要力量": "232",
+        "耐久度": "60",
+        "最大可打孔数": "4",
+        "类型": "中",
+        "品质等级需要等级": "85/66"
+      },
+      "set_item": "不朽之王的灵魂牢宠",
+      "unique_item": "圣堂武士的力量泰瑞尔的力量"
+    }
+  ]
+}

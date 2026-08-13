@@ -1,0 +1,440 @@
+{
+  "category": "武器",
+  "type": "钉头锤",
+  "type_en": "Maces",
+  "source": "https://wiki.d.163.com/index.php?title=Maces_(Diablo2)",
+  "items": [
+    {
+      "name": "木棒",
+      "name_en": "Club",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "1-6 (3.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "1"
+      },
+      "set_item": null,
+      "unique_item": "凶猛橡树"
+    },
+    {
+      "name": "狼牙棒",
+      "name_en": "Spiked Club",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "5-8 (6.5)",
+        "攻击距离": "2",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "-",
+        "耐久度": "36",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "4"
+      },
+      "set_item": null,
+      "unique_item": "坚硬的指甲"
+    },
+    {
+      "name": "钉头锤",
+      "name_en": "Mace",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "3-10 (7.5)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "27",
+        "需要敏捷": "0",
+        "耐久度": "60",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "8"
+      },
+      "set_item": null,
+      "unique_item": "压碎的凸边"
+    },
+    {
+      "name": "流星锤",
+      "name_en": "Morning Star",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "7-16 (11.5)",
+        "攻击距离": "2",
+        "基础武器速度": "10",
+        "需要力量": "36",
+        "需要敏捷": "-",
+        "耐久度": "72",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "13"
+      },
+      "set_item": null,
+      "unique_item": "血升"
+    },
+    {
+      "name": "链枷",
+      "name_en": "Flail",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "1-24 (12.5)",
+        "攻击距离": "3",
+        "基础武器速度": "-10",
+        "需要力量": "41",
+        "需要敏捷": "35",
+        "耐久度": "30",
+        "最大可打孔数": "5",
+        "品质等级需要等级": "19"
+      },
+      "set_item": null,
+      "unique_item": "坦.杜.里.嘎将军"
+    },
+    {
+      "name": "巨战铁槌",
+      "name_en": "War Hammer",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "19-29 (24)",
+        "攻击距离": "1",
+        "基础武器速度": "20",
+        "需要力量": "53",
+        "需要敏捷": "-",
+        "耐久度": "55",
+        "最大可打孔数": "4",
+        "品质等级需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "铁石"
+    },
+    {
+      "name": "大木棍",
+      "name_en": "Maul",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害值": "38-58 (48)",
+        "攻击距离": "3",
+        "基础武器速度": "20",
+        "需要力量": "99",
+        "需要敏捷": "-",
+        "耐久度": "60",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "32"
+      },
+      "set_item": null,
+      "unique_item": "碎骨"
+    },
+    {
+      "name": "卓越巨棍",
+      "name_en": "Great Maul",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/97/Great_Maul%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害值": "30-43 (36.5)",
+        "攻击距离": "2",
+        "基础武器速度": "10",
+        "需要力量": "69",
+        "需要敏捷": "-",
+        "耐久度": "60",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "21"
+      },
+      "set_item": null,
+      "unique_item": "铁制大槌"
+    },
+    {
+      "name": "棍棒",
+      "name_en": "Cudgel",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "6-21(13.5)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "25",
+        "需要敏捷": "-",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "30/18"
+      },
+      "set_item": null,
+      "unique_item": "暗族碎灭者"
+    },
+    {
+      "name": "倒钩槌",
+      "name_en": "Barbed Club",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "13-25 (19)",
+        "攻击距离": "2",
+        "基础武器速度": "0",
+        "需要力量": "30",
+        "需要敏捷": "-",
+        "耐久度": "36",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "32/20"
+      },
+      "set_item": null,
+      "unique_item": "血肉裁决者"
+    },
+    {
+      "name": "凸缘钉头锤",
+      "name_en": "Flanged Mace",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "15-23 (19)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "61",
+        "需要敏捷": "0",
+        "耐久度": "60",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "35/23"
+      },
+      "set_item": null,
+      "unique_item": "尖啸冰霜凸缘"
+    },
+    {
+      "name": "锯齿流星锤",
+      "name_en": "Jagged Star",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "20-31 (25.5)",
+        "攻击距离": "2",
+        "基础武器速度": "10",
+        "需要力量": "74",
+        "需要敏捷": "-",
+        "耐久度": "72",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "39/25"
+      },
+      "set_item": "艾尔多的律动",
+      "unique_item": "落月锯齿"
+    },
+    {
+      "name": "铁皮鞭",
+      "name_en": "Knout",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "13-35 (24)",
+        "攻击距离": "3",
+        "基础武器速度": "-10",
+        "需要力量": "82",
+        "需要敏捷": "73",
+        "耐久度": "30",
+        "最大可打孔数": "5",
+        "品质等级需要等级": "43/25"
+      },
+      "set_item": null,
+      "unique_item": "贝希尔的漩涡"
+    },
+    {
+      "name": "战斗铁槌",
+      "name_en": "Battle Hammer",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "35-58 (46.5)",
+        "攻击距离": "1",
+        "基础武器速度": "20",
+        "需要力量": "100",
+        "需要敏捷": "-",
+        "耐久度": "55",
+        "最大可打孔数": "4",
+        "品质等级需要等级": "48/25"
+      },
+      "set_item": null,
+      "unique_item": "撼地者"
+    },
+    {
+      "name": "巨战木棍",
+      "name_en": "War Club",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害值": "53-78(65.5)",
+        "攻击距离": "2",
+        "基础武器速度": "10",
+        "需要力量": "124",
+        "需要敏捷": "-",
+        "耐久度": "60",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "45/25"
+      },
+      "set_item": null,
+      "unique_item": "血树残株"
+    },
+    {
+      "name": "战槌",
+      "name_en": "Martel de Fer",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/80/Gavelofpain.gif",
+      "attributes": {
+        "双手伤害值": "61-99 (80)",
+        "攻击距离": "3",
+        "基础武器速度": "20",
+        "需要力量": "169",
+        "需要敏捷": "-",
+        "耐久度": "60",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "53、25"
+      },
+      "set_item": null,
+      "unique_item": "痛苦木槌"
+    },
+    {
+      "name": "战仪杖",
+      "name_en": "Truncheon",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/8d/Club%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "35-43 (39)",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "88",
+        "需要敏捷": "43",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "52/39"
+      },
+      "set_item": null,
+      "unique_item": "诺德的蚀肉药"
+    },
+    {
+      "name": "暴君之棒",
+      "name_en": "Tyrant Club",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/06/SpikedCulb%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "32-58 (45)",
+        "攻击距离": "2",
+        "基础武器速度": "0",
+        "需要力量": "133",
+        "需要敏捷": "-",
+        "耐久度": "36",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "57/42"
+      },
+      "set_item": null,
+      "unique_item": "恶魔的爪牙"
+    },
+    {
+      "name": "强化钉头锤",
+      "name_en": "Reinforced Mace",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/3e/Mace%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "41-49 (7.5)",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "145",
+        "需要敏捷": "46",
+        "耐久度": "60",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "63/47"
+      },
+      "set_item": "丹弓的教导",
+      "unique_item": null
+    },
+    {
+      "name": "恶魔流星锤",
+      "name_en": "Devil Star",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/5b/Morning_Star%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "43-53 (48)",
+        "攻击距离": "2",
+        "基础武器速度": "10",
+        "需要力量": "153",
+        "需要敏捷": "44",
+        "耐久度": "72",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "70/52"
+      },
+      "set_item": null,
+      "unique_item": "巴拉那之星"
+    },
+    {
+      "name": "天罚之锤",
+      "name_en": "Scourge",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/1a/Flail%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "3-80 (41.5)",
+        "攻击距离": "3",
+        "基础武器速度": "-10",
+        "需要力量": "125",
+        "需要敏捷": "77",
+        "耐久度": "30",
+        "最大可打孔数": "5",
+        "品质等级需要等级": "76/57"
+      },
+      "set_item": null,
+      "unique_item": "地平线的龙卷风暴风之结"
+    },
+    {
+      "name": "传说之锤",
+      "name_en": "Legendary Mallet",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/6d/War_Hammer%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害值": "59-61 (55.5)",
+        "攻击距离": "1",
+        "基础武器速度": "20",
+        "需要力量": "189",
+        "需要敏捷": "-",
+        "耐久度": "55",
+        "最大可打孔数": "4",
+        "品质等级需要等级": "82/61"
+      },
+      "set_item": null,
+      "unique_item": "碎石者史恰佛之鎚"
+    },
+    {
+      "name": "食人魔之锤",
+      "name_en": "Ogre Maul",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/b1/Maul%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害值": "77-106 (91.5)",
+        "攻击距离": "2",
+        "基础武器速度": "10",
+        "需要力量": "229",
+        "需要敏捷": "-",
+        "耐久度": "60",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "69/51"
+      },
+      "set_item": "不朽之王的碎魂者",
+      "unique_item": "风之锤"
+    },
+    {
+      "name": "雷锤",
+      "name_en": "Thunder Maul",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/97/Great_Maul%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害值": "33-180 (106.5)",
+        "攻击距离": "3",
+        "基础武器速度": "20",
+        "需要力量": "253",
+        "需要敏捷": "-",
+        "耐久度": "60",
+        "最大可打孔数": "6",
+        "品质等级需要等级": "85/65"
+      },
+      "set_item": null,
+      "unique_item": "地覆碎脑者"
+    }
+  ]
+}

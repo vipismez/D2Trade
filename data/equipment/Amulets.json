@@ -1,0 +1,239 @@
+{
+  "category": "其他",
+  "type": "项链",
+  "type_en": "Amulets",
+  "source": "https://wiki.d.163.com/index.php?title=Amulets_(Diablo2)",
+  "items": [
+    {
+      "name": "诺科蓝遗物",
+      "name_en": "Nokozan Relic",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "10"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "艾利屈之眼",
+      "name_en": "The Eye of Etlich",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "15"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "玛哈姆橡木古董",
+      "name_en": "The Mahim-Oak Curio",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "attributes": {
+        "需求等级": "25"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "萨拉森的机会",
+      "name_en": "Saracen's Chance",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "attributes": {
+        "需求等级": "47"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "猫眼",
+      "name_en": "The Cat's Eye",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "50"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "新月",
+      "name_en": "Crescent Moon",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "attributes": {
+        "需求等级": "50"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "亚特玛的圣甲虫",
+      "name_en": "Atma's Scarab",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "60"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "旭日东升",
+      "name_en": "The Rising Sun",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "attributes": {
+        "需求等级": "65"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "马拉的万花筒",
+      "name_en": "Mara's Kaleidoscope",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "attributes": {
+        "需求等级": "67"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "大君之怒",
+      "name_en": "Highlord's Wrath",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "attributes": {
+        "需求等级": "65"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "炙天使之韵",
+      "name_en": "Seraph's Hymn",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "65"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "金属网格",
+      "name_en": "Metalgrid",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "81"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "天使之翼",
+      "name_en": "Angelic Wings",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "12"
+      },
+      "set_item": "+75生命（2件）+1到所有技能（3件）",
+      "unique_item": null
+    },
+    {
+      "name": "阿卡娜的符号",
+      "name_en": "Arcanna's Sign",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "15"
+      },
+      "set_item": "+50%更佳的几率获得魔法装备(2件装备)抗火+20%(3件装备)",
+      "unique_item": null
+    },
+    {
+      "name": "卡珊的魔咒",
+      "name_en": "Cathan's Sigil",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "attributes": {
+        "需求等级": "11"
+      },
+      "set_item": "+50攻击准确率(2件)+25%更佳的机会获得魔法装备(3件)",
+      "unique_item": null
+    },
+    {
+      "name": "希弗柏的图案",
+      "name_en": "Civerb's Icon",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "9"
+      },
+      "set_item": "抗冰+25%(2件装备)+25防御(3件装备)",
+      "unique_item": null
+    },
+    {
+      "name": "依雷撒的项圈",
+      "name_en": "Iratha's Collar",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/d/d5/Amu1.gif",
+      "attributes": {
+        "需求等级": "15"
+      },
+      "set_item": "所有抗性+15(2 装备)",
+      "unique_item": null
+    },
+    {
+      "name": "坦克雷的怪诞",
+      "name_en": "Tancred's Weird",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/c/cd/Amu3.gif",
+      "attributes": {
+        "需求等级": "20"
+      },
+      "set_item": "+78%更佳的几率获得魔法装备(2 装备)+60攻击准确率(3 装备)",
+      "unique_item": null
+    },
+    {
+      "name": "维达拉的陷阱",
+      "name_en": "Vidala's Snare",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "14"
+      },
+      "set_item": "50%更佳的机会获得魔法装备(2 装备)",
+      "unique_item": null
+    },
+    {
+      "name": "述说之珠",
+      "name_en": "Telling of Beads",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/f/f5/D2_amulet1.gif",
+      "attributes": {
+        "需求等级": "30"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "塔拉夏的判决",
+      "name_en": "Tal Rasha's Adjudication",
+      "tier": null,
+      "image": "https://wiki.d.163.com/images/1/1b/%E5%A1%94%E6%8B%89%E5%A4%8F%E7%9A%84%E5%88%A4%E5%86%B3.gif",
+      "attributes": {
+        "要求级别": "67"
+      },
+      "set_item": "10% 快速施放法术   (4 装备)",
+      "unique_item": null
+    }
+  ]
+}

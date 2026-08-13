@@ -1,0 +1,44 @@
+{
+  "category": "其他",
+  "type": "护身符",
+  "type_en": "Charms",
+  "source": "https://wiki.d.163.com/index.php?title=Charms_(Diablo2)",
+  "items": [
+    {
+      "name": "小型护身符",
+      "name_en": "Small Charm",
+      "tier": "未分级",
+      "image": null,
+      "attributes": {
+        "尺寸": "1x1",
+        "说明": "占用背包 1 格"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "大型护身符",
+      "name_en": "Large Charm",
+      "tier": "未分级",
+      "image": null,
+      "attributes": {
+        "尺寸": "2x1",
+        "说明": "占用背包 2 格"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "超大型护身符",
+      "name_en": "Grand Charm",
+      "tier": "未分级",
+      "image": null,
+      "attributes": {
+        "尺寸": "3x1",
+        "说明": "占用背包 3 格"
+      },
+      "set_item": null,
+      "unique_item": null
+    }
+  ]
+}

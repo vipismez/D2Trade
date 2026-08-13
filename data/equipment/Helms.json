@@ -1,0 +1,368 @@
+{
+  "category": "防具",
+  "type": "头盔",
+  "type_en": "Helms",
+  "source": "https://wiki.d.163.com/index.php?title=Helms_(Diablo2)",
+  "items": [
+    {
+      "name": "帽子",
+      "name_en": "Cap",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "3-5",
+        "需要力量": "-",
+        "耐久度": "12",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "1"
+      },
+      "set_item": "山德的模范",
+      "unique_item": "毕格因的软帽"
+    },
+    {
+      "name": "骷髅帽",
+      "name_en": "Skull Cap",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "8-11",
+        "需要力量": "15",
+        "耐久度": "18",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "5"
+      },
+      "set_item": null,
+      "unique_item": "塔因头盔"
+    },
+    {
+      "name": "头盔",
+      "name_en": "Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "15-18",
+        "需要力量": "26",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "11"
+      },
+      "set_item": null,
+      "unique_item": "光荣布帽"
+    },
+    {
+      "name": "高级头盔",
+      "name_en": "Full Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "23-26",
+        "需要力量": "41",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "15"
+      },
+      "set_item": null,
+      "unique_item": "黄昏深处"
+    },
+    {
+      "name": "卓越头盔",
+      "name_en": "Great Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "30-35",
+        "需要力量": "63",
+        "耐久度": "40",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "23"
+      },
+      "set_item": null,
+      "unique_item": "怒号长牙"
+    },
+    {
+      "name": "面具",
+      "name_en": "Mask",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "9-27",
+        "需要力量": "23",
+        "耐久度": "20",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "19"
+      },
+      "set_item": null,
+      "unique_item": "恐惧之脸"
+    },
+    {
+      "name": "皇冠",
+      "name_en": "Crown",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "25-45",
+        "需要力量": "55",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "29"
+      },
+      "set_item": null,
+      "unique_item": "不死王冠"
+    },
+    {
+      "name": "白骨头盔",
+      "name_en": "Bone Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "33-36",
+        "需要力量": "25",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "22"
+      },
+      "set_item": null,
+      "unique_item": "温暖骷髅"
+    },
+    {
+      "name": "战帽",
+      "name_en": "War Hat",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "45-53",
+        "需要力量": "20",
+        "耐久度": "12",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "34/22"
+      },
+      "set_item": "牛魔王之角",
+      "unique_item": "粗野之冠"
+    },
+    {
+      "name": "轻便头盔",
+      "name_en": "Sallet",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "52-62",
+        "需要力量": "43",
+        "耐久度": "18",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "37/25"
+      },
+      "set_item": null,
+      "unique_item": "岩石制动器"
+    },
+    {
+      "name": "无颊头盔",
+      "name_en": "Casque",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "63-72",
+        "需要力量": "59",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "42/25"
+      },
+      "set_item": null,
+      "unique_item": "偷取骷髅"
+    },
+    {
+      "name": "轻钢盔",
+      "name_en": "Basinet",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "75-84",
+        "需要力量": "82",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "45/25"
+      },
+      "set_item": "沙撒璧的精神之鞘",
+      "unique_item": "暗视之盔"
+    },
+    {
+      "name": "翼盔",
+      "name_en": "Winged Helm",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "85-98",
+        "需要力量": "115",
+        "耐久度": "40",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "51/25"
+      },
+      "set_item": "吉永之脸",
+      "unique_item": "女神之翼"
+    },
+    {
+      "name": "死亡面具",
+      "name_en": "Death Mask",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "54-86",
+        "需要力量": "55",
+        "耐久度": "20",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "48.25"
+      },
+      "set_item": "塔拉夏的赫拉迪克纹章",
+      "unique_item": "黑角面具"
+    },
+    {
+      "name": "巨皇冠",
+      "name_en": "Grand Crown",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "78-113",
+        "需要力量": "103",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "55/25"
+      },
+      "set_item": "华宁的光辉",
+      "unique_item": "盗贼皇冠"
+    },
+    {
+      "name": "残酷头盔",
+      "name_en": "Grim Helm",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "60-125",
+        "需要力量": "58",
+        "耐久度": "40",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "50/25"
+      },
+      "set_item": "娜塔亚的图腾",
+      "unique_item": "吸血鬼的凝视"
+    },
+    {
+      "name": "军帽",
+      "name_en": "Shako",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/1b/Cap%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "98-141",
+        "需要力量": "50",
+        "耐久度": "12",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "58/43"
+      },
+      "set_item": null,
+      "unique_item": "谐角之冠"
+    },
+    {
+      "name": "九头蛇头盖骨圆帽",
+      "name_en": "Hydraskull",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/b6/Skull_Cap%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "101-145",
+        "需要力量": "84",
+        "耐久度": "18",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "63/47"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "活动头盔",
+      "name_en": "Armet",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/cf/Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "105-149",
+        "需要力量": "109",
+        "耐久度": "24",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "68/51"
+      },
+      "set_item": null,
+      "unique_item": "钢影"
+    },
+    {
+      "name": "巨贝头盔",
+      "name_en": "Giant Couch",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/05/Full_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "110-154",
+        "需要力量": "142",
+        "耐久度": "30",
+        "最大可打孔数": "2",
+        "品质等级需要等级": "54/40"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "螺旋头盔",
+      "name_en": "Spired Helm",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/55/Great_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "114-159",
+        "需要力量": "192",
+        "耐久度": "40",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "79/59"
+      },
+      "set_item": "安戴尔的全灵",
+      "unique_item": "夜翼面纱 钢铁面纱"
+    },
+    {
+      "name": "恶魔头盖骨面具",
+      "name_en": "Demonhead",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/67/Mask%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "101-154",
+        "需要力量": "102",
+        "耐久度": "20",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "74/55"
+      },
+      "set_item": null,
+      "unique_item": "安达利尔的面貌"
+    },
+    {
+      "name": "头冠",
+      "name_en": "Corona",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/8b/Crown%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "111-165",
+        "需要力量": "174",
+        "耐久度": "50",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "85/66"
+      },
+      "set_item": "格瑞斯华尔德的勇气",
+      "unique_item": "年纪之冠"
+    },
+    {
+      "name": "骸骨面罩",
+      "name_en": "Bone Visage",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/9d/Bone_Helm%28Diablo_II%29.gif",
+      "attributes": {
+        "防御值": "100-157",
+        "需要力量": "106",
+        "耐久度": "40",
+        "最大可打孔数": "3",
+        "品质等级需要等级": "84/63"
+      },
+      "set_item": "塔格奥之外装",
+      "unique_item": "巨骷髅"
+    }
+  ]
+}

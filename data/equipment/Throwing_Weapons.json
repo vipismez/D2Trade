@@ -1,0 +1,236 @@
+{
+  "category": "武器",
+  "type": "投掷类武器",
+  "type_en": "Throwing Weapons",
+  "source": "https://wiki.d.163.com/index.php?title=Throwing%20Weapons_(Diablo2)",
+  "items": [
+    {
+      "name": "飞刀",
+      "name_en": "Throwing Knife",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/c/cf/Throwing_Knife%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "4-9 (6.5)",
+        "最大/最小伤害": "2-3 （2.5）",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "-",
+        "需要敏捷": "21",
+        "最大数量": "160",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "2"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "平衡小刀",
+      "name_en": "Balanced Knife",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/b6/Balanced_Knife%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "6-11(8.5)",
+        "最大/最小伤害": "1-8 （4.5）",
+        "攻击距离": "1",
+        "基础武器速度": "-20",
+        "需要力量": "-",
+        "需要敏捷": "51",
+        "最大数量": "160",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "13"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "飞斧",
+      "name_en": "Throwing Axe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/12/Throwing_Axe%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "8-12 (10)",
+        "最大/最小伤害": "4-7 （5.5）",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "-",
+        "需要敏捷": "40",
+        "最大数量": "130",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "7"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "平衡斧",
+      "name_en": "Balanced Axe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/e/e2/Balanced_Axe%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "12-15 (13.5)",
+        "最大/最小伤害": "5-10 （7.5）",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "-",
+        "需要敏捷": "57",
+        "最大数量": "130",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "16"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "战斗飞镖",
+      "name_en": "Battle Dart",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/cf/Throwing_Knife%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "11-24 (17.5)",
+        "最大/最小伤害": "8-16 （12）",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "25",
+        "需要敏捷": "52",
+        "最大数量": "160",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "31/19"
+      },
+      "set_item": null,
+      "unique_item": "死亡碎片"
+    },
+    {
+      "name": "巨战飞镖",
+      "name_en": "War Dart",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/b6/Balanced_Knife%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "14-27(20.5)",
+        "最大/最小伤害": "6-24 （15）",
+        "攻击距离": "1",
+        "基础武器速度": "-20",
+        "需要力量": "25",
+        "需要敏捷": "97",
+        "最大数量": "160",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "39/25"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "法兰飞斧",
+      "name_en": "Francisca",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/12/Throwing_Axe%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "18-33 (25.5)",
+        "最大/最小伤害": "11-22（16.5）",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "25",
+        "需要敏捷": "80",
+        "最大数量": "130",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "34/22"
+      },
+      "set_item": null,
+      "unique_item": "圆凿"
+    },
+    {
+      "name": "短战戟",
+      "name_en": "Hurbat",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/e/e2/Balanced_Axe%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "24-34 (39)",
+        "最大/最小伤害": "5-10 （7.5）",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "25",
+        "需要敏捷": "106",
+        "最大数量": "130",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "41/25"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "飞刀",
+      "name_en": "Flying Knife",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/cf/Throwing_Knife%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "23-54(38.5)",
+        "最大/最小伤害": "23-54 (38.5) （12）",
+        "攻击距离": "1",
+        "基础武器速度": "0",
+        "需要力量": "48",
+        "需要敏捷": "141",
+        "最大数量": "200",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "64/48"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "翼刀",
+      "name_en": "Winged Knife",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/b6/Balanced_Knife%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "23-39(31)",
+        "最大/最小伤害": "27-35 （31）",
+        "攻击距离": "1",
+        "基础武器速度": "-20",
+        "需要力量": "45",
+        "需要敏捷": "142",
+        "最大数量": "160",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "77/57"
+      },
+      "set_item": null,
+      "unique_item": "战争之鸟"
+    },
+    {
+      "name": "飞斧",
+      "name_en": "Flying Axe",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/12/Throwing_Axe%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "15-66 (40.5)",
+        "最大/最小伤害": "17-65（41）",
+        "攻击距离": "1",
+        "基础武器速度": "10",
+        "需要力量": "88",
+        "需要敏捷": "108",
+        "最大数量": "180",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "56/42"
+      },
+      "set_item": null,
+      "unique_item": "碎片贪噬者"
+    },
+    {
+      "name": "翼斧",
+      "name_en": "Winged Axe",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/e/e2/Balanced_Axe%28Diablo_II%29.gif",
+      "attributes": {
+        "投掷伤害": "7-60 (35.5)",
+        "最大/最小伤害": "11-56 （33.5）",
+        "攻击距离": "1",
+        "基础武器速度": "-10",
+        "需要力量": "96",
+        "需要敏捷": "122",
+        "最大数量": "180",
+        "最大可打孔数": "-",
+        "品质等级需要等级": "96/60"
+      },
+      "set_item": null,
+      "unique_item": "撕裂者"
+    }
+  ]
+}

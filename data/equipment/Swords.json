@@ -1,0 +1,824 @@
+{
+  "category": "武器",
+  "type": "剑",
+  "type_en": "Swords",
+  "source": "https://wiki.d.163.com/index.php?title=Swords_(Diablo2)",
+  "items": [
+    {
+      "name": "短剑",
+      "name_en": "Short Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "2-7",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "-",
+        "需求敏捷": "-",
+        "耐久度": "24",
+        "最大孔数": "2",
+        "品质等级": "1",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "瑞克撒特的挽歌"
+    },
+    {
+      "name": "弯刀",
+      "name_en": "Scimitar",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "2-6",
+        "范围": "1",
+        "武器基础攻速": "[-20]",
+        "需求力量": "-",
+        "需求敏捷": "21",
+        "耐久度": "22",
+        "最大孔数": "2",
+        "品质等级": "5",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "血红新月"
+    },
+    {
+      "name": "军刀",
+      "name_en": "Sabre",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "3-8",
+        "范围": "1",
+        "武器基础攻速": "[-10]",
+        "需求力量": "25",
+        "需求敏捷": "25",
+        "耐久度": "32",
+        "最大孔数": "2",
+        "品质等级": "8",
+        "需要等级": "-"
+      },
+      "set_item": "天使的镰刀",
+      "unique_item": "格林提斯的肉叉"
+    },
+    {
+      "name": "弯形大刀",
+      "name_en": "Falchion",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "9-17",
+        "范围": "1",
+        "武器基础攻速": "[20]",
+        "需求力量": "33",
+        "需求敏捷": "-",
+        "耐久度": "32",
+        "最大孔数": "2",
+        "品质等级": "11",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "闪耀的镰刀"
+    },
+    {
+      "name": "水晶剑",
+      "name_en": "Crystal Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "5-15",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "43",
+        "需求敏捷": "-",
+        "耐久度": "20",
+        "最大孔数": "6",
+        "品质等级": "11",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "阔剑",
+      "name_en": "Broad Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "7-14",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "48",
+        "需求敏捷": "-",
+        "耐久度": "32",
+        "最大孔数": "4",
+        "品质等级": "15",
+        "需要等级": "-"
+      },
+      "set_item": "依森哈德的光之烙铁",
+      "unique_item": "格瑞斯华尔德的锐利"
+    },
+    {
+      "name": "长剑",
+      "name_en": "Long Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "3-19",
+        "范围": "1",
+        "武器基础攻速": "[-10]",
+        "需求力量": "55",
+        "需求敏捷": "39",
+        "耐久度": "24",
+        "最大孔数": "4",
+        "品质等级": "20",
+        "需要等级": "-"
+      },
+      "set_item": "克雷得劳之牙",
+      "unique_item": "地狱瘟疫"
+    },
+    {
+      "name": "巨战之剑",
+      "name_en": "War Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-20",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "71",
+        "需求敏捷": "45",
+        "耐久度": "44",
+        "最大孔数": "3",
+        "品质等级": "27",
+        "需要等级": "-"
+      },
+      "set_item": "死亡之触",
+      "unique_item": "库尔温的尖端"
+    },
+    {
+      "name": "双手剑",
+      "name_en": "Two-handed Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "2-9",
+        "双手伤害": "8-17",
+        "范围": "3",
+        "武器基础攻速": "[0]",
+        "需求力量": "35",
+        "需求敏捷": "27",
+        "耐久度": "44",
+        "最大孔数": "3",
+        "品质等级": "10",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "影之牙"
+    },
+    {
+      "name": "双刃大刀",
+      "name_en": "Claymore",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "5-12",
+        "双手伤害": "13-30",
+        "范围": "3",
+        "武器基础攻速": "[10]",
+        "需求力量": "47",
+        "需求敏捷": "-",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "17",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "剥皮灵魂"
+    },
+    {
+      "name": "大剑",
+      "name_en": "Giant Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "3-16",
+        "双手伤害": "9-28",
+        "范围": "3",
+        "武器基础攻速": "[0]",
+        "需求力量": "56",
+        "需求敏捷": "34",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "21",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "金麦尔的锥子"
+    },
+    {
+      "name": "巨剑",
+      "name_en": "Bastard Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "7-19",
+        "双手伤害": "20-28",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "62",
+        "需求敏捷": "-",
+        "耐久度": "40",
+        "最大孔 数": "4",
+        "品质等级": "24",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "黑色之舌"
+    },
+    {
+      "name": "双手饰剑",
+      "name_en": "Flamberge",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "9-15",
+        "双手伤害": "13-26",
+        "范围": "3",
+        "武器基础攻速": "[-10]",
+        "需求力量": "70",
+        "需求敏捷": "49",
+        "耐久度": "50",
+        "最大孔数": "5",
+        "品质等级": "27",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "粗齿大锯"
+    },
+    {
+      "name": "卓越之剑",
+      "name_en": "Great Sword",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "12-20",
+        "双手伤害": "25-42",
+        "范围": "3",
+        "武器基础攻速": "[10]",
+        "需求力量": "100",
+        "需求敏捷": "60",
+        "耐久度": "50",
+        "最大孔数": "6",
+        "品质等级": "33",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "族长"
+    },
+    {
+      "name": "罗马短剑",
+      "name_en": "Gladius",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-22",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "25",
+        "需求敏捷": "-",
+        "耐久度": "24",
+        "最大孔数": "2",
+        "品质等级": "30",
+        "需要等级": "18"
+      },
+      "set_item": null,
+      "unique_item": "血书"
+    },
+    {
+      "name": "微弯剑",
+      "name_en": "Cutlass",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-21",
+        "范围": "1",
+        "武器基础攻速": "[-30]",
+        "需求力量": "25",
+        "需求敏捷": "52",
+        "耐久度": "22",
+        "最大孔数": "2",
+        "品质等级": "43",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "冰刚之眼"
+    },
+    {
+      "name": "虚伪之刃",
+      "name_en": "Shamshir",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "10-24",
+        "范围": "1",
+        "武器基础攻速": "[-10]",
+        "需求力量": "58",
+        "需求敏捷": "58",
+        "耐久度": "32",
+        "最大孔数": "2",
+        "品质等级": "35",
+        "需要等级": "23"
+      },
+      "set_item": null,
+      "unique_item": "六角之火"
+    },
+    {
+      "name": "圆月弯刀",
+      "name_en": "Tulwar",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "16-35",
+        "范围": "1",
+        "武器基础攻速": "[20]",
+        "需求力量": "70",
+        "需求敏捷": "42",
+        "耐久度": "32",
+        "最大孔数": "2",
+        "品质等级": "37",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "阿里巴巴之刃"
+    },
+    {
+      "name": "空间之刃",
+      "name_en": "Dimensional Blade",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "13-35",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "85",
+        "需求敏捷": "60",
+        "耐久度": "20",
+        "最大孔数": "6",
+        "品质等级": "37",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "金瑟的裂缝"
+    },
+    {
+      "name": "战斗剑",
+      "name_en": "Battle Sword",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "16-34",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "92",
+        "需求敏捷": "43",
+        "耐久度": "32",
+        "最大孔数": "4",
+        "品质等级": "40",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "击头者"
+    },
+    {
+      "name": "符文剑",
+      "name_en": "Rune Sword",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "10-42",
+        "范围": "1",
+        "武器基础攻速": "[-10]",
+        "需求力量": "103",
+        "需求敏捷": "79",
+        "耐久度": "44",
+        "最大孔数": "4",
+        "品质等级": "44",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "疫病带原者"
+    },
+    {
+      "name": "古代之剑",
+      "name_en": "Ancient Sword",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "18-43",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "127",
+        "需求敏捷": "88",
+        "耐久度": "44",
+        "最大孔数": "3",
+        "品质等级": "49",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "亚特拉斯"
+    },
+    {
+      "name": "斩铁剑",
+      "name_en": "Espandon",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "8-26",
+        "双手伤害": "18-40",
+        "范围": "3",
+        "武器基础攻速": "[0]",
+        "需求力量": "73",
+        "需求敏捷": "61",
+        "耐久度": "44",
+        "最大孔数": "3",
+        "品质等级": "37",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "克林铁 弗姆"
+    },
+    {
+      "name": "双刃镰",
+      "name_en": "Dacian Falx",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "13-30",
+        "双手伤害": "26-61",
+        "范围": "3",
+        "武器基础攻速": "[10]",
+        "需求力量": "91",
+        "需求敏捷": "20",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "42",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "兵之王"
+    },
+    {
+      "name": "长牙剑",
+      "name_en": "Tusk Sword",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "10-37",
+        "双手伤害": "19-58",
+        "范围": "3",
+        "武器基础攻速": "[0]",
+        "需求力量": "104",
+        "需求敏捷": "71",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "45",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "卑劣躯壳"
+    },
+    {
+      "name": "歌德剑",
+      "name_en": "Gothic Sword",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "14-40",
+        "双手伤害": "39-60",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "113",
+        "需求敏捷": "20",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "品质等级": "48",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "云裂"
+    },
+    {
+      "name": "瑞韩德之剑",
+      "name_en": "Zweihander",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "19-35",
+        "双手伤害": "29-54",
+        "范围": "3",
+        "武器基础攻速": "[-10]",
+        "需求力量": "125",
+        "需求敏捷": "94",
+        "耐久度": "50",
+        "最大孔数": "5",
+        "品质等级": "49",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "特迪斯法雷.芙法米"
+    },
+    {
+      "name": "死刑之剑",
+      "name_en": "Executioner Sword",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "24-40",
+        "双手伤害": "47-80",
+        "范围": "3",
+        "武器基础攻速": "[10]",
+        "需求力量": "170",
+        "需求敏捷": "110",
+        "耐久度": "50",
+        "最大孔数": "6",
+        "品质等级": "54",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "剑卫"
+    },
+    {
+      "name": "刃剑",
+      "name_en": "Falcata",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/9e/Short_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "31-59",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "150",
+        "需求敏捷": "88",
+        "耐久度": "24",
+        "最大孔数": "2",
+        "品质等级": "56",
+        "需要等级": "42"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "土耳其剑",
+      "name_en": "Ataghan",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/ac/Scimitar_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "26-46",
+        "范围": "1",
+        "武器基础攻速": "[-20]",
+        "需求力量": "135",
+        "需求敏捷": "95",
+        "耐久度": "22",
+        "最大孔数": "2",
+        "品质等级": "61",
+        "需要等级": "45"
+      },
+      "set_item": null,
+      "unique_item": "迪•金杀手"
+    },
+    {
+      "name": "优雅之剑",
+      "name_en": "Elegant Blade",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/4/4b/Sabre_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "33-45",
+        "范围": "1",
+        "武器基础攻速": "[-10]",
+        "需求力量": "109",
+        "需求敏捷": "122",
+        "耐久度": "32",
+        "最大孔数": "2",
+        "品质等级": "63",
+        "需要等级": "47"
+      },
+      "set_item": null,
+      "unique_item": "血月"
+    },
+    {
+      "name": "九头蛇刃",
+      "name_en": "Hydra Edge",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/19/Falchion_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "28-68",
+        "范围": "1",
+        "武器基础攻速": "[10]",
+        "需求力量": "142",
+        "需求敏捷": "105",
+        "耐久度": "32",
+        "最大孔数": "2",
+        "品质等级": "69",
+        "需要等级": "51"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "幻化之刃",
+      "name_en": "Phase Blade",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/31/Crystal_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "31-35",
+        "范围": "2",
+        "武器基础攻速": "[-30]",
+        "需求力量": "25",
+        "需求敏捷": "136",
+        "耐久度": "-",
+        "最大孔数": "6",
+        "品质等级": "73",
+        "需要等级": "54"
+      },
+      "set_item": null,
+      "unique_item": "光之军刀，青色愤怒"
+    },
+    {
+      "name": "征服之剑",
+      "name_en": "Conquest Sword",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/e/e1/Broad_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "37-53",
+        "范围": "1",
+        "武器基础攻速": "[0]",
+        "需求力量": "142",
+        "需求敏捷": "112",
+        "耐久度": "32",
+        "最大孔数": "4",
+        "品质等级": "78",
+        "需要等级": "58"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "神秘之剑",
+      "name_en": "Cryptic Sword",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/95/Long_sword%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "5-77",
+        "范围": "2",
+        "武器基础攻速": "[-10]",
+        "需求力量": "99",
+        "需求敏捷": "109",
+        "耐久度": "24",
+        "最大孔数": "4",
+        "品质等级": "82",
+        "需要等级": "61"
+      },
+      "set_item": "沙撒璧歉悔之钴",
+      "unique_item": "霜风"
+    },
+    {
+      "name": "秘仪之剑",
+      "name_en": "Mythical Sword",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/af/War_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "40-50",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "147",
+        "需求敏捷": "124",
+        "耐久度": "44",
+        "最大孔数": "3",
+        "品质等级": "85",
+        "需要等级": "66"
+      },
+      "set_item": "布尔凯索的部族守护",
+      "unique_item": null
+    },
+    {
+      "name": "传说之剑",
+      "name_en": "Legend Sword",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/95/Two-handed_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "22-56",
+        "双手伤害": "50-94",
+        "范围": "3",
+        "武器基础攻速": "[-15]",
+        "需求力量": "175",
+        "需求敏捷": "100",
+        "耐久度": "44",
+        "最大孔数": "3",
+        "品质等级": "59",
+        "需要等级": "44"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "高地之剑",
+      "name_en": "Highland Blade",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/7c/Claymore_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "22-62",
+        "双手伤害": "67-96",
+        "范围": "3",
+        "武器基础攻速": "[-5]",
+        "需求力量": "171",
+        "需求敏捷": "104",
+        "耐久度": "100",
+        "最大孔数": "4",
+        "品质等级": "66",
+        "需要等级": "49"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "炎魔之刃",
+      "name_en": "Balrog Blade",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/2/2d/Giant_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "15-75",
+        "双手伤害": "55-118",
+        "范围": "3",
+        "武器基础攻速": "[0]",
+        "需求力量": "185",
+        "需求敏捷": "87",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "品质等级": "71",
+        "需要等级": "53"
+      },
+      "set_item": null,
+      "unique_item": "火焰怒吼"
+    },
+    {
+      "name": "冠军之剑",
+      "name_en": "Champion Sword",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/d/d3/Bastard_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "24-54",
+        "双手伤害": "71-83",
+        "范围": "3",
+        "武器基础攻速": "[-10]",
+        "需求力量": "163",
+        "需求敏捷": "103",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "品质等级": "77",
+        "需要等级": "57"
+      },
+      "set_item": null,
+      "unique_item": "末日毁灭者"
+    },
+    {
+      "name": "巨神之剑",
+      "name_en": "Colossus Sword",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/ff/Flamberge_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "26-70",
+        "双手伤害": "61-121",
+        "范围": "3",
+        "武器基础攻速": "[10]",
+        "需求力量": "182",
+        "需求敏捷": "95",
+        "耐久度": "50",
+        "最大孔数": "5",
+        "品质等级": "80",
+        "需要等级": "60"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "巨神之刃",
+      "name_en": "Colossus Blade",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/f6/Great_Sword_%28Diablo_II%29.gif",
+      "attributes": {
+        "单手伤害": "25-65",
+        "双手伤害": "58-115",
+        "范围": "3",
+        "武器基础攻速": "[5]",
+        "需求力量": "189",
+        "需求敏捷": "110",
+        "耐久度": "50",
+        "最大孔数": "6",
+        "品质等级": "85",
+        "需要等级": "63"
+      },
+      "set_item": "布尔凯索的神圣代价",
+      "unique_item": "祖父"
+    }
+  ]
+}

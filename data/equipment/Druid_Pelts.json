@@ -1,0 +1,248 @@
+{
+  "category": "职业专用防具",
+  "type": "德鲁伊专用头盔",
+  "type_en": "Druid Pelts",
+  "source": "https://wiki.d.163.com/index.php?title=Druid%20Pelts_(Diablo2)",
+  "items": [
+    {
+      "name": "狼头",
+      "name_en": "Wolf Head",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+      "attributes": {
+        "防御": "8-11",
+        "需求力量": "16",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "3",
+        "品质等级": "4"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "飞鹰头盔",
+      "name_en": "Hawk Helm",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+      "attributes": {
+        "防御": "4-15",
+        "需求力量": "20",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "6",
+        "品质等级": "8"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "鹿角",
+      "name_en": "Antlers",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+      "attributes": {
+        "防御": "18-24",
+        "需求力量": "24",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "12",
+        "品质等级": "16"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "猎鹰面具",
+      "name_en": "Falcon Mask",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+      "attributes": {
+        "防御": "12-28",
+        "需求力量": "28",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "15",
+        "品质等级": "20"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "灵魂狼头面具",
+      "name_en": "Spirit Mask",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+      "attributes": {
+        "防御": "22-35",
+        "需求力量": "30",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "18",
+        "品质等级": "24"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "阿尔发头盔",
+      "name_en": "Alpha Helm",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+      "attributes": {
+        "防御": "52-62",
+        "需求力量": "44",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "26",
+        "品质等级": "35"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "狮鹫兽头盔",
+      "name_en": "Griffon Headdress",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+      "attributes": {
+        "防御": "46-68",
+        "需求力量": "50",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "30",
+        "品质等级": "40"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "猎人的伪装",
+      "name_en": "Hunter's Guise",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+      "attributes": {
+        "防御": "67-81",
+        "需求力量": "56",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "29",
+        "品质等级": "46"
+      },
+      "set_item": "艾尔多的冷酷凝视",
+      "unique_item": null
+    },
+    {
+      "name": "神圣羽毛",
+      "name_en": "Sacred Feathers",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+      "attributes": {
+        "防御": "58-87",
+        "需求力量": "62",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "32",
+        "品质等级": "50"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "图腾面具狼盔",
+      "name_en": "Totemic Mask",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+      "attributes": {
+        "防御": "73-98",
+        "需求力量": "65",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "41",
+        "品质等级": "55"
+      },
+      "set_item": null,
+      "unique_item": "加尔的长发"
+    },
+    {
+      "name": "血腥之灵",
+      "name_en": "Blood Mask",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/f0/Wolfhead.gif",
+      "attributes": {
+        "防御": "101-145",
+        "需求力量": "86",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "46",
+        "品质等级": "62"
+      },
+      "set_item": null,
+      "unique_item": "地狱之吻"
+    },
+    {
+      "name": "太阳之灵",
+      "name_en": "Sun Spirit",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/c8/Falconmask.gif",
+      "attributes": {
+        "防御": "98-147",
+        "需求力量": "95",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "51",
+        "品质等级": "69"
+      },
+      "set_item": null,
+      "unique_item": "乌鸦之王"
+    },
+    {
+      "name": "大地之灵",
+      "name_en": "Earth Spirit",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/a9/Antlers.gif",
+      "attributes": {
+        "防御": "107-152",
+        "需求力量": "104",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "57",
+        "品质等级": "76"
+      },
+      "set_item": null,
+      "unique_item": "灵魂看守者"
+    },
+    {
+      "name": "天空之灵",
+      "name_en": "Sky Spirit",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/74/Hawkhelm.gif",
+      "attributes": {
+        "防御": "103-155",
+        "需求力量": "113",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "62",
+        "品质等级": "83"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "幽梦之灵",
+      "name_en": "Dream Spirit",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/a2/Spiritmask.gif",
+      "attributes": {
+        "防御": "109-159",
+        "需求力量": "118",
+        "耐久度": "20",
+        "最大孔数": "3",
+        "需求等级": "66",
+        "品质等级": "85"
+      },
+      "set_item": null,
+      "unique_item": null
+    }
+  ]
+}

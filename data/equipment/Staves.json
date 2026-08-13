@@ -1,0 +1,293 @@
+{
+  "category": "武器",
+  "type": "法杖",
+  "type_en": "Staves",
+  "source": "https://wiki.d.163.com/index.php?title=Staves_(Diablo2)",
+  "items": [
+    {
+      "name": "短棍",
+      "name_en": "Short Staff",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+      "attributes": {
+        "双手伤害": "1-5",
+        "范围": "2",
+        "武器基础攻速": "[-10]",
+        "需求力量": "-",
+        "需求敏捷": "-",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "品质等级": "1",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "祸根之灰"
+    },
+    {
+      "name": "长棍",
+      "name_en": "Long Staff",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "2-8",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "-",
+        "需求敏捷": "-",
+        "耐久度": "30",
+        "最大孔数": "3",
+        "品质等级": "8",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "海蛇之王"
+    },
+    {
+      "name": "多节棍",
+      "name_en": "Gnarled Staff",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "4-12",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "-",
+        "需求 敏捷": "-",
+        "耐久度": "35",
+        "最大孔数": "4",
+        "品质等级": "12",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "拉撒罗斯之螺旋"
+    },
+    {
+      "name": "战斗法杖",
+      "name_en": "Battle Staff",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "6-13",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "-",
+        "需求敏捷": "-",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "品质等级": "17",
+        "需要等级": "-"
+      },
+      "set_item": "卡珊之尺",
+      "unique_item": "火精灵"
+    },
+    {
+      "name": "巨战法杖",
+      "name_en": "War Staff",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "12-28",
+        "范围": "2",
+        "武器基础攻速": "[20]",
+        "需求力量": "-",
+        "需求 敏捷": "-",
+        "耐久度": "50",
+        "最大孔数": "6",
+        "品质等级": "24",
+        "需要等级": "-"
+      },
+      "set_item": "铁检棒",
+      "unique_item": "阿卡娜的死亡之杖"
+    },
+    {
+      "name": "乔木棒",
+      "name_en": "Jo Staff",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+      "attributes": {
+        "双手伤害": "6-21",
+        "范围": "2",
+        "武器基础攻速": "[-10]",
+        "需求力量": "25",
+        "需求敏捷": "-",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "品质等级": "30",
+        "需要等级": "18"
+      },
+      "set_item": null,
+      "unique_item": "摆动剃刀"
+    },
+    {
+      "name": "六尺棍",
+      "name_en": "Quaterstaff",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "8-26",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "25",
+        "需求敏捷": "-",
+        "耐久度": "30",
+        "最大孔数": "3",
+        "品质等级": "35",
+        "需要等级": "23"
+      },
+      "set_item": null,
+      "unique_item": "肋骨粉碎者"
+    },
+    {
+      "name": "杉木之棍",
+      "name_en": "Cedar Staff",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "11-32",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "25",
+        "需求  敏捷": "-",
+        "耐久度": "35",
+        "最大孔数": "4",
+        "品质等级": "38",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "五彩的怒气"
+    },
+    {
+      "name": "哥德之棍",
+      "name_en": "Gothic Staff",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "14-34",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "25",
+        "需求敏捷": "-",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "品质等级": "42",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "扭曲之矛"
+    },
+    {
+      "name": "符文之棍",
+      "name_en": "Rune Staff",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "24-58",
+        "范围": "2",
+        "武器基础攻速": "[20]",
+        "需求力量": "25",
+        "需求 敏捷": "-",
+        "耐久度": "50",
+        "最大孔数": "6",
+        "品质等级": "47",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "骷髅收集者"
+    },
+    {
+      "name": "手杖",
+      "name_en": "Walking Stick",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/5b/Short_Staff.jpg",
+      "attributes": {
+        "双手伤害": "69-85",
+        "范围": "2",
+        "武器基础攻速": "[-10]",
+        "需求力量": "25",
+        "需求敏捷": "-",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "品质等级": "58",
+        "需要等级": "43"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "钟乳石之杖",
+      "name_en": "Stalagmite",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/51/Long_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "75-107",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "63",
+        "需求敏捷": "35",
+        "耐久度": "30",
+        "最大孔数": "3",
+        "品质等级": "66",
+        "需要等级": "49"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "多节棍",
+      "name_en": "Elder Staff",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/32/Gnarled_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "80-93",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "44",
+        "需求敏捷": "37",
+        "耐久度": "35",
+        "最大孔数": "4",
+        "品质等级": "74",
+        "需要等级": "55"
+      },
+      "set_item": "娜吉的解密棒",
+      "unique_item": "安戴尔的智慧"
+    },
+    {
+      "name": "树皮之杖",
+      "name_en": "Shillelagh",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/f1/Battle_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "65-108",
+        "范围": "2",
+        "武器基础攻速": "[0]",
+        "需求力量": "52",
+        "需求敏捷": "27",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "品质等级": "83",
+        "需要等级": "62"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "执政官之杖",
+      "name_en": "Archon Staff",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/d/d8/War_Staff_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "83-99",
+        "范围": "2",
+        "武器基础攻速": "[10]",
+        "需求力量": "34",
+        "需求敏捷": "-",
+        "耐久度": "50",
+        "最大孔数": "6",
+        "品质等级": "85",
+        "需要等级": "66"
+      },
+      "set_item": null,
+      "unique_item": "梅格之歌的教训"
+    }
+  ]
+}

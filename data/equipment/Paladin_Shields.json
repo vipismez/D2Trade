@@ -1,0 +1,293 @@
+{
+  "category": "职业专用防具",
+  "type": "圣骑士专用盾牌",
+  "type_en": "Paladin Shields",
+  "source": "https://wiki.d.163.com/index.php?title=Paladin%20Shields_(Diablo2)",
+  "items": [
+    {
+      "name": "小盾",
+      "name_en": "Targe",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+      "attributes": {
+        "防御": "8-12",
+        "类型": "轻型",
+        "格挡率": "40%",
+        "重击伤害": "2-6",
+        "需求力量": "16",
+        "耐久度": "20",
+        "最大孔数": "4",
+        "需求等级": "3",
+        "品质等级": "4"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "轻圆盾",
+      "name_en": "Rondache",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+      "attributes": {
+        "防御": "10-18",
+        "类型": "轻型",
+        "格挡率": "45%",
+        "重击伤害": "2-8",
+        "需求力量": "26",
+        "耐久度": "30",
+        "最大孔数": "4",
+        "需求等级": "6",
+        "品质等级": "8"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "纹章盾",
+      "name_en": "Heraldic Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+      "attributes": {
+        "防御": "16-26",
+        "类型": "轻型",
+        "格挡率": "50%",
+        "重击伤害": "3-9",
+        "需求力量": "30",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "需求等级": "12",
+        "品质等级": "16"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "艾文之盾",
+      "name_en": "Aerin Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+      "attributes": {
+        "防御": "26-36",
+        "类型": "轻型",
+        "格挡率": "52%",
+        "重击伤害": "4-10",
+        "需求力量": "50",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "需求等级": "15",
+        "品质等级": "20"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "皇冠之盾",
+      "name_en": "Crown Shield",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+      "attributes": {
+        "防御": "30-40",
+        "类型": "轻型",
+        "格挡率": "55%",
+        "重击伤害": "4-12",
+        "需求力量": "65",
+        "耐久度": "60",
+        "最大孔数": "4",
+        "需求等级": "18",
+        "品质等级": "24"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "亚克南圆盾",
+      "name_en": "Akaran Targe",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+      "attributes": {
+        "防御": "101-125",
+        "类型": "轻型",
+        "格挡率": "40%",
+        "重击伤害": "12-16",
+        "需求力量": "44",
+        "耐久度": "20",
+        "最大孔数": "4",
+        "需求等级": "26",
+        "品质等级": "35"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "亚克南轻圆盾",
+      "name_en": "Akaran Rondache",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+      "attributes": {
+        "防御": "113-137",
+        "类型": "轻型",
+        "格挡率": "45%",
+        "重击伤害": "15-20",
+        "需求力量": "59",
+        "耐久度": "30",
+        "最大孔数": "4",
+        "需求等级": "30",
+        "品质等级": "40"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "防守者盾牌",
+      "name_en": "Protector Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+      "attributes": {
+        "防御": "129-153",
+        "类型": "轻型",
+        "格挡率": "50%",
+        "重击伤害": "18-24",
+        "需求力量": "69",
+        "耐久度": "40",
+        "最大孔数": "4",
+        "需求等级": "34",
+        "品质等级": "46"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "饰金盾牌",
+      "name_en": "Aerin Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+      "attributes": {
+        "防御": "144-168",
+        "类型": "轻型",
+        "格挡率": "52%",
+        "重击伤害": "20-28",
+        "需求力量": "89",
+        "耐久度": "50",
+        "最大孔数": "4",
+        "需求等级": "38",
+        "品质等级": "51"
+      },
+      "set_item": null,
+      "unique_item": "撒卡兰姆使者"
+    },
+    {
+      "name": "皇家盾牌",
+      "name_en": "Royal Shield",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+      "attributes": {
+        "防御": "156-181",
+        "类型": "轻型",
+        "格挡率": "55%",
+        "重击伤害": "24-32",
+        "需求力量": "114",
+        "耐久度": "60",
+        "最大孔数": "4",
+        "需求等级": "41",
+        "品质等级": "55"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "神圣小盾",
+      "name_en": "Sacred Targe",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/4/40/Targe.gif",
+      "attributes": {
+        "防御": "126-158",
+        "类型": "轻型",
+        "格挡率": "60%",
+        "重击伤害": "22-70",
+        "需求力量": "86",
+        "耐久度": "45",
+        "最大孔数": "4",
+        "需求等级": "47",
+        "品质等级": "63"
+      },
+      "set_item": null,
+      "unique_item": "阿尔玛.尼格拉"
+    },
+    {
+      "name": "神圣轻圆盾",
+      "name_en": "Sacred Rondache",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/e/e9/Rondache.gif",
+      "attributes": {
+        "防御": "138-164",
+        "类型": "轻型",
+        "格挡率": "58%",
+        "重击伤害": "35-58",
+        "需求力量": "109",
+        "耐久度": "68",
+        "最大孔数": "4",
+        "需求等级": "52",
+        "品质等级": "70"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "库拉斯特之盾",
+      "name_en": "Kurast Shield",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/6/69/Heraldicshield.gif",
+      "attributes": {
+        "防御": "154-172",
+        "类型": "轻型",
+        "格挡率": "55%",
+        "重击伤害": "10-82",
+        "需求力量": "124",
+        "耐久度": "55",
+        "最大孔数": "4",
+        "需求等级": "55",
+        "品质等级": "74"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "撒卡兰姆盾牌",
+      "name_en": "Zakarum Shield",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/96/Aerinshield.gif",
+      "attributes": {
+        "防御": "169-193",
+        "类型": "轻型",
+        "格挡率": "52%",
+        "重击伤害": "46-46",
+        "需求力量": "142",
+        "耐久度": "65",
+        "最大孔数": "4",
+        "需求等级": "61",
+        "品质等级": "82"
+      },
+      "set_item": null,
+      "unique_item": "龙鳞"
+    },
+    {
+      "name": "旋风盾",
+      "name_en": "Vortex Shield",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/16/Crownshield.gif",
+      "attributes": {
+        "防御": "182-225",
+        "类型": "轻型",
+        "格挡率": "49%",
+        "重击伤害": "5-87",
+        "需求力量": "148",
+        "耐久度": "90",
+        "最大孔数": "4",
+        "需求等级": "66",
+        "品质等级": "85"
+      },
+      "set_item": "格瑞斯华尔德荣耀",
+      "unique_item": null
+    }
+  ]
+}

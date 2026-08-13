@@ -1,0 +1,288 @@
+{
+  "category": "武器",
+  "type": "长矛",
+  "type_en": "Spears",
+  "source": "https://wiki.d.163.com/index.php?title=Spears_(Diablo2)",
+  "items": [
+    {
+      "name": "长矛",
+      "name_en": "Spear",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/5/50/Spear1_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "3-15(9平均)",
+        "范围": "4",
+        "基础武器攻速": "[-10]",
+        "需求力量": "-",
+        "需求敏捷": "-",
+        "耐久度": "30",
+        "最大孔数": "3",
+        "品质等级": "5"
+      },
+      "set_item": null,
+      "unique_item": "张龙"
+    },
+    {
+      "name": "三叉戟",
+      "name_en": "Trident",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/f/fd/Trident_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "9-15(12平均)",
+        "范围": "4",
+        "基础武器攻速": "[0]",
+        "需求力量": "38",
+        "需求敏捷": "24",
+        "耐久度": "35",
+        "最大孔数": "4",
+        "品质等级": "9"
+      },
+      "set_item": null,
+      "unique_item": "剃刀之叉"
+    },
+    {
+      "name": "叉",
+      "name_en": "Brandistock",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "7-17(12平均)",
+        "范围": "5",
+        "基础武器攻速": "[-20]",
+        "需求力量": "40",
+        "需求敏捷": "50",
+        "耐久度": "28",
+        "最大孔数": "4",
+        "品质等级": "16"
+      },
+      "set_item": null,
+      "unique_item": "血之偷"
+    },
+    {
+      "name": "大战戟",
+      "name_en": "Spetum",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "15-23(19平均)",
+        "范围": "5",
+        "基础武器攻速": "[0]",
+        "需求力量": "54",
+        "需求敏捷": "35",
+        "耐久度": "28",
+        "最大孔数": "6",
+        "品质等级": "20"
+      },
+      "set_item": null,
+      "unique_item": "雅该长矛"
+    },
+    {
+      "name": "矛",
+      "name_en": "Pike",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/7a/Pike_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "14-63(38.5平均)",
+        "范围": "5",
+        "基础武器攻速": "[20]",
+        "需求力量": "60",
+        "需求敏捷": "45",
+        "耐久度": "25",
+        "最大孔数": "6",
+        "品质等级": "24"
+      },
+      "set_item": null,
+      "unique_item": "坦之血杖"
+    },
+    {
+      "name": "巨战长矛",
+      "name_en": "War Spear",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/5/50/Spear1_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "10-37(23.5平均)",
+        "范围": "4",
+        "基础武器攻速": "[-10]",
+        "需求力量": "25",
+        "需求敏捷": "25",
+        "耐久度": "30",
+        "最大孔数": "3",
+        "需求等级": "33",
+        "品质等级需求等级": "21"
+      },
+      "set_item": null,
+      "unique_item": "穿刺者"
+    },
+    {
+      "name": "魔鬼之叉",
+      "name_en": "War Fork",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/f/fd/Trident_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "19-37(28平均)",
+        "范围": "4",
+        "基础武器攻速": "[0]",
+        "需求力量": "77",
+        "需求敏捷": "25",
+        "耐久度": "35",
+        "最大孔数": "4",
+        "需求等级": "36",
+        "品质等级需求等级": "24"
+      },
+      "set_item": null,
+      "unique_item": "水魔陷阱"
+    },
+    {
+      "name": "巨战之叉",
+      "name_en": "War Fork",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "16-40(12平均)",
+        "范围": "5",
+        "基础武器攻速": "[-20]",
+        "需求力量": "80",
+        "需求敏捷": "95",
+        "耐久度": "28",
+        "最大孔数": "5",
+        "需求等级": "41",
+        "品质等级需求等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "噬魂叉"
+    },
+    {
+      "name": "三叉长枪",
+      "name_en": "Yari",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "29-59(44平均)",
+        "范围": "5",
+        "基础武器攻速": "[0]",
+        "需求力 量": "101",
+        "需求敏捷": "-",
+        "耐久度": "28",
+        "最大孔数": "6",
+        "需求等级": "44",
+        "品质等级需求等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "宏 森丹"
+    },
+    {
+      "name": "长枪",
+      "name_en": "Lance",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/7a/Pike_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "27-114(70.5平均)",
+        "范围": "5",
+        "基础武器攻速": "[20]",
+        "需求力量": "110",
+        "需求敏捷": "88",
+        "耐久度": "25",
+        "最大孔数": "6",
+        "需求等级": "47",
+        "品质等级需求等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "荣耀的尖塔"
+    },
+    {
+      "name": "亥伯龙之矛",
+      "name_en": "Hyperion Spear",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/5/50/Spear1_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "35-119(77平均)",
+        "范围": "4",
+        "基础武器攻速": "[-10]",
+        "需求力 量": "155",
+        "需求敏捷": "120",
+        "耐久度": "30",
+        "最大孔数": "3",
+        "需求等 级": "58",
+        "品质等级需求等级": "43"
+      },
+      "set_item": null,
+      "unique_item": "阿里欧克之针"
+    },
+    {
+      "name": "冥河之枪",
+      "name_en": "Stygian Pike",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/f/fd/Trident_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "29-114(86.5平均)",
+        "范围": "4",
+        "基础武器攻速": "[0]",
+        "需求力 量": "168",
+        "需求敏捷": "97",
+        "耐久度": "35",
+        "最大孔数": "4",
+        "需求等 级": "66",
+        "品质等级需求等级": "49"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "刺人枪",
+      "name_en": "Mancatcher",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "42-92(67平均)",
+        "范围": "5",
+        "基础武器攻速": "[-20]",
+        "需求力 量": "132",
+        "需求敏捷": "134",
+        "耐久度": "28",
+        "最大孔数": "5",
+        "需求等 级": "74",
+        "品质等级需求等级": "55"
+      },
+      "set_item": null,
+      "unique_item": "蝮蛇叉"
+    },
+    {
+      "name": "鬼魂之矛",
+      "name_en": "Ghost Spear",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/3/38/Brandistock_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "18-155(86.5平均)",
+        "范围": "5",
+        "基础武器攻速": "[0]",
+        "需求力  量": "122",
+        "需求敏捷": "163",
+        "耐久度": "28",
+        "最大孔数": "6",
+        "需求等 级": "83",
+        "品质等级需求等级": "62"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "战枪",
+      "name_en": "War Pike",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/7a/Pike_%28Diablo_II%29.gif",
+      "attributes": {
+        "双手伤害": "33-178(105.5平均)",
+        "范围": "5",
+        "基础武器攻速": "[20]",
+        "需求力 量": "165",
+        "需求敏捷": "106",
+        "耐久度": "25",
+        "最大孔数": "6",
+        "需求等 级": "85",
+        "品质等级需求等级": "66"
+      },
+      "set_item": null,
+      "unique_item": "铁柱"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "category": "职业专用防具",
+  "type": "死灵法师萎缩头颅",
+  "type_en": "Necromancer Shrunken Heads",
+  "source": "https://wiki.d.163.com/index.php?title=Necromancer%20Shrunken%20Heads_(Diablo2)",
+  "items": [
+    {
+      "name": "防腐之首",
+      "name_en": "Preserved Head",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+      "attributes": {
+        "防御": "2-5",
+        "类型": "轻型",
+        "格挡率": "23%",
+        "需求力量": "12",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "3",
+        "品质等级": "4"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "僵尸之首",
+      "name_en": "Zombie Head",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+      "attributes": {
+        "防御": "4-8",
+        "类型": "轻型",
+        "格挡率": "25%",
+        "需求力量": "14",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "6",
+        "品质等级": "8"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "揭露者之首",
+      "name_en": "Unraveller Head",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+      "attributes": {
+        "防御": "6-10",
+        "类型": "轻型",
+        "格挡率": "28%",
+        "需求力量": "18",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "12",
+        "品质等级": "16"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "石像鬼之首",
+      "name_en": "Gargoyle Head",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "attributes": {
+        "防御": "10-16",
+        "类型": "轻型",
+        "格挡率": "30%",
+        "需求力量": "20",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "15",
+        "品质等级": "20"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "恶魔之首",
+      "name_en": "Demon Head",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "attributes": {
+        "防御": "15-20",
+        "类型": "轻型",
+        "格挡率": "32%",
+        "需求力量": "25",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "18",
+        "品质等级": "24"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "木乃伊印记",
+      "name_en": "Mummified Trophy",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+      "attributes": {
+        "防御": "38-48",
+        "类型": "轻型",
+        "格挡率": "23%",
+        "需求力量": "38",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "24",
+        "品质等级": "33"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "物神印记",
+      "name_en": "Fetish Trophy",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+      "attributes": {
+        "防御": "41-52",
+        "类型": "轻型",
+        "格挡率": "25%",
+        "需求力量": "41",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "29",
+        "品质等级": "39"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "司事印记",
+      "name_en": "Sexton Trophy",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+      "attributes": {
+        "防御": "44-55",
+        "类型": "轻型",
+        "格挡率": "28%",
+        "需求力量": "47",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "33",
+        "品质等级": "45"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "领唱者印记",
+      "name_en": "Cantor Trophy",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/c/cd/Gargoylehead.gif",
+      "attributes": {
+        "防御": "50-64",
+        "类型": "轻型",
+        "格挡率": "30%",
+        "需求力量": "50",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "36",
+        "品质等级": "49"
+      },
+      "set_item": "塔格奥之翼",
+      "unique_item": null
+    },
+    {
+      "name": "祭司印记",
+      "name_en": "Hierophant Trophy",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "attributes": {
+        "防御": "58-70",
+        "类型": "轻型",
+        "格挡率": "32%",
+        "需求力量": "58",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "40",
+        "品质等级": "54"
+      },
+      "set_item": null,
+      "unique_item": "侏儒"
+    },
+    {
+      "name": "随侍之骨",
+      "name_en": "Minion Skull",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/0/08/Preservedhead.gif",
+      "attributes": {
+        "防御": "95-139",
+        "类型": "轻型",
+        "格挡率": "23%",
+        "需求力量": "77",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "44",
+        "品质等级": "59"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "地狱爪之骨",
+      "name_en": "Hellspawn Skull",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/7/76/Zombiehead.gif",
+      "attributes": {
+        "防御": "96-141",
+        "类型": "轻型",
+        "格挡率": "25%",
+        "需求力量": "82",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "50",
+        "品质等级": "67"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "监视者之骨",
+      "name_en": "Overseer Skull",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/8/85/Unravellerhead.gif",
+      "attributes": {
+        "防御": "98-142",
+        "类型": "轻型",
+        "格挡率": "28%",
+        "需求力量": "91",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "49",
+        "品质等级": "66"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "女妖之骨",
+      "name_en": "Succubus Skull",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/c/cd/Gargoylehead.gif",
+      "attributes": {
+        "防御": "100-146",
+        "类型": "轻型",
+        "格挡率": "30%",
+        "需求力量": "95",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "60",
+        "品质等级": "81"
+      },
+      "set_item": null,
+      "unique_item": "骨焰"
+    },
+    {
+      "name": "血王之骨",
+      "name_en": "Bloodlord Skull",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/9/96/Demonhead.gif",
+      "attributes": {
+        "防御": "103-148",
+        "类型": "轻型",
+        "格挡率": "32%",
+        "需求力量": "106",
+        "耐久度": "20",
+        "最大孔数": "2",
+        "需求等级": "65",
+        "品质等级": "85"
+      },
+      "set_item": null,
+      "unique_item": "魔力启生"
+    }
+  ]
+}

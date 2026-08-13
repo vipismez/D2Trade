@@ -1,0 +1,236 @@
+{
+  "category": "武器",
+  "type": "匕首",
+  "type_en": "Daggers",
+  "source": "https://wiki.d.163.com/index.php?title=Daggers_(Diablo2)",
+  "items": [
+    {
+      "name": "匕首",
+      "name_en": "Dagger",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "1-4",
+        "攻击范围": "1",
+        "速度[-20]": "",
+        "需求力 量": "-",
+        "需求敏捷": "-",
+        "耐久度": "16",
+        "最大孔数": "1",
+        "品质等 级": "3",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "海鸥"
+    },
+    {
+      "name": "长匕首",
+      "name_en": "Dirk",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "3-9",
+        "攻击范围": "1",
+        "速度[0]": "",
+        "需求力  量": "-",
+        "需求敏捷": "25",
+        "耐久度": "20",
+        "最大孔数": "1",
+        "品质等  级": "9",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "迪格勒"
+    },
+    {
+      "name": "波形刃",
+      "name_en": "Kris",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+      "attributes": {
+        "单手伤害": "2-11",
+        "攻击范围": "1",
+        "速度[-20]": "",
+        "需求力  量": "-",
+        "需求敏捷": "45",
+        "耐久度": "24",
+        "最大孔数": "3",
+        "品质等  级": "17",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "坦杜之玉"
+    },
+    {
+      "name": "短刀",
+      "name_en": "Blade",
+      "tier": "普通",
+      "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "4-15",
+        "攻击范围": "1",
+        "速度[-10]": "",
+        "需求力  量": "35",
+        "需求敏捷": "51",
+        "耐久度": "24",
+        "最大孔数": "2",
+        "品质等  级": "23",
+        "需要等级": "-"
+      },
+      "set_item": null,
+      "unique_item": "妖怪碎片"
+    },
+    {
+      "name": "锐匕",
+      "name_en": "Poignard",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "6-18",
+        "攻击范围": "1",
+        "速度[-20]": "",
+        "需求力量": "25",
+        "需求敏捷": "-",
+        "耐久度": "16",
+        "最大孔数": "1",
+        "品质等级": "31",
+        "需要等级": "19"
+      },
+      "set_item": null,
+      "unique_item": "裂脊者"
+    },
+    {
+      "name": "诗歌匕首",
+      "name_en": "Rondel",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "10-26",
+        "攻击范围": "1",
+        "速度[0]": "",
+        "需求力   量": "25",
+        "需求敏捷": "58",
+        "耐久度": "20",
+        "最大孔数": "1",
+        "品质等   级": "36",
+        "需要等级": "24"
+      },
+      "set_item": null,
+      "unique_item": "刻心者"
+    },
+    {
+      "name": "强波刃",
+      "name_en": "Cinquedeas",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+      "attributes": {
+        "单手伤害": "15-31",
+        "攻击范围": "1",
+        "速度[-20]": "",
+        "需求力量": "25",
+        "需求敏捷": "88",
+        "耐久度": "24",
+        "最大孔数": "3",
+        "品质等级": "42",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "黑沼之锋"
+    },
+    {
+      "name": "小剑",
+      "name_en": "Stiletto",
+      "tier": "扩展",
+      "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "19-36",
+        "攻击范围": "1",
+        "速度[-10]": "",
+        "需求力量": "47",
+        "需求敏捷": "97",
+        "耐久度": "24",
+        "最大孔数": "2",
+        "品质等级": "46",
+        "需要等级": "25"
+      },
+      "set_item": null,
+      "unique_item": "暴风尖刺"
+    },
+    {
+      "name": "骸骨小刀",
+      "name_en": "Bone Knife",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/a/ae/Wizardspike_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "23-49",
+        "攻击范围": "1",
+        "速度[-20]": "",
+        "需求力量": "38",
+        "需求敏捷": "75",
+        "耐久度": "26",
+        "最大孔数": "1",
+        "品质等级": "58",
+        "需要等级": "43"
+      },
+      "set_item": null,
+      "unique_item": "巫师之刺"
+    },
+    {
+      "name": "秘银小刀",
+      "name_en": "Mithril Point",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/b/be/Heart_Carver_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "37-53",
+        "攻击范围": "1",
+        "速度[0]": "",
+        "需求力    量": "55",
+        "需求敏捷": "98",
+        "耐久度": "55",
+        "最大孔数": "1",
+        "品质等级": "70",
+        "需要等级": "52"
+      },
+      "set_item": null,
+      "unique_item": null
+    },
+    {
+      "name": "齿缘小刀",
+      "name_en": "Fanged Knife",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/1c/Kris_%28Diablo2%29.jpg",
+      "attributes": {
+        "单手伤害": "15-57",
+        "攻击范围": "1",
+        "速度[-20]": "",
+        "需求力量": "42",
+        "需求敏捷": "86",
+        "耐久度": "36",
+        "最大孔数": "3",
+        "品质等级": "83",
+        "需要等级": "62"
+      },
+      "set_item": null,
+      "unique_item": "裂肉者"
+    },
+    {
+      "name": "传说尖刺",
+      "name_en": "Legend Spike",
+      "tier": "精华",
+      "image": "https://wiki.d.163.com/images/1/1f/Spectral_Shard_Diablo2.gif",
+      "attributes": {
+        "单手伤害": "31-47",
+        "攻击范围": "1",
+        "速度[-10]": "",
+        "需求力量": "65",
+        "需求敏捷": "67",
+        "耐久度": "47",
+        "最大孔数": "2",
+        "品质等级": "85",
+        "需要等级": "66"
+      },
+      "set_item": null,
+      "unique_item": "鬼火焰"
+    }
+  ]
+}
