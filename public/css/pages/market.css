@@ -103,7 +103,22 @@
   flex-shrink: 0;
   white-space: nowrap;
 }
-
+/* 无形物品复选框 */
+.d2-ethereal-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--d2-text);
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.3rem 0;
+}
+.d2-ethereal-label input[type="checkbox"] {
+  accent-color: var(--d2-gold);
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
 /* ── 装备选择模态框 ── */
 .d2-modal {
   position: fixed;

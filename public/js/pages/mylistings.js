@@ -21,6 +21,12 @@ const MyListingsPage = {
             </div>
           </div>
           <div class="d2-form-group">
+            <label class="d2-ethereal-label">
+              <input type="checkbox" id="item-ethereal" />
+              <span>无形物品（防御/伤害 +50%，无法修复）</span>
+            </label>
+          </div>
+          <div class="d2-form-group">
             <label class="d2-label">装备属性（选填）</label>
             <textarea class="d2-textarea" name="item_attrs" placeholder="例：ED 380%、IAS 60%、+3 技能"></textarea>
           </div>
@@ -67,6 +73,21 @@ const MyListingsPage = {
 
   async mount() {
     if (!Auth.loggedIn) { App.route('login'); return }
+
+    // ── 无形物品开关 ──
+    const etherealBox = $('#item-ethereal')
+    etherealBox.onchange = () => {
+      const nameInput = $('#item-name')
+      let name = nameInput.value.trim()
+      if (!name) return
+      if (etherealBox.checked) {
+        // 勾选：加前缀
+        if (!name.startsWith('无形')) nameInput.value = '无形-' + name
+      } else {
+        // 取消：去前缀
+        nameInput.value = name.replace(/^无形-/, '')
+      }
+    }
 
     // ── 装备选择器 ──
     const modal = $('#equipment-modal')
@@ -190,9 +211,10 @@ const MyListingsPage = {
   },
 
   _initEquipmentFilters() {
-    const qualities = [...new Set(this._equipment.map(e => e.quality))]
+    // 完整品质分类（含随机生成、无固定列表的品质）
+    const QUALITY_ORDER = ['破碎', '普通', '超强', '魔法', '套装', '稀有', '独有', '橙色', '符文', '符文之语', '宝石']
     $('#eq-quality').innerHTML = '<option value="">全部品质</option>' +
-      qualities.map(q => `<option value="${esc(q)}">${esc(q)}</option>`).join('')
+      QUALITY_ORDER.map(q => `<option value="${esc(q)}">${esc(q)}</option>`).join('')
     const tiers = [...new Set(this._equipment.map(e => e.tier))]
     $('#eq-tier').innerHTML = '<option value="">全部等级</option>' +
       tiers.map(t => `<option value="${esc(t)}">${esc(t)}</option>`).join('')
@@ -237,7 +259,11 @@ const MyListingsPage = {
     this._filteredItems = items
 
     if (items.length === 0) {
-      eqList.innerHTML = '<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">无匹配装备</div>'
+      const RANDOM_QUALITY = ['破碎', '超强', '魔法', '稀有']
+      const msg = RANDOM_QUALITY.includes(quality)
+        ? '该品质装备为随机生成，无固定列表，请手动输入装备名称'
+        : '无匹配装备'
+      eqList.innerHTML = `<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:2rem;">${esc(msg)}</div>`
       return
     }
 
@@ -250,12 +276,28 @@ const MyListingsPage = {
     `).join('')
   },
 
+  /** 生成完整装备名称: [无形-]品质-分类-类型-等级-名称 */
+  _buildFullName(item) {
+    const parts = []
+    const ethereal = $('#item-ethereal')
+    if (ethereal && ethereal.checked) parts.push('无形')
+    if (item.quality) parts.push(item.quality)
+    // 分类在等于品质或"其他"时跳过（冗余）
+    if (item.category && item.category !== item.quality && item.category !== '其他') parts.push(item.category)
+    // 类型在等于分类时跳过
+    if (item.type && item.type !== item.category) parts.push(item.type)
+    // 等级加"级"后缀，区分品质"普通"与底材等级"普通"
+    if (item.tier && item.tier !== '未分级') parts.push(item.tier + '级')
+    parts.push(item.name)
+    return parts.join('-')
+  },
+
   _selectEquipment(index) {
     const item = this._filteredItems[index]
     if (!item) return
 
-    // 填入名称
-    $('#item-name').value = item.name
+    // 填入完整名称（品质-分类-类型-等级-名称）
+    $('#item-name').value = this._buildFullName(item)
 
     // 填入详细属性描述（基础属性 + 特殊属性）
     const attrLines = []

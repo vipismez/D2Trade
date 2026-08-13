@@ -62,6 +62,7 @@ const MarketPage = {
 
   async _load() {
     const grid = $('#market-grid')
+    if (!grid) return  // 页面已切换
     grid.innerHTML = '<div class="text-dim" style="grid-column:1/-1;text-align:center;padding:3rem;">加载中...</div>'
 
     const res = await API.listings({
@@ -104,8 +105,9 @@ const MarketPage = {
   },
 
   _renderPagination(total) {
-    const totalPages = Math.ceil(total / this._pageSize)
     const pg = $('#market-pagination')
+    if (!pg) return  // 页面已切换，元素不存在
+    const totalPages = Math.ceil(total / this._pageSize)
     if (totalPages <= 1) { pg.innerHTML = ''; return }
     let html = ''
     for (let i = 1; i <= totalPages; i++) {
